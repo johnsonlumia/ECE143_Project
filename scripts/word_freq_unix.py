@@ -2,7 +2,7 @@
 # ECE 143 Group Project
 # 
 # Simple script that counts the occurance frequencies of 
-# the words in a specific file.
+# the words in a specific file. (UNIX Ver)
 #
 # by Renjie Zhu on 10/24/2018
 #
@@ -10,12 +10,12 @@
 # 
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
-# may not work in mac and linux as well (due to back slashes), I need to think more about this (RZ)
+# this is for unix (RZ)
 from pathlib import Path
 
 parent_dir = str(Path().resolve().parent)
-file_data = parent_dir + '\\raw_data\\' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
-file_out = parent_dir + '\\processed_data\\' + input('What is the output file name? ') + '.txt'
+file_data = parent_dir + '/raw_data/' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
+file_out = parent_dir + '/processed_data/' + input('What is the output file name? ') + '.txt'
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
