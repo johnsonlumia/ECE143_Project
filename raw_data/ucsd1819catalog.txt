@@ -1,4 +1,3 @@
-Lower Division
 ECE 5. Introduction to Electrical and Computer Engineering (4)
 
 An introduction to electrical and computer engineering. Topics include circuit theory, assembly, and testing, embedded systems programming and debugging, transducer mechanisms and interfacing transducers, signals and systems theory, digital signal processing, and modular design techniques. Prerequisites: priority enrollment given to engineering majors EC04, EC26, EC27, EC28, and EC37.
@@ -17,11 +16,11 @@ This course emphasizes digital electronics. Principles introduced in lectures ar
 
 ECE 30. Introduction to Computer Engineering (4)
 
-The fundamentals of both the hardware and software in a computer system. Topics include: representation of information, computer organization and design, assembly and microprogramming, current technology in logic design. Prerequisites: ECE 15 and 25 with grades of C– or better.
+The fundamentals of both the hardware and software in a computer system. Topics include: representation of information, computer organization and design, assembly and microprogramming, current technology in logic design. Prerequisites: ECE 15 and 25 with grades of Cï¿½ or better.
 
 ECE 35. Introduction to Analog Design (4)
 
-Fundamental circuit theory concepts, Kirchoff’s voltage and current laws, Thevenin’s and Norton’s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response. Math 20C and Phys 2B must be taken concurrently. Program or materials fees may apply. Prerequisites: Math 20A–B and Phys 2A.
+Fundamental circuit theory concepts, Kirchoffï¿½s voltage and current laws, Theveninï¿½s and Nortonï¿½s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response. Math 20C and Phys 2B must be taken concurrently. Program or materials fees may apply. Prerequisites: Math 20Aï¿½B and Phys 2A.
 
 ECE 45. Circuits and Systems (4)
 
@@ -33,7 +32,7 @@ Introduction to linear and nonlinear components and circuits. Topics will includ
 
 ECE 85. iTunes 101: A Survey of Information Technology (4)
 
-Topics include how devices such as iPods and iPhones generate, transmit, receive and process information (music, images, video, etc.), the relationship between technology and issues such as privacy and “net-neutrality,” and current topics related to information technology. Prerequisites: none.
+Topics include how devices such as iPods and iPhones generate, transmit, receive and process information (music, images, video, etc.), the relationship between technology and issues such as privacy and ï¿½net-neutrality,ï¿½ and current topics related to information technology. Prerequisites: none.
 
 ECE 87. Freshman Seminar (1)
 
@@ -50,7 +49,7 @@ Linear active circuit and system design. Topics include frequency response; use 
 
 ECE 101. Linear Systems Fundamentals (4)
 
-Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.
+Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of Cï¿½ or better.
 
 ECE 102. Introduction to Active Circuit Design (4)
 
@@ -62,7 +61,7 @@ Introduction to semiconductor materials and devices. Semiconductor crystal struc
 
 ECE 107. Electromagnetism (4)
 
-Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: Phys 2A–D or 4A–E and ECE 45 with grades of C– or better.
+Electrostatics and magnetostatics; electrodynamics; Maxwellï¿½s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: Phys 2Aï¿½D or 4Aï¿½E and ECE 45 with grades of Cï¿½ or better.
 
 ECE 108. Digital Circuits (4)
 
@@ -70,7 +69,7 @@ A transistor-level view of digital integrated circuits. CMOS combinational logic
 
 ECE 109. Engineering Probability and Statistics (4)
 
-Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, Math 180A–B, Math 183, Math 186, Econ 120A, or Econ 120AH will not receive credit for ECE 109. Prerequisites: Math 20A-B-C, 20D, 20F, with grades of C– or better. ECE 101 recommended.
+Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, Math 180Aï¿½B, Math 183, Math 186, Econ 120A, or Econ 120AH will not receive credit for ECE 109. Prerequisites: Math 20A-B-C, 20D, 20F, with grades of Cï¿½ or better. ECE 101 recommended.
 
 ECE 111. Advanced Digital Design Project (4)
 
@@ -86,7 +85,7 @@ Interfacing computers and embedded controllers to the real world: busses, interr
 
 ECE 120. Solar System Physics (4)
 
-General introduction to planetary bodies, the overall structure of the solar system, and space plasma physics. Course emphasis will be on the solar atmosphere, how the solar wind is produced, and its interaction with both magnetized and unmagnetized planets (and comets). Prerequisites: Phys 2A–C or 4A–D, Math 20A–B, 20C with grades of C– or better.
+General introduction to planetary bodies, the overall structure of the solar system, and space plasma physics. Course emphasis will be on the solar atmosphere, how the solar wind is produced, and its interaction with both magnetized and unmagnetized planets (and comets). Prerequisites: Phys 2Aï¿½C or 4Aï¿½D, Math 20Aï¿½B, 20C with grades of Cï¿½ or better.
 
 ECE 121A. Power Systems Analysis and Fundamentals (4)
 
@@ -98,7 +97,7 @@ Principles of electro-mechanical energy conversion, balanced three-phase systems
 
 ECE 123. Antenna Systems Engineering (4)
 
-The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communications. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Prerequisites: ECE 107 with a grade of C– or better.
+The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communications. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Prerequisites: ECE 107 with a grade of Cï¿½ or better.
 
 ECE 125A. Introduction to Power Electronics I (4)
 
@@ -110,15 +109,15 @@ Design and control of DC-DC converters, PWM rectifiers, single-phase and three-p
 
 ECE 134. Electronic Materials Science of Integrated Circuits (4)
 
-Electronic materials science with emphasis on topics pertinent to microelectronics and VLSI technology. Concept of the course is to use components in integrated circuits to discuss structure, thermodynamics, reaction kinetics, and electrical properties of materials. Prerequisites: Phys 2C–D with grades of C– or better.
+Electronic materials science with emphasis on topics pertinent to microelectronics and VLSI technology. Concept of the course is to use components in integrated circuits to discuss structure, thermodynamics, reaction kinetics, and electrical properties of materials. Prerequisites: Phys 2Cï¿½D with grades of Cï¿½ or better.
 
 ECE 135A. Semiconductor Physics (4)
 
-Crystal structure and quantum theory of solids; electronic band structure; review of carrier statistics, drift and diffusion, p-n junctions; nonequilibrium carriers, imrefs, traps, recombination, etc; metal-semiconductor junctions and heterojunctions. Prerequisites: ECE 103 with a grade of C– or better.
+Crystal structure and quantum theory of solids; electronic band structure; review of carrier statistics, drift and diffusion, p-n junctions; nonequilibrium carriers, imrefs, traps, recombination, etc; metal-semiconductor junctions and heterojunctions. Prerequisites: ECE 103 with a grade of Cï¿½ or better.
 
 ECE 135B. Electronic Devices (4)
 
-Structure and operation of bipolar junction transistors, junction field-effect transistors, metal-oxide-semiconductor diodes and transistors. Analysis of dc and ac characteristics. Charge control model of dynamic behavior. Prerequisites: ECE 135A with a grade of C– or better.
+Structure and operation of bipolar junction transistors, junction field-effect transistors, metal-oxide-semiconductor diodes and transistors. Analysis of dc and ac characteristics. Charge control model of dynamic behavior. Prerequisites: ECE 135A with a grade of Cï¿½ or better.
 
 ECE 136L. Microelectronics Laboratory (4)
 
@@ -146,7 +145,7 @@ Develop, debug, and test LabVIEW VIs, solve problems using LabVIEW, use data acq
 
 ECE 145AL-BL-CL. Acoustics Laboratory (4-4-4)
 
-Automated laboratory based on H-P GPIB controlled instruments. Software controlled data collection and analysis. Vibrations and waves in strings and bars of electromechanical systems and transducers. Transmissions, reflection, and scattering of sound waves in air and water. Aural and visual detection. Prerequisites: ECE 107 with a grade of C– or better or consent of instructor.
+Automated laboratory based on H-P GPIB controlled instruments. Software controlled data collection and analysis. Vibrations and waves in strings and bars of electromechanical systems and transducers. Transmissions, reflection, and scattering of sound waves in air and water. Aural and visual detection. Prerequisites: ECE 107 with a grade of Cï¿½ or better or consent of instructor.
 
 ECE 148. Introduction to Autonomous Vehicles (4)
 
@@ -154,19 +153,19 @@ Fundamentals of autonomous vehicles. Working in small teams, students will devel
 
 ECE 153. Probability and Random Processes for Engineers (4)
 
-Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Prerequisites: ECE 109 with a grade of C– or better.
+Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Prerequisites: ECE 109 with a grade of Cï¿½ or better.
 
 ECE 154A. Communications Systems I (4)
 
-Study of analog modulation systems including AM, SSB, DSB, VSB, FM, and PM. Performance analysis of both coherent and noncoherent receivers, including threshold effects in FM. Prerequisites: ECE 101 and 153 with a grade of C– or better.
+Study of analog modulation systems including AM, SSB, DSB, VSB, FM, and PM. Performance analysis of both coherent and noncoherent receivers, including threshold effects in FM. Prerequisites: ECE 101 and 153 with a grade of Cï¿½ or better.
 
 ECE 154B. Communications Systems II (4)
 
-Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Prerequisites: ECE 154A with a grade of C– or better.
+Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Prerequisites: ECE 154A with a grade of Cï¿½ or better.
 
 ECE 154C. Communications Systems III (4)
 
-Introduction to information theory and coding, including entropy, average mutual information, channel capacity, block codes and convolutional codes. Prerequisites: ECE 154B with a grade of C– or better.
+Introduction to information theory and coding, including entropy, average mutual information, channel capacity, block codes and convolutional codes. Prerequisites: ECE 154B with a grade of Cï¿½ or better.
 
 ECE 156. Sensor Networks (4)
 
@@ -182,11 +181,11 @@ Advanced projects in communication systems. Students will plan and implement des
 
 ECE 158A. Data Networks I (4)
 
-Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of C– or better.
+Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of Cï¿½ or better.
 
 ECE 158B. Data Networks II (4)
 
-Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of C– or better.
+Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of Cï¿½ or better.
 
 ECE 161A. Introduction to Digital Signal Processing (4)
 
@@ -194,7 +193,7 @@ Review of discrete-time systems and signals, Discrete-Time Fourier Transform and
 
 ECE 161B. Digital Signal Processing I (4)
 
-Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping. Sampling of bandpass signals, undersampling downconversion, and Hilbert transforms. Coefficient quantization, roundoff noise, limit cycles and overflow oscillations. Insensitive filter structures, lattice and wave digital filters. Systems will be designed and tested with Matlab, implemented with DSP processors and tested in the laboratory. Prerequisites: ECE 161A with a grade of C– or better.
+Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping. Sampling of bandpass signals, undersampling downconversion, and Hilbert transforms. Coefficient quantization, roundoff noise, limit cycles and overflow oscillations. Insensitive filter structures, lattice and wave digital filters. Systems will be designed and tested with Matlab, implemented with DSP processors and tested in the laboratory. Prerequisites: ECE 161A with a grade of Cï¿½ or better.
 
 ECE 161C. Applications of Digital Signal Processing (4)
 
@@ -202,11 +201,11 @@ This course discusses several applications of DSP. Topics covered will include: 
 
 ECE 163. Electronic Circuits and Systems (4)
 
-Analysis and design of analog circuits and systems. Feedback systems with applications to operational amplifier circuits. Stability, sensitivity, bandwidth, compensation. Design of active filters. Switched capacitor circuits. Phase-locked loops. Analog-to-digital and digital-to-analog conversion. (Course materials and/or program fees may apply.) Prerequisites: ECE 101 and 102 with grades of C– or better.
+Analysis and design of analog circuits and systems. Feedback systems with applications to operational amplifier circuits. Stability, sensitivity, bandwidth, compensation. Design of active filters. Switched capacitor circuits. Phase-locked loops. Analog-to-digital and digital-to-analog conversion. (Course materials and/or program fees may apply.) Prerequisites: ECE 101 and 102 with grades of Cï¿½ or better.
 
 ECE 164. Analog Integrated Circuit Design (4)
 
-Design of linear and nonlinear analog integrated circuits including operational amplifiers, voltage regulators, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Prerequisites: ECE 102 with a grade of C– or better. ECE 163 recommended.
+Design of linear and nonlinear analog integrated circuits including operational amplifiers, voltage regulators, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Prerequisites: ECE 102 with a grade of Cï¿½ or better. ECE 163 recommended.
 
 ECE 165. Digital Integrated Circuit Design (4)
 
@@ -214,7 +213,7 @@ VLSI digital systems. Circuit characterization, performance estimation, and opti
 
 ECE 166. Microwave Systems and Circuits (4)
 
-Waves, distributed circuits, and scattering matrix methods. Passive microwave elements. Impedance matching. Detection and frequency conversion using microwave diodes. Design of transistor amplifiers including noise performance. Circuits designs will be simulated by computer and tested in the laboratory. (Course materials and/or program fees may apply.) Prerequisites: ECE 102 and 107 with grades of C– or better.
+Waves, distributed circuits, and scattering matrix methods. Passive microwave elements. Impedance matching. Detection and frequency conversion using microwave diodes. Design of transistor amplifiers including noise performance. Circuits designs will be simulated by computer and tested in the laboratory. (Course materials and/or program fees may apply.) Prerequisites: ECE 102 and 107 with grades of Cï¿½ or better.
 
 ECE 171A. Linear Control System Theory (4)
 
@@ -222,11 +221,11 @@ Stability of continuous- and discrete-time single-input/single-output linear tim
 
 ECE 171B. Linear Control System Theory (4)
 
-Time-domain, state-variable formulation of the control problem for both discrete-time and continuous-time linear systems. State-space realizations from transfer function system description. Internal and input-output stability, controllability/observability, minimal realizations, and pole-placement by full-state feedback. Prerequisites: ECE 171A with a grade of C– or better.
+Time-domain, state-variable formulation of the control problem for both discrete-time and continuous-time linear systems. State-space realizations from transfer function system description. Internal and input-output stability, controllability/observability, minimal realizations, and pole-placement by full-state feedback. Prerequisites: ECE 171A with a grade of Cï¿½ or better.
 
 ECE 172A. Introduction to Intelligent Systems: Robotics and Machine Intelligence (4)
 
-This course will introduce basic concepts in machine perception. Topics covered will include edge detection, segmentation, texture analysis, image registration, and compression. Prerequisites: ECE 101 with a grade of C– or better. ECE 109 recommended.
+This course will introduce basic concepts in machine perception. Topics covered will include edge detection, segmentation, texture analysis, image registration, and compression. Prerequisites: ECE 101 with a grade of Cï¿½ or better. ECE 109 recommended.
 
 ECE 174. Introduction to Linear and Nonlinear Optimization with Applications (4)
 
@@ -238,7 +237,7 @@ Introduction to pattern recognition and machine learning. Decision functions. St
 
 ECE 175B. Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models (4)
 
-Bayes’ rule as a probabilistic reasoning engine; graphical models as knowledge encoders; conditional independence and D-Separation; Markov random fields; inference in graphical models; sampling methods and Markov Chain Monte Carlo (MCMC); sequential data and the Viterbi and BCJR algorithms; The Baum-Welsh algorithm for Markov Chain parameter estimation. Prerequisites: ECE 175A.
+Bayesï¿½ rule as a probabilistic reasoning engine; graphical models as knowledge encoders; conditional independence and D-Separation; Markov random fields; inference in graphical models; sampling methods and Markov Chain Monte Carlo (MCMC); sequential data and the Viterbi and BCJR algorithms; The Baum-Welsh algorithm for Markov Chain parameter estimation. Prerequisites: ECE 175A.
 
 ECE 180. Topics in Electrical and Computer Engineering (4)
 
@@ -246,27 +245,27 @@ Topics of special interest in electrical and computer engineering. Subject matte
 
 ECE 181. Physical Optics and Fourier Optics (4)
 
-Ray optics, wave optics, beam optics, Fourier optics, and electromagnetic optics. Ray transfer matrix, matrices of cascaded optics, numerical apertures of step and graded index fibers. Fresnel and Fraunhofer diffractions, interference of waves. Gaussian and Bessel beams, the ABCD law for transmissions through arbitrary optical systems. Spatial frequency, impulse response and transfer function of optical systems, Fourier transform and imaging properties of lenses, holography. Wave propagation in various (inhomogeneous, dispersive, anisotropic or nonlinear) media. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C– or better.
+Ray optics, wave optics, beam optics, Fourier optics, and electromagnetic optics. Ray transfer matrix, matrices of cascaded optics, numerical apertures of step and graded index fibers. Fresnel and Fraunhofer diffractions, interference of waves. Gaussian and Bessel beams, the ABCD law for transmissions through arbitrary optical systems. Spatial frequency, impulse response and transfer function of optical systems, Fourier transform and imaging properties of lenses, holography. Wave propagation in various (inhomogeneous, dispersive, anisotropic or nonlinear) media. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of Cï¿½ or better.
 
 ECE 182. Electromagnetic Optics, Guided-Wave, and Fiber Optics (4)
 
-Polarization optics: crystal optics, birefringence. Guided-wave optics: modes, losses, dispersion, coupling, switching. Fiber optics: step and graded index, single and multimode operation, attenuation, dispersion, fiber optic communications. Resonator optics. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C– or better.
+Polarization optics: crystal optics, birefringence. Guided-wave optics: modes, losses, dispersion, coupling, switching. Fiber optics: step and graded index, single and multimode operation, attenuation, dispersion, fiber optic communications. Resonator optics. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of Cï¿½ or better.
 
 ECE 183. Optical Electronics (4)
 
-Quantum electronics, interaction of light and matter in atomic systems, semiconductors. Laser amplifiers and laser systems. Photodetection. Electrooptics and acoustooptics, photonic switching. Fiber optic communication systems. Labs: semiconductor lasers, semiconductor photodetectors. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C– or better.
+Quantum electronics, interaction of light and matter in atomic systems, semiconductors. Laser amplifiers and laser systems. Photodetection. Electrooptics and acoustooptics, photonic switching. Fiber optic communication systems. Labs: semiconductor lasers, semiconductor photodetectors. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of Cï¿½ or better.
 
 ECE 184. Optical Information Processing and Holography (4)
 
-(Conjoined with ECE 241AL) Labs: optical holography, photorefractive effect, spatial filtering, computer generated holography. Students enrolled in ECE 184 will receive four units of credit; students enrolled in ECE 241AL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 182 with a grade of C– or better.
+(Conjoined with ECE 241AL) Labs: optical holography, photorefractive effect, spatial filtering, computer generated holography. Students enrolled in ECE 184 will receive four units of credit; students enrolled in ECE 241AL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 182 with a grade of Cï¿½ or better.
 
 ECE 185. Lasers and Modulators (4)
 
-(Conjoined with ECE 241BL) Labs: CO2 laser, HeNe laser, electrooptic modulation, acoustooptic modulation, spatial light modulators. Students enrolled in ECE 185 will receive four units of credit; students enrolled in ECE 241BL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 183 with a grade of C– or better.
+(Conjoined with ECE 241BL) Labs: CO2 laser, HeNe laser, electrooptic modulation, acoustooptic modulation, spatial light modulators. Students enrolled in ECE 185 will receive four units of credit; students enrolled in ECE 241BL will receive two units of credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 183 with a grade of Cï¿½ or better.
 
 ECE 187. Introduction to Biomedical Imaging and Sensing (4)
 
-Image processing fundamentals: imaging theory, image processing, pattern recognition; digital radiography, computerized tomography, nuclear medicine imaging, nuclear magnetic resonance imaging, ultrasound imaging, microscopy imaging. Prerequisites: Math 20A-B-F, 20C or 21C, 20D or 21D, Phys 2A–D, ECE 101 (may be taken concurrently) with grades of C– or better.
+Image processing fundamentals: imaging theory, image processing, pattern recognition; digital radiography, computerized tomography, nuclear medicine imaging, nuclear magnetic resonance imaging, ultrasound imaging, microscopy imaging. Prerequisites: Math 20A-B-F, 20C or 21C, 20D or 21D, Phys 2Aï¿½D, ECE 101 (may be taken concurrently) with grades of Cï¿½ or better.
 
 ECE 188. Topics in Electrical and Computer Engineering with Laboratory (4)
 
@@ -284,9 +283,9 @@ ECE 191. Engineering Group Design Project (4)
 
 Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.
 
-ECE 193H. Honors Project (4–8)
+ECE 193H. Honors Project (4ï¿½8)
 
-An advanced reading or research project performed under the direction of an ECE faculty member. Must contain enough design to satisfy the ECE program’s four-unit design requirement. Must be taken for a letter grade. May extend over two quarters with a grade assigned at completion for both quarters. Prerequisites: admission to the ECE departmental honors program.
+An advanced reading or research project performed under the direction of an ECE faculty member. Must contain enough design to satisfy the ECE programï¿½s four-unit design requirement. Must be taken for a letter grade. May extend over two quarters with a grade assigned at completion for both quarters. Prerequisites: admission to the ECE departmental honors program.
 
 ECE 194. Viacar Design Project (4)
 
@@ -361,21 +360,21 @@ ECE 222A. Antennas and Their System Applications (4)
 
 Antennas, waves, polarization. Friis transmission and Radar equations, dipoles, loops, slots, ground planes, traveling wave antennas, array theory, phased arrays, impedance, frequency independent antennas, microstrip antennas, cell phone antennas, system level implications such as MIMO, multi-beam and phased array systems. (Recommended prerequisites: ECE107 or an equivalent undergraduate course in electromagnetics.) Prerequisites: graduate standing.
 
-ECE 222B. Applied Electromagnetic Theory—Electromagnetics (4)
+ECE 222B. Applied Electromagnetic Theoryï¿½Electromagnetics (4)
 
-Graduate-level introductory course on electromagnetic theory with applications. Topics covered include Maxwell’s equations, plane waves in free space and in the presence of interfaces, polarization, fields in metallic and dielectric waveguides including surface waves; fields in metallic cavities, Green’s functions, electromagnetic field radiation and scattering. Prerequisites: ECE 222A; graduate standing.
+Graduate-level introductory course on electromagnetic theory with applications. Topics covered include Maxwellï¿½s equations, plane waves in free space and in the presence of interfaces, polarization, fields in metallic and dielectric waveguides including surface waves; fields in metallic cavities, Greenï¿½s functions, electromagnetic field radiation and scattering. Prerequisites: ECE 222A; graduate standing.
 
-ECE 222C. Applied Electromagnetic Theory—Computational Methods for Electromagnetics (4)
+ECE 222C. Applied Electromagnetic Theoryï¿½Computational Methods for Electromagnetics (4)
 
 Computational techniques for numerical analysis of electromagnetic fields, including the finite difference time domain (FDTD) method, finite difference frequency domain (FDFD) method, method of moments (MOM), and finite element method (FEM). Practice in writing numerical codes. Review of commercial electromagnetic simulators. Prerequisites: ECE 222B; graduate standing.
 
 ECE 222D. Advanced Antenna Design (4)
 
-Review of 222A–B. Fourier transform, waveguide antennas. Mutual coupling, active impedance, Floquet modes in arrays. Microstrip antennas, surface waves. Reflector and lens analysis: taper, spillover, aperture and physical optics methods. Impedance surfaces. Advanced concepts: Sub-wavelength propagation, etc. (chosen by instructor). (Recommended prerequisites: ECE 222A, ECE 222B, or equivalent.) Prerequisites: ECE 222C; graduate standing.
+Review of 222Aï¿½B. Fourier transform, waveguide antennas. Mutual coupling, active impedance, Floquet modes in arrays. Microstrip antennas, surface waves. Reflector and lens analysis: taper, spillover, aperture and physical optics methods. Impedance surfaces. Advanced concepts: Sub-wavelength propagation, etc. (chosen by instructor). (Recommended prerequisites: ECE 222A, ECE 222B, or equivalent.) Prerequisites: ECE 222C; graduate standing.
 
 ECE 225A. Probability and Statistics for Data Science (4)
 
-The course reinforces students’ intuitive, theoretical, and computational understanding of probability and statistics, and builds on these foundations to introduce more advanced concepts useful in both data science research and practice. The following topics will be covered: basics, convergence, estimation, and hypothesis testing. Python programs, examples, and visualizations will be used throughout the course. Prerequisites: graduate standing.
+The course reinforces studentsï¿½ intuitive, theoretical, and computational understanding of probability and statistics, and builds on these foundations to introduce more advanced concepts useful in both data science research and practice. The following topics will be covered: basics, convergence, estimation, and hypothesis testing. Python programs, examples, and visualizations will be used throughout the course. Prerequisites: graduate standing.
 
 ECE 225B. Universal Probability and Its Applications in Data Science (4)
 
@@ -395,7 +394,7 @@ Machine learning has received enormous interest. To learn from data we use proba
 
 ECE 230A. Solid State Electronics I (4)
 
-This course is designed to provide a general background in solid state electronic materials and devices. Course content emphasizes the fundamental and current issues of semiconductor physics related to the ECE solid state electronics sequences. (Recommended prerequisites: ECE 135A–B or equivalent.) Prerequisites: graduate standing.
+This course is designed to provide a general background in solid state electronic materials and devices. Course content emphasizes the fundamental and current issues of semiconductor physics related to the ECE solid state electronics sequences. (Recommended prerequisites: ECE 135Aï¿½B or equivalent.) Prerequisites: graduate standing.
 
 ECE 230B. Solid State Electronics II (4)
 
@@ -407,7 +406,7 @@ This course is designed to provide a treatise of semiconductor devices based on 
 
 ECE 235. Nanometer-Scale VLSI Devices (4)
 
-This course covers modern research topics in sub-100 nm scale, state-of-the-art silicon VLSI devices. Starting with the fundamentals of CMOS scaling to nanometer dimensions, various advanced device and circuit concepts, including RF CMOS, low power CMOS, silicon memory, silicon-on-insulator, SiGe bipolar, strained silicon MOSFET’s, etc. will be taught. The physics of nearballistic transport in an ultimately scaled 10 nm MOSFET will be discussed in light of the recently developed scattering theory. Prerequisites: graduate standing.
+This course covers modern research topics in sub-100 nm scale, state-of-the-art silicon VLSI devices. Starting with the fundamentals of CMOS scaling to nanometer dimensions, various advanced device and circuit concepts, including RF CMOS, low power CMOS, silicon memory, silicon-on-insulator, SiGe bipolar, strained silicon MOSFETï¿½s, etc. will be taught. The physics of nearballistic transport in an ultimately scaled 10 nm MOSFET will be discussed in light of the recently developed scattering theory. Prerequisites: graduate standing.
 
 ECE 236A. III-V Compound Semiconductor Materials (4)
 
@@ -427,7 +426,7 @@ The thermodynamics and statistical mechanics of solids. Basic concepts, equilibr
 
 ECE 238B. Solid State Diffusion and Reaction Kinetics (4)
 
-Thermally activated processes. Boltzman factor, homogeneous and heterogeneous reactions, solid state diffusion, Fick’s law, diffusion mechanisms, Kirkendall effects, Boltzmann-Manato analysis, high diffusivity paths. Cross-listed with Materials Science 201B and MAE 271B. Prerequisites: ECE 238A.
+Thermally activated processes. Boltzman factor, homogeneous and heterogeneous reactions, solid state diffusion, Fickï¿½s law, diffusion mechanisms, Kirkendall effects, Boltzmann-Manato analysis, high diffusivity paths. Cross-listed with Materials Science 201B and MAE 271B. Prerequisites: ECE 238A.
 
 ECE 240A. Lasers and Optics (4)
 
@@ -459,7 +458,7 @@ Optical fibers, waveguides, laser communication system. Modulation and demodulat
 
 ECE 244A. Statistical Optics (4)
 
-Introduction to statistical phenomena in optics including first order properties of light waves generated from various sources. Coherence of optical waves, high-order coherence. Partial coherence and its effects on imaging systems. Imaging in presence of randomly inhomogeneous medium. Limits in photoelectric detection of light. (Recommended prerequisites: ECE 240A–B.) Prerequisites: graduate standing.
+Introduction to statistical phenomena in optics including first order properties of light waves generated from various sources. Coherence of optical waves, high-order coherence. Partial coherence and its effects on imaging systems. Imaging in presence of randomly inhomogeneous medium. Limits in photoelectric detection of light. (Recommended prerequisites: ECE 240Aï¿½B.) Prerequisites: graduate standing.
 
 ECE 247A. Advanced BioPhotonics (4)
 
@@ -533,7 +532,7 @@ ECE 257C. Stochastic Wireless Networks Models (4)
 
 Elements of spatial point processes. Spatial stochastic models of wireless networks. Topological structure, interference, stochastic dependencies. Elements of network information theory/statistical physics models of information flow. Role of signal propagation/random fading models. Decentralized operation, route discovery, architectural principles. Energy limitations/random failures. (Recommended prerequisites: previous exposure to stochastic processes and information theory.) Prerequisites: ECE 257B; graduate standing.
 
-ECE 258A–B. Digital Communication (4-4)
+ECE 258Aï¿½B. Digital Communication (4-4)
 
 Digital communication theory including performance of various modulation techniques, effects of inter-symbol interference, adaptive equalization, spread spectrum communication. Prerequisites: ECE 154A-B-C and ECE 254 or consent of instructor.
 
@@ -547,11 +546,11 @@ Convolutional codes, maximum-likelihood (ML) decoding, maximum a-posteriori (MAP
 
 ECE 259C. Advanced Topics in Coding (4)
 
-Advanced topics in coding theory. Course contents vary by instructor. Example course topics: Coded-modulation for bandwidth-efficient data transmission; advanced algebraic and combinatorial coding theory; space-time coding for wireless communications; constrained coding for digital recording. Students who have taken ECE 259CN may not receive credit for ECE 259C. Prerequisites: ECE 259A–B; graduate standing.
+Advanced topics in coding theory. Course contents vary by instructor. Example course topics: Coded-modulation for bandwidth-efficient data transmission; advanced algebraic and combinatorial coding theory; space-time coding for wireless communications; constrained coding for digital recording. Students who have taken ECE 259CN may not receive credit for ECE 259C. Prerequisites: ECE 259Aï¿½B; graduate standing.
 
 ECE 260A. VLSI Digital System Algorithms and Architectures (4)
 
-Custom and semi-custom VLSI design from both the circuit and system designer’s perspective. MOS transistor theory, circuit characterization, and performance estimation. CMOS logic design will be emphasized. Computer-aided design (CAD) tools for transistor level simulation, layout and verification will be introduced. Includes two hours of laboratory hours per week. (Recommended preparation: undergraduate-level semiconductor electronics and digital system design, ECE 165 or equivalent.) Prerequisites: graduate standing.
+Custom and semi-custom VLSI design from both the circuit and system designerï¿½s perspective. MOS transistor theory, circuit characterization, and performance estimation. CMOS logic design will be emphasized. Computer-aided design (CAD) tools for transistor level simulation, layout and verification will be introduced. Includes two hours of laboratory hours per week. (Recommended preparation: undergraduate-level semiconductor electronics and digital system design, ECE 165 or equivalent.) Prerequisites: graduate standing.
 
 ECE 260B. VLSI Integrated Circuits and Systems Design (4)
 
@@ -603,7 +602,7 @@ This course will build mathematical foundations of linear algebraic techniques a
 
 ECE 271A. Statistical Learning I (4)
 
-Bayesian decision theory; parameter estimation; maximum likelihood; the bias-variance trade-off; Bayesian estimation; the predictive distribution; conjugate and noninformative priors; dimensionality and dimensionality reduction; principal component analysis; Fisher’s linear discriminant analysis; density estimation; parametric vs. kernel-based methods; expectation-maximization; applications. (Recommended prerequisites: ECE 109.) Prerequisites: graduate standing.
+Bayesian decision theory; parameter estimation; maximum likelihood; the bias-variance trade-off; Bayesian estimation; the predictive distribution; conjugate and noninformative priors; dimensionality and dimensionality reduction; principal component analysis; Fisherï¿½s linear discriminant analysis; density estimation; parametric vs. kernel-based methods; expectation-maximization; applications. (Recommended prerequisites: ECE 109.) Prerequisites: graduate standing.
 
 ECE 271B. Statistical Learning II (4)
 
@@ -639,15 +638,15 @@ This course covers the mathematical fundamentals of Bayesian filtering and their
 
 ECE 276B. Planning and Learning in Robotics (4)
 
-This course covers optimal control and reinforcement learning fundamentals and their application to planning and decision-making in mobile robotics. Topics include Markov decision processes (MDP), Pontryagin’s maximum principle, linear quadratic regulation (LQR), deterministic planning, value and policy iteration, and policy gradient methods. Prerequisites: ECE 276A; graduate standing.
+This course covers optimal control and reinforcement learning fundamentals and their application to planning and decision-making in mobile robotics. Topics include Markov decision processes (MDP), Pontryaginï¿½s maximum principle, linear quadratic regulation (LQR), deterministic planning, value and policy iteration, and policy gradient methods. Prerequisites: ECE 276A; graduate standing.
 
 ECE 276C. Robot Reinforcement Learning (4)
 
 Course participants will explore new methods for robotics, particularly toward enabling robot manipulators in complex environments. This course is structured to rapidly consider the previous techniques in robot manipulation to date and explore methods in reinforcement learning to solve open problems in robot manipulation. Topics will review kinematics, dynamics, low-level control and motion planning, and machine learning approaches. Prerequisites: ECE 276A; graduate standing.
 
-ECE 278. Mathematical Topics for the Master’s Comprehensive Exam (2)
+ECE 278. Mathematical Topics for the Masterï¿½s Comprehensive Exam (2)
 
-Mathematical topics covered in the ECE master’s comprehensive exam including calculus, linear algebra and linear systems, and statistics and probability theory. Prerequisites: graduate standing.
+Mathematical topics covered in the ECE masterï¿½s comprehensive exam including calculus, linear algebra and linear systems, and statistics and probability theory. Prerequisites: graduate standing.
 
 ECE 279. Special Seminar (2)
 
@@ -717,14 +716,14 @@ ECE 297. Graduate Seminar in Nanoscience/Nanotechnology (2)
 
 Weekly discussion of current research topics in nanoscience and nanotechnology. (S/U grades only.) Prerequisites: graduate standing.
 
-ECE 298. Independent Study (1–16)
+ECE 298. Independent Study (1ï¿½16)
 
 Open to properly qualified graduate students who wish to pursue a problem through advanced study under the direction of a member of the staff. (S/U grades only.) Prerequisites: consent of instructor.
 
-ECE 299. Research (1–16)
+ECE 299. Research (1ï¿½16)
 
 (S/U grades only.)
 
-ECE 501. Teaching (1–4)
+ECE 501. Teaching (1ï¿½4)
 
 Teaching and tutorial activities associated with courses and seminars. Number of units for credit depends on number of hours devoted to class or section assistance. (S/U grades only.) Prerequisites: consent of department chair.

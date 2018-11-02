@@ -13,9 +13,10 @@
 # this is for unix (RZ)
 from pathlib import Path
 
-parent_dir = str(Path().resolve().parent)
-file_data = parent_dir + '/raw_data/' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
-file_out = parent_dir + '/processed_data/' + input('What is the output file name? ') + '.txt'
+# parent_dir = str(Path().resolve().parent)
+# print(parent_dir)
+file_data = './raw_data/' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
+file_out = './processed_data/' + input('What is the output file name? ') + '.txt'
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
