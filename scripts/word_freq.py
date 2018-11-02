@@ -12,7 +12,7 @@
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
 # may not work in mac and linux as well (due to back slashes), I need to think more about this (RZ)
 from pathlib import Path
-
+import nltk
 parent_dir = str(Path().resolve().parent)
 file_data = parent_dir + '\\raw_data\\' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
 file_out = parent_dir + '\\processed_data\\' + input('What is the output file name? ') + '.txt'
