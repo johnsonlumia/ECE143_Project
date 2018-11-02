@@ -10,12 +10,15 @@
 # 
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
-# may not work in mac and linux as well (due to back slashes), I need to think more about this (RZ)
+
 from pathlib import Path
+import nltk
+import os
 
 parent_dir = str(Path().resolve().parent)
-file_data = parent_dir + '\\raw_data\\' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
-file_out = parent_dir + '\\processed_data\\' + input('What is the output file name? ') + '.txt'
+#os.path.join joins all the arguments given in the function call
+file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
+file_out = os.path.join(parent_dir,'processed_data',input('What is the output file name? (Make sure to provide the .txt/.csv extension) '))
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
