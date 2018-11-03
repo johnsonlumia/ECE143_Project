@@ -13,9 +13,10 @@
 
 import nltk
 import os
-print(os.getcwd())
+
+# change the way to get parent directory, this seems to work as intended
 parent_dir = os.getcwd()
-#os.path.join joins all the arguments given in the function call
+# os.path.join joins all the arguments given in the function call
 file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
 file_out = os.path.join(parent_dir,'processed_data',input('What is the output file name? (Make sure to provide the .txt/.csv extension) '))
 
