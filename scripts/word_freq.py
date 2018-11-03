@@ -11,12 +11,16 @@
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
 
-from pathlib import Path
-import nltk
+#import nltk
 import os
 
-parent_dir = str(Path().resolve().parent)
-#os.path.join joins all the arguments given in the function call
+
+
+# parent dir for mac or linux 
+parent_dir = os.getcwd()
+# parent dir for windows machine (uncomment if on windows, leave commented if elsewise)
+parent_dir = os.path.dirname(parent_dir)
+# os.path.join joins all the arguments given in the function call
 file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
 file_out = os.path.join(parent_dir,'processed_data',input('What is the output file name? (Make sure to provide the .txt/.csv extension) '))
 
