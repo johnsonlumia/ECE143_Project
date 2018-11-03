@@ -13,7 +13,7 @@
 
 #import nltk
 import os
-
+import nltk
 
 
 # parent dir for mac or linux 
@@ -27,10 +27,10 @@ file_out = os.path.join(parent_dir,'processed_data',input('What is the output fi
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
 common_words = [
-    '',
-    'and',
-    'ece',
-    'of',
+    '','hours of', 'of lecture','instructor','c-','consent of','consent', 'prerequisite ece','lecture prerequisite',
+    'and', 'of instructor',
+    'ece', 'prerequisites ece', 'lecture one','grades of','with grades',
+    'of', 'three hours',
     'prerequisites',
     'prerequisite',
     'hours',
@@ -80,7 +80,7 @@ common_words = [
     'than',
     'weekly',
     'have',
-]
+]  #need better algo to remove common words, I think they should't be collected in the wordlist at all, can be removed with a condition in line 91, wordlist = 
 common_words.extend(list(map(chr, range(97, 123))))
 
 with open(file_data, 'r') as f:
@@ -89,6 +89,14 @@ with open(file_data, 'r') as f:
 # Get rid of unwanted chars and splitting the string into a list of words
 origlist = lines.lower().split()
 wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
+
+#bigrams # bigrams make two word combos of all space separated words, bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
+         # new_bigram_list combines the tuple elements to give a list of string of two words = [ 'circuit analysis', 'analysis problems', ...]
+		 # wordlist is extended to include the two word combos as well
+bigram_list = list(nltk.bigrams(wordlist))
+new__bigram_list = [ ' '.join(i) for i in bigram_list]
+wordlist.extend(new__bigram_list)
+
 wordfreq = [wordlist.count(j) for j in wordlist]
 freqdict = dict(zip(wordlist, wordfreq))
 
