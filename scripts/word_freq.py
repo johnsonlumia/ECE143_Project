@@ -102,7 +102,7 @@ freqdict = dict(zip(wordlist, wordfreq))
 
 newfreq = {}
 for key, value in freqdict.items():
-    if value < 2:
+    if value < 3:
         continue
     elif key in common_words:
         continue
