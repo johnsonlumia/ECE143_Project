@@ -12,15 +12,22 @@
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
 # this is for unix (RZ)
 from pathlib import Path
+import nltk
 
 parent_dir = str(Path().resolve().parent)
-file_data = parent_dir + '/raw_data/' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
-file_out = parent_dir + '/processed_data/' + input('What is the output file name? ') + '.txt'
+fileName = input('What is the data file name? (make sure it is in the "raw_data" folder)')
+file_data = parent_dir + '/ECE143_Project/raw_data/' + fileName
+file_out = parent_dir + '/ECE143_Project/processed_data/' + 'freq_' + fileName
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
 common_words = [
     '',
+    'grading',
+    'study',
+    'outside',
+    'four',
+    'letter',
     'and',
     'ece',
     'of',
@@ -36,6 +43,7 @@ common_words = [
     'or',
     'the',
     'to',
+    'a',
     'for',
     'graduate',
     'standing',
@@ -82,9 +90,9 @@ with open(file_data, 'r') as f:
 # Get rid of unwanted chars and splitting the string into a list of words
 origlist = lines.lower().split()
 wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
-wordfreq = [wordlist.count(j) for j in wordlist]
-freqdict = dict(zip(wordlist, wordfreq))
-
+# wordfreq = [wordlist.count(j) for j in wordlist]
+# freqdict = dict(zip(wordlist, wordfreq))
+freqdict = Counter(wordlist)
 newfreq = {}
 for key, value in freqdict.items():
     if value < 2:
@@ -93,7 +101,13 @@ for key, value in freqdict.items():
         continue
     else:
         newfreq[key] = value
-
+posFreq = nltk.pos_tag(list(newfreq.keys()))
+#Convert the list created by nltk to dict
+posDict = {word: pos for word, pos in posFreq}
+nnfreq = {}
+for key, value in newfreq.items(): 
+    if posDict[key] == 'NN' or posDict[key] == 'NNS':
+        nnfreq[key] = value
 with open(file_out, 'w') as f:
-    for key, value in reversed(sorted(newfreq.items(), key=lambda x: x[1])):
+    for key, value in reversed(sorted(nnfreq.items(), key=lambda x: x[1])):
         f.write(f'{key}: {value}\n')
