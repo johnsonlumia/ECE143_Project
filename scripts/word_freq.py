@@ -10,20 +10,27 @@
 # 
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
-# may not work in mac and linux as well (due to back slashes), I need to think more about this (RZ)
-from pathlib import Path
 
-parent_dir = str(Path().resolve().parent)
-file_data = parent_dir + '\\raw_data\\' + input('What is the data file name? (make sure it is in the "raw_data" folder)')
-file_out = parent_dir + '\\processed_data\\' + input('What is the output file name? ') + '.txt'
+#import nltk
+import os
+import nltk
+
+
+# parent dir for mac or linux 
+parent_dir = os.getcwd()
+# parent dir for windows machine (uncomment if on windows, leave commented if elsewise)
+parent_dir = os.path.dirname(parent_dir)
+# os.path.join joins all the arguments given in the function call
+file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
+file_out = os.path.join(parent_dir,'processed_data',input('What is the output file name? (Make sure to provide the .txt/.csv extension) '))
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
 common_words = [
-    '',
-    'and',
-    'ece',
-    'of',
+    '','hours of', 'of lecture','instructor','c-','consent of','consent', 'prerequisite ece','lecture prerequisite',
+    'and', 'of instructor',
+    'ece', 'prerequisites ece', 'lecture one','grades of','with grades',
+    'of', 'three hours',
     'prerequisites',
     'prerequisite',
     'hours',
@@ -73,7 +80,7 @@ common_words = [
     'than',
     'weekly',
     'have',
-]
+]  #need better algo to remove common words, I think they should't be collected in the wordlist at all, can be removed with a condition in line 91, wordlist = 
 common_words.extend(list(map(chr, range(97, 123))))
 
 with open(file_data, 'r') as f:
@@ -82,6 +89,14 @@ with open(file_data, 'r') as f:
 # Get rid of unwanted chars and splitting the string into a list of words
 origlist = lines.lower().split()
 wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
+
+#bigrams # bigrams make two word combos of all space separated words, bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
+         # new_bigram_list combines the tuple elements to give a list of string of two words = [ 'circuit analysis', 'analysis problems', ...]
+		 # wordlist is extended to include the two word combos as well
+bigram_list = list(nltk.bigrams(wordlist))
+new__bigram_list = [ ' '.join(i) for i in bigram_list]
+wordlist.extend(new__bigram_list)
+
 wordfreq = [wordlist.count(j) for j in wordlist]
 freqdict = dict(zip(wordlist, wordfreq))
 
