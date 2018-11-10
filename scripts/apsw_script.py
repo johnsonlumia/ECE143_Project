@@ -37,12 +37,12 @@ def connect_db(db_name):
 def create_table(cursor, table_name):
     """
     create a table in SQLite with a name
-    naming convention: school_dept_year
 
     the table will be structured like following
-    word  |  freq
-    ------|------
-    (str) | (int)
+
+    word: tinystr
+    
+    freq: int
 
     arguments
     ---------
@@ -99,6 +99,11 @@ def insert_dict(cursor, table_name, word_dict):
 
     return
     ------
+
+    error code
+        type: int
+        0: no errors
+        1: error occurs (table exist)
 
     ...
 
