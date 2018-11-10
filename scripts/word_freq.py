@@ -14,23 +14,36 @@
 #import nltk
 import os
 import nltk
+from collections import Counter
 
 
 # parent dir for mac or linux 
 parent_dir = os.getcwd()
 # parent dir for windows machine (uncomment if on windows, leave commented if elsewise)
-parent_dir = os.path.dirname(parent_dir)
+# parent_dir = os.path.dirname(parent_dir)
 # os.path.join joins all the arguments given in the function call
 file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
-file_out = os.path.join(parent_dir,'processed_data',input('What is the output file name? (Make sure to provide the .txt/.csv extension) '))
+filename = input('What is the output file name? (no extention)')
+file_out_b = filename + '_b.txt'
+file_out_s = filename + '_s.txt'
+file_out_b = os.path.join(parent_dir,'processed_data',file_out_b)
+file_out_s = os.path.join(parent_dir,'processed_data',file_out_s)
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
 common_words = [
-    '','hours of', 'of lecture','instructor','c-','consent of','consent', 'prerequisite ece','lecture prerequisite',
+    '',' ','hours of', 'of lecture','instructor','c-','consent of','consent', 'prerequisite ece','lecture prerequisite',
     'and', 'of instructor',
     'ece', 'prerequisites ece', 'lecture one','grades of','with grades',
     'of', 'three hours',
+    'grading',
+    'study',
+    'outside',
+    'four',
+    'letter',
+    'and',
+    'ece',
+    'of',
     'prerequisites',
     'prerequisite',
     'hours',
@@ -43,6 +56,7 @@ common_words = [
     'or',
     'the',
     'to',
+    'a',
     'for',
     'graduate',
     'standing',
@@ -89,17 +103,9 @@ with open(file_data, 'r') as f:
 # Get rid of unwanted chars and splitting the string into a list of words
 origlist = lines.lower().split()
 wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
-
-#bigrams # bigrams make two word combos of all space separated words, bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
-         # new_bigram_list combines the tuple elements to give a list of string of two words = [ 'circuit analysis', 'analysis problems', ...]
-		 # wordlist is extended to include the two word combos as well
-bigram_list = list(nltk.bigrams(wordlist))
-new__bigram_list = [ ' '.join(i) for i in bigram_list]
-wordlist.extend(new__bigram_list)
-
-wordfreq = [wordlist.count(j) for j in wordlist]
-freqdict = dict(zip(wordlist, wordfreq))
-
+# wordfreq = [wordlist.count(j) for j in wordlist]
+# freqdict = dict(zip(wordlist, wordfreq))
+freqdict = dict(Counter(wordlist))
 newfreq = {}
 for key, value in freqdict.items():
     if value < 2:
@@ -108,7 +114,37 @@ for key, value in freqdict.items():
         continue
     else:
         newfreq[key] = value
-
-with open(file_out, 'w') as f:
-    for key, value in reversed(sorted(newfreq.items(), key=lambda x: x[1])):
+posFreq = nltk.pos_tag(list(newfreq.keys()))
+#Convert the list created by nltk to dict
+posDict = {word: pos for word, pos in posFreq}
+nnfreq = {}
+#Download nltk resources
+#Count only Noun words
+nltk.download("wordnet")
+lemmatizer = nltk.WordNetLemmatizer()
+for key, value in newfreq.items(): 
+    if posDict[key] == 'NN' or posDict[key] == 'NNS':
+        key = lemmatizer.lemmatize(key)
+        if key in nnfreq.keys():
+            nnfreq[key] = nnfreq[key] + value
+        else:
+            nnfreq[key] = value
+#bigrams # bigrams make two word combos of all space separated words,
+#bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
+bigram_list = list(nltk.bigrams(wordlist))
+freq_bigram = dict(Counter(bigram_list))
+picked_freq_bigram = {}
+for key, value in freq_bigram.items():
+    if value < 2:
+        continue
+    elif key[0] in common_words or key[1] in common_words:
+        continue 
+    elif posDict[key[0]] == 'NN' or posDict[key[0]] == 'NNS' or posDict[key[0]] == 'JJ':
+        if posDict[key[1]] == 'NN' or posDict[key[1]] == 'NNS':
+            picked_freq_bigram[key[0] + ' ' + key[1]] = value
+with open(file_out_s, 'w') as f:
+    for key, value in reversed(sorted(nnfreq.items(), key=lambda x: x[1])):
+        f.write(f'{key}: {value}\n')
+with open(file_out_b, 'w') as f:
+    for key, value in reversed(sorted(picked_freq_bigram.items(), key=lambda x: x[1])):
         f.write(f'{key}: {value}\n')
