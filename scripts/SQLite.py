@@ -1,11 +1,11 @@
 #
-# Another Python Sqlite Wrapper script file
+# ECE 143 Group Project
 #
-# create functions that uses apsw package for project use
+# A class that simplifies usage of apsw package for project use
+#   connects and manipulates database (SQLite)
 #
 # by Renjie Zhu on Nov 4, 2018
 #
-# changed to Object Oriented
 #
 
 import apsw
@@ -35,10 +35,8 @@ class SQLite():
         create a table in SQLite with a name
 
         the table will be structured like following
-
-        word: tinystr
-
-        freq: int
+            word: tinystr
+            freq: int
 
         arguments
         ---------

@@ -6,7 +6,9 @@
 #
 # by Renjie Zhu on Oct 24, 2018
 #
-# modified: Daoyu, Ambareesh
+# modified: 
+#   Daoyu: PoS analysis
+#   Ambareesh: bigram implementation
 #
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
