@@ -1,7 +1,5 @@
 # ECE 143 Project Proposal
-Data Analysis and Visualization Project
-
-## Team Members
+#### Group 6
 Renjie Zhu
 Fernando Lopez Garcia
 Daoyu Li
