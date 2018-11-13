@@ -46,7 +46,7 @@ def word_freq(file_name):
     bigram_frequency
         type: dictionary
     """
-    with open(file_name, 'r') as f:
+    with open(file_name, 'r',encoding='utf-8',errors='ignore') as f:
         lines = f.read()
 
     # Get rid of unwanted chars and splitting the string into a list of words
