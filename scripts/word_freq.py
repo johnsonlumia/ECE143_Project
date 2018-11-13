@@ -117,7 +117,7 @@ wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
 freqdict = dict(Counter(wordlist))
 newfreq = {}
 for key, value in freqdict.items():
-    if value < 2:
+    if value < 3:
         continue
     elif key in common_words:
         continue
