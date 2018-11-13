@@ -1,9 +1,9 @@
 # ECE 143 Project Proposal
-#### Group 6
-Renjie Zhu
-Fernando Lopez Garcia
-Daoyu Li
-Ambareesh Sreekumaran Nair Jayakumari
+## Group 6 Team Members
+- Renjie Zhu
+- Fernando Lopez Garcia
+- Daoyu Li
+- Ambareesh Sreekumaran Nair Jayakumari
 
 ## Problem
 Analysing course offerings in engineering departments of top universities in the United States related to industry demands.
