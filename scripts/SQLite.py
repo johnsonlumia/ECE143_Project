@@ -104,7 +104,7 @@ class SQLite():
 
         return 0
 
-    def select_entry(self, entry):
+    def select_entry_in_table(self, entry, table_name):
         pass
 
 
