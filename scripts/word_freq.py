@@ -1,32 +1,37 @@
 #
 # ECE 143 Group Project
-# 
-# Simple script that counts the occurance frequencies of 
+#
+# Simple script that counts the occurance frequencies of
 # the words in a specific file.
 #
-# by Renjie Zhu on 10/24/2018
+# by Renjie Zhu on Oct 24, 2018
 #
-# modified: Daoyu, Ambareesh
-# 
+# modified: 
+#   Daoyu: PoS analysis
+#   Ambareesh: bigram implementation
+#
 
 # be careful of the location of this file, if moved, be sure to rethink about the file paths
 
 import os
 import nltk
 from collections import Counter
-import apsw_script
+# import apsw_script
+from SQLite import SQLite
 
 # Download nltk resources
 nltk.download('averaged_perceptron_tagger')
 nltk.download("wordnet")
 
-# parent dir for mac or linux 
+# parent dir for mac or linux
 parent_dir = os.getcwd()
 # parent dir for windows machine (uncomment if on windows, leave commented if elsewise)
 # parent_dir = os.path.dirname(parent_dir)
 # os.path.join joins all the arguments given in the function call
-file_data = os.path.join(parent_dir,'raw_data',input('What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
-table_name = input('What is the database table name (convention: school_dept_year) ? ')
+file_data = os.path.join(parent_dir, 'raw_data', input(
+    'What is the data file name? (Make sure the file is in "raw_data" folder, give file name with extension)'))
+table_name = input(
+    'What is the database table name (convention: school_dept_year) ? ')
 table_b = table_name + '_bigram'
 table_s = table_name + '_single'
 # file_out_b = os.path.join(parent_dir,'processed_data',file_out_b)
@@ -35,9 +40,9 @@ table_s = table_name + '_single'
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
 common_words = [
-    '',' ','hours of', 'of lecture','instructor','c-','consent of','consent', 'prerequisite ece','lecture prerequisite',
+    '', ' ', 'hours of', 'of lecture', 'instructor', 'c-', 'consent of', 'consent', 'prerequisite ece', 'lecture prerequisite',
     'and', 'of instructor',
-    'ece', 'prerequisites ece', 'lecture one','grades of','with grades',
+    'ece', 'prerequisites ece', 'lecture one', 'grades of', 'with grades',
     'of', 'three hours',
     'grading',
     'study',
@@ -97,7 +102,7 @@ common_words = [
     'than',
     'weekly',
     'have',
-]  #need better algo to remove common words, I think they should't be collected in the wordlist at all, can be removed with a condition in line 91, wordlist = 
+]  # need better algo to remove common words, I think they should't be collected in the wordlist at all, can be removed with a condition in line 91, wordlist =
 common_words.extend(list(map(chr, range(97, 123))))
 
 with open(file_data, 'r') as f:
@@ -127,7 +132,7 @@ posDict = {word: pos for word, pos in posFreq}
 # Count only Noun words
 lemmatizer = nltk.WordNetLemmatizer()
 nnfreq = {}
-for key, value in newfreq.items(): 
+for key, value in newfreq.items():
     if posDict[key] == 'NN' or posDict[key] == 'NNS':
         key = lemmatizer.lemmatize(key)
         if key in nnfreq.keys():
@@ -135,7 +140,7 @@ for key, value in newfreq.items():
         else:
             nnfreq[key] = value
 
-# bigrams 
+# bigrams
 # bigrams make two word combos of all space separated words,
 # bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
 bigram_list = list(nltk.bigrams(wordlist))
@@ -146,7 +151,7 @@ for key, value in freq_bigram.items():
     if value < 2:
         continue
     elif key[0] in common_words or key[1] in common_words:
-        continue 
+        continue
     elif posDict[key[0]] == 'NN' or posDict[key[0]] == 'NNS' or posDict[key[0]] == 'JJ':
         if posDict[key[1]] == 'NN' or posDict[key[1]] == 'NNS':
             picked_freq_bigram[key[0] + ' ' + key[1]] = value
@@ -159,12 +164,19 @@ for key, value in freq_bigram.items():
 #     for key, value in reversed(sorted(picked_freq_bigram.items(), key=lambda x: x[1])):
 #         f.write(f'{key}: {value}\n')
 
-# I am trying to get the data into the database, just testing for now (Renjie) 
-# loading data to database
-_, cursor = apsw_script.connect_db('database.db')
-err = apsw_script.create_table(cursor, table_b)
-# probably log this? as 1 means something happened
-err = apsw_script.insert_dict(cursor, table_b, picked_freq_bigram)
+# I am trying to get the data into the database, just testing for now (Renjie)
+# # loading data to database
+# _, cursor = apsw_script.connect_db('database.db')
+# err = apsw_script.create_table(cursor, table_b)
+# # probably log this? as 1 means something happened
+# err = apsw_script.insert_dict(cursor, table_b, picked_freq_bigram)
 
-err = apsw_script.create_table(cursor, table_s)
-err = apsw_script.insert_dict(cursor, table_s, nnfreq)
+# err = apsw_script.create_table(cursor, table_s)
+# err = apsw_script.insert_dict(cursor, table_s, nnfreq)
+
+db = SQLite('database.db')
+err = db.create_table(table_b)
+err = db.insert_dict(table_b, picked_freq_bigram)
+
+err = db.create_table(table_s)
+err = db.insert_dict(table_s, nnfreq)

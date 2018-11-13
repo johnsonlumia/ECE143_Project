@@ -100,11 +100,6 @@ def insert_dict(cursor, table_name, word_dict):
     return
     ------
 
-    error code
-        type: int
-        0: no errors
-        1: error occurs (table exist)
-
     ...
 
     """
@@ -118,3 +113,20 @@ def insert_dict(cursor, table_name, word_dict):
             return 1
     
     return 0
+
+
+def select_table(cursor, table_name):
+    """
+    retrieving data from a certain table
+
+    arguments
+    ---------
+
+    cursor: the cursor used to communiate with the database
+        type: apsw.cursor
+
+    table_name: the name of the table
+        type: string
+        naming convention: school_dept_year
+    """
+    pass
