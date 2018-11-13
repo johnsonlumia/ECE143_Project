@@ -72,14 +72,14 @@ posDict = {word: pos for word, pos in posFreq}
 
 # Count only Noun words
 lemmatizer = nltk.WordNetLemmatizer()
-nnfreq = {}
+single_frequency = {}
 for key, value in newfreq.items():
     if posDict[key] == 'NN' or posDict[key] == 'NNS':
         key = lemmatizer.lemmatize(key)
-        if key in nnfreq.keys():
-            nnfreq[key] = nnfreq[key] + value
+        if key in single_frequency.keys():
+            single_frequency[key] = single_frequency[key] + value
         else:
-            nnfreq[key] = value
+            single_frequency[key] = value
 
 # bigrams
 # bigrams make two word combos of all space separated words,
@@ -87,7 +87,7 @@ for key, value in newfreq.items():
 bigram_list = list(nltk.bigrams(wordlist))
 freq_bigram = dict(Counter(bigram_list))
 
-picked_freq_bigram = {}
+bigram_frequency = {}
 for key, value in freq_bigram.items():
     if value < 2:
         continue
@@ -97,14 +97,14 @@ for key, value in freq_bigram.items():
     #     continue
     elif posDict[key[0]] == 'NN' or posDict[key[0]] == 'NNS' or posDict[key[0]] == 'JJ':
         if posDict[key[1]] == 'NN' or posDict[key[1]] == 'NNS':
-            picked_freq_bigram[key[0] + ' ' + key[1]] = value
+            bigram_frequency[key[0] + ' ' + key[1]] = value
 
 # with open(file_out_s, 'w') as f:
-#     for key, value in reversed(sorted(nnfreq.items(), key=lambda x: x[1])):
+#     for key, value in reversed(sorted(single_frequency.items(), key=lambda x: x[1])):
 #         f.write(f'{key}: {value}\n')
 
 # with open(file_out_b, 'w') as f:
-#     for key, value in reversed(sorted(picked_freq_bigram.items(), key=lambda x: x[1])):
+#     for key, value in reversed(sorted(bigram_frequency.items(), key=lambda x: x[1])):
 #         f.write(f'{key}: {value}\n')
 
 # I am trying to get the data into the database, just testing for now (Renjie)
@@ -112,14 +112,14 @@ for key, value in freq_bigram.items():
 # _, cursor = apsw_script.connect_db('database.db')
 # err = apsw_script.create_table(cursor, table_b)
 # # probably log this? as 1 means something happened
-# err = apsw_script.insert_dict(cursor, table_b, picked_freq_bigram)
+# err = apsw_script.insert_dict(cursor, table_b, bigram_frequency)
 
 # err = apsw_script.create_table(cursor, table_s)
-# err = apsw_script.insert_dict(cursor, table_s, nnfreq)
+# err = apsw_script.insert_dict(cursor, table_s, single_frequency)
 
 db = SQLite('database.db')
 err = db.create_table(table_b)
-err = db.insert_dict(table_b, picked_freq_bigram)
+err = db.insert_dict(table_b, bigram_frequency)
 
 err = db.create_table(table_s)
-err = db.insert_dict(table_s, nnfreq)
+err = db.insert_dict(table_s, single_frequency)
