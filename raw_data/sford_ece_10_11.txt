@@ -1,0 +1,1711 @@
+ELECTRICAL ENGINEERING (EE)
+COURSES
+UNDERGRADUATE COURSES IN
+ELECTRICAL ENGINEERING
+Primarily for undergraduates; graduate students may enroll with
+consent of adviser.
+EE 14N. Things about Stuff
+(Stanford Introductory Seminar) Preference to freshmen. The stories
+behind disruptive inventions such as the telegraph, telephone,
+wireless, television, transistor, and chip are as important as the
+inventions themselves, for they elucidate broadly applicable scientific
+principles. Focus is on studying consumer devices; projects
+include building batteries, energy conversion devices and semiconductors
+from pocket change. Students may propose topics and
+projects of interest to them. The trajectory of the course is determined
+in large part by the students themselves. GER:DBEngrAppSci
+3 units, Aut (Lee, T)
+EE 15N. The Art and Science of Engineering Design
+(Stanford Introductory Seminar) The goal of this seminar is to
+introduce freshmen to the design process associated with an engineering
+project. The seminar will consist of a series of lectures.
+The first part of each lecture will focus on the different design
+aspects of an engineering project, including formation of the design
+team, developing a project statement, generating design ideas
+and specifications, finalizing the design, and reporting the outcome.
+Students will form teams to follow these procedures in designing
+a term project of their choice over the quarter. The second
+part of each lecture will consist of outside speakers, including
+founders of some of the most exciting companies in Silicon Valley,
+who will share their experiences about engineering design. On-site
+visits to Silicon Valley companies to showcase their design processes
+will also be part of the course. The seminar serves three purposes:
+(1) it introduces students to the design process of turning an
+idea into a final GER:DB-EngrAppSci
+3 units, Win (Goldsmith, A; Le, M)
+EE 17N. Engineering the Micro and Nano Worlds: From
+Chips to Genes
+(Stanford Introductory Seminar) Preference to freshmen. Hands-on
+micro- and nano-fabrication including the Stanford Nanofabrication
+Facility (SNF) and the Stanford Nanocharacterization Laboratory
+(SNL) and field trips to local companies and other research
+centers to illustrate the many applications; these include semiconductor
+integrated circuits ('chips'), DNA microarrays, microfluidic
+bio-sensors and microelectromechanical systems (MEMS). Students
+create, design, propose, and execute a project. How to read
+critically a New York Times article on nanotechnology. GER:DBEngrAppSci
+3 units, Spr (Pease, R)
+EE 21N. What is Nanotechnology?
+(Stanford Introductory Seminar) Nanotechnology an often used
+word: scientists and engineers have some notion of what nanotechnology
+is, societal perception may be entirely different. The classic
+paper by Richard Feynman (There's Plenty of Room at the Bottom),
+which laid down the challenge to the nanotechnologists. Two
+classic books that offer a glimpse of what nanotechnology is: Engines
+of Creation: The Coming Era of Nanotechnology by Eric
+Drexler, and Prey by Michael Crichton. Drexler's thesis sparked
+the imagination of what nano machinery might do, whereas Crichton's
+popular novel channeled the public's attention to this subject
+by portraying a disastrous scenario of a technology gone astray.
+Course uses scientific knowledge to analyze the assumptions and
+predictions of these classic works. GER:DB-EngrAppSci
+3 units, Win (Wong, P)
+EE 25Q. Electric Automobiles and Aircraft
+(Stanford Introductory Seminar) (Same as AA 116N) Transportation
+accounts for nearly one-third of American energy use and
+greenhouse gas emissions and three-quarters of American oil consumption.
+It has crucial impacts on climate change, air pollution,
+resource depletion, and national security. Students wishing to address
+these issues will need to reconsider how we move, finding
+sustainable transportation solutions. This course will provide an
+introduction to the issue, covering the past and present of transportation
+and its impacts; examining alternative fuel proposals; and
+digging deeper into the most promising option: battery electric
+vehicles. Energy requirements of air, ground, and maritime transportation;
+design of electric motors, power control systems, drive
+trains, and batteries; and technologies for generating renewable
+energy. Two fun opportunities for hands-on experiences with electric
+cars. Prerequisites: Introduction to calculus and Physics AP or
+elementary mechanics.
+3 units, Aut (Cox, D; Enge, P)
+EE 41. Physics of Electrical Engineering
+How everything from electrostatics to quantum mechanics is used
+in common high-technology products. Electrostatics are critical in
+micro-mechanical systems used in many sensors and displays, and
+basic EM waves are essential in all high-speed communication
+systems. How to propagate energy in free space. Which aspects of
+modern physics are needed to generate light for the operation of a
+DVD player or TV. Introduction to semiconductors, solid-state
+light bulbs, and laser pointers. Hands-on labs to connect physics to
+everyday experience. GER:DB-EngrAppSci
+5 units, Win (Solgaard, O)
+EE 46. Engineering For Good: Save the World and Have Fun
+Doing It
+Projects that provide immediate and positive impact on the world.
+Focus is on global health by learning from experts in this field.
+Students work on real-world projects with help from members of
+NGOs and social entrepreneurial companies as part of the hand-on
+learning experience. Prerequisite: ENGR 40 or EE 122A or CS
+106B or consent of instructor.
+3 units, not given this year
+EE 47. Press Play: Interactive Device Design
+Introduction to the human-centered and technical workings behind
+interactive devices ranging from cellphones and video controllers
+to smart cars and appliances. Students build a working MP3 player
+prototype of their own design, using embedded microcontrollers,
+digital audio decoders and component sensors, and other electronic
+hardware. Topics include electronics prototyping, interface prototyping,
+sensors and actuators, micro-controller development, physical
+prototyping, and user testing. Prerequisite: CS106A and X or
+consent of instructor.
+3 units, not given this year
+EE 48. Hacking Stuff
+Students build miniature autonomous cars that compete in a race
+against the clock. How to design a complete system by bringing
+together the various disciplines of electrical engineering such as
+control theory, circuit design, microprocessor programming, and
+semiconductor device physics. Students design, build, and program
+each component of an autonomous vehicle and in doing so are
+introduced to the broad discipline of electrical engineering through
+lab work. GER:DB-EngrAppSci
+3 units, Aut (Peumans, P)
+EE 49. Building Networked Systems
+Preference to sophomores. The design of a complete networked
+system by combining electrical engineering disciplines such as
+coding theory, communication theory and networking. Based on
+STANFORD BULLETIN, 2010-11 | 587
+ELECTRICAL ENGINEERING (EE) COURSES
+programmable radios, the design and construction of a networked
+system capable of audio communication between any two nodes in
+a network, essentially building a simple phone network. Preference
+to sophomores. Application required. Prerequisites: CS106A,
+CS106B.
+3 units, Spr (Katti, S)
+EE 60N. Man versus Nature: Coping with Disasters Using
+Space Technology
+(Stanford Introductory Seminar) (Same as GEOPHYS 60N) Preference
+to freshman. Natural hazards, such as earthquakes, volcanoes,
+floods, hurricanes, and fires, affect the lives of thousands of
+people worldwide everyday. Over the past twenty years developments
+in spaceborne imaging technology have made it possible to
+monitor and respond to such disasters much more rapidly than in
+the past, saving lives and money. Additionally, greater understanding
+of the physical processes involved allows anticipation and
+planning for mitigation of the consequences of the disasters. How
+these new tools are applied to natural disasters, and how the remotely-
+sensed data are manipulated and analyzed. The technical
+material consists of a summary of basic geophysical properties of
+the Earth, their physical characteristics that can be sensed remotely,
+and the design of satellite systems to measure these phenomena
+and predict/mitigate natural hazards. GER:DBEngrAppSci
+4 units, Aut (Zebker, H)
+EE 100. The Electrical Engineering Profession
+Lectures/discussions on topics of importance to the electrical engineering
+professional. Continuing education, professional societies,
+intellectual property and patents, ethics, entrepreneurial engineering,
+and engineering management.
+1 unit, Aut (Staff)
+EE 101A. Circuits I
+First of two-course sequence. Introduction to circuit modeling and
+analysis. Topics include creating the models of typical components
+in electronic circuits and simplifying non-linear models for restricted
+ranges of operation (small signal model); and using network
+theory to solve linear and non-linear circuits under static and
+dynamic operations. Prerequisite: Physics 43 GER:DBEngrAppSci
+4 units, Win (Howe, R)
+EE 101B. Circuits II
+Second of two-course sequence. MOS large-signal and smallsignal
+models. MOS amplifier design including DC bias, small
+signal performance, multistage amplifiers, frequency response, and
+feedback. Prerequisite: 101A. GER:DB-EngrAppSci
+4 units, Spr (Hershenson, M)
+EE 102A. Signal Processing and Linear Systems I
+Concepts and mathematical tools in continuous-time signal processing
+and linear systems analysis, illustrated with examples from
+signal processing, communications, and control. Mathematical
+representation of signals and systems. Linearity and timeinvariance.
+System impulse and step response. Frequency domain
+representations: Fourier series and Fourier transforms. Filtering
+and signal distortion. Time/frequency sampling and interpolation.
+Continuous-discrete time signal conversion and quantization.
+Stability and causality in linear systems. Laplace transforms
+and Bode plots. Feedback and control system design. Examples
+from filter design and linear control. Prerequisite: MATH 53 or
+ENGR 155A. GER:DB-EngrAppSci
+4 units, Win (Pauly, J)
+EE 102B. Signal Processing and Linear Systems II
+Concepts and mathematical tools in discrete-time signal processing
+and linear systems analysis with examples from digital signal
+processing, communications, and control. Discrete-time signal
+models. Continuous-discrete-continuous signal conversion. Discrete-
+time impulse and step response. Frequency domain representations:
+Fourier series and transforms. Connection between continuous
+and discrete time frequency representations. Discrete Fourier
+transform (DFT) and fast Fourier transform (FFT). Digital
+filter and signal processing examples. Discrete-time and hybrid
+linear systems. Stability and causality. Z transforms and their connection
+to Laplace transforms. Frequency response of discrete-time
+systems. Discrete-time control. Prerequisite: 102A. GER:DBEngrAppSci
+4 units, Aut (Staff), Spr (Kahn, J), Sum (Staff)
+EE 108A. Digital Systems I
+Digital circuit, logic, and system design. Digital representation of
+information. CMOS logic circuits. Combinational logic design.
+Logic building blocks, idioms, and structured design. Sequential
+logic design and timing analysis. Clocks and synchronization.
+Finite state machines. Microcode control. Digital system design.
+Control and datapath partitioning. Lab. Prerequisite: ENGR 40.
+Corequisite for WIM: ENGR 102E. GER:DB-EngrAppSci, WIM
+3-4 units, Aut (Mitra, S), Win (Mitra, S)
+EE 108B. Digital Systems II
+The design of processor-based digital systems. Instruction sets,
+addressing modes, data types. Assembly language programming,
+low-level data structures, introduction to operating systems and
+compilers. Processor microarchitecture, microprogramming, pipelining.
+Memory systems and caches. Input/output, interrupts, buses
+and DMA. System design implementation alternatives, software/
+hardware tradeoffs. Labs involve the design of processor
+subsystems and processor-based embedded systems. Prerequisite:
+108A, CS 106B. GER:DB-EngrAppSci
+3-4 units, Aut (Olukotun, O), Win (Dally, W)
+EE 109. Digital Systems Design Lab
+The design of integrated digital systems encompassing both customized
+software and hardware. Software/hardware design tradeoffs.
+Algorithm design for pipelining and parallelism. System latency
+and throughput tradeoffs. FPGA optimization techniques.
+Integration with external systems and smart devices. Firmware
+configuration and embedded system considerations. Enrollment
+limited to 25; preference to graduating seniors. Prerequisites:
+108B, and CS 106B or X. GER:DB-EngrAppSci
+4 units, Spr (Weaver, J)
+EE 114. Fundamentals of Analog Integrated Circuit Design
+Analysis and simulation of elementary transistor stages, current
+mirrors, supply- and temperature-independent bias, and reference
+circuits. Overview of integrated circuit technologies, circuit components,
+component variations and practical design paradigms.
+Performance evaluation using computer-aided design tools. Prerequisite:
+101B.GER:DB-EngrAppSci GER:DB-EngrAppSci
+3 units, Aut (Dutton, R)
+EE 116. Semiconductor Device Physics
+The fundamental operation of semiconductor devices and overview
+of applications. The physical principles of semiconductors, both
+silicon and compound materials; operating principles and device
+equations for junction devices (diodes, bipolar transistor, photodetectors).
+Introduction to quantum effects and band theory of
+solids. Prerequisite: ENGR 40. Corequisite: 101B. GER:DBEngrAppSci
+3 units, Spr (Peumans, P)
+EE 122A. Analog Circuits Laboratory
+Practical applications of analog circuits, including simple amplifiers,
+filters, oscillators, power supplies, and sensors. Design skills,
+computer-aided design, and circuit fabrication and debugging. The
+design process through proposing, designing, simulating, building,
+debugging, and demonstrating a project. Radio frequency and
+largely digital projects not suitable for EE 122. Prerequisite:
+ENGR 40 or equivalent. GER:DB-EngrAppSci
+3 units, Aut (Giovangrandi, L)
+EE 122B. Introduction to Biomedical Electronics
+Key components of modern systems, their application in physiology
+measurements, and reduction to practice in labs. Fundamentals
+of analog/digital conversion and filtering techniques for biosignals,
+typical transducers (biopotential, electrochemical, temperature,
+pressure, acoustic, movement), and interfacing circuits. Issues of
+biomedical electronics (safety, isolation, noise). Prerequisite:
+EE122A
+3 units, Spr (Giovangrandi, L)
+EE 124. Introduction to Neuroelectrical Engineering
+Fundamental properties of electrical activity in neurons, technology
+for measuring and altering neural activity, and operating principles
+of modern neurological and neural prosthetic medical systems.
+Topics: action potential generation and propagation, neuro-
+MEMS and measurement systems, experimental design and statistical
+data analysis, information encoding and decoding, clinical
+diagnostic systems, and fully-implantable neural prosthetic systems
+design. Prerequisite: EE 101B and EE 102B.
+3 units, Win (Shenoy, K)
+588 | STANFORD BULLETIN, 2010-11
+COURSES OF INSTRUCTION
+2010-11
+EE 133. Analog Communications Design Laboratory
+(Same as EE 233) Design, testing, and applications. Amplitude
+modulation (AM) using multiplier circuits. Frequency modulation
+(FM) based on discrete oscillator and integrated modulator circuits
+such as voltage-controlled oscillators (VCOs). Phased-lock loop
+(PLL) techniques, characterization of key parameters, and their
+applications. Practical aspects of circuit implementations. Labs
+involve building and characterization of AM and FM modulation/
+demodulation circuits and subsystems. Enrollment limited to
+30 undergraduates and coterminal EE students. Prerequisite: 101B.
+Undergraduate students enroll in EE133 and Graduate students
+enroll in EE233. GER:DB-EngrAppSci
+3-4 units, Win (Dutton, R)
+EE 134. Introduction to Photonics
+Photonics, optical sensors, and fiber optics. Conceptual and
+mathematical tools for design and analysis of optical communication
+and sensor systems. Experimental characterization of semiconductor
+lasers, optical fibers, photodetectors, receiver circuitry,
+fiber optic links, optical amplifiers, and optical sensors. Class project
+aimed on confocal microscopy for biomedical applications.
+Laboratory experiments. Prerequisite: 41 or equivalent. GER:DBEngrAppSci
+4 units, Aut (Staff)
+EE 136. Introduction to Nanophotonics and Nanostructures
+Electromagnetic and quantum mechanical waves and semiconductors.
+Confining these waves, and devices employing such confinement.
+Localization of light and applications: metallic mirrors, photonic
+crystals, optical waveguides, microresonators, plasmonics.
+Localization of quantum mechanical waves: quantum wells, wires,
+and dots. Generation of light in semiconductors: spontaneous and
+stimulated emission, lasers, and light emitting diodes. Devices
+incorporating localization of both electromagnetic and quantum
+mechanical waves such as resonant cavity quantum well lasers and
+microcavity-based single photon sources. System-level applications
+such as optical communications, biochemical sensing, and
+quantum cryptography. Prerequisite: familiarity with electromagnetic
+and quantum mechanical waves and semiconductors at the
+level of EE 41 or equivalent. GER:DB-EngrAppSci
+3 units, Aut (Vuckovic, J)
+EE 140. The Earth From Space: Introduction to Remote Sensing
+(Same as GEOPHYS 140) Global change science as viewed using
+space remote sensing technology. Global warming, ozone depletion,
+the hydrologic and carbon cycles, topographic mapping, and
+surface deformation. Physical concepts in remote sensing. EM
+waves and geophysical information. Sensors studied: optical, near
+and thermal IR, active and passive microwave. GER:DBEngrAppSci
+3 units, not given this year
+EE 141. Engineering Electromagnetics
+Lumped versus distributed circuits. Transient response of transmission
+lines with resistive and reactive loads. Reflection, transmission,
+attenuation and dispersion. Steady-state waves on transmission
+lines. Standing wave ratio, impedance matching, and
+power flow. Coulomb's law, electrostatic field, potential and gradient,
+electric flux and Gauss's Law and divergence. Metallic conductors,
+Poisson's and Laplace's equations, capacitance, dielectric
+materials. Electrostatic energy and forces. Steady electric currents,
+Ohm's Law, Kirchoff's Laws, charge conservation and the continuity
+equation, Joule's Law. Biot-Savart's law and the static magnetic
+field. Ampere's Law and curl. Vector magnetic potential and magnetic
+dipole. Magnetic materials, forces and torques. Faraday's
+Law, magnetic energy, displacement current and Maxwell's equations.
+Uniform plane waves. Prerequisites: 102A, MATH 52.
+GER:DB-EngrAppSci
+3 units, Aut (Hesselink, L)
+EE 168. Introduction to Digital Image Processing
+Computer processing of digital 2-D and 3-D data, combining theoretical
+material with implementation of computer algorithms. Topics:
+properties of digital images, design of display systems and
+algorithms, time and frequency representations, filters, image formation
+and enhancement, imaging systems, perspective, morphing,
+and animation applications. Instructional computer lab exercises
+implement practical algorithms. Final project consists of computer
+animations incorporating techniques learned in class. Prerequisite:
+Matlab programming. GER:DB-EngrAppSci
+3-4 units, not given this year
+EE 169. Introduction to Bioimaging
+Bioimaging is important for both clinical medicine, and medical
+researchIntroduction to several of the major imaging modalities,
+using a signal processing perspective. Multi-dimensional Fourier
+transforms, and image quality metrics. Projection imaging systems
+(projection X-Ray), backprojection based systems (CT, PET, and
+SPECT), systems that use beam forming (ultrasound), and systems
+that use Fourier encoding (MRI).
+3 units, Aut (Pauly, J)
+EE 178. Probabilistic Systems Analysis
+Introduction to probability and statistics and their role in modeling
+and analyzing real world phenomena. Events, sample space, and
+probability. Discrete random variables, probability mass functions,
+independence and conditional probability, expectation and conditional
+expectation. Continuous random variables, probability density
+functions, independence and expectation, derived densities.
+Transforms, moments, sums of independent random variables.
+Simple random processes. Limit theorems. Introduction to statistics:
+significance, hypothesis testing, estimation and detection,
+Bayesian analysis. Prerequisites: basic calculus and linear algebra.
+GER:DB-EngrAppSci
+3 units, Spr (El Gamal, A)
+EE 179. Introduction to Communications
+This course covers the design and performance analysis of both
+analog and digital communication systems. Topics include current
+communication systems (cellular, WLANs, radio and TV broadcasting,
+satellites, Internet), Fourier techniques, energy and power
+spectral density, random variables and random (noise) signals,
+filtering and modulation of noise, analog modulation (AM and
+FM) and its performance in noise, digital modulation (PSK and
+FSK), optimal receiver design, and probability of bit error for digital
+modulation. Prerequisite: 102A. GER:DB-EngrAppSci
+3 units, Win (Goldsmith, A)
+EE 190. Special Studies or Projects in Electrical Engineering
+Independent work under the direction of a faculty member. Individual
+or team activities involve lab experimentation, design of
+devices or systems, or directed reading.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 191. Special Studies and Reports in Electrical Engineering
+Independent work under the direction of a faculty member given
+for a letter grade only. If a letter grade given on the basis of required
+written report or examination is not appropriate, enroll in
+190.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+GRADUATE COURSES IN ELECTRICAL
+ENGINEERING
+Primarily for graduate students; undergraduates may enroll with
+consent of instructor.
+EE 203. The Entrepreneurial Engineer
+Seminar. For prospective entrepreneurs with an engineering background.
+Contributions made to the business world by engineering
+graduates. Speakers include Stanford and other engineering and
+M.B.A. graduates who have founded large and small companies in
+nearby communities. Contributions from EE faculty and other
+departments including Law, Business, and MS&E.
+1 unit, Win (Melen, R)
+EE 204. Business Management for Electrical Engineers and
+Computer Scientists
+For graduate students with little or no business experience. Leading
+computer, high-tech, and Silicon Valley companies and their
+best practices. Tools and frameworks for analyzing decisions these
+companies face. Corporate strategy, new product development,
+marketing, sales, distribution, customer service, financial accounting,
+outsourcing, and human behavior in business organizations.
+Case studies. Prerequisite: graduate standing.
+3 units, Spr (Gibbons, F; Siegel, M)
+EE 212. Integrated Circuit Fabrication Processes
+For students interested in the physical bases and practical methods
+of silicon VLSI chip fabrication, or the impact of technology on
+device and circuit design, or intending to pursue doctoral research
+STANFORD BULLETIN, 2010-11 | 589
+ELECTRICAL ENGINEERING (EE) COURSES
+involving the use of Stanford's Nanofabrication laboratory. Process
+simulators illustrate concepts and provide a virtual lab experience.
+Topics: principles of integrated circuit fabrication processes, physical
+and chemical models for crystal growth, oxidation, ion
+implantation, etching, deposition, lithography, and back-end processing.
+Required for 410.
+3 units, Aut (Plummer, J)
+EE 214. Advanced Analog Integrated Circuit Design
+Analysis and design of analog integrated circuits in advanced MOS
+and bipolar technologies. Device operation and compact modeling
+in support of circuit simulations needed for design. Emphasis is on
+quantitative evaluations of performance using hand calculations
+and circuit simulations; intuitive approaches to design. Analytical
+and approximate treatments of noise and distortion; analysis and
+design of feedback circuits. Design of archetypal analog blocks for
+networking and communications such as broadband gain stages
+and transimpedance amplifiers. Prerequisite: EE 114.
+3 units, Win (Murmann, B)
+EE 216. Principles and Models of Semiconductor Devices
+Carrier generation, transport, recombination, and storage in semiconductors.
+Physical principles of operation of the p-n junction,
+heterojunction, metal semiconductor contact, bipolar junction transistor,
+MOS capacitor, MOS and junction field-effect transistors,
+and related optoelectronic devices such as CCDs, solar cells,
+LEDs, and detectors. First-order device models that reflect physical
+principles and are useful for integrated-circuit analysis and
+design. Prerequisite: 116 or equivalent.
+3 units, Aut (Harris, J), Win (Saraswat, K; Howe, R)
+EE 218. Introduction to Nanotechnology and Nanoelectronics
+Device physics and operation principles. Device and material options
+beyond silicon FETs at the nanoscale. Topics identified by
+the International Technology Roadmap for Semiconductors,
+emerging research devices section; see http://public.itrs.net. Nonsilicon-
+based devices such as carbon nanotubes, semiconductor
+nanowires, and molecular devices; and non-FET based devices
+such as single-electron transistors (SET), resonant tunneling diodes
+(RTD), and quantum dots. Logic and memory devices. Sources
+include current literature and reference books. Prerequisite: Undergraduate
+device physics. Recommended: Introductory graduate
+solid state physics.
+3 units, not given this year
+EE 222. Applied Quantum Mechanics I
+Emphasis is on applications in modern devices and systems. Topics
+include: Schrödinger's equation, eigenfunctions and eigenvalues,
+operator approach to quantum mechanics, Dirac notation,
+angular momentum, hydrogen atom, perturbation theory, variational
+method, and time-dependent perturbation theory with applications
+to optical absorption, nonlinear optical coefficients, and
+Fermi's golden rule. Prerequisites: MATH 52 and 53, PHYSICS 65
+(or PHYSICS 43 and 45).
+3 units, Aut (Miller, D)
+EE 223. Applied Quantum Mechanics II
+Continuation of 222, including more advanced topics: quantum
+mechanics of crystalline materials, methods for one-dimensional
+problems, spin, systems of identical particles (bosons and fermions),
+introductory quantum optics (electromagnetic field quantization,
+coherent states), fermion annihilation and creation operators,
+interaction of different kinds of particles (spontaneous emission,
+optical absorption, and stimulated emission). Quantum information
+and interpretation of quantum mechanics. Other topics in electronics,
+optoelectronics, optics, and quantum information science. Prerequisite:
+222.
+3 units, Win (Miller, D)
+EE 225. Bio-chips, Imaging and Nanomedicine
+(Same as MATSCI 382) The course covers state-of-the-art and
+emerging bio-sensors, bio-chips, imaging modalities, and nanotherapies
+which will be studied in the context of human physiology
+including the nervous system, circulatory system and immune
+system. Medical diagnostics will be divided into bio-chips (in-vitro
+diagnostics) and medical and molecular imaging (in-vivo imaging).
+In-depth discussion on cancer and cardiovascular diseases
+and the role of diagnostics and nano-therapies.
+3 units, Win (Wang, S)
+EE 228. Basic Physics for Solid State Electronics
+Topics: energy band theory of solids, energy bandgap engineering,
+classical kinetic theory, statistical mechanics, and equilibrium and
+non-equilibrium semiconductor statistics. Prerequisite: course in
+modern physics.
+3 units, Aut (Fan, S)
+EE 231. Introduction to Lasers
+How lasers work, including quantum transitions in atoms, stimulated
+emission and amplification, rate equations, saturation, feedback,
+coherent optical oscillation, laser resonators, and optical
+beams. Limited primarily to steady-state behavior; classical models
+for atomic transitions with little quantum mechanics background
+required. Prerequisites: electromagnetic theory to the level
+of 142, preferably 241, and some atomic or modern physics such
+as PHYSICS 70 or 130, 131.
+3 units, Win (Digonnet, M)
+EE 232. Laser Dynamics
+Continuation of 231, emphasizing dynamic and transient effects
+including spiking, Q-switching, mode locking, frequency modulation,
+frequency and spatial mode competition, linear and nonlinear
+pulse propagation, short pulse expansion, and compression. Prerequisite:
+231.
+3 units, not given this year
+EE 233. Analog Communications Design Laboratory
+(Same as EE 133) Design, testing, and applications. Amplitude
+modulation (AM) using multiplier circuits. Frequency modulation
+(FM) based on discrete oscillator and integrated modulator circuits
+such as voltage-controlled oscillators (VCOs). Phased-lock loop
+(PLL) techniques, characterization of key parameters, and their
+applications. Practical aspects of circuit implementations. Labs
+involve building and characterization of AM and FM modulation/
+demodulation circuits and subsystems. Enrollment limited to
+30 undergraduates and coterminal EE students. Prerequisite: 101B.
+Undergraduate students enroll in EE133 and Graduate students
+enroll in EE233.
+3-4 units, Win (Dutton, R)
+EE 234. Photonics Laboratory
+Photonics and fiber optics with a focus on communication and
+sensing. Experimental characterization of semiconductor lasers,
+optical fibers, photodetectors, receiver circuitry, fiber optic links,
+optical amplifiers, and optical sensors and photonic crystals. Prerequisite:
+EE 242 or equivalent.
+3 units, Win (Vuckovic, J)
+EE 235. Guided Wave Optical Devices
+Guided wave optics, optical waveguide devices, and integrated
+optics. Wave propagation in layered media, slab waveguides, and
+optical fibers. Rectangular waveguides. Optical waveguide technology.
+Coupled-mode theory. Numerical analysis of complex
+waveguides. Photonic crystals and surface plasmon optics. Physics
+and design of waveguide devices. Fiber sensors, waveguide gratings,
+waveguide modulators, directional couplers, ring filters. Prerequisite:
+electromagnetic theory to the level of 142 or equivalent.
+3 units, Spr (Fan, S)
+EE 237. Solar Energy Conversion
+Basics of solar energy conversion in photovoltaic devices and solar
+thermal systems. Solar cell device physics: electrical and optical.
+Solar system issues including module assembly, inverters, and
+micro-inverters. Concentrated solar power. Students design solar
+cells. Prerequisite: EE 116 or EE 216.
+3 units, Win (Peumans, P)
+EE 242. Electromagnetic Waves
+Continuation of 141. Maxwell's equations. Plane waves in lossless
+and lossy media. Skin effect. Flow of electromagnetic power
+(Poynting's theorem). Reflection and refraction of waves at planar
+boundaries. Snell's law and total internal reflection. Reflection and
+refraction from lossy media. Guided waves. Parallel-plate and
+dielectric-slab waveguides. Hollow wave-guides, cavity resonators,
+microstrip waveguides, optical fibers. Interaction of fields
+with matter and particles. Antennas and radiation of electromagnetic
+energy. Prerequisite: 141 or PHYSICS 120.
+3 units, Win (Fraser-Smith, A)
+EE 243. Semiconductor Optoelectronic Devices
+Semiconductor physics and optical processes in semiconductors.
+Operating principles and practical device features of semiconductor
+optoelectronic materials and heterostructures. Devices include:
+590 | STANFORD BULLETIN, 2010-11
+COURSES OF INSTRUCTION
+2010-11
+optical detectors (p-i-n, avalanche, and MSM); light emitting diodes;
+electroabsorptive modulators (Franz-Keldysh and QCSE),
+electrorefractive (directional couplers, Mach-Zehnder), switches
+(SEEDs); and lasers (waveguide and vertical cavity surface emitting).
+Prerequisites: semiconductor devices and solid state physics
+such as EE 216 or equivalent.
+3 units, Win (Harris, J)
+EE 247. Introduction to Optical Fiber Communications
+Fibers: single- and multi-mode, attenuation, modal dispersion,
+group-velocity dispersion, polarization-mode dispersion. Nonlinear
+effects in fibers: Raman, Brillouin, Kerr. Self- and cross-phase
+modulation, four-wave mixing. Sources: light-emitting diodes,
+laser diodes, transverse and longitudinal mode control, modulation,
+chirp, linewidth, intensity noise. Modulators: electro-optic, electroabsorption.
+Photodiodes: p-i-n, avalanche, responsivity, capacitance,
+transit time. Receivers: high-impedance, transimpedance,
+bandwidth, noise. Digital intensity modulation formats: nonreturn-
+to-zero, return-to-zero. Receiver performance: Q factor, biterror
+ratio, sensitivity, quantum limit. Sensitivity degradations:
+extinction ratio, intensity noise, jitter, dispersion. Wavelengthdivision
+multiplexing. System architectures: local-area, access,
+metropolitan-area, long-haul. Prerequisites: 102A, 242 or consent
+of instructor.
+3 units, Aut (Kahn, J)
+EE 248. Fundamentals of Noise Processes
+Fundamentals of statistic, Fourier analysis, statistical and quantum
+mechanics, and linear and nonlinear circuit theory. Thermal, quantum
+and 1/f noise in resistors, pn junctions, lasers, and parametric
+amplifiers. Energy efficiency (bit/photon) and spectral efficiency
+(bit/s/Hz) in coherent and single photon optical communications.
+Protocols and security in quantum cryptography. Decoherence of
+qubits in quantum computation. Prerequisites: elementary device,
+circuit, and electromagnetic waves to the level of 101A,B and 242.
+3 units, Aut (Yamamoto, Y)
+EE 252. Antennas for Telecommunications and Remote Sensing
+Fundamental properties. Dipoles, loops, reflectors, Yagis, helices,
+slots, horns, micro-strips. Antennas as transitions between guided
+and free radiation, ultrasound analogue. Famous antennas. Pattern
+measurements. Friis and radar equations. Feeds, matching, baluns.
+Broadbanding. Arrays, aperture synthesis, interferometry, verylong-
+baseline interferometry. Thermal radiation, antenna temperature,
+microwave passive remote sensing. Prerequisite: 242 or
+equivalent.
+3 units, not given this year
+EE 254. Principles of Radar Systems
+Analysis and design. Radar equation and systems parameters,
+components of radar systems, radar cross-section and target characteristics,
+signal detection in noise, ambiguity function (with applications
+to measurement precision, resolution, clutter rejection,
+and waveform design); pulse compression waveforms, synthetic
+aperture radar, tracking and scanning radars, HF (OTH) radar,
+radar environmental and remote sensing, radar astronomy. Prerequisite:
+senior or graduate standing.
+3 units, not given this year
+EE 256. Numerical Electromagnetics
+Principles and applications of numerical techniques for solving
+practical electromagnetics problems. Time domain solutions of
+Maxwell's equations. Finite difference time domain (FDTD) methods.
+Numerical stability, dispersion, and dissipation. Absorbing
+boundary conditions. Perfectly matched layer methods. Explicit
+and implicit methods. FDTD modeling of propagation and scattering
+in dispersive and anisotropic media. Near-to-far-zone transformations.
+Computational problems require programming and use
+of MATLAB and other tools. Prerequisite: 242 or equivalent.
+3 units, not given this year
+EE 257. Scientific Data Processing
+(Same as GEOPHYS 258) Assimilation, processing, and modeling
+of large observational data sets. Solution of scientific and engineering
+problems, especially those requiring large amounts of data.
+Inverse methods and transform domain analysis for indirect measurements,
+implemented on digital computers using scientific languages.
+Large-scale computing, including hardware architectures,
+input/output and data bus bandwidth, programming efficiency,
+parallel programming techniques. Student projects involve analyzing
+real data by implementing an observational system such as
+tomography for medical and Earth observation uses, radar and
+matched filtering, multispectral/multitemporal studies, or migration
+processing. Prequisites: Programming with high level language
+3-4 units, Win (Zebker, H)
+EE 261. The Fourier Transform and Its Applications
+The Fourier transform as a tool for solving physical problems.
+Fourier series, the Fourier transform of continuous and discrete
+signals and its properties. The Dirac delta, distributions, and generalized
+transforms. Convolutions and correlations and applications;
+probability distributions, sampling theory, filters, and analysis
+of linear systems. The discrete Fourier transform and the FFT
+algorithm. Multidimensional Fourier transform and use in imaging.
+Further applications to optics, crystallography. Emphasis is on
+relating the theoretical principles to solving practical engineering
+and science problems. Prerequisites: Math through ODEs, Fourier
+series at the level of 102A, and linear algebra.
+3 units, Aut (Osgood, B), Win (Gill, J), Sum (Staff)
+EE 262. Two-Dimensional Imaging
+Time and frequency representations, two-dimensional auto- and
+cross-correlation, Fourier spectra, diffraction and antennas, coordinate
+systems and the Hankel and Abel transforms, line integrals,
+impulses and sampling, restoration in the presence of noise, reconstruction
+and tomography, imaging radar. Tomographic reconstruction
+using projection-slice and layergarm methods. Students
+create software to form images using these techniques with actual
+data. Final project consists of design and simulation of an advanced
+imaging system. Prerequisite: 261. Recommended: 278,
+279.
+3 units, not given this year
+EE 263. Introduction to Linear Dynamical Systems
+(Same as CME 263) Applied linear algebra and linear dynamical
+systems with application to circuits, signal processing, communications,
+and control systems. Topics: least-squares approximations
+of over-determined equations and least-norm solutions of underdetermined
+equations. Symmetric matrices, matrix norm, and singular
+value decomposition. Eigenvalues, left and right eigenvectors,
+with dynamical interpretation. Matrix exponential, stability, and
+asymptotic behavior. Multi-input/multi-output systems, impulse
+and step matrices; convolution and transfer matrix descriptions.
+Control, reachability, and state transfer; observability and leastsquares
+state estimation. Prerequisites: linear algebra and matrices
+as in MATH 103; differential equations and Laplace transforms as
+in EE 102A.
+3 units, Aut (Boyd, S), Spr (Lall, S)
+EE 264. Digital Signal Processing
+The fundamentals of digital signal processing techniques and their
+applications. Topics include review of two sided Z-transform,
+linear time invariant discrete-time systems, and sampling theory;
+A/D and D/A conversion, rate conversion, and oversampling techniques
+for ADC and DAC; filter design; quantization in digital
+filter implementation; discrete Fourier analysis; and parametric
+signal modeling. Prerequisite: EE102A and EE102B . Recommended:
+EE261, EE278.
+3 units, Win (Schafer, R), Sum (Staff)
+EE 265. Digital Signal Processing Laboratory
+Applying 102A,B to real-world signal processing applications. Lab
+exercises use a programmable DSP to implement signal processing
+tasks. Topics: A/D conversion and quantization, sampling theorem,
+Z-transform, discrete-time Fourier transform, digital filter design
+and implementation, spectral analysis, rate conversion, wireless
+data communication, and OFDM receiver design. Prerequisites:
+102A,B. Recommended: 261.
+3-4 units, Spr (Meng, T)
+EE 268. Introduction to Modern Optics
+Geometrical optics: ray matrices, Gaussian beams, optical instruments,
+and radiometry. Wave nature of light: Maxwell's equations,
+propagation through media with varying index of refraction (e.g.,
+fibers). Interferometry: basic principles, practical systems, and
+applications.
+3 units, Aut (Byer, R)
+EE 271. Introduction to VLSI Systems
+Provides a quick introduction to MOS transistors and IC fabrication
+and then creates abstractions to allow you to create and reason
+STANFORD BULLETIN, 2010-11 | 591
+ELECTRICAL ENGINEERING (EE) COURSES
+about complex digital systems. It uses a switch resistor model of a
+transistor, uses it to model gates, and then shows how gates and
+physical layout can be synthesized from Verilog or SystemVerilog
+descriptions. Most of the class will be spent on providing techniques
+to create designs that can be validated, are low power, provide
+good performance, and can be completed in finite time. Prerequisites:
+101A and 108B; familiarity with transistors, logic design,
+Verilog, and digital system organization.
+3 units, Aut (Horowitz, M)
+EE 272. Design Projects in VLSI Systems
+Mixed signal design. Student teams create a small mixed-signal
+VLSI design using a modern design flow and CAD tools. The
+project involves writing a Verilog model of the chip, creating a
+testing/debug strategy for the chip, wrapping custom layout to fit
+into a std cell system, using synthesis and place and route tools to
+create the layout of your chip, and understanding all the stuff you
+need to do to tape-out a chip. Useful for those who plan to build a
+chip in their Ph.D. work. Prerequisites: EE 271 and experience in
+digital/analog circuit design.
+3-4 units, Spr (Horowitz, M)
+EE 273. Digital Systems Engineering
+Electrical issues in the design of high-performance digital systems,
+including signaling, timing, synchronization, noise, and power
+distribution. High-speed signaling methods; noise in digital systems,
+its effect on signaling, and methods for noise reduction; timing
+conventions; timing noise (skew and jitter), its effect on systems,
+and methods for mitigating timing noise; synchronization
+issues and synchronizer design; clock and power distribution problems
+and techniques; impact of electrical issues on system architecture
+and design. Prerequisites: 102B and 108A, or equivalents.
+Recommended: 214.
+3 units, Win (Weaver, J)
+EE 276. Introduction to Wireless Personal Communications
+Frequency reuse, cellular concepts, cochannel interference,
+handoff. Radio propagation in and around buildings: Friis equation,
+multipath, narrow-band and wide-band channels, small scale
+and large-scale statistics, space and time signal variation. Diversity.
+Receiver sensitivity, sources of noise, range. Performance
+statistics: coverage, margin, digital modulation, adjacent channel
+interference, and digital error rates. Wide band channels: maximum
+transmission rates. Multi-server queuing and traffic: Erlang
+formulas. Multiple access: FDMA, TDMA, CDMA; Duplexing:
+TDD, FDD. Prerequisites: 242 and 278 or equivalent. Corequisite:
+279 or equivalent.
+3 units, Spr (Cox, D)
+EE 278. Introduction to Statistical Signal Processing
+Random variables, vectors, and processes; convergence and limit
+theorems; IID, independent increment, Markov, and Gaussian
+random processes; stationary random processes; autocorrelation
+and power spectral density; mean square error estimation, detection,
+and linear estimation. Prerequisites: 178 or STATS 116, and
+linear systems and Fourier transforms at the level of 102A,B or
+261.
+3 units, Aut (Prabhakar, B), Win (Gray, R), Sum (Staff)
+EE 279. Introduction to Communication Systems
+Analysis and design of communication systems; analog and digital
+modulation and demodulation, frequency conversion, multiplexing,
+noise and distortion; spectral and signal-to-noise ratio analysis,
+probability of error in digital systems, spread spectrum. Prerequisites:
+179 or 261, and 178 or 278.
+3 units, Win (Cox, D)
+EE 282. Computer Systems Architecture
+Course focuses on how to build modern computing systems,
+namely notebooks, smartphones, and data centers, covering primarily
+their hardware architecture and certain system software
+aspects. For each system class, we cover the system architecture,
+processor technology, advanced memory hierarchy and I/O organization,
+power and energy management, and reliability. We will
+also cover topics such as interactions with system software, virtualization,
+solid state storage, and security. The programming assignments
+allow students to explore performance/energy tradeoffs
+when using heterogeneous hardware resources on smartphone
+devices. Prerequisite: EE108B. Recommended: CS 140.
+3 units, Spr (Staff)
+EE 284. Introduction to Computer Networks
+Structure and components of computer networks; functions and
+services; packet switching; layered architectures; OSI reference
+model; physical layer; data link layer; error control; window flow
+control; media access control protocols used in local area networks
+(Ethernet, Token Ring, FDDI) and satellite networks; network
+layer (datagram service, virtual circuit service, routing, congestion
+control, Internet Protocol); transport layer (UDP, TCP); application
+layer.
+3 units, Aut (Tobagi, F)
+EE 290A. Curricular Practical Training for Electrical Engineers
+For EE majors who need work experience as part of their program
+of study. Final report required. Prerequisites: for 290B, candidacy
+for Engineer or Ph.D. in Electrical Engineering; for 290C, candidacy
+for Ph.D. degree in Electrical Engineering; for 290D, consent
+of instructor.
+1 unit, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 290B. Curricular Practical Training for Electrical Engineers
+For EE majors who need work experience as part of their program
+of study. Final report required. Prerequisites: for 290B, candidacy
+for Engineer or Ph.D. in Electrical Engineering; for 290C, candidacy
+for Ph.D. degree in Electrical Engineering; for 290D, consent
+of instructor.
+1 unit, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 290C. Curricular Practical Training for Electrical Engineers
+For EE majors who need work experience as part of their program
+of study. Final report required. Prerequisites: for 290B, candidacy
+for Engineer or Ph.D. in Electrical Engineering; for 290C, candidacy
+for Ph.D. degree in Electrical Engineering; for 290D, consent
+of instructor.
+1 unit, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 290D. Curricular Practical Training for Electrical Engineers
+For EE majors who need work experience as part of their program
+of study. Final report required. Prerequisites: for 290B, candidacy
+for Engineer or Ph.D. in Electrical Engineering; for 290C, candidacy
+for Ph.D. degree in Electrical Engineering; for 290D, consent
+of instructor.
+1 unit, Spr (Staff), Sum (Staff)
+EE 292E. Analysis and Control of Markov Chains
+Finite-state and countable-state Markov chains. Controlled Markov
+chains and dynamic programming algorithms. Application to modeling
+and analysis of engineering systems. Prerequisites: 263, 278.
+3 units, not given this year
+EE 292G. Switch Mode Power Conversion
+Power conversion fundamentals including linear/shunt regulators,
+charge pumps, Buck, Boost, Buck-Boost, SEPIC, Cuk, and Flyback
+converters, magnetic components, volt second balance, continuous/
+discontinuous mode, synchronous/non-synchronous operation,
+voltage/current mode control, fixed frequency PWM and
+constant on or off time control, control loop analysis, compensator
+design, RMS/average value calculations for PWM current waveforms,
+inductor, capacitor, and MOSFET parasitics, output ripple,
+transient response, gate drive strategies, efficiency prediction, soft
+start, current limit, efficiency and power loss plots. Prerequisites:
+EE114
+3 units, Spr (Leman, B)
+EE 293A. Fundamentals of Energy Processes
+(Same as ENERGY 293A) For seniors and graduate students.
+Thermodynamics, heat engines, thermoelectics, biomass. Recommended:
+MATH 41, 43; PHYSICS 41, 43, 45
+3-4 units, Aut (Brandt, A)
+EE 293B. Fundamentals of Energy Processes
+(Same as ENERGY 293B) For seniors and graduate students. Fuel
+cells. Production of hydrogen: electrolytic, chemical, thermolytic,
+photolytic. Hydrogen storage: hydrides. Photoelectric converters;
+photo-thermovoltaic converters. Wind turbines. Recommended:
+EE 293A; MATH 41; PHYSICS 41, 43, 45
+3 units, Win (da Rosa, A)
+592 | STANFORD BULLETIN, 2010-11
+COURSES OF INSTRUCTION
+2010-11
+EE 300. Master's Thesis and Thesis Research
+Independent work under the direction of a department faculty.
+Written thesis required for final letter grade. The continuing grade
+'N' is given in quarters prior to thesis submission. See 390 if a letter
+grade is not appropriate.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 302. Biomedical Electronics
+Biomedical electronics and instruments based on electrical engineering
+for diagnostics and therapeutic treatments of biological
+systems, focusing on the theory and design principles in modern
+biomedical electronics using electromagnetic properties. Topics
+include circuit design for implanted medical devices, physics and
+signal processing for medical imaging systems, techniques for
+neural measurements and neuro-decoding, and electronics for drug
+delivery. Prerequisites: EE 214, 264,and 265.
+3 units, Win (Poon, A)
+EE 303. Autonomous Implantable Systems
+How implantable systems can revolutionize health care in the coming
+decades. Potential applications include implantable sensors and
+monitoring devices for preventive and post-surgery monitoring;
+drug delivery systems that can be placed closer to cancer cells and
+are able to administer dosage automatically; medical robots that
+perform surgery inside patients with greater precision and less
+pain; and neural implants for brain-machine interface. Focus is on
+the analysis and design of remotely-powered, miniature implantable
+devices for those applications. Prerequisites: EE114
+3 units, Spr (Poon, A)
+EE 309. Semiconductor Memory Devices and Technology
+Focus is on the device physics and operation principles of
+nanoelectric devices. Topics identified by the International Technology
+Roadmap for Semiconductors, emerging research devices
+sec-tion; see http://www.itrs.net. Non-silicon-based devices such
+as carbon nanotubes, grapheme, semiconductor na-nowires, and
+molecular devices; and non-FET based devices such as single electron
+transistors (SET) and resonant tunneling diodes (RTD). Logic
+and memory devices are covered. Prerequisite: undergra-duate
+device physics, EE 222, EE 216. Recommended: EE 212, EE 223,
+EE 228, EE 311, and EE 316 Offered Alternate years. Offered in
+Spring, 2011 Prerequisite: 216. Recommended: 212, 311, 316.
+3 units, alternate years, not given this year
+EE 310. Integrated Circuits Technology and Design Seminar
+State-of-the-art micro- and nanoelectronics, nanotechnology, advanced
+materials, and nanoscience for device applications. Prerequisites:
+EE216, EE316.
+1 unit, Win (Nishi, Y; Wong, P; Saraswat, K)
+EE 311. Advanced Integrated Circuits Technology
+What are the practical and fundamental limits to the evolution of
+the technology of modern MOS devices and interconnects? How
+are modern devices and circuits fabricated and what future changes
+are likely? Advanced techniques and models of MOS devices and
+back-end (interconnect and contact) processing. What are future
+device structures and materials to maintain progress in integrated
+electronics? MOS front-end and back-end process integration.
+Prerequisites: EE212, EE216 or equivalent.
+3 units, Spr (Saraswat, K)
+EE 312. Micromachined Sensors and Actuators
+Solid-state sensors and actuators, focusing on the use of integrated
+circuit fabrication technology for their realization. Categories of
+sensors and actuators include biological, chemical, mechanical,
+optical, and thermal. Mechanisms of transduction, fabrication
+techniques, and relative merits of different technologies. Micromachining
+techniques for monolithic integration of active circuits
+with sensors or actuators. Directions for future research. Prerequisite:
+212 or equivalent.
+3 units, Win (Giovangrandi, L)
+EE 313. Digital MOS Integrated Circuits
+Looks a little more deeply at how digital circuits operate, what
+makes a gate digital, and how to ""cheat"" to improve performance
+or power. To aid this analysis we create a number of different
+models for MOS transistors and choose the simplest one that can
+explain our the circuit's operation, using both hand and computer
+analysis. We explore static, dynamic, pulse-mode, and current
+mode logic, and show how they are are used in SRAM design.
+Topics include sizing for min delay, noise and noise margins,
+power dissipation. The class uses memory design (SRAM) as a
+motivating example. DRAM and EEPROM design issues are also
+covered. Prerequisites: 101B, 108A. Recommended: 271.
+3 units, Win (Staff)
+EE 314. RF Integrated Circuit Design
+Design of RF integrated circuits for communications systems,
+primarily in CMOS. Topics: the design of matching networks and
+low-noise amplifiers at RF, mixers, modulators, and demodulators;
+review of classical control concepts necessary for oscillator design
+including PLLs and PLL-based frequency synthesizers. Design of
+low phase noise oscillators. Design of high-efficiency (e.g., class
+E, F) RF power amplifiers, coupling networks. Behavior and modeling
+of passive and active components at RF. Narrowband and
+broadband amplifiers; noise and distortion measures and mitigation
+methods. Overview of transceiver architectures. Prerequisite: 214.
+3 units, Spr (Lee, T)
+EE 315A. VLSI Signal Conditioning Circuits
+Design and analysis of integrated circuits for active filters, precision
+gain stages, and sensor interfaces in CMOS VLSI technology.
+Operational transconductance amplifiers; sampled-data and continuous-
+time analog filters. Analysis of noise and amplifier imperfections;
+compensation techniques such as correlated double sampling.
+Sensor interfaces for micro-electromechanical and biomedical
+applications. Layout techniques for analog integrated circuits.
+Prerequisites: EE214
+3 units, Spr (Murmann, B)
+EE 315B. VLSI Data Conversion Circuits
+Architectural and circuit level design and analysis of integrated
+analog-to-digital and digital-to-analog interfaces in CMOS VLSI
+technology. Fundamental circuit elements such as sampling circuits
+and voltage comparators. Circuits and architectures for Nyquist-
+rate and oversampling analog-to-digital and digital-to-analog
+conversion; digital decimation and interpolation filters. Examples
+of calibration and digital enhancement techniques. Prerequisite: EE
+214. Recommended: EE 315A.
+3 units, Aut (Murmann, B)
+EE 316. Advanced VLSI Devices
+In modern VLSI technologies, device electrical characteristics are
+sensitive to structural details and therefore to fabrication techniques.
+How are advanced VLSI devices designed and what future
+changes are likely? What are the implications for device electrical
+performance caused by fabrication techniques? Physical models
+for nanometer scale structures, control of electrical characteristics
+(threshold voltage, short channel effects, ballistic transport) in
+small structures, and alternative device structures for VLSI. Prerequisites:
+212 and 216, or equivalent.
+3 units, Win (Wong, P)
+EE 317. Micropatterning for Integrated Circuits
+The fundamentals of generating submicron patterns in integrated
+circuit manufacturing. Technologies include the formation of submicron
+images of ultraviolet light, the resulting exposure of polymeric
+resists, the subsequent development of resist patterns and
+their transfer into functional circuit material patterns through
+plasma etching and other techniques. Use of phase-shifting masks
+and other wavefront-engineering approaches. Hands-on computer
+simulations. Prerequisites: 141 or equivalent, 212 or equivalent.
+3 units, not given this year
+EE 319. Advanced Nanoelectronic Devices and Technology
+Recent advances in materials science, device physics and structures,
+and processing technology, to extend VLS1 device scaling
+towards atomistic and quantum-mechanical physics boundaries.
+Topics include: mobility-enhancement techniques; nanomaterial
+structures including tube, wire, beam, and crystal; conducting
+polymer; 3D FET; gate-wraparound FET; nonvolatile memory
+phenomena and devices; self-assembly; flash annealing; plasma
+doping; and nano pattering. Prerequisites: 216, 316.
+3 units, not given this year
+EE 320. Nanoelectronics
+Focus is on the device physics and operation principles of
+nanoelectric devices. Topics identified by the International Technology
+Roadmap for Semiconductors, emerging research devices
+section; see http://www.itrs.net. Non-silicon-based devices such as
+carbon nanotubes, grapheme, semiconductor nanowires, and molecular
+devices; and non-FET based devices such as single electron
+transistors (SET) and resonant tunneling diodes (RTD). Logic and
+memory devices. Offered alternative years. Prerequisites: underSTANFORD
+BULLETIN, 2010-11 | 593
+ELECTRICAL ENGINEERING (EE) COURSES
+graduate device physics, EE 222, 216. Recommended: EE 223,
+228, or 316.
+3 units, Spr (Wong, P)
+EE 322. Molecular Electronics and Photonics
+Physics of charge and energy transfer in molecular systems and
+connection with traditional mesoscopic transport theories. Analysis
+of molecular organic light-emitting diodes, photovoltaic cells and
+transistors. Technology and applications of molecular semiconductors.
+Prerequisite: 228 or equivalent.
+3 units, not given this year
+EE 327. Properties of Semiconductor Materials
+Modern semiconductor devices and integrated circuits are based on
+unique energy band, carrier transport, and optical properties of
+semiconductor materials. How to choose these properties for operation
+of semiconductor devices. Emphasis is on quantum
+mechanical foundations of the properties of solids, energy bandgap
+engineering, semi-classical transport theory, semi-conductor statistics,
+carrier scattering, electro-magneto transport effects, high field
+ballistic transport, Boltzmann transport equation, quantum mechanical
+transitions, optical absorption, and radiative and nonradiative
+recombination that are the foundations of modern transistors
+and optoelectronic devices. Prerequisites: EE216 or equivalent.
+3 units, Spr (Harris, J)
+EE 328. Physics of Advanced Semiconductor Devices
+Principles governing the operation of modern semiconductor devices.
+Assumptions and approximations commonly made in analyzing
+devices. Emphasis is on the application of semiconductor
+physics to the development of advanced semiconductor devices
+such as heterojunctions, HJ-bipolar transistors, HJ-FETs, nanostructures,
+tunneling, single electron transistor and photonic devices.
+Use of SENTARUS, a 2-D Poisson solver, for simulation of
+ultra-small devices. Examples related to state-of-the-art devices
+and current device research. Prerequisite: 216. Recommended:
+316.
+3 units, not given this year
+EE 329. The Electronic Structure of Surfaces and Interfaces
+Physical concepts and phenomena for surface science techniques
+probing the electronic and chemical structure of surfaces, interfaces
+and nanomaterials. Microscopic and atomic models of microstructures;
+applications including semiconductor device technology,
+catalysis and energy. Physical processes of UV and X¿ray
+photoemission spectroscopy, Auger electron spectroscopy, surface
+EXAFS, low energy electron diffraction, electron/photon stimulated
+ion desorption, scanning tunneling spectroscopy, ion scattering,
+energy loss spectroscopy and related imaging methods; and
+experimental aspects of these surface science techniques. Prerequisites:
+PHYSICS 70 and MATSCI 199/209, or consent of instructor.
+3 units, Aut (Pianetta, P)
+EE 334. Micro and Nano Optical Device Design
+Lecture and project course on design and analysis of optical devices
+with emphasis on opportunities and challenges created by
+scaling to the micrometer and nanometer ranges. The emphasis is
+on fundamentals, combined with some coverage of practical implementations.
+Prerequisite: 242 or equivalent
+3 units, Aut (Solgaard, O)
+EE 336. Nanophotonics
+(Same as MATSCI 346) Recent developments in micro- and nanophotonic
+materials and devices. Basic concepts of photonic crystals.
+Integrated photonic circuits. Photonic crystal fibers. Superprism
+effects. Optical properties of metallic nanostructures. Subwavelength
+phenomena and plasmonic excitations. Meta-materials.
+Prerequisite: electromagnetic theory at the level of 242.
+3 units, Win (Fan, S; Brongersma, M)
+EE 340. Optical micro- and nano-cavities
+Optical micro- and nano-cavities and their device applications.
+Types of optical cavities (microdisks, microspheres, photonic crystal
+cavities, plasmonic cavities), and their electromagnetic properties,
+design, and fabrication techniques. Cavity quantum electrodynamics:
+strong and weak-coupling regime, Purcell factor, spontaneous
+emission control. Applications of optical cavities, including
+low-threshold lasers, optical modulators, quantum information
+processing devices, and bio-chemical sensors. Prerequisites: advanced
+undergraduate or basic graduate-level knowledge of electromagnetics,
+quantum mechanics, and physics of semiconductors.
+3 units, Spr (Vuckovic, J)
+EE 343. Advanced Optoelectronic Devices
+Semiconductor quantum well structures; superlattices and coupled
+quantum wells; optical properties of quantum wells; valence band
+structure; effects of strain; quantum well lasers; intersubband detectors;
+excitons in quantum wells; absorption saturation; electroabsorption;
+quantum well modulators and switches. Prerequisites:
+222 or equivalent quantum mechanics, 243. Recommended: 223.
+3 units, not given this year
+EE 344. High Frequency Laboratory
+Lecture/lab emphasizing lab. Techniques in the 1MHz-1GHz range
+useful in designing and measuring oscillators, amplifiers, and mixers.
+High frequency measurement techniques including sparameter
+measurements, amplifier noise figure, and oscillator
+phase noise. Guest speakers from Lucent and Hewlett-Packard.
+Enrollment limited to 25. Prerequisites: transmission lines, Smith
+charts. Recommended: 314.
+3 units, Aut (Scherer, D; Swain, H; Cox, D)
+EE 345. Optical Fiber Communication Laboratory
+Experimental techniques in optical fiber communications and networking.
+Experimental investigation of key optical communications
+components including fibers, lasers, modulators, photodiodes,
+optical amplifiers, and WDM multiplexers and demultiplexers.
+Fundamental optical communications systems techniques:
+eye diagrams, BER measurements, experimental evaluation of
+nonlinearties. Prerequisites: Undergraduate physics and optics.
+3 units, Spr (Kazovsky, L)
+EE 346. Introduction to Nonlinear Optics
+Wave propagation in anisotropic, nonlinear, and time-varying media.
+Microscopic and macroscopic description of electric dipole
+susceptibilities. Free and forced waves-phasematching; slowly
+varying envelope approximation-dispersion, diffraction, spacetime
+analogy; harmonic generation; frequency conversion; parametric
+amplification and oscillation; electro-optic light modulation;
+nonlinear processes in optical fibers. Prerequisites: 141, 242.
+3 units, Spr (Fejer, M)
+EE 347. Optical Methods in Engineering Science
+Design and understanding of modern optical systems. Topics:
+geometrical optics; aberration theory; systems layout; applications
+such as microscopes, telescopes, optical processors. Computer ray
+tracing program as a design tool. Prerequisite: 268 or 366, or
+equivalent.
+3 units, not given this year
+EE 348. Advanced Optical Fiber Communications
+Optical amplifiers: gain, saturation, noise. Semiconductor amplifiers.
+Erbium-doped fiber amplifiers. System applications: preamplified
+receiver performance, amplifier chains. Raman amplifiers,
+lumped vs. distributed amplification. Group-velocity dispersion
+management: dispersion-compensating fibers, filters, gratings.
+Interaction of dispersion and nonlinearity, dispersion maps. Multichannel
+systems. Wavelength-division multiplexing components:
+filters, multiplexers. WDM systems, crosstalk. Time, subcarrier,
+code and polarization-division multiplexing. Comparison of modulation
+techniques: differential phase-shift keying, phase-shift keying,
+quadrature-amplitude modulation. Comparison of detection
+techniques: noncoherent, differentially coherent, coherent. Prerequisite:
+247.
+3 units, not given this year
+EE 349. Nano Optics and Grating Photonics
+Coupled wave analysis of periodic structures, gratings structures
+for optical communcations, wave-matter interactions with periodic
+media and photonic crystals, applications of periodic structures.
+Prerequisite: 268 or 366, or equivalent.
+3 units, Win (Hesselink, L)
+594 | STANFORD BULLETIN, 2010-11
+COURSES OF INSTRUCTION
+2010-11
+EE 350. STARLab Seminar
+Research topics from space physics, planetary exploration, ionospheric
+and magnetospheric physics, radar and remote sensing of
+the environment, applied electromagnetics, waves in optical fibers,
+and information systems with space applications. Applied research
+areas include wireless personal communications, high bandwidth
+wired and wireless transmission, optical communication systems,
+sensor networks, and related underlying and advancing technologies.
+1 unit, not given this year
+EE 354. Introduction to Radio Wave Scattering
+Integral and differential equations of radio wave scattering; exact,
+approximate, and numerical solutions of single particle scattering
+for spheres, edges, points, and cylinders. Scattering from rough
+surfaces with large and small roughness scales, as time permits.
+Multiple scattering; formulation and solution techniques for equation
+of transfer in discrete media and scattering by continuous
+media in weak and strong regimes. Applications to radar, radar
+astronomy, remote sensing, and biological media. Prerequisites:
+electromagnetic theory through standard graduate engineering
+topics; partial differential equations, boundary value problems in
+rectangular and spherical coordinates; and consent of instructor.
+3 units, not given this year
+EE 355. Imaging Radar and Applications
+(Same as GEOPHYS 265) Radar remote sensing, radar image
+characteristics, viewing geometry, range coding, synthetic aperture
+processing, correlation, range migration, range/Doppler algorithms,
+wave domain algorithms, polar algorithm, polarimetric
+processing, interferometric measurements. Applications: surfafe
+deformation, polarimetry and target discrimination, topographic
+mapping surface displacements, velocities of ice fields. Prerequisites:
+EE261
+3 units, Win (Zebker, H)
+EE 356. Elementary Plasma Physics: Principles and Applications
+Plasmas in nature and industry. Single particle motions. Plasma
+kinetic theory. Boltzmann equation and its moments. Cold and
+warm plasma models. Plasma as a fluid. Magnetohydrodynamics.
+Plasma conductivity and diffusion. Langmuir oscillations. Debye
+shielding. Plasma sheath. Waves in cold, magnetized, warm, and
+hot plasmas. Electron and ion waves. MHD waves. Landau damping.
+Nonlinear effects. Applications in industry and space science.
+Prerequisite: 242 or PHYSICS 122.
+3 units, not given this year
+EE 359. Wireless Communications
+This course will cover advanced topics in wireless communications
+for voice, data, and multimedia. Topics include: an overview
+of current and future wireless systems; wireless channel models
+including path loss, shadowing, and statistical multipath channel
+models; fundamental capacity limits of wireless channels; digital
+modulation and its performance in fading and intersymbol interference;
+techniques to combat fading including adaptive modulation,
+diversity, and multiple antenna systems (MIMO); techniques to
+combat intersymbol interference including equalization, multicarrier
+modulation (OFDM), and spread spectrum; and an overview of
+wireless network design. Prerequisite: 279.
+3-4 units, Aut (Goldsmith, A)
+EE 363. Linear Dynamic Systems
+Continuation of 263. Optimal control and dynamic programming;
+linear quadratic regulator. Lyapunov theory and methods. Linear
+estimation and the Kalman filter. Perron-Frobenius theory. Examples
+and applications from digital filters, circuits, signal processing,
+and control systems. Prerequisites: 263 or equivalent; basic
+probability.
+3 units, not given this year
+EE 364A. Convex Optimization I
+(Same as CME 364A) Convex sets, functions, and optimization
+problems. The basics of convex analysis and theory of convex
+programming: optimality conditions, duality theory, theorems of
+alternative, and applications. Least-squares, linear and quadratic
+programs, semidefinite programming, and geometric programming.
+Numerical algorithms for smooth and equality constrained
+problems; interior-point methods for inequality constrained problems.
+Applications to signal processing, communications, control,
+analog and digital circuit design, computational geometry, statistics,
+machine learning, and mechanical engineering. Prerequisite:
+linear algebra such as 263.
+3 units, Win (Boyd, S)
+EE 364B. Convex Optimization II
+(Same as CME 364B) Continuation of 364. Subgradient, cuttingplane,
+and ellipsoid methods. Decentralized convex optimization
+via primal and dual decomposition. Exploiting problem structure in
+implementation. Convex relaxations of hard problems. Global
+optimization via branch and bound. Robust and stochastic optimization.
+Applications in areas such as control, circuit design, signal
+processing, and communications. Substantial project. Prerequisite:
+364A.
+3 units, Spr (Boyd, S)
+EE 366. Introduction to Fourier Optics
+Applications of Fourier theory to the analysis and synthesis of
+optical imaging and optical data processing systems. Propagation
+and diffraction of light, Fresnel and Fraunhofer approximations,
+Fourier transforming properties of lenses, image formation with
+coherent and incoherent light, transform functions of imaging systems,
+optical data processing, and holography. Prerequisite: familiarity
+with Fourier analysis. Recommended: 261.
+3 units, not given this year
+EE 368. Digital Image Processing
+Image sampling and quantization color, point operations, segmentation,
+morphological image processing, linear image filtering and
+correlation, image transforms, eigenimages, multiresolution image
+processing, wavelets, noise reduction and restoration, feature extraction
+and recognition tasks, image registration. Emphasis is on
+the general principles of image processing. Students write and
+investigate image processing algorithms in Matlab. Term project.
+Prerequisites: 261, 278.
+3 units, Spr (Girod, B)
+EE 369A. Medical Imaging Systems I
+Imaging internal structures within the body using high-energy
+radiation studied from a systems viewpoint. Modalities covered: xray,
+computed tomography, and nuclear medicine. Analysis of
+existing and proposed systems in terms of resolution, frequency
+response, detection sensitivity, noise, and potential for improved
+diagnosis. Prerequisite: 261.
+3 units, Win (Nishimura, D)
+EE 369B. Medical Imaging Systems II
+Imaging internal structures within the body using non-ionizing
+radiation studied from a systems viewpoint. Modalities include
+ultrasound and magnetic resonance. Analysis of ultrasonic systems
+including diffraction and noise. Analysis of magnetic resonance
+systems including physics, Fourier properties of image formation,
+and noise. Prerequisite: 261.
+3 units, Spr (Nishimura, D)
+EE 369C. Medical Image Reconstruction
+Reconstruction problems from medical imaging, including magnetic
+resonance imaging (MRI), computed tomography (CT), and
+positron emission tomography (PET). Problems include reconstruction
+from non-uniform frequency domain data, automatic
+deblurring, phase unwrapping, reconstruction from incomplete
+data, and reconstruction from projections. Prerequisite: 369B.
+3 units, not given this year
+EE 371. Advanced VLSI Circuit Design
+Design of high-performance digital systems, the things that cause
+them to fail, and how to avoid these problems. Topics will focus
+on current issues including: wiring resistance and how to deal with
+it, power and Gnd noise and regulation, clock (or asynchronous)
+system design and how to minimize clocking overhead, high-speed
+I/O design, energy minimization including leakage control, and
+structuring your Verilog code to result in high-performance, low
+energy systems. Extensive use of modern CAD tools. Prerequisites:
+271 and 313, or consent of instructor.
+3 units, not given this year
+EE 374. Inference in Graphical Models
+Probabilistic models with sparse graphical structures, lowcomplexity
+inference algorithms, and their analysis. Algorithmic
+methods: variational inference; message passing algorithms; belief
+propagation; generalized belief propagation; survey propagation.
+Learning graphical models, structural learning. Applications/
+examples include: Gaussian models with sparse inverse covariance;
+hidden Markov models (Viterbi and BCJR algorithms,
+STANFORD BULLETIN, 2010-11 | 595
+ELECTRICAL ENGINEERING (EE) COURSES
+Kalman filter); computer vision (segmentation, tracking, etc); constraint
+satisfaction problems; machine learning (clustering, classification);
+communications. Prerequisite: 278, STATS 116, or CS
+228. Recommended: 376A or STATS 217/218.
+3 units, not given this year
+EE 376A. Information Theory
+(Same as STATS 376A) The fundamental ideas of information
+theory. Entropy and intrinsic randomness. Data compression to the
+entropy limit. Huffman coding. Arithmetic coding. Channel capacity,
+the communication limit. Gaussian channels. Kolmogorov
+complexity. Asymptotic equipartition property. Information theory
+and Kelly gambling. Applications to communication and data
+compression. Prerequisite: EE178 or EE278 or STATS 116, or
+equivalent.
+3 units, Win (Cover, T)
+EE 376B. Information Theory
+(Same as STATS 376B) Rate distortion theory and Kolmogorov
+complexity. Information theory and statistics. Method of types.
+Stein's lemma. AEP. Information capacity of networks. Slepian-
+Wolf theorem. Optimal investment and information theory. Universal
+portfolios and universal data compression. Maximum entropy
+and Burg's theorem. Prerequisite: EE376A.
+3 units, Spr (Cover, T)
+EE 378A. Statistical Signal Processing
+Random signals in electrical engineering. Discrete-time random
+processes: stationarity and ergodicity, covariance sequences, power
+spectral density, parametric models for stationary processes.
+Fundamentals of linear estimation: minimum mean squared error
+estimation, optimum linear estimation, orthogonality principle, the
+Wold decomposition. Causal linear estimation of stationary processes:
+the causal Wiener filter, Kalman filtering. Parameter estimation:
+criteria of goodness of estimators, Fisher information,
+Cramer-Rao inequality, Chapman-Robbins inequality, maximum
+likelihood estimation, method of moments, consistency, efficiency.
+ARMA parameter estimation: Yule-Walker equations, Levinson-
+Durbin algorithm, least squares estimation, moving average parameter
+estimation, modified Yule-Walker method for model order
+selection. Spectrum estimation: sample covariances, covariance
+estimation, Bartlett formula, periodogram, periodogram averaging,
+windowed periodograms. Prerequisites: EE 278
+3 units, Win (Weissman, I)
+EE 378B. Inference, Estimation, and Information Processing
+Techniques and models for signal, data and information processing,
+with emphasis on incomplete data, non-ordered index sets and
+robust low-complexity methods. Linear models; regularization and
+shrinkage; dimensionality reduction; streaming algorithms; sketching;
+clustering, search in high dimension; low-rank models; principal
+component analysis. Applications include: positioning from
+pairwise distances; distributed sensing; measurement/traffic monitoring
+in networks; finding communities/clusters in networks; recommendation
+systems; inverse problems. Prerequisites: EE278 and
+EE263 or equivalent. Recommended but not required: EE378 A
+3 units, Spr (Montanari, A)
+EE 379. Digital Communication
+Modulation methods and bandwidth requirements, baseband and
+passband system analysis, minimum-probability-of-error and
+maximum-likelihood detection, error-probability analysis, intersymbol
+interference, maximum-likelihood sequence detection,
+equalization methods, orthogonal frequency-division multiplexing.
+Prerequisite: EE102B, EE278
+3 units, Win (Kahn, J)
+EE 380. Colloquium on Computer Systems
+Live presentations of current research in the design, implementation,
+analysis, and applications of computer systems. Topics range
+over a wide range and are different every quarter. Topics may
+include fundamental science, mathematics, cryptography, device
+physics, integrated circuits, computer architecture, programming,
+programming languages, optimization, applications, simulation,
+graphics, social implications, venture capital, patent and copyright
+law, networks, computer security, and other topics of related to
+computer systems.
+1 unit, Aut (Allison, D; Freeman, J), Win (Allison, D; Freeman,
+J), Spr (Allison, D; Freeman, J), Sum (Allison, D; Freeman, J)
+EE 382A. Advanced Processor Architecture
+Provides in-depth coverage of fundamental architecture and implementation
+techniques for modern processor chips. Course covers
+topics such as advanced pipelining, superscalar execution, outof-
+order processing, speculative execution, VLIW, data parallelism,
+multithreading, graphics processors, and multi-core chips. The
+students will become familiar with complex trade-offs between
+performance-power-complexity and the common techniques for
+addressing the challenges in historical and modern processors. A
+central part of EE382A is a group project on an open research
+question. Prerequisites: EE108B, CS140. Recommended: EE282,
+CS315A
+3 units, Aut (Kozyrakis, C)
+EE 382C. Interconnection Networks
+The architecture and design of interconnection networks used to
+communicate from processor to memory, from processor to processor,
+and in switches and routers. Topics: network topology, routing
+methods, flow control, router microarchitecture, and performance
+analysis. Enrollment limited to 30. Prerequisite: 282.
+3 units, Spr (Dally, W)
+EE 382D. Advanced Computer Arithmetic
+Number systems, floating point representation, state of the art in
+arithmetic algorithms, problems in the design of high speed arithmetic
+units. Prerequisite: 282.
+3 units, not given this year
+EE 384A. Internet Routing Protocols and Standards
+Local area networks addressing and switching; IEEE 802.1 bridging
+protocols (transparent bridging, virtual LANs). Internet routing
+protocols: interior gateways (RIP, OSPF) and exterior gateways
+(BGP); multicast routing; multiprotocol label switching (MPLS).
+Routing in mobile networks: Mobile IP, Mobile Ad Hoc Networks
+(MANET), Wireless Mesh Networks. Prerequisite: 284 or CS 144.
+3 units, Win (Tobagi, F)
+EE 384B. Multimedia Communication over the Internet
+Applications and requirements. Traffic generation and characterization:
+voice encoding (G.711, G.729, G.723); image and video
+compression (JPEG, H.261, MPEG-2, H.263, H.264), TCP data
+traffic. Quality impairments and measures. Networking technologies:
+LAN technologies; home broadband services (ADSL, cable
+modems, PONs); and wireless LANs (802.11). Network protocols
+for multimedia applications: resource reservation (ST2+, RSVP);
+differentiated services (DiffServ); and real-time transport protocol
+(RTP, RTCP). Audio-video-data conferencing standards: Internet
+architecture (SDP, SAP, SIP); ITU recommendations (H.320,
+H.323 and T.120); and real-time streaming protocol (RTSP). Prerequisite:
+284 or CS 144. Recommended: 384A.
+3 units, not given this year
+EE 384C. Wireless Local Area Networks
+Characteristics of wireless communication: multipath, noise, and
+interference. Communications techniques: spread-spectrum,
+CDMA, and OFDM. IEEE 802.11 physical layer specifications:
+FHSS, DSSS, IEEE 802.11b (CCK), and 802.11a/g (OFDM).
+IEEE 802.11 media access control protocols: carrier sense multiple
+access with collision avoidance (CSMA/CA), point coordination
+function (PCF), IEEE802.11e for differentiated services. IEEE
+802.11 network architecture: ad hoc and infrastructure modes,
+access point functionality. Management functions: synchronization,
+power management and association. Current research papers
+in the open literature. Prerequisite: 284 or CS 244A.
+3 units, Spr (Tobagi, F)
+EE 384E. Wireless Networking
+(Same as CS 244E) Design and implementation of wireless networks
+and mobile systems. The course will commence with a short
+retrospective of wireless communication and initially touch on
+some of the fundamental physical layer properties of various wireless
+communication technologies. The focus will then shift to design
+of media access control and routing layers for various wireless
+systems. The course will also examine adaptations necessary at
+transport and higher layers to cope with node mobility and errorprone
+nature of the wireless medium. Finally, it will conclude with
+a brief overview of other related issues including emerging wireless/
+mobile applications. Prerequisites: EE 284
+3 units, Win (Katti, S; Levis, P)
+596 | STANFORD BULLETIN, 2010-11
+COURSES OF INSTRUCTION
+2010-11
+EE 384M. Network Science
+Modern large-scale networks consist of (i) Information Networks,
+such as the Web and Social Networks, and (ii) Data Centers, which
+are networks interconnecting computing and storage elements for
+servicing the users of an Information Network. This course is concerned
+with the mathematical models and the algorithms used in
+Information Networks and Data Centers. Prerequisite: 278 or CS
+365.
+3 units, not given this year
+EE 384P. Projects: The Programmable Open Mobile Internet
+(POMI)
+A new Stanford research program in EE and CS to define the next
+generation of mobile computing: from the handheld device and its
+operating system to the network, radios, and cloud computing that
+supports the user. Small student teams prototype part of the next
+Internet architecture. Emphasis is on how the Internet can support
+billions of mobile users. Prerequisite: EE 284, CS 244A, CS 144,
+or equivalents, and programming skills.
+3 units, not given this year
+EE 384S. Performance Engineering of Computer Systems and
+Networks
+Modeling and control methodologies for high-performance network
+engineering, including: Markov chains and stochastic modeling,
+queueing networks and congestion management, dynamic
+programming and task/processor scheduling, network dimensioning
+and optimization, and simulation methods. Applications for
+design of high-performance architectures for wireline/wireless
+networks and the Internet, including: traffic modeling, admission
+and congestion control, quality of service support, power control in
+wireless networks, packet scheduling in switches, video streaming
+over wireless links, and virus/worm propagation dynamics and
+countermeasures. Enrollment limited to 30. Prerequisites: basic
+networking technologies and probability.
+3 units, Spr (Bambos, N)
+EE 384X. Packet Switch Architectures I
+The theory and practice of designing packet switches, such as Internet
+routers, and Ethernet switches. Introduction: evolution of
+switches and routers. Output queued switches: motivation and
+methods for providing bandwidth and delay guarantees. Switching:
+output queueing, parallelism in switches, distributed shared memory
+switches, input-queued switches, combined input-output
+queued switches, how to make fast packet buffers, buffered crossbar
+switches. Scheduling input queued crossbars: connections with
+bipartite graph matching, algorithms for 100% throughput, practical
+algorithms and heuristics. Looking forward: Architectures and
+switches for data center networks. Prerequisites: EE284 or CS
+244A. Recommended: EE 178 or EE 278 or STAT 116.
+3 units, not given this year
+EE 385A. Robust and Testable Systems Seminar
+Student/faculty discussions of research problems in the design of
+reliable digital systems. Areas: fault-tolerant systems, design for
+testability, production testing, and system reliability. Emphasis is
+on student presentations and Ph.D. thesis research. May be repeated
+for credit. Prerequisite: consent of instructor.
+1-4 units, Aut (McCluskey, E; Mitra, S), Win (McCluskey, E;
+Mitra, S), Spr (McCluskey, E; Mitra, S), Sum (McCluskey, E)
+EE 386. Robust System Design
+Causes of system malfunctions; techniques for building robust
+systems that avoid or are resilient to such malfunctions through
+built-in error detection and correction, prediction, self-test, selfrecovery,
+and self-repair; case studies and new research problems.
+Prerequisites: 108A,B, 282.
+3 units, Spr (Mitra, S)
+EE 387. Algebraic Error Control Codes
+Theory and implementation of algebraic codes for detection and
+correction of random and burst errors. Introduction to finite fields.
+Linear block codes, cyclic codes, Hamming codes, BCH codes,
+Reed-Solomon codes. Decoding algorithms for BCH and Reed-
+Solomon codes. Prerequisites: elementary probability, linear algebra.
+3 units, Aut (Gill, J)
+EE 388. Modern Coding Theory
+Tools for analysis and optimization of iterative coding systems.
+LDPC, turbo and, RA codes. Optimized ensembles, message passing
+algorithms, density evolution, and analytic techniques. Prerequisite:
+376A.
+3 units, not given this year
+EE 390. Special Studies or Projects in Electrical Engineering
+Independent work under the direction of a faculty member. Individual
+or team activities may involve lab experimentation, design
+of devices or systems, or directed reading.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 391. Special Studies and Reports in Electrical Engineering
+Independent work under the direction of a faculty member; written
+report or written examination required. Letter grade given on the
+basis of the report; if not appropriate, student should enroll in 390.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 392J. Digital Video Processing
+Spatio-temporal sampling, motion analysis, parametric motion
+models, motion-compensated filtering, and video processing operations
+including noise reduction, restoration, superresolution,
+deinterlacing and video sampling structure conversion, and compression
+(frame-based and object-based methods). Video segmentation
+and layered video representations, video streaming, compressed-
+domain video processing, and digital TV. Prerequisite:
+368.
+3 units, not given this year
+EE 392T. Seminar in Chip Test and Debug
+Seminars by industry professionals in digital IC manufacturing test
+and silicon debug. Topics include yield and binsplit modeling,
+defect types and detection, debug hardware, physical analysis, and
+design for test/debug circuits. Case studies of silicon failures. Prerequisite:
+basic digital IC design (271 or 371).
+1 unit, Win (Stinson, J)
+EE 392V. Signal Processing in VoIP Systems
+VoIP protocols: RTP and SIP. Voice encoding standards: PCM,
+ADPCM, and LPC. Speech quality measurement: MOS, PESQ,
+and E-model. Characterization of VoIP impairments: delay, jitter,
+packet loss, and clock skew. Signal processing algorithms to improve
+VoIP quality: echo cancellation, adaptive jitter buffering,
+packet loss concealment, and decoder clock synchronization. Prerequisites:
+261 and 278, or equivalents.
+3 units, not given this year
+EE 395. Electrical Engineering Instruction: Practice Teaching
+Open to advanced EE graduate students who plan to make teaching
+their career. Students conduct a section of an established course
+taught in parallel by an experienced instructor. Enrollment limited.
+1-15 units, Aut (Nishimura, D), Win (Nishimura, D), Spr (Nishimura,
+D)
+EE 398A. Image and Video Compression
+Replaces EE398. The principles of source coding for the efficient
+storage and transmission of still and moving images. Entropy and
+lossless coding techniques. Run-length coding and fax compression.
+Arithmetic coding. Rate-distortion limits and quantization.
+Lossless and lossy predictive coding. Transform coding, JPEG.
+Subband coding, wavelets, JPEG2000. Motion-compensated coding,
+MPEG. Students investigate image and video compression
+algorithms in Matlab or C. Term project. Prerequisites: 261, 278.
+3 units, Win (Girod, B)
+EE 398B. Video Communication Systems
+Explore multimedia networking and communication, with emphasis
+on systems for video delivery. In-depth discussion of video
+coding techniques. Standards: MPEG-1, MPEG-2, MPEG-4, ITUT
+H.261, H.263, H264. Coder control, rate adaptation, Scalable
+video. Error resilient coding. Network adaptive video transport.
+Distributed coding, authentication, watermarking. Videoconferencing,
+digital TV broadcasting, HDTV, Internet media streaming,
+IPTV, digital cinema, mobile media systems. Peer-to-peer media
+delivery. Video summarization and retrieval. Students investigate
+video coding algorithms in Matlab or C. Term project.Prerequisite:
+EE 398A.
+3 units, not given this year
+EE 400. Thesis and Thesis Research
+Limited to candidates for the degree of Engineer or Ph.D.
+1-15 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 402A. Topics in International Technology Management
+Theme for Autumn 2010 is Asia technology management in energy
+and cleantech technology and business trends, innovations,
+STANFORD BULLETIN, 2010-11 | 597
+ENERGY RESOURCES ENGINEERING (ENERGY) COURSES
+and challenges such as standards, IPR, and differing regulatory
+regimes in major Asian economies. Implications for US firms and
+researchers. Distinguished speakers from industry and government.
+1 unit, Aut (Dasher, R)
+EE 402S. Topics in International Advanced Technology Research
+Theme for Spring 2011 is recent approaches to chip-level integration.
+Survey of advanced research into 3D integration, CMOS on
+encapsulated MEMS, III-V on Si, multi-processor architectures.
+Distinguished speakers from industry and universities. May be
+repeated for credit. Recommended: basic electronics.
+1 unit, Spr (Dasher, R)
+EE 402T. Entrepreneurship in Asian High Tech Industries
+Distinctive patterns and challenges of entrepreneurship in Asia;
+update of business and technology issues in the creation and
+growth of start-up companies in major Asian economies. Distinguished
+speakers from industry, government, and academia.
+1 unit, Spr (Dasher, R)
+EE 410. Integrated Circuit Fabrication Laboratory
+Fabrication, simulation, and testing of a submicron CMOS process.
+Practical aspects of IC fabrication including silicon wafer cleaning,
+photolithography, etching, oxidation, diffusion, ion implantation,
+chemical vapor deposition, physical sputtering, and electrical testing.
+Students also simulate the CMOS process using process simulator
+TSUPREM4 of the structures and electrical parameters that
+should result from the process flow. Taught in the Stanford Nanofabrication
+Facility (SNF). Preference to students pursuing doctoral
+research program requiring SNF facilities. Enrollment limited
+to 20. Prerequisites: 212, 216, consent of instructor.
+3-4 units, Win (Saraswat, K)
+EE 412. Advanced Nanofabrication Laboratory
+Experimental projects and seminars on integrated circuit fabrication
+using epitaxial, oxidation, diffusion, evaporation, sputtering,
+and photolithographic processes with emphasis on techniques for
+achieving advanced device performance. May be repeated for additional
+credit. Prerequisites: ENGR341 or EE410 or consent of
+instructor.
+3 units, Aut (Howe, R; Solgaard, O), Win (Pruitt, B)
+EE 414. RF Transceiver Design Laboratory
+Students design, build, and test GHz transceivers using microstrip
+construction techniques and discrete components. The design,
+construction, and experimental characterization of representative
+transceiver building blocks: low noise amplifiers (LNAs), diode
+ring mixers, PLL-based frequency synthesizers, voltage-controlled
+oscillators (VCOs), power amplifiers (PAs), and microstrip filters
+and patch antennas. The characteristics of passive microstrip components
+(including interconnect). Emphasis is on a quantitative
+reconciliation of theoretical predictions and extensive experimental
+measurements performed with spectrum and network analyzers,
+time-domain reflectometers (TDRs), noise figure meter and phase
+noise analyzers. Prerequisites: EE 314, EE 344.
+3 units, Win (Lee, T)
+EE 418. Topics in Neuroengineering
+Neuroscience and electrical engineering, focusing on principles
+and theory in modern neural prosthetic systems (brain-computer or
+brain-machine interfaces). Electrical properties of neurons, information
+encoding, neural measurement techniques and technology,
+processing electronics, information decoding and estimators, and
+statistical data analysis. Prerequisites: EE 214, EE 278.
+3 units, not given this year
+EE 453. Geomagnetically Trapped Radiation
+Research on the radiation belts of Earth and other planets. Physical
+processes which lead to magnetic trapping of electrons and ions.
+Analytical tools for trapped radiation research. The nature of radiation
+belts, source and loss mechanisms, and the relation of radiation
+belts to other geophysical phenomena.
+3 units, not given this year
+EE 469B. RF Pulse Design for Magnetic Resonance Imaging
+Magnetic resonance imaging (MRI) and spectroscopy (MRS)
+based on the use of radio frequency pulses to manipulate magnetization.
+Analysis and design of major types of RF pulses in one and
+multiple dimensions, analysis and design of sequences of RF
+pulses for fast imaging, and use of RF pulses for the creation of
+image contrast in MRI. Prerequisite: 369B.
+3 units, not given this year
+EE 476. Network Information Theory
+Network information theory deals with the fundamental limits on
+information flow in networks and the optimal coding schemes that
+achieve these limits. It aims to extend Shannon's point-to-point
+information theory and the Ford-Fulkerson max-flow min-cut theorem
+to networks with multiple sources and destinations. The
+course presents the basic results and tools in the field in a simple
+and unified manner. Topics covered include: multiple access channels,
+broadcast channels, interference channels, channels with
+state, distributed source coding, multiple description coding, network
+coding, relay channels, interactive communication, and noisy
+network coding. Prerequisites: EE376A or equivalent.
+3 units, Aut (El Gamal, A)
+EE 477. Universal Schemes in Information Theory
+Universal schemes for lossless and lossy compression, channel
+coding and decoding, prediction, denoising, and filtering. Characterization
+of performance limitations in the stochastic settting:
+entropy rate, rate-distortion function, channel capacity, Bayes envelope
+for prediction, denoising, and filtering. Lempel-Ziv lossless
+compression, and Lempel-Ziv based schemes for lossy compression,
+channel coding, prediction, and filtering. Discrete universal
+denoising. Compression-based approach to denoising. The compound
+decision problem. Prerequisites: 278, 376A,B.
+3 units, Aut (Staff)
+EE 801. TGR Project
+0 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
+EE 802. TGR Dissertation
+0 units, Aut (Staff), Win (Staff), Spr (Staff), Sum (Staff)
