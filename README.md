@@ -38,7 +38,7 @@ Our project aims to identify the relevant skills focused on by different univers
 | Results and Presentation | ~1 week (12/03)  |                              | 
 
 ## File Structure
-# File structure
+
 ```
 Root
 |
