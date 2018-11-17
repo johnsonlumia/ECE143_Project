@@ -1,4 +1,4 @@
-`x('lab', 'fee'): 15
+('lab', 'fee'): 15
 ('laboratory', 'lab'): 13
 ('solid', 'state'): 11
 ('signal', 'processing'): 11
