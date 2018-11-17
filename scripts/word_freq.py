@@ -6,13 +6,15 @@
 #
 # by Renjie Zhu on Oct 24, 2018
 #
-# modified: 
+# modified:
 #   Daoyu: PoS analysis
 #   Ambareesh: bigram implementation
 #
 
 import nltk
 from collections import Counter
+import sys
+sys.path.append('..')
 
 # Download nltk resources
 nltk.download('averaged_perceptron_tagger')
@@ -22,10 +24,12 @@ nltk.download("wordnet")
 # don't want in our data.
 # List saved as common_words.txt
 common_words = []
-with open('common_words.txt','rt') as f:
+with open('common_words.txt', 'rt') as f:
     for line in f.readlines():
         common_words.append(line.strip('\n'))
 common_words.extend(list(map(chr, range(97, 123))))
+print(1)
+
 
 def word_freq(file_name):
     """
@@ -46,7 +50,7 @@ def word_freq(file_name):
     bigram_frequency
         type: dictionary
     """
-    with open(file_name, 'r',encoding='utf-8',errors='ignore') as f:
+    with open(file_name, 'r', encoding='utf-8', errors='ignore') as f:
         lines = f.read()
 
     # Get rid of unwanted chars and splitting the string into a list of words
@@ -57,12 +61,11 @@ def word_freq(file_name):
     freqdict = dict(Counter(wordlist))
     newfreq = {}
     for key, value in freqdict.items():
-        
+
         if key in common_words:
             continue
         else:
             newfreq[key] = value
-
 
     posFreq = nltk.pos_tag(list(newfreq.keys()))
     # Convert the list created by nltk to dict
@@ -84,7 +87,7 @@ def word_freq(file_name):
     # bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
     bigram_list = list(nltk.bigrams(wordlist))
     freq_bigram = dict(Counter(bigram_list))
-
+    print(common_words)
     bigram_frequency = {}
     for key, value in freq_bigram.items():
         if value < 2:
@@ -95,6 +98,8 @@ def word_freq(file_name):
         #     continue
         elif posDict[key[0]] == 'NN' or posDict[key[0]] == 'NNS' or posDict[key[0]] == 'JJ':
             if posDict[key[1]] == 'NN' or posDict[key[1]] == 'NNS':
+                if key[0] + ' ' + key[1] in common_words:
+                    continue
                 bigram_frequency[key[0] + ' ' + key[1]] = value
 
     return single_frequency, bigram_frequency
