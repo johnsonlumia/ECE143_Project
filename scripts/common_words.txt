@@ -5,6 +5,12 @@ units win
 year ee
 units spr
 electrical engineering
+units aut
+next year
+ec tri
+ph.d program
+unit aut
+ng sc
 stanford bulletin
 sum staff
 introductory seminar
