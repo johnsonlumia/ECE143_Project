@@ -13,8 +13,8 @@
 
 import nltk
 from collections import Counter
-import sys
-sys.path.append('..')
+# import sys
+# sys.path.append('..')
 
 # Download nltk resources
 nltk.download('averaged_perceptron_tagger')
@@ -87,7 +87,7 @@ def word_freq(file_name):
     # bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
     bigram_list = list(nltk.bigrams(wordlist))
     freq_bigram = dict(Counter(bigram_list))
-    print(common_words)
+    # print(common_words)
     bigram_frequency = {}
     for key, value in freq_bigram.items():
         if value < 2:
