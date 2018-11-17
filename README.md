@@ -36,3 +36,22 @@ Our project aims to identify the relevant skills focused on by different univers
 | Data Analysis            | ~2 weeks (11/19) | Applications 1,6 will be worked upon together; the rest will be split across four members  |
 | Data Visualization       | ~1 week (11/26)  |  Similar to Analysis         |
 | Results and Presentation | ~1 week (12/03)  |                              | 
+
+## File Structure
+# File structure
+```
+Root
+|
++---- raw_data
+|
++---- processed_data
+|
++---- scripts
+|        |   create_processed_data.py
+|        |   word_freq.py
+|        |   SQLite.py
+|        |   common_words.txt
+|
+|   main.py (currently in progress)
+|   database.db (currently in scripts/)
+```

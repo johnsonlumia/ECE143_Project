@@ -13,8 +13,6 @@
 
 import nltk
 from collections import Counter
-# import sys
-# sys.path.append('..')
 
 # Download nltk resources
 nltk.download('averaged_perceptron_tagger')
@@ -22,18 +20,26 @@ nltk.download("wordnet")
 
 # keeping track of a common words list, this is a list of words that we
 # don't want in our data.
-# List saved as common_words.txt
+# List saved in common_words.txt
 common_words = []
 with open('common_words.txt', 'rt') as f:
     for line in f.readlines():
         common_words.append(line.strip('\n'))
 common_words.extend(list(map(chr, range(97, 123))))
-print(1)
+print("[word_freq] 'common_words.txt' loaded.")
 
 
 def word_freq(file_name):
     """
-    word_freq
+    word_freq counts the words and bigrams in the file
+    returning two dictionaries containing all the words with
+    their corresponding frequencies and same for bigrams.
+
+    Bigram: a pair of consecutive written units
+
+    We believe, during discussions and further confirmed, that
+    bigram frequency lists gives us more information about the 
+    file.
 
     arguments
     --------
@@ -46,36 +52,55 @@ def word_freq(file_name):
 
     single_frequency
         type: dictionary
+        key: words (type: string)
+        value: their corresponding frequencies (type: integer)
 
     bigram_frequency
         type: dictionary
+        key: bigram phrases (type: string)
+        value: their corresponding frequencies (type: integer)
+
     """
+    assert isinstance(file_name, str)
+
+    # opening the file with correct encoding and read them into memory
     with open(file_name, 'r', encoding='utf-8', errors='ignore') as f:
         lines = f.read()
 
     # Get rid of unwanted chars and splitting the string into a list of words
-    origlist = lines.lower().split()
-    wordlist = [i.strip(".:,();$-1234567890") for i in origlist]
-    # wordfreq = [wordlist.count(j) for j in wordlist]
-    # freqdict = dict(zip(wordlist, wordfreq))
-    freqdict = dict(Counter(wordlist))
-    newfreq = {}
-    for key, value in freqdict.items():
+    orig_list = lines.lower().split()
+    word_list = [i.strip(".:,();$-1234567890") for i in orig_list]
 
+    # count the frequencies of words in the word_list
+    # and pack this returnning list of tuples in to a dictionary
+    freq_dict = dict(Counter(word_list))
+
+    # getting rid of all the common words that we don't want
+    # putting all of the remaining words into a new dictionary
+    needed_freq = {}
+    for key, value in freq_dict.items():
         if key in common_words:
             continue
         else:
-            newfreq[key] = value
+            needed_freq[key] = value
 
-    posFreq = nltk.pos_tag(list(newfreq.keys()))
+    # use *natural language tool kit* (nltk) to analyze the part of speech (pos)
+    # of the words. We pay more attention to nouns which will give the most information
+    # and conjunctions and pronouns.
+    pos_freq = nltk.pos_tag(list(needed_freq.keys()))
     # Convert the list created by nltk to dict
-    posDict = {word: pos for word, pos in posFreq}
+    pos_dict = {word: pos for word, pos in pos_freq}
 
-    # Count only Noun words
+    # *note*: we realized that we should probably do nltk pos analysis first as
+    # it would already help us eliminate a lot of the unwanted words, such as, 'the', 'a',
+    # and so on. We did the other way because the the original dictionary was too large to
+    # pass through the nltk.pos_tag().
+
+    # Count only Noun words and this results in our final single word frequency dictionary
     lemmatizer = nltk.WordNetLemmatizer()
     single_frequency = {}
-    for key, value in newfreq.items():
-        if posDict[key] == 'NN' or posDict[key] == 'NNS':
+    for key, value in needed_freq.items():
+        if pos_dict[key] == 'NN' or pos_dict[key] == 'NNS':
             key = lemmatizer.lemmatize(key)
             if key in single_frequency.keys():
                 single_frequency[key] = single_frequency[key] + value
@@ -85,19 +110,16 @@ def word_freq(file_name):
     # bigrams
     # bigrams make two word combos of all space separated words,
     # bigram_list = [ ('circuit','anlaysis'), ('analysis','problem'), ('problem', 'from')..]
-    bigram_list = list(nltk.bigrams(wordlist))
-    freq_bigram = dict(Counter(bigram_list))
-    # print(common_words)
+    bigram_list = list(nltk.bigrams(word_list))
+    bigram_freq_temp = dict(Counter(bigram_list))
     bigram_frequency = {}
-    for key, value in freq_bigram.items():
-        if value < 2:
-            continue
-        elif key[0] in common_words or key[1] in common_words:
+    for key, value in bigram_freq_temp.items():
+        if key[0] in common_words or key[1] in common_words:
             continue
         # elif not (key[0] in posDict.keys() and key[1] in posDict.keys()):
         #     continue
-        elif posDict[key[0]] == 'NN' or posDict[key[0]] == 'NNS' or posDict[key[0]] == 'JJ':
-            if posDict[key[1]] == 'NN' or posDict[key[1]] == 'NNS':
+        elif pos_dict[key[0]] == 'NN' or pos_dict[key[0]] == 'NNS' or pos_dict[key[0]] == 'JJ':
+            if pos_dict[key[1]] == 'NN' or pos_dict[key[1]] == 'NNS':
                 if key[0] + ' ' + key[1] in common_words:
                     continue
                 bigram_frequency[key[0] + ' ' + key[1]] = value
