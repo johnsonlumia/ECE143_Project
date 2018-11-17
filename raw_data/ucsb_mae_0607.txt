@@ -1,0 +1,464 @@
+6. Basic Electrical and Electronic Circuits (3) KHAMMASH, MACDONALD, SOH
+Prerequisites: Physics 3-3L; Mathematics 3C; open to ME majors only.
+Not open for credit to students who have com- pleted ECE 2A or 2B, or ECE 6A or 6B.
+Introduction to basic electrical circuits and electron- ics. Includes Kirchhoff’s laws, phasor analysis, circuit el- ements, operational amplifiers, and transistor circuits.
+10. Engineering Graphics: Sketching, CAD, and Conceptual Design
+(4) LAGUETTE, HARE
+Prerequisite: ME majors only.
+Introduction to engineering graphics, CAD, and freehand sketching. Develop CAD proficiency using advanced 3-D software. Graphical presentation of design: views, sections, dimensioning, and tolerancing.
+11. Introductory Concepts in Mechanical Engineering
+(1) BOTHMAN, FIELDS, EVANS, BRUCH, BELTZ Prerequisite: lower-division standing.
+The theme question of this course is “What do mechanical engineers do?” Survey of mechanical and environmental engineering applications. Lectures by mechanical engineering faculty and practicing engineers.
+12S. Introduction to Machine Shop (1) BOTHMAN
+Prerequisite: ME majors only.
+Basic machine shop skills course. Students learn to work safely in a machine shop. Students are intro- duced to the use of hand tools, the lathe, the milling machine, drill press, saws, and precision measuring tools. Students apply these skills by completing a project.
+14. Statics
+(4) MILSTEIN, BELTZ, TURNER
+Prerequisites: Physics 1 and Mathematics 3B; open to ME majors only.
+Free-body principle and Newton’s third law, general force systems, distributed forces, internal forces, numerical and graphical solutions to three-dimensional problems in statics.
+15. Strength of Materials
+(4) BELTZ, MILSTEIN, KEDWARD, LAGUETTE
+Prerequisites: ME 14; open to mechanical engineering majors only.
+Hooke’s law and properties of structural materials. Methods of sections and virtual work and en-
+ergy methods. Design applications to engineering structures, problems of tension, torsion, flexure and combined loading. Design beyond the elastic limit.
+16. Engineering Mechanics: Dynamics
+(4) TURNER, MCLEAN, BAMIEH
+Prerequisites: Physics 2; ME 14; and, Mathematics 5C; (may be taken concurrently); open to ME majors only.
+Not open for credit to students who have com- pleted ME 163A.
+Vectorial kinematics of particles in space, orthogo- nal coordination systems. Relative and constrained mo- tions of particles. Dynamics of particles and systems of particles, equations of motion, energy and momentum methods. Collisions. Planar kinematics and kinetics
+of rigid bodies. Energy and momentum methods for analyzing rigid body systems. Moving frames and relative motion.
+17. Mathematics of Engineering
+(3) MOEHLIS, MCLEAN, HOMSY
+Prerequisites: Engineering 3; Mathematics 5B (may be taken concurrently); open to ME majors only.
+Engineering applications of mathematical methods. Topics include ordinary differential equations, linear al- gebra, calculus, Fourier analysis, and partial differential equations.
+95. Introduction to Mechanical Engineering
+(1-4) STAFF
+Prerequisite: consent of instructor.
+May be repeated for credit to a maximum of 6 units.
+Participation in projects in the laboratory or ma- chine shop. Projects may be student- or faculty-origi- nated depending upon student interest and consent of faculty member.
+97. Mechanical Engineering Design Projects
+(1-4) STAFF
+Prerequisite: consent of instructor.
+May be repeated for maximum of 12 units, variable hours.
+Course offers students opportunity to work on es- tablished departmental design projects. P/NP grading, does not satisfy technical elective requirement.
+99. Introduction to Research (1-3) STAFF
+Prerequisite: consent of instructor.
+May be repeated for maximum of 6 units, variable hours.
+Directed study to be arranged with individual fac- ulty members. Course offers exceptional students an opportunity to participate in a research group.
+Upper DivisioN
+100. Professional Seminar
+(1) MCMEEKING, MILSTEIN, ODETTE Prerequisite: undergraduate standing.
+May be repeated for up to 3 units. May not be used as a departmental elective.
+A series of weekly lectures given by university staff and outside experts in all fields of mechanical and environmental engineering.
+104. Sensors, Actuators and Computer Interfacing
+(3) BAMIEH, PADEN
+Prerequisites: ME 6; open to ME majors only.
+Interfacing of mechanical and electrical systems and mechatronics. Basic introduction to sensors, actuators and computer interfacing and control. Trans- ducers and measurement devices, actuators,
+A/D and D/A conversion, signal conditioning and filter- ing. Practical skills developed in weekly lab exercises.
+105. Mechanical Engineering Laboratory (3) BENNETT, MATTHYS, MCLEAN
+Prerequisites: ME 151B, 152B, 163; and, Materials 100B or 101; open to ME majors only.
+Introduction to fundamental laboratory measure- ment techniques and report writing skills. Experiments from thermosciences, fluid mechanics, mechanics, materials science and environmental engineering. Introduction to modern data acquisition and analysis techniques.
+106A. Advanced Mechanical Engineering Laboratory
+(3) KHAMMASH
+Prerequisites: ME 105 and 151C.
+An advanced lab course with experiments in dynamical systems and feedback control design. Students design, troubleshoot, and perform detailed, multi-session experiments.
+110. Aerodynamics and Aeronautical Engineering
+(3) BELTZ, MEINHART
+Prerequisites: ME 14 and 152A.
+Concepts from aerodynamics, including lift and drag analysis for airfoils as well as aircraft sizing/scaling issues. Structural mechanics concepts are applied to practical aircraft design. Intended for students consid- ering a career in aeronautical engineering.
+112. Energy Conversion
+(3) MARSCHALL, MATTHYS
+Prerequisites: ME 151C and ME 152A; or, Chemical Engineering 110B and 120A.
+Overview of energy usage and production from prehistory to present times (technical, environmental, and societal issues). Technical analyses of the modern means of energy production (fossil, nuclear, hydro, wind, solar, geothermal, biomass, etc.): operating principles, hardware, engineering issues, environmen- tal impact, etc.
+114. Water Supply and Pollution Control (3) BRUCH, MCLEAN
+Prerequisite: ME 152A or Chemical Engineering 120A.
+Water supply and quality requirements for domestic, industrial, agricultural, and recreational uses. Properties of natural surface and groundwaters. Pollutants in surface and groundwaters. Transport and fates of waterborne pollutants. Water and sewage treatment processes. Waste water reclamation. Water quality management in ground and surface water environments.
+119. Introduction to Coastal Engineering (3) MCLEAN
+Prerequisite: ME 152A.
+Quantitative description of waves and tides: refraction, shoaling. Nearshore circulation. Sediment characteristics and transport; equilibrium beach profile; shoreline protection.
+124. Advanced Topics in Transport Phenomena/Safety
+(3) BANERJEE
+Prerequisites: Chemical Engineering 120A-B-C, or ME 151A-B and ME 152A.
+Same course as Chemical Engineering 124.
+Hazard identification and assessments, runaway
+reactions, emergency relief. Plant accidents and safety issues. Dispersion and consequences of releases.
+125AA-ZZ. Special Topics in Mechanical Engineering
+(1-4) STAFF
+Prerequisite: consent of instructor.
+May be repeated for credit to a maximum of 12 units provided letter designation is different, but only 4 units may be applied toward the major.
+Individual courses each concentrating on one
+area in the following subjects: applied mechanics, CAD/CAM, controls, design, environmental engineer- ing, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics, thermal sciences, and recent developments in mechanical engineering.
+128. Design of Biomedical Devices
+(3) LAGUETTE
+Prerequisites: ME 10, 14, 15, 16, and 153; open to ME majors only.
+Introductory course addresses the challenges of biomedical device design, protyping and testing, mate- rial considerations, regulatory requirements, product documentation, and ethics.
+134. Advanced Thermal Science (3) MATTHYS, YUEN, HOMSY
+Prerequisite: ME 151C.
+This class will address advanced topics in fluid mechanics, heat transfer, and thermodynamics. Topics of interest may include combustion, phase change, experimental techniques, materials processing, manu- facturing, engines, HVAC, non-Newtonian fluids, etc.
+136. Introduction to Multiphase Flows
+(3) THEOFANOUS
+Prerequisites: Chemical Engineering 120A-B-C; or, ME 151C and 152A.
+Same course as Chemical Engineering 136.
+Development from basic concepts and techniques of fluid mechanics and heat transfer, to local behavior in multiphase flows. Key multiphase phenomena, re- lated physics. Extension of local conservation principles to usable formulations in multiphase flows. Modelling approaches. Practical examples.
+138. Risk Assessment and Management (3) THEOFANOUS
+Prerequisites: ME 151B and 152A, or Chemical Engi- neering 120A-B-C.
+Same course as Chemical Engineering 138.
+Conceptual foundations of risk and its utility for decision making. Determinism, statistical inference, and uncertainty. Formulation of safety goals and ap- proaches to risk management. Generalized method- ology and tools for assessing risks in the industrial, ecological, and public health context.
+140A. Numerical Analysis in Engineering (3) HOMSY, MOEHLIS, GIBOU, MEIBURG
+Prerequisites: ME 17 or Chemical Engineering 132A; open to ME and Chemical Engineering majors only.
+Building upon calculus and computer program- ming, the course covers basic numerical methods, including linear and nonlinear algebraic equations, interpolation and approximation, ordinary differential equations, numerical integration and differentiation, finite element and perturbation. Weekly assignments involve both pencil-and-paper and computer work.
+140B. Theoretical Analysis in Mechanical Engineering
+(3) BRUCH, MOEHLIS, GIBOU
+Prerequisites: ME 140A; open to ME and Chemical Engineering majors only.
+Analysis of engineering problems formulated in terms of partial differential equations. Solutions of these mathematical models by means of analytical and numerical methods. Physical interpretation of the results.
+141A. Introduction to MicroElectroMechanical Systems (MEMS) (3) MACDONALD, TURNER
+Prerequisites: ME 104 and 163; or, ECE 130A and 137A; with a minimum grade of C- in both.
+Same course as ECE 141A.
+Analysis of MEMS actuators and displacement sen- sors with emphasis on the analysis of capacitor-based
+sensing and actuation. Analysis and design of opera- tional-amplifier models and circuits for capacitor sen- sors including feedback concepts. Vibration analysis of MEMS structures including wave equations for ‘string’ and bar structures. MEMS scaling concepts.
+141B. MEMS: Semiconductor Processing and Device Characterization with Laboratory
+(4) MACDONALD, TURNER
+Prerequisites: ME 141A or ECE 141A; and, Chemistry 1B-BL.
+Same course as ECE 141B.
+Lectures and laboratory on semiconductor processing for MEMS. Description and analysis of key semiconductor and equipment used for MEMS. Design and fabrication of MEMS capacitor-actuator and accelerometers, includes a description of MEMS characterization tools.
+141C. Introduction to Microfluidics and BioMEMS
+(3) MEINHART
+Prerequisite: ME 141A or ECE 141A; open to ME and EE majors only.
+Same course as ECE 141C.
+Introduces physical phenomena associated with microscale/nanoscale fluid mechanics, microfluids, and bioMEMS. Analytical methods and numerical simula- tion tools are used for analysis of microfluids.
+151A. Thermosciences 1
+(3) BENNETT, HOMSY, YUEN
+Prerequisites: Physics 2; ME 14; and, Mathematics 5C; open to ME majors only.
+Basic concepts in thermodynamics, system analysis, energy, thermodynamic laws, and cycles.
+151B. Thermosciences 2
+(3) YUEN, BENNETT
+Prerequisites: ME 151A and 152A; open to ME majors only.
+Introduction to heat transfer process, steady and unsteady state conduction, multidimensional analysis. Introduction to convective heat transfer.
+151C. Thermosciences 3
+(3) HOMSY, BENNETT
+Prerequisites: ME 151B and 152A; open to ME majors only.
+Convective heat transfer, external and internal flow, forced and free convection, phase change, heat exchangers. Introduction to radiative heat transfer.
+152A. Fluid Mechanics
+(3) HOMSY, MEINHART
+Prerequisites: Mathematics 5C, ME 16, and ME 151A (may be taken concurrently); open to ME majors only.
+Introduction to the fundamental concepts in fluid mechanics and basic fluid properties. Basic equations of fluid flow. Dimensional analysis and similitude. Hydrodynamics.
+152B. Fluid Mechanics
+(3) MEINHART
+Prerequisite: ME 152A; open to ME majors only.
+Incompressible viscous flow. Boundary-layer theory. Introductory considerations for one-dimensional compressible flow.
+153. Introduction to Mechanical Engineering Design
+(3) BELTZ, TURNER, KEDWARD, LAGUETTE
+Prerequisites: ME 10 and 16; open to ME majors only.
+Design methods. Creative thinking. Introduction to manufacturing processes, design for manufacturing. Project planning and teamwork. Applications of engi- neering software. Application of engineering principles to practical problem solving. Codes and standards. Engineering ethics.
+154. Design and Analysis of Structures
+(3) MCMEEKING, KEDWARD
+Prerequisites: ME 15 and 16; open to ME majors only.
+Introductory course in structural analysis and design. The theories of matrix structural analysis and finite element analysis for the solution of analytical and design problems in structures are emphasized. Lecture material includes structural theory compat- ibility method, slope deflection method, displacement method and virtual work. Topics include applications to bars, beams, trusses, frames, and solids.
+155A. Control System Design
+(3) BAMIEH, ASTROM, BULLO
+Prerequisite: ME 17; ME 140A (may be taken concur- rently).
+The discipline of control and its application. Dynamics and feedback. The mathematical models: transfer functions and state space descriptions. Simple control design (PID). Assessment of a control problem, specification, fundamental limitations, codesign of system and control.
+155B. Control System Design (3) PADEN, BULLO
+Prerequisite: ME 155A.
+Application of analytical methods to control system modeling and design. State-space modeling, controlla- bility and observability. System specification and limita- tions, loop gain, classical design and the optimal linear quadratic regulator. Sampled-data implementation.
+156A. Mechanical Engineering Design I (3) LUCAS, EVANS, BELTZ, TURNER
+Prerequisites: ME 151C, 152B, 153 and 154; and, Materials 100B or 101; open to ME majors only.
+The rational selection of engineering materials, and the utilization of Ashby-charts, stress, strain, strength and fatigue failure consideration as applied to the design of machine elements. Lectures also support the development of system design concepts using assigned projects and involve the preparation of engineering reports and drawings.
+156B. Mechanical Engineering Design II (3) KEDWARD
+Prerequisites: ME 156A; open to ME majors only.
+Machine elements including gears, bearings, and shafts. Joint design and analysis: bolts, rivets, adhesive bonding and welding. Machine dynamics and fatigue. Design for reliability and safety. Codes and standards. Topics covered are applied in practical design projects.
+158. Computer Aided Design and Manufacturing
+(3) BOTHMAN
+Prerequisites: ME 10 and 156A; open to ME majors only.
+Engineering applications using advanced 3-D CAD software for plastic part designs and tooling. Topics include an overview of the design for injection molded plastic parts, material selections and electronic tooling design via CAD and CNC system software. Emphasis is put into final design projects that are designed to be functional, manufacturable, and esthetically pleasing.
+162. Introduction to Elasticity
+(3) MCMEEKING, BELTZ, MILSTEIN Prerequisites: ME 140A; and, ME 165 or 15.
+Equations of equilibrium, compatibility, and bound- ary conditions. Solutions of two-dimensional problems in rectangular and polar coordinates. Eigen-solutions for the wedge and Williams’ solution for cracks. Stress intensity factors. Extension, torsion and bending. Energy theorems. Introduction to wave propagation in elastic solids. (May not be offered each year.)
+163. Engineering Mechanics: Vibrations (3) MCMEEKING, BRUCH
+Prerequisites: ME 16; open to ME majors only.
+Not open for credit to students who have com- pleted ME 163B.
+Topics relating to vibration in mechanical systems; exact and approximate methods of analysis, matrix methods, generalized coordinates and Lagrange’s equations, applications to systems. Basic feedback systems and controlled dynamic behavior.
+166. Advanced Strength of Materials (3) TURNER
+Prerequisite: ME 15.
+Analysis of statically determinate and indeterminate systems using integration, area moment, and energy methods. Beams on elastic foundations, curved beams, stress concentrations, fatigue, and theories of failure for ductile and brittle materials. Photoelasticity and other experimental techniques are covered, as well as methods of interpreting in-service failures.
+167. Structural Analysis
+(3) YANG
+Prerequisites: ME 15 or 165; and ME 140A.
+Presents introductory matrix methods for analysis
+College of engineering: meChaniCal engineering • 105
+
+106 • College of engineering: meChaniCal engineering
+of structures. Topics include review of matrix algebra and linear equations, basic structural theorems includ- ing the principle of superposition and energy theo- rems, truss bar, beam and plane frame elements, and programming techniques to realize these concepts.
+169. Nonlinear Phenomena
+(4) MEZIC, KHAMMASH
+Prerequisites: Physics 105A or ME 163; or upper-divi- sion standing in ECE.
+Same course as ECE 183 and Physics 106. Not open for credit to students who have completed ME 163C.
+An introduction to nonlinear phenomena. Flows and bifurcation in one and two dimensions, chaos, fractals, strange attractors. Applications to physics, engineering, chemistry, and biology.
+170A. Introduction to Robotics: Robot Mechanics
+(4) PADEN, BULLO
+Same course as ECE 181A.
+Recommended preparation: ME 16. Overview of robot kinematics and dynamics.
+Structure and operation of industrial robots. Robot performance: workspace, velocity, precision, payload. Comparative discussion of robot mechanical designs. Actuators. Robot coordinate systems. Kinematics of position. Dynamics of manipulators.
+170C. Introduction to Robotics: Robot Control
+(4) PADEN
+Prerequisites: ECE 2A-B-C with a minimum grade of C-; or ME 104.
+Same course as ECE 181C.
+Overview of robot control technology from open- loop manipulators and sensing systems, to single-joint servovalves and servomotors, to integrated adap-
+tive force and position control using feedback from machine vision and touch sensing systems. Design emphasis on accurate tracking accomplished with minimal algorithm complexity.
+173. Control Systems Synthesis (3) BAMIEH
+Prerequisite: ME 155A.
+Not open for credit to students who have com- pleted ECE 147A.
+Pole-placement, observer design, observer- based compensation, frequency and time-domain techniques, internal model principle, linear quadratic regulators, modeling uncertainty in signals and sys- tems, robust stability and performance, synthesis for robustness.
+185. Materials in Engineering (3) LEVI, ODETTE
+Prerequisite: Materials 100B or 101.
+Same course as Materials 185.
+Introduces the student to the main families of ma- terials and the principles behind their development, se- lection, and behavior. Discusses the generic properties of metals, ceramics, polymers, and composites more relevant to structural applications. The relationship of properties to structure and processing is emphasized in every case.
+186. Manufacturing and Materials
+(3) LEVI
+Prerequisites: ME 15 and 151C; and, Materials 100B or 101.
+Same course as Materials 186.
+Introduction to the fundamentals of common manufacturing processes and their interplay with
+the structure and properties of materials as they are transformed into products. Emphasis on process understanding and the key physical concepts and basic mathematical relationships involved in each of the processes discussed.
+189A-B-C. Capstone Mechanical Engineering Design Project
+(2-2-2) LAGUETTE
+Prerequisites: ME 153; and ME 156A (may be taken concurrently).
+A three-quarter in-progress sequence with grades for all courses issued upon completion of ME 189C. Students may not concurrently enroll in ME 197 and ME 189A-B-C with the same design project.
+Students work in teams under the direction of a
+faculty advisor to tackle an engineering design project. Engineering communication, such as reports and oral presentations are covered. Course emphasizes practi- cal, hands-on experience, and integrates analytical and design skills acquired in the companion ME 156 courses.
+193. Internship in Industry
+(3) STAFF
+Prerequisite: consent of instructor and prior depart- mental approval needed.
+Cannot be used as a departmental elective. May be repeated to a maximum of 6 units.
+Special projects for selected students offered in conjunction with industrial practice in selected industrial and research firms, under direct faculty supervision.
+197. Independent Projects in Mechanical Engineering Design
+(1-4) STAFF
+Prerequisites: ME 16; consent of instructor.
+May be repeated for a maximum of 12 units, variable hours. No more than 4 units may be used as departmental electives.
+Special projects in design engineering. Course of- fers motivated students opportunity to synthesize aca- demic skills by designing and building new machines.
+199. Independent Studies in Mechanical Engineering
+(1-5) STAFF
+Prerequisites: consent of instructor; upper-division standing; completion of two upper-division courses in Mechanical Engineering.
+Students must have a minimum of 3.0 grade-point average for the preceding three quarters and are limited to 5 units per quarter and 30 units total in all 98/99/198/199/199DC/199RA courses combined. No more than 4 units may be used as departmental elec- tives. May be repeated to 12 units.
+Directed individual study.
+graDUate CoUrses
+200. Professional Seminar (1) MCMEEKING, MILSTEIN, ODETTE Prerequisite: graduate standing.
+A series of weekly lectures given by university staff and outside experts in all fields of mechanical and environmental engineering.
+200P. Master of Science Project (3) STAFF
+Prerequisite: graduate standing.
+A ten-week research project on an advanced topic in Mechanical Engineering.
+201. Advanced Dynamics (3) MEZIC
+Newton’s laws and symmetries, Newton, Laplace and principle of determinism, qualitative analysis of Newton’s equations of motion, Hamiltonian mechan- ics, one degree of freedom (DOF) systems, two DOF systems, motion in central fields, application to molecular dynamics, control of classical dynamical systems, Lagrangian mechanics, chaos and ergodic theory, rigid body motion.
+202. Advanced Dynamics
+(3) MEZIC
+Prerequisite: ME 201; graduate standing.
+Differentiable manifolds in dynamical systems theory, differential forms, Hamiltonian phase flow, Lie algebras of vector fields, canonical formalism, inte- grable systems, introduction to perturbation theory, averaging, chaos in Hamiltonian systems, theory of invariant measures in dynamical systems, ergodic partition, dissipative dynamical systems, limit cycles, Lyapunov exponents, strange attractors.
+203. Special Topics in Dynamical Systems (3) MEZIC
+Prerequisite: ME 201.
+Geometric mechanics, volume-preserving dynami- cal systems, molecular dynamics; Infinite dimensional dynamics and finite dimensional approximations including incompressible Euler equations and point vortex theory, transport and fluid mixing, control of measure-preserving systems, equilibrium and non-
+equilibrium statistical mechanics methods for vortex gases.
+207. Faculty Research Seminar (1) KHAMMASH
+A series of bi-weekly presentations given by ladder faculty members to familiarize graduate students with current department research projects. This course is required to be taken by all graduate students within the first year of arrival.
+210A. Matrix Analysis and Computation (4) STAFF
+Prerequisite: consent of instructor.
+Same course as Computer Science 211A, ECE 210A, Mathematics 206A, Chemical Engineer-
+ing 211A, and Geology 251A. Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some program- ming language.
+Graduate level-matrix theory with introduction to matrix computations. SVD’s, pseudoinverses, variation- al characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.
+210B. Numerical Simulation (4) PETZOLD
+Prerequisite: consent of instructor.
+Same course as Computer Science 211B, ECE 210B, Mathematics 206B, and Chemical Engineering 211B and Geology 251B. Students should be proficient
+in basic numerical methods, linear algebra, math- ematically rigorous proofs, and some programming language.
+Linear multistep methods and Runge-Kutta meth- ods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equa- tions. Numerical solution of boundary value problems.
+210C. Numerical Solution of Partial Differential Equations—Finite Difference Methods
+(4) STAFF
+Prerequisite: consent of instructor.
+Same course as Computer Science 211C, ECE
+210C, Mathematics 206C, Chemical Engineering 211C, and Geolgy 251C. Students should be proficient in basic numerical methods, linear algebra, math- ematically rigorous proofs, and some programming language.
+Finite difference methods for hyperbolic, parabolic and elliptic PDEs, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.
+210D. Numerical Solution of Partial Differential Equations—Finite Element Methods
+(4) STAFF
+Prerequisite: consent of instructor.
+Same course as Computer Science 211D, ECE
+210D, Mathematics 206D, Chemical Engineer-
+ing 211D, and Geology 251D. Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some program- ming language.
+Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptical par- tial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.
+212. Risk Assessment and Management (3) THEOFANOUS
+Prerequisites: consent of instructor.
+Same course as Chemical Engineering 212
+Conceptual foundations of risk and its utility for decision making. Determinism, statistical inference, and uncertainty. Formulation of safety goals and ap- proaches to risk management. Generalized method- ology and tools for assessing risks in the industrial, ecological, and public health context.
+215A. Applied Dynamical Systems I (3) MOEHLIS
+Prerequisite: graduate standing.
+Phase-plane methods, non-linear oscillators, stability of fixed pints and periodic orbits, invariant
+
+manifolds, structural stability, normal form theory, local bifurcations for vector fields and maps, applications from engineering, physics, chemistry, and biology.
+215B. Applied Dynamical Systems II (3) MOEHLIS
+Prerequisites: ME 215A; graduate standing.
+Local codimension two bifurcations, global bifurcations, chaos for vector fields and maps, Smale horseshoe, symbolic dynamics, strange attractors, universality, bifyrcation with symmetry, perturbation theory and averaging, Melnikov’s methods, canards, applications from engineering, physics, chemistry, and biology.
+216. Level Set Methods
+(4) GIBOU
+Prerequisite: Computer Science 211C, or Chemical Engineering 211C, or ECE 210C, or ME 210C.
+Same course as Chemical Engineering 226, ECE 226, and Computer Science 216.
+Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applica- tions in CFD, Materials Sciences, Computer Vision and Computer Graphics.
+218. Introduction to Multiphase Flows (3) THEOFANOUS
+Prerequisite: consent of instructor.
+Same course as Chemical Engineering 218.
+Development from basic concepts and techniques of fluid mechanics and heat transfer, to local behavior in multiphase flows. Key multiphase phenomena, re- lated physics. Extension of local conservation principles to usable formulations in multiphase flows. Modelling approaches. Practical examples. Computer simulations.
+219. Mechanics of Materials (3) MCMEEKING
+Same course as Materials 207.
+Matrices and tensors, stress deformation and flow, compatibility conditions, constitutive equations, field equations and boundary conditions in fluids and solids, applications in solid and fluid mechanics.
+220A-B. Fundamentals of Fluid Mechanics (3-3) BENNETT, HOMSY, MEINHART
+Prerequisites: ME 151A-B and 152A-B.
+Introductory course in fluid mechanics. Basic equa- tions of motion (continuity, momentum, energy, vortic- ity), coordinate transformations, “potential” flow, thin airfoil theory, conformal mapping, vortex dynamics, boundary layers, stability theory, laminar/turbulent transition, turbulence. Inviscid/viscid, irrotational/rota- tional, incompressible/compressible flow examples.
+221. Advanced Viscous Flow (3) HOMSY
+Prerequisite: ME 220A.
+Review the Navier-Stokes equations in velocity, pressure, and vorticity variables. Analyze details of important low and moderate Reynolds number flow applications and then high Reynolds number flows with boundary layer phenomena. Compare exact, approximate, numerical, and experimental solution methods.
+223. Turbulent Flow
+(3) MEINHART, HOMSY, BANERJEE Prerequisites: ME 220A-B.
+Nature and origin of turbulence, boundary layer mechanics — law of the wall, wakes, and jets, trans- port of properties, statistical description of turbulence, measurement problems, stratification effects. Applica- tion of principles to practical problems will be stressed.
+225AA-ZZ. Special Topics in Mechanical Engineering
+(3) STAFF
+Prerequisite: consent of instructor.
+Specialized courses dealing with advanced topics and recent developments in one or more of the fol- lowing areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.
+226. Applied Numerical Methods (3) GIBOU
+Prerequisite: ME 140A.
+An introduction to the numerical solution of ordinary and partial differential equations by means of finite difference and finite element procedures.
+230. Elasticity
+(3) BELTZ, MCMEEKING
+Prerequisite: ME 219 or Materials 207; consent of instructor.
+Same course as Materials 230.
+Review of the field equations of elasticity. Energy principles and uniqueness theorems. Elementary problems in one and two dimensions. Stress functions, complex variable methods and three-dimensional potential functions. Fundamental solutions in two and three dimensions. Approximate methods.
+232. Plasticity
+(3) MCMEEKING, MILSTEIN Prerequisite: ME 219.
+Same course as Materials 232.
+Plastic, creep, and relaxation behavior of solids. Mechanics of inelastically strained bodies; plastic stress-strain laws; flow potentials. Torsion and bend- ing of prismatic bars, expansion of thick shells, plane plastic flow, slip line theory. Variational formulations, approximate methods.
+233A. Design of Composite Structures (3) KEDWARD
+Prerequisite: ME 230 or 275A.
+Emphasis is placed on the differences of design with composites vis-à-vis the design of conventional metallic structures. The content is directed at the class of polymer-matrix composites.
+234A. Structural Dynamics (3) BRUCH
+Formulation of the equations of motion for free and forced response of single and multi-degree
+of freedom systems and for distributed-parameter systems. Modal analysis. Approximate solution tech- niques. Numerical algorithms. Damping.
+236. Nonlinear Control Systems (4) KOKOTOVIC
+Same course as ECE 236.
+Recommended preparation: ECE 230A.
+Analysis and design of nonlinear control systems.
+Focus on Lyapunov stability theory, with sufficient time devoted to contrasts between linear and nonlinear systems, input-output stability and the describing function method.
+237. Nonlinear Control Design (4) KOKOTOVIC
+Prerequisite: ECE 236 or ME 236.
+Same course as ECE 237.
+Stabilizability by linearization and by geometric methods. State feedback design and input/output lin- earization. Observability and output feedback design. Singular perturbations and composite control. Back- stepping design of robust controllers for systems with uncertain nonlinearities. Adaptive nonlinear control.
+239. Conduction Heat Transfer
+(3) BENNETT, YUEN
+Prerequisite: undergraduate course in heat transfer.
+Development of mathematical representation of conduction heat transfer and techniques available for analytical, analog, and numerical solutions.
+243A-B. Linear Systems I, II
+(4-4) KOKOTOVIC, BAMIEH
+Prerequisites: ME 210A (for 243A): ECE 140; and, ECE 230A or ME 243A; and ME 210A.
+Same courses as ECE 230A-B.
+Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, observers; modern compensator design. Disturbance localization and decoupling. Least- squares control. Least-squares estimation; Kalman filters; smoothing. The separation theorem; LQG compensator design. Computational considerations. Selected additional topics.
+244A. Advanced Theoretical Methods in Engineering
+(4) FREDRICKSON, CHMELKA, LEAL
+Prerequisite: consent of instructor.
+Same course as Chemical Engineering 230A.
+Methods of solution of partial differential equa- tions and boundary value problems. Linear vector and function spaces, generalized Fourier analysis, Sturm- Liouville theory, calculus of variations, and conformal mapping techniques.
+244B. Advanced Theoretical Methods in Engineering
+(3) FREDRICKSON
+Prerequisites: ME 244A and consent of instructor.
+Same course as Chemical Engineering 230B.
+Advanced mathematical methods for engineers and scientists. Complex analysis, integral equations and Green’s functions. Asymptotic analysis of integrals and sums. Boundary layer methods and WKB theory.
+250. Advanced Thermodynamics (3) MILSTEIN
+Prerequisites: ME 151A-B.
+An extended treatment of the fundamentals of classical thermodynamics, including availability and re- versibility, the chemical potential, properties of matter, thermochemistry, chemical equilibrium of real gases and gas mixtures.
+251. Statistical Thermodynamics (3) MILSTEIN
+Prerequisites: ME 151A-B.
+An extended treatment of the fundamentals of statistical thermodynamics, equilibrium distributions, properties of gases, liquids, and solids.
+252A. Computational Fluid Dynamics
+(3) MEIBURG
+Prerequisites: ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or Chemical Engineer- ing 211C.
+Numerical simulation of fluid flows. Basic discretiza- tion techniques for parabolic, elliptical, and hyperbolic conservation laws. Stability and accuracy. Diffusion equation, linear convection equation.
+252B. Computational Fluid Dynamics
+(3) MEIBURG
+Prerequisites: ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or Chemical Engineer- ing 211C.
+Discussion of appropriate boundary conditions. Nonlinear convection dominated problems, curvilinear coordinates, basics of grid generation. Inviscid flow, boundary layer flow, incompressible Navier-Stokes flows.
+252C. Computational Fluid Dynamics
+(3) MEIBURG
+Prerequisites: ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or Chemical Engineer- ing 211C.
+Compressible inviscid flows. Compressible viscous flows. Boundary element methods. Lagrangian and vortex methods.
+253. Analytical Biotechnology (3) SOH
+Prerequisite: graduate standing.
+Same course as BMSE 253.
+Recommended preparation: ME 291A. Develops fundamental understanding behind
+modern methods of biotechnology. Topics include theoretical treatment of the double layer, electropho- resis, polymerase chain reaction, modern optics, and fluorescence. In addition, case studies of contemporary emerging trends are discussed.
+256. Introductory Robust Control with Applications
+(4) BAMIEH, SMITH
+Prerequisites: ECE 230A or ME 255A; and ECE 230B (may be taken concurrently).
+Same course as ECE 232.
+Robust control theory; uncertainty modeling; stability of systems in the presence of norm-bounded perturbations; induced norm performance problems; structured singular value analysis; H-infinity control theory; model reduction; computer simulation based design project involving practical problems.
+College of engineering: meChaniCal engineering • 107
+
+108 • College of engineering: meChaniCal engineering
+260A. Materials Structures and Bonding (3) MILSTEIN
+Prerequisite: consent of instructor.
+Crystal structures (Miller indices, Bravais lattices, symmetry operations). Modeling of atomic bond- ing, determination and applications of interatomic potentials, atomic basis for elastic moduli. Crystal anisotrophy. Lattice statics and molecular dynamics computations.
+262. Thermodynamics and Phase Equilibria
+(3) ODETTE, CLARKE, ZOK
+Prerequisite: consent of instructor.
+Same course as Materials 201.
+Advanced thermodynamics with emphasis on phase equilibria, properties of solutions, and multi- component systems. (Last offered F01)
+264. Mechanical Behavior of Materials (3) STAFF
+Prerequisite: consent of instructor.
+Same course as Materials 220.
+Concepts of stress and strain. Deformation of met- als, polymers, and ceramics. Elasticity, viscoelasticity, plastic flow, and creep. Linear elastic fracture mechan- ics. Mechanisms of ductile and brittle fracture.
+265. Composite Materials (3) ODETTE, CLARKE, ZOK Prerequisite: consent of instructor.
+Same course as Materials 261.
+Stress and strain relations in composites. Residual stresses. The fracture resistance of organic and inor- ganic matrix composites. Statistical aspects of fiber failure. Composite laminates and delamination cracks. Cumulative damage concepts. Interface properties. Design criteria. (Last offered S01)
+271. Finite Element Structural Analysis (3) MCMEEKING
+Prerequisite: ME 219.
+Same course as Materials 240.
+Definitions and basic element operations. Displace- ment approach in linear elasticity. Element formula- tion: direct methods and variational methods. Global analysis procedures: assemblage and solution. Plane stress and plane strain. Solids of revolution and gen- eral solids. Isoparametric representation and numerical integration. Computer implementation.
+273. Dislocation Mechanics
+(3) BELTZ
+Prerequisite: ME 230; concurrent enrollment in ME 275.
+A rigorous review of classical dislocation theory with the intention of understanding its behavior in real materials (as it affects mechanical and electrical prop- erties) as well as how it is used to construct solutions to elastic boundary value problems.
+275. Fracture Mechanics (3) ODETTE, MCMEEKING Prerequisite: ME 219.
+Same course as Materials 234.
+Analytic solutions of a stationary crack under
+static loading. Elastic and elastoplastic analysis. The J integral. Energy balance and crack growth. Criteria for crack initiation and growth. Dynamic crack progaga- tion. Fatigue. The micromechanics of fracture.
+285. Geophysical Fluid Dynamics (3) MCLEAN
+Prerequisite: ME 152A.
+The ocean-atmosphere system. Air-sea interaction. Governing equations for rotating system: conserva- tion of mass, momentum and energy. Ocean surface waves: generation, spectral characteristics. Internal waves. Geostrophic motion. Rotating boundary layers: Ekman dynamics. Tides. Kelvin waves.
+291A. Physics of Transducers (3) SOH
+Prerequisite: graduate standing.
+Recommended preparation: ECE 220A (may be taken concurrently).
+The use of concepts in electromagnetic theory and solid state physics to describe capacitive, pierzoresis- tive, piezoelectric and tunneling transduction mecha- nisms and analyze their applications in microsystems technology.
+292. Design of Transducers
+(3) TURNER
+Prerequisites: ME 291A and ECE 220A; graduate standing.
+Design issues associated with microscale transduc- tion. Electrodynamics, linear and nonlinear mechanical behavior, sensing methods, MEMS-specific fabrication design rules, and layout are all covered. Modeling techniques for electromechanical systems are also discussed.
+293. Transducer Technology
+(3) SOH
+Prerequisites: ME 291A, 292, and ECE 220A; graduate standing.
+Theoretical and laboratory instruction in microma- chining processes and technology. Topics include ad- vanced lithographic, deposition and etching processes to create non-planar devices. Process integration and materials issues that affect MEMS device reliability are discussed.
+501. Teaching Assistant Practicum (1-4) STAFF
+Normally required of students serving as teaching assistants. No unit credit allowed towards advanced degree.
+Practical experience in the various activities associ- ated with teaching, including lecturing, supervision of laboratories and discussion sections, preparation and grading of homework and exams.
+503. Research Assistant Practicum (1-4) STAFF
+Will not count as unit credit towards M.S. or Ph.D. degree in mechanical engineering.
+Practical experience in the various activities as- sociated with research, including experimental work, theoretical work and analyses, and assisting depart- ment faculty and other professional researchers in their duties.
+596. Directed Research (1-12) STAFF
+Prerequisite: consent of instructor.
+Not applicable to course requirement for M.S. and Ph.D. degree. S/U grading.
+Experimental or theoretical research undertaken under the direction of a faculty member for graduate students who have not yet advanced to candidacy.
+597. Individual Study for Ph.D. Qualifying Examination
+(1-12) STAFF
+Prerequisite: graduate standing.
+No unit credit allowed toward advanced degree. Maximum of 12 units per quarter; enrollment limited to 24 units per examination. Instructor is normally student’s major advisor. S/U grading.
+Individual studies for Ph.D. qualifying examination.
+598. Master’s Thesis Research and Preparation
+(1-12) STAFF
+Prerequisite: consent of thesis advisor.
+No unit credit allowed toward advanced degree.
+For research underlying the thesis and writing of the thesis.
+599. Ph.D. Dissertation Research and Preparation
+(1-12) STAFF
+Prerequisite: consent of dissertation advisor.
+No unit credit allowed toward advanced degree.
+For research and preparation of the dissertation.
