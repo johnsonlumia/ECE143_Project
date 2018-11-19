@@ -13,7 +13,7 @@ import apsw
 
 class SQLite():
 
-    def __init__(self, db_name='test.db'):
+    def __init__(self, db_name='default.db'):
         """
         initializing a connection with a database
 
@@ -27,6 +27,8 @@ class SQLite():
         ------
         an SQLite object
         """
+        assert isinstance(db_name, str)
+
         self.__connection = apsw.Connection(db_name)
         self._cursor = self.__connection.cursor()
 
@@ -56,11 +58,16 @@ class SQLite():
             .
 
         """
-
+        assert isinstance(table_name, str)
         table_create = f"CREATE TABLE {table_name}(word TINYTEXT, freq INT)"
         try:
+            # execute SQL using execute, will throw SQLError when
+            #   (1) the table already exists, no action needed.
+            #   (2) error with in the SQL execution, error message will
+            #       be printed in console
             self._cursor.execute(table_create)
         except apsw.SQLError as e:
+            print('[SQLite] ', end='')
             print(e)
             return 1
 
@@ -93,22 +100,23 @@ class SQLite():
         ...
 
         """
-
+        assert isinstance(table_name, str)
+        assert isinstance(word_dict, dict)
         insertion = "INSERT INTO " + table_name
         for key, value in word_dict.items():
             try:
                 self._cursor.execute(insertion + " VALUES(?,?)", (key, value))
             except apsw.SQLError as e:
+                print('[SQLite] ', end='')
                 print(e)
                 return 1
 
         return 0
 
-    def select_entry_in_table(self, entry, table_name):
-        pass
-
 
 if __name__ == "__main__":
+
+    # testing
     aa = dict(zip(list(range(97, 123)), list(range(97, 123))))
     test_sql = SQLite()
     test_sql.create_table("goo")
