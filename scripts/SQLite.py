@@ -9,6 +9,10 @@
 #
 
 import apsw
+import logging
+
+logging.basicConfig()
+logger = logging.getLogger(__name__)
 
 
 class SQLite():
@@ -31,6 +35,7 @@ class SQLite():
 
         self.__connection = apsw.Connection(db_name)
         self._cursor = self.__connection.cursor()
+        logger.info(f'Database "{db_name}" created.')
 
     def create_table(self, table_name):
         """
@@ -67,10 +72,12 @@ class SQLite():
             #       be printed in console
             self._cursor.execute(table_create)
         except apsw.SQLError as e:
-            print('[SQLite] ', end='')
-            print(e)
+            # print('[SQLite] ', end='')
+            # print(e)
+            logging.error(e)
             return 1
 
+        logging.info(f'Table "{table_name}" created.')
         return 0
 
     def insert_dict(self, table_name, word_dict):
@@ -107,10 +114,12 @@ class SQLite():
             try:
                 self._cursor.execute(insertion + " VALUES(?,?)", (key, value))
             except apsw.SQLError as e:
-                print('[SQLite] ', end='')
-                print(e)
+                # print('[SQLite] ', end='')
+                # print(e)
+                logger.error(e)
                 return 1
 
+        logger.info(f'Data inserted to {table_name}')
         return 0
 
 
