@@ -12,6 +12,7 @@
 #
 
 import nltk
+import os
 from collections import Counter
 
 # Download nltk resources
@@ -22,7 +23,7 @@ nltk.download("wordnet")
 # don't want in our data.
 # List saved in common_words.txt
 common_words = []
-with open('common_words.txt', 'rt') as f:
+with open(os.path.join('scripts','common_words.txt'), 'rt') as f:
     for line in f.readlines():
         common_words.append(line.strip('\n'))
 common_words.extend(list(map(chr, range(97, 123))))
