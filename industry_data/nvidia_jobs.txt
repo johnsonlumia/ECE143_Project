@@ -1,0 +1,235 @@
+System Software Engineer - New College Graduate
+
+NVIDIA's GPUs and SOCs are the world leaders in performance and efficiency, and we are continually innovating in creative and unique ways to improve our ability to deliver extraordinary solutions in a wide range of sectors. We are seeking Silicon Solutions Engineers who are passionate about what they do and are committed to making a difference in the world through their inventions
+
+As part of the Silicon Solutions Team, we are responsible for productizing NVIDIA's chips into groundbreaking consumer, professional, server, mobile, and automotive solutions.
+
+What you will be doing:
+• You will help architect the infrastructure for product definition and specifications to help build and market the world’s fastest power-shipping products.
+• You will help design tools to automate and optimize critical stages of the product life-cycle.
+• Emulate silicon and system level behavior and incorporation of constantly evolving methodologies to help with product optimization.
+• You will be involved in developing automation flows for data collection, test case execution, and results analysis.
+• Your expertise will help model essential next-generation product features and work with multi-functional teams to drive them to production.
+• Find creative solutions to complex silicon and system level problems in order to enable product shipment.
+• We work alongside system architects, product definition engineers, chip and board designers, software/firmware engineers, HW/SW applications engineers and operations, in a dynamic, high-energy work environment to bring industry-defining products to market.
+
+What we need to see:
+• BS or MS in EE, CE, CS, Systems Engineering and 0-2 years of experience in a related hardware/software position.
+• Excellent problem solving, collaborative, and interpersonal skills. Experience working with offshore teams preferred.
+• Strong understanding of digital design, circuit analysis, algorithms, computer architecture, silicon speed and power, BIOS, drivers, and software applications.
+• Experience with scripting languages like Perl/Python, C/C++, databases, web applications.
+• Familiarity with computer algorithms and object oriented programming. Demonstrate ability to divide complex problems into simple sub problems and then reuse available solutions to implement the solutions.
+• Experience with product binning methods, optimization techniques, methods and tools for data analysis and statistics is a plus
+
+
+Deep Learning Software (TensorRT) - New College Grad
+
+We are now looking for Deep Learning Software Engineers (New College Grads) to join our TensorRT team:
+
+Today, research in Artificial Intelligence is booming worldwide, and NVIDIA is in a rare position to make a positive impact on the field with its GPU technology and software tools. Extraordinary tools like TensorRT play a significant role in proliferating use of Deep Learning to solve problems in a diverse set of domains.
+
+As an Engineer on our TensorRT team, you will create impact in the world of Artificial Intelligence, especially in the hyper-scale data center, embedded and automotive product platforms markets. The position offers you a rare chance to work on high-performance neural network inference engines for a broad range of AI/Deep Learning applications like object detection, text processing, video analytics and more. Join the team which is building software which will be used by the entire world!
+
+What you'll be doing:
+• You'll deliver test automation, functional and performance test suites, and drive automated test coverage, execution and triage failures
+• You'll be responsible for building and releasing infrastructure; also, you'll define test strategy, plans, and review them with partners
+• You'll work closely with the infrastructure team to drive TensorRT automation and continuous integration needs
+
+What we need to see:
+• BS or MS in Computer Science or related field
+• Deep understanding of OOP concepts and C++
+• Experience in scripting using Python or other widely used languages/tools
+• Positive attitude with the ability to work independently and in a team environment
+
+Ways to stand out from the crowd:
+• Familiarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP)
+• Knowledge of Deep Learning concepts
+• Experience working in agile/scrum team environments
+
+#deeplearning
+
+Research Scientist, Robotics (New College Grad)
+
+We are now looking for Research Scientists in Robotics:
+
+Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can build 3D maps of its environment, detect and track real-life objects, learn from simulated environments, and understand commands. This is truly an extraordinary time — the era of AI has begun.
+
+NVIDIA is searching for world-class researchers to join our Robotics Research Lab in Seattle, WA. Do you agree with us that the most interesting thing about the AI revolution is building robots to tackle real-life problems? If so, this team will be an excellent fit for you. We are passionate about enabling robots to reach human-level dexterity, perception, and adaptability. We're building a diverse and interdisciplinary team to work on core robotics topics ranging from control and perception to task planning and critical areas related to deep learning, computer vision, and natural language processing.
+
+We're looking for researchers at all levels, including post-docs, research scientists (junior/senior/principal), and sabbatical faculty visitors.
+
+What you’ll be doing:
+• You will apply your experience and knowledge in areas of Robotics perception, control, and relatable areas in computer vision, machine learning, and natural language processing
+• Conduct robotics research via publishing papers, speaking and attending conferences, and collaborating with external researchers
+• Partner with internal groups to transfer technologies and innovate products
+
+What we need to see:
+• You possess a PhD or MS in Computer Science, Electrical Engineering, or related field; or you're a current Post-Doc or Sabbatical Faculty Visitor at a university focused on robotics
+• You have proven expertise in theory and practice of robotics, or a related area with a strong interest in connecting your work to robotics scenarios
+• Strong background in research with publications from top robotics and AI conferences (i.e. RSS, ICRA, CVPR, NIPS)
+• Ability to communicate effectively in a collaborative environment
+• Programming experience and proficiency in Python, MATLAB, C, and C++
+
+Ways to stand out from the crowd:
+• Expertise in one or more of the following: robot manipulation, robot control and reinforcement learning
+• Experience and theoretical knowledge in computer vision, human-robot-interactions (HRI), and Artificial Intelligence
+• You have knowledge of physics-based simulation and natural language processing
+• You bring experience with CUDA and deep learning frameworks (i.e TensorFlow or Torch)
+
+CUDA Driver Software Engineer - New College Graduate
+
+What we're looking for:
+
+We are hiring interns to work on the CUDA driver, a core component of our platform for accelerating general purpose computation on the GPU. Our team delivers features and improvements to better realize the potential of NVIDIA hardware for a growing range of computational workloads, ranging from deep learning, scientific computation, and self-driving cars to video games and virtual reality.
+
+CUDA defines a unified programming model across a range of system configurations and hardware capabilities. To accomplish this, the CUDA driver interacts with GPU hardware, kernel mode drivers, and the operating system.
+
+What you'll be doing:
+• As a member of our team, you will use your design abilities, coding expertise, and creativity to deliver the best compute platform in the world. You will craft elegant solutions to exciting problems and craft the future direction of CUDA as you collaborate with your peers across NVIDIA.
+• You will help evangelize, architect, and implement new features
+• Help define forward-looking improvements to the CUDA APIs and programming model
+• Write effective, maintainable, and well-tested code
+• Develop code for multiple operating systems
+
+What we need to see:
+• Enrollment in BS or MS degree in Computer Science, Electrical Engineering.
+• Strong C programming skills
+• Familiarity with operating system interfaces for threads, process control, and virtual memory
+• Some experience writing and debugging multithreaded programs
+• Good written communication
+
+Ways to stand out from the crowd:
+• You have an understanding of system level architecture, such as interconnects, memory hierarchy, interrupts, and memory-mapped IO
+• Knowledge of memory coherence and consistency models
+• Experience with kernel mode development
+• Experience with Windows, Linux, or macOS driver development
+• Some familiarity with C++
+
+VLSI Engineer - New College Grad
+
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to solve, that only we can take on, and that matter to the world. This is our life’s work - to amplify human creativity and intelligence.
+
+We are now looking for a Physical Design Engineer – New College Grad:
+We are looking for a Physical Design Engineer – New College Grad who will be responsible for all aspects of physical design and implementation of Graphics processors, integrated chipsets, and other ASICs targeted at the desktop, laptop, workstation, set-top box and home networking markets.
+
+What You Will Be Doing
+• As a member of the team, you will participate in the efforts in establishing CAD and physical design methodologies (flow and tools development),
+• Your day to day will include developing chip floor plan, power/clock distribution, chip assembly and P&R, timing closure, power and noise analysis and back-end verification across multiple projects.
+• This position requires you to work with EDA vendor (Synopsys, Cadence, Magma, Mentor, etc.) tool suites such as: Apollo, Astro, Physical Compiler, PrimeTime, dc_shell, Silicon Ensemble, First Encounter, PKS, and Nanoroute.
+• You will interact with a diverse team engineers.
+
+What We Need To See
+• You have a minimum GPA 3.5
+• You are currently enrolled and will be completing BSEE, MSEE or PhD.
+• You should possess a deep understanding of static timing analysis, clock/power distribution and analysis, RC extraction and correlation, place and route, circuit design and analysis.
+• You have scripting and programming experience using several of the following: Perl, C, C++, TCL, Scheme, Skill and Make.
+• Do you have previous experience in physical design implementation?
+
+We are now looking for a DFT Engineer – New College Grad:
+Are you passionate about manufacturing quality? Do you like to work at the intersection of design and silicon testing? NVIDIA is seeking extraordinary DFT Engineer’s who love to push the quality of the products they work on to the ultimate levels. The team is building groundbreaking methodologies and flows to drive production times and quality to the highest level.
+
+What You’ll Be Doing
+• As a member of the team, you will design and implement test methodologies for large, complex, high-volume Digital IC's.
+• You will work with logic designers to review and analyze IC designs and apply test techniques as necessary.
+• Your day to day will include developing software to automate test logic insertion, timing analysis, vector generation, and validation, as well as finding continual optimization of production test cost and quality.
+
+What We Need To See
+• Minimum GPA of 3.5.
+• BSEE required and pursuing/will be completing a MS or PhD with focus in DFT.
+• In-depth knowledge of techniques for the automated testing of complex semiconductors, including JTAG, BIST, and ATPG.
+• Good programming skills in C++ and Perl5.
+
+We are now looking for a Signal Integrity Engineer – New College Grad:
+We are looking for a Signal Integrity Engineer who is excited to join a growing group of diverse individuals responsible for handling challenging high-speed designs, model generation, verification, and pre/post layout simulation and constraint management of high-speed digital busses.
+
+What You’ll Be Doing
+• As a member of the team, you will support hardware development groups to design and develop top-notch 3D graphics accelerators and PC mother boards.
+• In this position, you will be required to work with 3rd party vendors to maintain a high level of model accuracy.
+• Your day to ray will include working as part of a team with logic, module designers, PCB, and component engineers to characterize packages and define termination strategies.
+
+What We Need To See From You
+• You should have a minimum GPA of 3.5.
+• You are pursuing and will be completing a MSEE or PhD with combined lab or internship related experience.
+• You have proficient skills with signal integrity simulation tools using SpecctraQuest, ANSOFT, XTK, and HSPICE.
+• You should have good relational skills and the ability to explain results and methods to other team members.
+• It is preferred if you have experience in model validation software such as IConnect.
+
+We are now looking for a Mixed Signal Design Engineer – New College Grad:
+We are looking for a Mixed Signal Design Engineer who is excited to join a growing group of diverse individuals responsible for handling all challenges related to mixed signal designs.
+
+What You’ll Be Doing
+• You will develop high-speed IC interfaces and complex analog functions.
+• You have circuit design projects may include working with the following: high-speed interfaces, gigabit ethernet, video digital-to-analog converters, video analog-to-digital converters, high-speed phase-locked loops and high-speed I/O design.
+• You want an opportunity to be a project lead on a multimillion dollar revenue-generating product.
+
+What We Need To See From You
+• You are pursuing and will be completing MS or BS in electrical engineering.
+• PhD preferred.
+• Your GPA is at or above: 3.5
+• You have experience or knowledge in more than one of the following areas:
+• Clock/data recovery or other analog design for high-speed channels (SERDES, OC48/192(sonet/fiber channel), Gigabit Ethernet, etc).
+• Experience designing PLLs (analog), CMOS A/D converters, high-speed I/O design, high-speed interfaces.
+• Passionate about analog/mixed signal circuit design.
+
+Cloud Security Engineer - NVIDIA GPU Cloud - New College Graduate
+
+NVIDIA's invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+
+We are now looking for a Cloud Security Engineer - NCG
+
+What you’ll be doing:
+• Design and development of tools and systems that broadly align with prevention, detection and response security functions
+• Perform secure code reviews
+• Integrate tools with the build pipeline to detect security vulnerabilities early in the software development lifecycle
+• Develop, deploy and operate systems to solve challenges around application security, vulnerability patch automation, intrusion detection, continuous monitoring etc
+• Review and prioritize security findings, craft fixes, and implement them in partnership with our dev and QA staff
+• Find innovative solutions to complex security problems. These could include applying Machine Learning to improve intrusion detection, build ‘attack-resistant’ applications, etc
+
+What we need to see from you:
+• Pursuing BS or MS in electrical engineering, computer science, or related field
+• Excellent programming skills in one or more programming languages (C, C++, Java, Golang, Python)
+• Deep understanding of web and network protocols
+• Working knowledge of cryptographic algorithms, authentication protocols, and transport layer security
+• Experience with AWS, Docker containers, and Kubernetes
+• Kernel experience with Linux system is useful
+• Strong analytical skills with equally strong attention to details
+• Excellent communication and planning skills
+
+Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you a software engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for our group.
+
+System Software Engineer - New College Graduate
+
+NVIDIA's GPUs and SOCs are the world leaders in performance and efficiency, and we are continually innovating in creative and unique ways to improve our ability to deliver extraordinary solutions in a wide range of sectors. We are seeking Silicon Solutions Engineers who are passionate about what they do and are committed to making a difference in the world through their inventionsAs part of the Silicon Solutions Team, we are responsible for productizing NVIDIA's chips into groundbreaking consumer, professional, server, mobile, and automotive solutions.What you will be doing:You will help architect the infrastructure for product definition and specifications to help build and market the worlds fastest power-shipping products.You will help design tools to automate and optimize critical stages of the product life-cycle.Emulate silicon and system level behavior and incorporation of constantly evolving methodologies to help with product optimization.You will be involved in developing automation flows for data collection, test case execution, and results analysis.Your expertise will help model essential next-generation product features and work with multi-functional teams to drive them to production.Find creative solutions to complex silicon and system level problems in order to enable product shipment.We work alongside system architects, product definition engineers, chip and board designers, software/firmware engineers, HW/SW applications engineers and operations, in a dynamic, high-energy work environment to bring industry-defining products to market.What we need to see:BS or MS in EE, CE, CS, Systems Engineering and 0-2 years of experience in a related hardware/software position.Excellent problem solving, collaborative, and interpersonal skills. Experience working with offshore teams preferred.Strong understanding of digital design, circuit analysis, algorithms, computer architecture, silicon speed and power, BIOS, drivers, and software applications.Experience with scripting languages like Perl/Python, C/C , databases, web applications.Familiarity with computer algorithms and object oriented programming. Demonstrate ability to divide complex problems into simple sub problems and then reuse available solutions to implement the solutions.Experience with product binning methods, optimization techniques, methods and tools for data analysis and statistics is a plus
+
+Research Scientist Robotics New College Grad
+
+Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can build 3D maps of its environment, detect and track real-life objects, learn from simulated environments, and understand commands. This is truly an extraordinary time the era of AI has begun.NVIDIA is searching for world-class researchers to join our Robotics Research Lab in Seattle, WA. Do you agree with us that the most interesting thing about the AI revolution is building robots to tackle real-life problems? If so, this team will be an excellent fit for you. We are passionate about enabling robots to reach human-level dexterity, perception, and adaptability. We're building a diverse and interdisciplinary team to work on core robotics topics ranging from control and perception to task planning and critical areas related to deep learning computer vision, and natural language processing.We're looking for researchers at all levels, including post-docs, research scientists (junior/senior/principal), and sabbatical faculty visitors.What youll be doing:You will apply your experience and knowledge in areas of Robotics perception, control, and relatable areas in computer vision, machine learning, and natural language processingConduct robotics research via publishing papers, speaking and attending conferences, and collaborating with external researchersPartner with internal groups to transfer technologies and innovate productsWhat we need to see:You possess a PhD or MS in Computer Science, Electrical Engineering, or related field; or you're a current Post-Doc or Sabbatical Faculty Visitor at a university focused on roboticsYou have proven expertise in theory and practice of robotics, or a related area with a strong interest in connecting your work to robotics scenariosStrong background in research with publications from top robotics and AI conferences (i.e. RSS, ICRA, CVPR, NIPS)Ability to communicate effectively in a collaborative environmentProgramming experience and proficiency in Python, MATLAB, C, and C Ways to stand out from the crowd:Expertise in one or more of the following: robot manipulation, robot control and reinforcement learningExperience and theoretical knowledge in computer vision, human-robot-interactions (HRI), and Artificial IntelligenceYou have knowledge of physics-based simulation and natural language processingYou bring experience with CUDA and deep learning frameworks (i.e TensorFlow or Torch
+
+Software Engineer (New College Grad - 2019)
+
+We are building technology to transform the offline process of construction and renovation fraught with confusion and complexity into one that is transparent and simple. As a software engineer at BuildZoom, you'll work with talented engineers, product managers and business stakeholders to solve elusive user and business challenges across the BuildZoom marketplace.
+
+In This Role You Will
+• Contribute to high-volume systems across the full stack
+• Build key software components of the BuildZoom marketplace
+• Receive constructive code reviews
+• Get mentorship from seasoned industry veterans
+You Should Have
+• At least 2 relevant internships
+• At least a bachelors degree in Computer Science or related subject
+• Strong fundamentals: OOP and application architecture
+• Appreciation for software craftsmanship, quality, maintainability and performance
+• Attention to detail and personal pride in your work
+Extra Credit
+• Familiarity with MVC frameworks (e.g.: Ruby on Rails, Django, etc)
+• Familiarity with system administration, database design, full-text search engines, machine learning
+• Front-end development with a modern JS framework (AngularJS, React), HTML, CSS, Bootstrap
+• Experience building APIs for web and mobile
+Awesome Things About This Position
+• As a member of a small team, you get to wear many hats. In addition to application development, we could use help with everything ranging from devops to machine-learning to map-making.
+• You will understand the business and participate in top-level strategy discussions with the executive team.
+• Your features get used by millions of people. The feedback loop is short. You can tell, quantitatively, if your favorite feature is well received
+
+CUDA Driver Software Engineer - New College Graduate
+
+We are hiring interns to work on the CUDA driver, a core component of our platform for accelerating general purpose computation on the GPU. Our team delivers features and improvements to better realize the potential of NVIDIA hardware for a growing range of computational workloads, ranging from deep learning, scientific computation, and self-driving cars to video games and virtual reality.CUDA defines a unified programming model across a range of system configurations and hardware capabilities. To accomplish this, the CUDA driver interacts with GPU hardware, kernel mode drivers, and the operating system.What you'll be doing:As a member of our team, you will use your design abilities, coding expertise, and creativity to deliver the best compute platform in the world. You will craft elegant solutions to exciting problems and craft the future direction of CUDA as you collaborate with your peers across NVIDIA.You will help evangelize, architect, and implement new featuresHelp define forward-looking improvements to the CUDA APIs and programming modelWrite effective, maintainable, and well-tested codeDevelop code for multiple operating systemsWhat we need to see:Enrollment in BS or MS degree in Computer Science, Electrical Engineering.Strong C programming skillsFamiliarity with operating system interfaces for threads, process control, and virtual memorySome experience writing and debugging multithreaded programsGood written communicationWays to stand out from the crowd:You have an understanding of system level architecture, such as interconnects, memory hierarchy, interrupts, and memory-mapped IOKnowledge of memory coherence and consistency modelsExperience with kernel mode developmentExperience with Windows, Linux, or macOS driver developmentSome familiarity with C 
