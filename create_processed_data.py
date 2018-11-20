@@ -9,16 +9,16 @@
 #   Renjie: push to database
 #
 
-from SQLite import SQLite
-import word_freq
+from scripts.SQLite import SQLite
+from scripts import word_freq
 import os
 
 # get the directory where all the raw files live
-raw_data_folder_name = os.path.join(os.path.dirname(os.getcwd()), 'raw_data')
+raw_data_folder_name = os.path.join('raw_data')
 
 # create a connection to a database where all our processed data live
 # for details please see `SQLite.py`
-db = SQLite('database.db')
+db = SQLite(os.path.join('processed_data','database.db'))
 
 
 def get_raw_data_filenames_in_txt_format(raw_data_folder_name):
