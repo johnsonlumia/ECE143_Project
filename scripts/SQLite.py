@@ -11,9 +11,9 @@
 import apsw
 import logging
 
-logging.basicConfig()
+logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 logger = logging.getLogger(__name__)
-
+logger.setLevel(logging.INFO)
 
 class SQLite():
 
@@ -77,7 +77,7 @@ class SQLite():
             logging.error(e)
             return 1
 
-        logging.info(f'Table "{table_name}" created.')
+        logger.info(f'Table "{table_name}" created.')
         return 0
 
     def insert_dict(self, table_name, word_dict):
