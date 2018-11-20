@@ -1,0 +1,346 @@
+CUDA Driver Software Engineer - New College Graduate
+
+Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Cambridge, MA, USA; Chicago, IL, USA; Irvine, CA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; New York, NY, USA; Pittsburgh, PA, USA; Seattle, WA, USA; Madison, WI, USA
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As a key member of a small and versatile team, you design, test, deploy and maintain software solutions.
+Note: This application is intended for candidates that are eligible for full-time authorization in the United States upon completing their education. Please be prepared to answer the following in your application (1) Are you legally authorized to work in the United States? (2) Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally in the United States?
+You can also consider applying for our international opportunities. Please check google.com/students for current openings in the office where you are eligible for full-time authorization.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+
+Specific responsibilities vary by project area. General responsibilities include:
+• Write server-side code for web-based applications.
+• Develop prototypes quickly and create robust high-volume production applications.
+• Develop for specialist domains: client application development for Windows/Mac (Chrome, Toolbar, etc.), embedded systems and mobile apps (Android), developer tools (IDEs, large-scale build systems, compilers), infrastructure, internationalization, networking, and more.
+
+Qualifications
+
+Minimum qualifications:
+• PhD degree in Computer Science or related technical discipline, or equivalent practical experience.
+• Programming experience in one or more of the following: C/C++, Java or Python.
+
+Preferred Qualifications
+• Research experience in Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, or Systems.
+• Experience in Object Oriented programming.
+• A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design.
+• Coding skills in Python or JavaScript/AJAX, database design and SQL, and/or knowledge of TCP/IP and network programming.
+
+At Google, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+
+Software Engineer, Machine Learning
+
+As a Software Engineer, you'll work collaboratively with a small team that combines research and engineering expertise focused on mobile computing solutions, seeking solutions to some of the most long-standing recognition challenges in machine vision.
+
+There is always more information out there, and the Research and Machine Intelligence team has a never-ending quest to find it and make it accessible. We're constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We're providing users around the world with great search results every day, but at Google, great just isn't good enough. We're just getting started.
+
+Responsibilities
+• Research and develop machine learning models for image and video training resources.
+• Develop data collections, labeling pipelines and evaluation pipelines.
+• Optimize models for on-device and multi-modal intelligence.
+
+Qualifications
+
+Minimum qualifications:
+• BA/BS in Computer Science or related technical field, or equivalent practical experience.
+• 4 years of experience working in software development.
+• 3 years of experience working in machine learning.
+
+Preferred Qualifications
+• 3 years of research experience, focused on publishing or open-sourcing.
+• 1 year of experience with TensorFlow.
+• 1 year of experience in learning for computer vision, audio/speech processing, and/or natural language processing.
+• Excellent C++ and/or Python programming skills.
+
+Software Engineer, University Graduate
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a key member of a small and versatile team, you design, test, deploy and maintain software solutions.
+
+Product and Systems Development
+
+Whether it's finding new and innovative ways to advance search quality, building computing platform and networking technologies, automating the indexing of videos, or continuing to refine and scale complex auction systems (just to name a few), you will be developing solutions to some of the most challenging technical problems out there. You will research, conceive and develop software applications to extend and improve on Google's product offerings and collaborate on scalability issues involving access to massive amounts of data and information. Examples of specialist domains: UI development with AJAX and similar technologies, security, embedded systems and mobile apps (Android and iOS), developer tools (IDEs, large-scale build systems, compilers).
+
+Engineering Productivity
+
+As a software engineer in the Engineering Productivity organization, you'll use your software design, analysis and programming skills to create innovative automated test systems. This isn't a job in which you'll simply debug and run test cases; in fact that only scratches the surface. The test team undertakes a broad range of challenges on a daily basis, designing and building intelligent systems that can explore various use cases and scenarios for distributed computing infrastructure. Just imagine trying to design and build an automated testing system for something that's never been done before. There are no textbooks that can help you learn this, which is why we have some of the best engineers working in this group.
+
+Site Reliability
+
+Software engineers working in Site Reliability are involved in every facet of Google's production and work on the cutting edge of cloud-based computing. As a member of this team you are in the thick of everything involved with keeping Google running, from code-level troubleshooting of traffic anomalies to maintenance of our most cutting edge services; from monitoring and alerts to building new automation infrastructure. Software engineers on this team love to create robust and scalable software that scale to tens of millions of users. You will take on challenging, novel situations every day, and work with just about every other engineering and operations team to provide services and applications that are quintessentially Google — fast, reliable and accessible to all.
+Note: This application is intended for candidates that are eligible for full-time authorization in the United States upon completing their education. Please be prepared to answer the following in your application (1) Are you legally authorized to work in the United States? (2) Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally in the United States?
+You can also consider applying for our international opportunities. Please check google.com/students for current openings in the office where you are eligible for full-time authorization.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+
+Specific responsibilities may vary, but in general may include:
+• Design, develop, test, deploy, maintain and improve software.
+• Manage project priorities, deadlines and deliverables.
+• Take on tasks as requested, following through to completion despite roadblocks or distractions.
+
+Qualifications
+
+Minimum qualifications:
+• BA/BS degree in Computer Science or related technical field, or equivalent practical experience.
+• Experience with Data Structures or Algorithms (i.e. completing a data structures or algorithms class, coursework, course projects, research, individual projects, internships, or other practical experience in/outside of school or work (including open source hobby coding).
+• Software Development experience through hands on coding in a general purpose programming language.
+• Examples of coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript or Python.
+
+Preferred Qualifications
+• Must be able to start a full-time role in 2019.
+• Previous tech internships or relevant work experience programming in one of the following languages as well as demonstrated experience programming in two or more of the languages including but not limited to: C, C++, C#, Java, JavaScript, Go or Python.
+• Experience working with some of the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development.
+• Interest and ability to learn other coding languages.
+• Working proficiency in verbal and written English.
+• Authorization to legally work in the US
+
+Data Scientist, PhD University Graduate
+
+At Google, data drives all of our decision-making. Data Scientists work all across the organization to help shape Google's business and technical strategies by processing, analyzing and interpreting huge data sets. Using analytical rigor and statistical methods, you mine through data to identify opportunities for Google and our clients to operate more efficiently, from enhancing advertising efficacy to network infrastructure optimization to studying user behavior. As a Data Scientist, you do more than just crunch the numbers. You work with Engineers, Product Managers, Sales Associates and Marketing teams to adjust Google's practices according to your findings. Identifying the problem is only half the job; you also figure out the solution.
+
+As a key member of the team, you work with engineers to analyze and interpret data, develop metrics to measure results and integrate new methodologies into existing systems.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+• Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed; Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables and presentations.
+• Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive understanding of Google data structures and metrics, advocating for changes where needed for both products development and sales activity.
+• Interact cross-functionally with a wide variety of people and teams. Work closely with engineers to identify opportunities, design and assess improvements to Google products.
+• Make business recommendations (e.g. cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
+• Research and develop analysis, forecasting and optimization methods to improve the quality of Google's user facing products; example application areas include ads quality, search quality, end-user behavioral modeling and live experiments.
+
+Qualifications
+
+Minimum qualifications:
+• PhD degree in a quantitative discipline (e.g. statistics, bioinformatics, computational biology, computer science, applied mathematics, or similar) or equivalent practical experience.
+• Relevant internship or work experience with data analysis.
+• Experience with statistical software (R, S-Plus, SAS, or similar).
+• Experience with databases and scripting languages (such as Python).
+
+Preferred Qualifications
+• Authorization to legally work in the United States.
+• 1 year of relevant work experience (i.e., data scientist role), including deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.
+• Ability to draw conclusions from data and recommend actions.
+• Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques
+
+Data Scientist Intern, PhD, 20
+
+Join us for a unique 12-14 week internship in 2019 with start dates in January, May and June. Applications are due by November 26, 2018 at 11:59pm PST.
+To apply, you must submit all of the following materials:
+• Updated resume: please include the relevant coding language(s) along with any technical experience or projects.
+• Transcript: unofficial or official; must be in English.
+
+Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Seattle, WA, USA; New York, NY, USA
+
+Google's statisticians and data scientists/quantitative analysts work within our Software Engineering organization, including Life Sciences, Geo, Project Aura, Technical Infrastructure, and Advertising. We analyze huge sets of data and continually run live experiments in order to help drive critical decisions at Google. We support the development of innovative, highly scalable, next-generation technologies through deep research and advanced analysis.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications, and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+• Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed; Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+• Interact cross-functionally with a wide variety of people and teams. Work closely with engineers to identify opportunities for, design, and assess improvements to Google products.
+• Provide research on topics including Google's business model and novel search techniques.
+• Produce quantitative and qualitative modeling of business dynamics, user behavior, etc.
+
+Qualifications
+
+Minimum qualifications:
+• Currently pursuing a PhD in a quantitative discipline (e.g. statistics, biostatistics, computer science, applied mathematics, operations research, economics ) or another discipline involving experimental design and quantitative analysis of data.
+• Experience using technology to work with datasets such as Scripting, Python, statistical software (R, SAS or similar).
+• Experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, and sampling methods.
+• Available to work full-time for 12-14 weeks.
+
+Preferred Qualifications
+• Available to start in January, May or June 2019 and returning to a degree program after the internship ends.
+• Strong track record of developing intellectual capital such as published works.
+• Authorization to work in the United States
+
+Software Engineer University Graduate Google Jobs
+
+Note: By applying to this position your application is automatically submitted to the following locations: Los Angeles, CA, USA; Kirkland, WA, USA; Seattle, WA, USA; Mountain View, CA, USA; Irvine, CA, USA; Cambridge, MA, USA; Boulder, CO, USA; Pittsburgh, PA, USA; Chicago, IL, USA; Madison, WI, USA
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As a key member of a small and versatile team, you design, test, deploy and maintain software solutions.
+
+Product and Systems Development
+
+Whether it's finding new and innovative ways to advance search quality, building computing platform and networking technologies, automating the indexing of videos, or continuing to refine and scale complex auction systems (just to name a few), you will be developing solutions to some of the most challenging technical problems out there. You will research, conceive and develop software applications to extend and improve on Google's product offerings and collaborate on scalability issues involving access to massive amounts of data and information. Examples of specialist domains: UI development with AJAX and similar technologies, security, embedded systems and mobile apps (Android and iOS), developer tools (IDEs, large-scale build systems, compilers).
+
+Engineering Productivity
+
+As a software engineer in the Engineering Productivity organization, you'll use your software design, analysis and programming skills to create innovative automated test systems. This isn't a job in which you'll simply debug and run test cases; in fact that only scratches the surface. The test team undertakes a broad range of challenges on a daily basis, designing and building intelligent systems that can explore various use cases and scenarios for distributed computing infrastructure. Just imagine trying to design and build an automated testing system for something that's never been done before. There are no textbooks that can help you learn this, which is why we have some of the best engineers working in this group.
+
+Site Reliability
+
+Software engineers working in Site Reliability are involved in every facet of Google's production and work on the cutting edge of cloud-based computing. As a member of this elite team you are in the thick of everything involved with keeping Google running, from code-level troubleshooting of traffic anomalies to maintenance of our most cutting edge services; from monitoring and alerts to building new automation infrastructure. Software engineers on this team love to create robust and scalable software that scale to tens of millions of users. You will tackle challenging, novel situations every day, and work with just about every other engineering and operations team to provide services and applications that are quintessentially Google — fast, reliable and accessible to all.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+
+Specific responsibilities vary by project area. General responsibilities include:
+• Develop scripts to automate routine tasks while also reading and reviewing others’ code to provide feedback.
+• Analyze information and evaluate results to choose the best solution to effectively solve problems.
+• Mitigate reliability failures in a component or system.
+• Create and support a productive and innovative team. This includes working with peers, managers, and teams.
+• Take on tasks as requested, following through to completion despite roadblocks or distractions.
+Qualifications
+Minimum qualifications:
+• BA/BS degree in Computer Science or related technical field, or equivalent practical experience.
+• Experience in writing code fixes and tools to solve problems in C, C++, C#, Java, JavaScript, Go or Python (e.g., removing duplicate elements from a list) and experience in optimizing code for stability, functionality and scalability (e.g., crawling, search, troubleshooting).
+• Experience or previous project assignments with Data Structures and Algorithms (i.e. selecting and implementing an algorithm, using data structures to solve a problem.) Experience creating algorithms that improve a product’s capabilities, speed, efficiency, or reliability.
+• Experience with data structures, branching, function-calls, and conditionals as well as debugging code and submitting the appropriate fix.
+
+Preferred qualifications:
+• Graduating from a BS/MS program in Spring/Summer/Winter 2018.
+• Previous tech internships or relevant work experience programming in C, C++, C#, Java, JavaScript, Go or Python.
+• Experience developing thorough testing solutions across testing layers (e.g., unit, functional, integration, stress testing) for your code, using one or more of the following: C, C++, C#, Java, JavaScript, Go, or Python.
+• Demonstrated experience programming in 2 or more of the above languages: C, C++, C#, Java, JavaScript, Go or Python.
+• Experience manipulating code to improve system availability and latency; Experience with improving inventing or demonstrating the value of new algorithms that improve a product's capabilities, speed, efficiency and reliability.
+• Skill in isolating problems to a database subsystem.
+
+Software Engineer, Site Reliability Engineer
+
+Technologies
+
+c++, java, python, c, go
+
+Job description
+
+Site Reliability Engineering (SRE) is an engineering discipline that combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google's services—both our internally critical and our externally-visible systems—have reliability and uptime appropriate to users' needs and a fast rate of improvement while keeping an ever-watchful eye on capacity and performance.
+
+SRE is also a mindset and a set of engineering approaches to running better production systems—we build our own creative engineering solutions to operations problems. Much of our software development focuses on optimizing existing systems, building infrastructure and eliminating work through automation. As SREs are responsible for the big picture of how our systems relate to each other, we use a breadth of tools and approaches to solve a broad spectrum of problems. Practices such as limiting time spent on operational work, blameless postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and interesting and dynamic day-to-day work.
+
+SRE's culture of diversity, intellectual curiosity, problem solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.
+
+To learn more: check out Site Reliability Engineering, written by Google SREs, watch a recorded Hangout on Air to meet some of our SREs, or read a career profile about why a software engineer chose to join SRE.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+Responsibilities
+• Engage in and improve the whole lifecycle of services—from inception and design, through deployment, operation and refinement.
+• Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning and launch reviews.
+• Maintain services once they are live by measuring and monitoring availability, latency and overall system health.
+• Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity.
+• Practice sustainable incident response and blameless postmortems.
+
+Qualifications
+
+Minimum qualifications:
+• BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent practical experience.
+• Experience with algorithms, data structures, complexity analysis and software design.
+• Experience in one or more of the following: C, C++, Java, Python, Go, Perl or Ruby.
+
+Preferred qualifications:
+• Interest in designing, analyzing and troubleshooting large-scale distributed systems.
+• Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.
+• Ability to debug and optimize code and automate routine tasks
+
+Software Engineer, Cloud SQL
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you manage individual projects priorities, deadlines and deliverables. You design, develop, test, deploy, maintain, and enhance software solutions.
+
+As a Software Engineer working on Cloud SQL, you have a background in Windows and/or SQL Server and will lead a SQL Server team within Cloud SQL.The SQL Server team offers fully managed database services (MySQL, PostgresSQL, and SQL Server) to internal and external customers with superb reliability, durability, and performance. The hosted database is growing rapidly as part of the big shift from on-prem to the cloud. Google Cloud Platform (GCP) is at the forefront of this cloud transformation, and a critical piece of this puzzle is data. As an experienced engineer, you will play a critical role in designing and building a reliable and performant product.
+
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life.
+
+Responsibilities
+• Work alongside the Technical Lead to drive long-term technical direction
+• Own and drive the design and implementation of major components
+• Help to influence and shape the team's culture and process
+• Partner with Product Managers to define product direction
+• Collaborate with other GCP teams to drive alignments. Grow and mentor other engineers.
+
+Qualifications
+
+Minimum qualifications:
+• BS degree in Computer Science, similar technical field of study or equivalent practical experience
+• 5 years of software development experience in Java, C++, C#, or Golang
+• Experience in designing and developing large scale distributed systems, API, workflow, concurrency, multithreading and synchronization
+• Experience in developing Windows Agent software and/or SQL Server features and in designing, implementing, and running SaaS on SQL Server and Windows environment
+
+Preferred Qualifications
+• 10 years of relevant work experience in software development
+• Experience in building infrastructure as service (IasS), platform as a service (PaaS), etc.
+• Experience in running SQL Server and/or Window production environment for SaaS
+• Experience in building cloud-based Database or Storage services
+
+Engineering Resident, University Graduate (Fixed-Term Employee)
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. You will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google aspires to be an organization that reflects the globally diverse audience that our search engine and tools serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services. Google is invested in increasing the pipeline of Computer Scientists and Software Developers, particularly those who are historically underrepresented in the field. Many aspiring Computer Scientists could benefit from a program that bridges the gap between academia and industry.
+
+The Google Engineering Residency Program is a 12-month fixed term role designed to jumpstart your career as a software engineer at Google. The Engineering Residency Program is a training and development program open to all qualified graduates who received a degree in Computer Science or Computer Engineering within the last 6 months, or who will receive a degree by the summer of 2019.
+
+The Engineering Residency program combines Computer Science education with hands-on software engineering experience in a supported, closely mentored cohort. Following an industry-focused training period, Residents move onto rotations embedded in engineering teams, working on complex programming projects with Google engineers. The goal of the Residency Program is to help Residents become productive and successful software engineers within the one year program.
+
+Make the transition: The professional engineering environment is constantly evolving. Google's Engineering Residency Program is designed to accelerate the transition from school to industry, enabling Residents to have an impact right away.
+
+Learn new skills: Our infrastructure is complex. As an Engineering Resident, you'll learn the things that are harder to teach in school - from large-scale distributed processing and Google-style test-driven development, to applied theory and code reviews, to developer workflow and beyond.
+
+Grow with peers: With such a diverse set of backgrounds and perspectives, your peers will provide you with opportunities for learning and development throughout the program - and they'll serve as a lifelong network.
+
+Kickstart your career: As an Engineering Resident, you'll have the ability to build technical skills, adjust to industry work, leverage a built-in support network, and access mentorship opportunities - all of which will kickstart your career in tech.
+
+Change the world: Google's software engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas and who are ready to take on some of technology's greatest challenges and make an impact users. Google engineers are changing the world one technological achievement after another.
+
+Before the end of their residency year, Residents will be considered for full-time positions on Google Engineering teams, based on performance.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+• Participate in an initial training period, which lasts eight weeks. Engineering Residency combines interactive group learning with training on Google tools, technologies and best practices.
+• Following the training period, residents are placed in two 4.5 month rotations. During the rotational period, residents are embedded on Engineering teams across the company. They work side-by-side with engineers on projects that are core to Google.
+• Work on specific projects critical to Google’s business needs based on your technical experience. These opportunities exist across multiple groups within Google.
+• Be versatile, display leadership qualities and be enthusiastic to handle new problems across the full-stack as we continue to push technology forward in all areas.
+
+Qualifications
+
+Minimum qualifications:
+• Completion of BA/BS degree in Computer Science, related technical field of study or equivalent practical experience, including computer science coursework, no later than August 2019
+• Programming experience in one or more of the following general purpose programming languages: C/C++, C# Java, Javascript, Python, or Go
+• Authorization to legally work in the United States
+
+Preferred Qualifications
+• Experience with data structures, algorithms, or complexity analysis (i.e. completing coursework, course projects, research, individual projects, internships, or other practical experience in/outside of school or work)
+• Relevant experience, open source contributions or competitive programming exposure through hands on coding in a general purpose programming language
+• Interest and ability to learn in a team environment with a focus on knowledge sharing and collaboration
+• Strong communication skills, including working proficiency and communication skills in verbal and written English.
+
+Software Engineer, Tools and Infrastructure, University Graduate Google Jobs
+
+A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer, Tools and Infrastructure, you will be at the heart of Google’s engineering process building software that empowers engineering teams to develop and deliver high quality products quickly. We are focused on solving the hardest, most interesting challenges of developing software at scale without sacrificing stability, quality, velocity or code health.
+
+We ensure Google's success by partnering with engineering teams and developing scalable tools and infrastructure that help engineers develop, test, debug and release software quickly. We impact thousands of Googlers and billions of users by increasing the pace of product development and ensuring our products are thoroughly tested. Expect to learn best practices for code health, testability and maintainability - critical skills for early career software engineers.
+
+Having access to all of Google's platforms and vast compute resources provides a unique opportunity to grow as an engineer. We typically work in small, nimble teams that collaborate on common problems across products and focus areas. As a result, the exposure to this broad set of problems provides diverse technical challenges as well as accelerated career growth.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+• Collaborate with engineers through the entire software development lifecycle to solve complex engineering problems in tools and testing.
+• Develop advanced automated testing frameworks.
+• Develop tooling and infrastructure to help engineering teams measure and increase their velocity.
+• Conduct research on emerging technologies.
+
+Qualifications
+Minimum qualifications:
+• BA/BS degree in Computer Science or related technical field, or equivalent practical experience.
+• Experience in writing code fixes and tools to solve problems in C, C++, C#, Java, JavaScript, Go or Python (e.g., removing duplicate elements from a list) and experience in optimizing code for stability, functionality and scalability (e.g., crawling, search, troubleshooting).
+• Experience or previous project assignments with Data Structures and Algorithms (i.e. selecting and implementing an algorithm, using data structures to solve a problem.) Experience with algorithms that improve a product’s capabilities, speed, efficiency, or reliability.
+• Experience with data structures, branching, function-calls, and conditionals as well as debugging code and submitting the appropriate fix.
+
+Preferred qualifications:
+• Previous tech internships or relevant work experience programming in C, C++, C#, Java, JavaScript, Go or Python.
+• Experience developing thorough testing solutions across testing layers (e.g., unit, functional, integration, stress testing) for your code, using one or more of the following: C, C++, C#, Java, JavaScript, Go, or Python.
+• Demonstrated experience programming in 2 or more of the above languages: C, C++, C#, Java, JavaScript, Go or Python.
+• Experience manipulating code to improve system availability and latency; Experience with improving inventing or proving the value of new algorithms that improve a product's capabilities, speed, efficiency and reliability.
+• Skill in isolating problems to a database subsystem.
