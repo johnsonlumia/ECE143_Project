@@ -1,0 +1,383 @@
+LOWER-DIVISION
+1A-B-C. Mesa Orientation Course (1-1-1)
+Students will be given an introduction to the engineer- ing profession and our undergraduate program. Exercises and practicums will develop the problem- solving skills needed to succeed in engineering. One and a half hours of lecture. Prerequisite: none. (F,W,S) M.L. Rudee
+20A. Introduction to Electrical Engineering I (4)
+Areas of electrical engineering from Ohm’s Law to semi- conductor physics to engineering ethics are discussed, demonstrated, and experienced. Principles introduced in lectures are put to use as student lab teams build a work- ing system.The first quarter emphasizes analog electron- ics. Two hours of lecture, one hour of discussion, three hours of laboratory. (Lab fee: $35) Prerequisite: Math. 20A must be taken concurrently. (F,W,S) A. Sebald, P. Yu
+20B. Introduction to Electrical Engineering II (4)
+This continuation of ECE 20A emphasizes semiconductor devices and digital electronics. Lab teams complete their system as they learn engineering design methods. Students are prepared for proceeding toward their choice of an electrical engineering profession. Two hours of lec- ture, one hour of discussion, three hours of laboratory. (Lab fee: $35) Prerequisites: ECE 20A with a grade of C- or better. (F,W,S) B. Lin, M. Trivedi
+30. Introduction to Computer Engineering (4)
+This course is designed to introduce the fundamentals of both the hardware and software in a computer sys- tem. Topics include: representation of information, computer organization and design, assembly and microprogramming, current technology in logic design. (Students who have taken CSE 30 may not take ECE 30 for credit.) Three hours of lecture, four hours of labora- tory. Prerequisite: ECE 20B and CSE 11 or 8A-B with grades of C- or better. (F,S) K. Yun
+53A. Fundamentals of Electrical Engineering I (4)
+This is a coordinated lecture and laboratory course for students majoring in other branches of science and engineering. It covers analysis and design of passive and active circuits. The course emphasizes problem- solving and laboratory work on passive circuits. Three hours of lecture, one hour of discussion, one hour of laboratory. Prerequisites: Math. 21C, Math. 21D must be concurrent, Phys. 2B or BS or 4C with grades of C– or bet- ter.(F,W)P.Cosman
+ 
+Electrical and Compu•ter Engineering (ECE) _______________________________
+53B. Fundamentals of Electrical Engineering II (4)
+This is a coordinated lecture and laboratory course for students majoring in other branches of science and engineering. It covers analog and digital systems and active circuit design. Laboratory work will include oper- ational amplifiers, diodes and transistors. Two hours of lecture, one hour of discussion, three hours of labora- tory. Prerequisites: ECE 53A with a grade of C– or better. (W,S)B.Rickett
+60A. Circuits and Systems I (4)
+Voltage-current relationships for circuit elements, Kirchhoff’s voltage and current laws,source transforma- tions, loop and node analysis, initial conditions, the Laplace transform, inverse transforms, partial fraction expansions. Three hours of lecture, one hour of discus- sion, one hour of laboratory. Prerequisites: Math 20B, 21C, 21D, and ECE 20A with grades of C- or better. (F,W) R. Lugannani
+60B. Circuits and Systems II (4)
+Solution of network equations using Laplace trans- forms; convolution integral; the concept of impedance; Thevenin’s and Norton’s theorems; transfer functions; poles and zeros; two-port networks, steady state sinu- soidal response; Bode plots. Three hours of lecture, one hour of discussion. Prerequisite: ECE 60A and Math. 21D with grades of C– or better. ( W,S) W. Ku
+60L. Circuits and Systems Laboratory (4)
+In this course, students learn to model, simulate, and design practical circuits using idealized circuit models to account for the interactions among various parts of a circuit, the concept of feedback, etc. Topics include first and second order filters, operational amplifiers (lin- ear amplifiers, active filters, differentiators, integrators, comparators, triggers, oscillators), and transistor circuits (amplifiers, digital circuits). Three hours of lecture, three hours of laboratory. (Lab fee: $15) Prerequisites: ECE 60A with a grade of C– or better. ECE 60B must be taken concurrently or already completed with a grade of C– or better. (W,S) F. Najmabadi
+90. Undergraduate Seminar (1)
+This seminar class will provide a broad review of current research topics in both electrical engineering and com- puter engineering. Typical subject areas are signal pro- cessing, VLSI design, electronic materials and devices, radio astronomy, communications, and optical comput- ing. One hour lecture. Prerequisite: none. (F,W,S)
+UPPER-DIVISION
+101. Linear Systems Fundamentals (4)
+Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, fre- quency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Three hours of lecture, one hour of discussion. Prerequisites: ECE 60B or ECE 53B with grades of C– or better. A. Vardy
+102. Introduction to Active Circuit Design (4)
+Nonlinear active circuits design. Nonlinear device mod- els for diodes, bipolar and field-effect transistors. Linearization of device models and small signal equiva- lent circuits. Circuit designs will be simulated by com- puter and tested in the laboratory.Three hours of lecture, one hour discussion, three hours of laboratory. (Lab fee: $15) Prerequisites: ECE 60B and 60L or ECE 53B with grades of C– or better. (F,W) L. Larson
+103. Fundamentals of Devices and Materials (4)
+Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion. p-n junctions, metal-semiconductor junctions. Bipolar junction tran- sistors: current flow, amplification, switching, non-ideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Three hours of lecture, one hour of discussion. Prerequisites: Phys. 2D or Phys. 4D and 4E with grades of C– or better. (F,W) E.Yu
+107. Electromagnetism (4)
+Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse prop- agation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Three hours of lecture, one hour of discus- sion. Prerequisites: Math 20A-B, 21C-D, 20F-E; Phys. 2A-D or 4A-E; (ECE 20A-B, 30, ECE 60A-B-L) or (ECE 53A and 53B) with grades of C– or better. (W,S) N. Bertram
+108. Digital Circuits (4)
+Digital integrated electronic circuits for processing technologies. Analytical methods for static and dynamic characteristics. MOS field-effect transistors and bipolar junction transistors, circuits for logic gates, flip-flop, data paths, programmable logic arrays, mem- ory elements. Three hours of lecture, one hour of dis- cussion, three hours of laboratory. (Lab fee: $20) Prerequisites: Math 20A-B, 21C-D, 20F-E; Phys. 2A-D or 4A-E; (ECE 20A-B, 30, ECE 60A-B-L) or (ECE 53A and 53B); ECE 30 or CSE 30; ECE 102 with grades of C– or better. ( W,S) W. Coles
+109. Engineering Probability and Statistics (4)
+Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transforma- tion of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Three hours of lec- ture, one hour of discussion. Prerequisites: Math. 20A-B-C or 21C, 20D or 21D, 20F, with grades of C– or better. (ECE 101 recommended). (W,S) K. Zeger
+111. Advanced Digital Design Project (4)
+Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimi- nation, synchronous/asnychronous FSM synthesis, syn- chronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisite: ECE 108 or CSE 140 with grades of C– or bet- ter. (F) B. Lin
+118. Computer Interfacing (4)
+Interfacing computers and embedded controllers to the real world: busses, interrupts, DMA, memory map- ping, concurrency, digital I/O, standards for serial and parallel communications, A/D, D/A, sensors, signal con- ditioning, video, and closed loop control. Students design and construct an interfacing project. Three hours of lecture, four hours of laboratory. (Lab fee: $20) Prerequisites: ECE 30 or CSE 30 and ECE 60A-B-L or ECE 53A-B. (S) C. Guest
+120. Solar System Physics (4)
+General introduction to planetary bodies, the overall structure of the solar system, and space plasma physics.
+Course emphasis will be on the solar atmosphere, how the solar wind is produced, and its interaction with both magnetized and unmagnitized planets (and comets). Three hours of lecture, four hours of laboratory. Prerequisites: Phys. 2A-C or 4A-D, Math. 20A-B, 20C or 21C with grades of C- or better. (S) N. Omidi
+123. Antenna Systems Engineering (4)
+The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communi- cations. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Three hours of lecture, one hour of discussion. Prerequisite: ECE 107 with a grade of C– or better. (F) B. Rickett
+134. Electronic Materials Science of Integrated
+Circuits (4)
+Electronic materials science with emphasis on topics pertinent to microelectronics and VLSI technology. Concept of the course is to use components in inte- grated circuits to discuss structure, thermodynamics, reaction kinetics, and electrical properties of materials. Three hours of lecture. Prerequisites: Phys. 2C-D with grades of C– or better. (S) E. Yu
+135A. Semiconductor Physics (4)
+Crystal structure and quantum theory of solids; elec- tronic band structure; review of carrier statistics, drift and diffusion, p-n junctions; nonequilibrium carriers, imrefs, traps, recombination, etc; metal-semiconductor junctions and heterojunctions. Three hours of lecture. Prerequisite: ECE 103 with a grade of C– or better. (F) H. L. Luo
+135B. Electronic Devices (4)
+Structure and operation of bipolar junction transistors, junction field-effect transistors, metal-oxide-semicon- ductor diodes and transistors. Analysis of dc and ac characteristics. Charge control model of dynamic behavior. Three hours of lecture. Prerequisite: ECE 135A with a grade of C– or better. (W) H. L. Luo
+136. Fundamentals of Semiconductor Device
+Fabrication (4)
+Crystal growth, controlled diffusion, determination of junction-depth and impurity profile, epitaxy, ion- implantation, oxidation, lithography, chemical vapor deposition, etching, process simulation and robust design for fabrication. Three hours of lecture. Prere- quisite: ECE 103 with a grade of C– or better. (S) P. Yu, E. Yu
+136L. Microelectronics Laboratory (4)
+Laboratory fabrication of diodes and field effect transis- tors covering photolithography, oxidation, diffusion, thin film deposition, etching and evaluation of devices. Two hours of lecture, three hours of laboratory. (Lab fee: $35) Prerequisite: ECE 103 with a grade of C– or better. (F,S) S. S. Lau
+138L. Microstructuring Processing Technology Laboratory (4)
+A laboratory course covering the concept and practice of microstructuring science and technology in fabricat- ing devices relevant to sensors, lab-chips and related devices. Three hours of lecture, three hours of labora- tory. (Lab fee: $40) Prerequisite: upper-division standing for science and engineering students. (W) S. S. Lau
+139. Semiconductor Device Design and Modeling (4)
+Device physics of modern field effect transistors and bipolar transistors, including behavior of submicron structures. Relationship between structure and circuit models of transistors. CMOS and BiCMOS technologies.
+
+Emphasis on computer simulation of transistor opera- tion and application in integrated circuits. Three hours of lecture. Prerequisites: ECE 135A-B with grades of C– or better. (S) P. Asbeck
+145AL-BL-CL. Acoustics Laboratory (4-4-4)
+Automated laboratory based on H-P GPIB controlled instruments. Software controlled data collection and analysis. Vibrations and waves in strings and bars of electromechanical systems and transducers. Transmis- sions, reflection, and scattering of sound waves in air and water. Aural and visual detection. Two hours of lec- ture, four hours lab. Prerequisite: ECE 107 with a grade of C– or better or consent of instructor. (F-W-S) J. Hildebrand
+146. Introduction to Magnetic Recording (4)
+A laboratory introduction to the writing and reading of digital information in a disk drive. Basic magnetic recording measurements on state-of-art disk drives to evaluate signals, noise, erasure, and non-linearities that characterize this channel. Lectures on the recording process will allow comparison of measurements with basic voltage expressions. E/M FEM software utilized to study geometric effects on the record and play trans- ducers. One hour of lecture, three hours of laboratory. Prerequisite: ECE 107 with a grade of C– or better. (W) N. Bertram
+153. Probability and Random Processes for
+Engineers (4)
+Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Three hours of lecture, one hour of discussion. Prerequisite: ECE 109 with a grade of C– or better. (F,S) R. Lugannani
+154A. Communications Systems I (4)
+Study of analog modulation systems including AM, SSB, DSB, VSB, FM, and PM. Performance analysis of both coherent and noncoherent receivers, including thresh- old effects in FM. Three hours of lecture, one hour of dis- cussion. Prerequisite: ECE 153 with a grade of C– or better. (F) L. Milstein
+and 153 with grades of C– or better and concurrent regis- tration in ECE 154B-C required. Department stamp required. ( W,S) J. Wolf
+158A. Data Networks I (4)
+Layered network architectures, data link control proto- cols and multiple-access systems, performance analy- sis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Three hours of lecture, three hours of lab- oratory. Prerequisite: ECE 109 with a grade of C– or better. ECE 159A recommended. ( W ) R. Cruz
+158B. Data Networks II (4)
+Layered network architectures, data link control proto- cols and multiple-access systems, performance analy- sis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Three hours of lecture, three hours of lab- oratory. Prerequisite: ECE 158A with a grade of C– or bet- ter. (S) R. Cruz
+159A. Queuing Systems: Fundamentals (4)
+Analysis of single and multiserver queuing systems; queue size and waiting times. Modeling of telephone systems, interactive computer systems and the machine repair problems. Three hours of lecture. Prerequisite: ECE 109 with a grade of C– or better. (F) E. Masry
+159B. Queuing Systems: Computer Systems and
+Data Networks (4)
+M/G/1 queuing systems. Computer systems applica- tions: priority scheduling; time-sharing scheduling. Open and closed queuing networks; modeling and per- formance of interactive computer systems. Elements of computer-communication networks: stability and delay analysis; optimal design issues. Three hours of lecture. Prerequisite: ECE 159A with a grade of C– or better. (W) E. Masry
+Electrical and Compu•ter Engineering (ECE) _______________________________
+correlation Algorithms simulated by MATLAB. Three hours of lecture, one hour of discussion, three hours of laboratory. (Lab fee: $15) Prerequisite: ECE 161B with a grade of C– or better. (S) T. Nguyen
+163. Electronic Circuits and Systems (4)
+Analysis and design of analog circuits and systems. Feedback systems with applications to operational amplifier circuits. Stability, sensitivity, bandwidth, com- pensation. Design of active filters. Switched capacitor circuits. Phase-locked loops. Analog-to-digital and digi- tal-to-analog conversion. Three hours of lecture, one hour of discussion, three hours of laboratory. (Lab fee: $10) Prerequisites: ECE 101 and 102 with grades of C– or better. (S) B–S Song
+164. Analog Integrated Circuit Design (4)
+Design of linear and non-linear analog integrated cir- cuits including operational amplifiers, voltage regula- tors, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Three hours of lecture, one hour of discussion, three hours of laboratory. Prerequisite: ECE 102 with a grade of C– or bet- ter. ECE 163 recommended. (F) I. Galton
+165. Digital Integrated Circuit Design (4)
+VLSI digital systems. Circuit characterization, perform- ance estimation, and optimization. Circuits for alterna- tive logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. (Students who have taken CSE 143 may not take ECE 165 for credit.) Three hours of lecture, one hour of dis- cussion, three hours of laboratory. (Lab fee: $10) Prerequisite: ECE 108 with a grade of C– or better. (W) P. Chau
+166. Microwave Systems and Circuits (4)
+Waves, distributed circuits, and scattering matrixmeth- ods. Passive microwave elements. Impedance match- ing. Detection and frequency conversion using microwave diodes. Design of transistor amplifiers including noise performance. Circuits designs will be simulated by computer and tested in the laboratory. Three hours of lecture, one hour of discussion, three hours of laboratory. Prerequisites: ECE 102 and 107 with grades of C– or better. (S) P. Asbeck
+171A. Linear Control System Theory (4)
+Stability of continous- and discrete-time single- input/single-output linear time-invariant control sys- tems emphasizing frequency domain methods. Transient and steady-state behavior. Stability analysis by root locus, Bode, Nyquist, and Nichols plots. Compensator design. Three hours of lecture, one hour of discussion. Prerequisite: ECE 60B or ECE 53-54 or MAE 140 with a grade of C– or better. (S) D. Sworder
+171B. Linear Control System Theory (4)
+Time-domain, state-variable formulation of the control problem for both discrete-time and continous-time lin- ear systems. State-space realizations from transfer func- tion system description. Internal and input-output stability, controllability/observability, minimal realiza- tions, and pole-placement by full-state feedback. Three hours of lecture, one hour of discussion. Prerequisite: ECE 171A with a grade of C– or better. (F) D. Sworder
+154B. Communications Systems II
+(4)
+161A. Introduction to Digital Signal Processing
+(4)
+Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersym- bol interference and fading. Detection and estimation theory, including optimal receiver design and maxi- mum-likelihood parameter estimation. Three hours of lecture, one hour of discussion. Prerequisite: ECE 154A with a grade of C– or better. (W) L. Milstein
+154C. Communications Systems III (4)
+Introduction to information theory and coding, includ- ing entropy, average mutual information, channel capacity, block codes and convolutional codes. Three hours of lecture, one hour of discussion. Prerequisite: ECE 154B with a grade of C– or better. (S) L. Milstein
+155A. Digital Recording Systems (4)
+This course will be concerned with modulation and coding techniques for digital recording channels. Three hours of lecture. Prerequisites: ECE 109 and 153 with grades of C– or better and concurrent registration in ECE 154A required. Department stamp required. (F) J. Wolf
+Review of discrete-time systems and signals, Discrete- Time Fourier Transform and its properties, the Fast Fourier Transform, design of Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters, imple- mentation of digital filters. Three hours of lecture, one hour of discussion. Prerequisite: ECE 101 and 109 with grades of C– or better. (F,S) B. Rao
+161B. Digital Signal Processing I (4)
+Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping. Sampling of bandpass signals, undersampling downconversion, and Hilbert trans- forms. Coefficient quantization, roundoff noise, limit cycles and overflow oscillations. Insensitive filter struc- tures, lattice and wave digital filters. Systems will be designed and tested with Matlab, implemented with DSP procesors and tested in the laboratory.Three hours of lecture, one hour of discussion, three hours of labo- ratory. (Lab fee: $15) Prerequisite: ECE 161A with a grade of C– or better. (W) T. Nguyen
+161C. Digital Signal Processing II (4)
+Basic principles of adaptive algorithms. Algorithms for adaptive FIR (gradient, LMS, recursive techniques) and adaptive IIR filtering. Implementation issues. Introduc- tion of fast transform algorithms (FFT, Winograd FFT, number theoric transforms, DCT). Fast convolution and
+155B-C. Digital Recording Projects
+(4-4)
+These courses will be concerned with modulation and coding techniques for digital recording channels. In winter and spring quarters, students will perform experiments and/or computer simulations. One hour lecture, four hours of laboratory. Prerequisites: ECE 109
+
+Electrical and Compu•ter Engineering (ECE) _______________________________
+172A. Introduction to Intelligent Systems: Robotics and Machine Intelligence (4)
+This course will introduce basic concepts in machine perception. Topics covered will include: edge detection, segmentation, texture analysis, image registration, and compression. Prerequisite: ECE 101 with a grade of C– or better, ECE 109 recommended. (F) M. Trivedi
+173. Theory and Applications of Neural Networks and Fuzzy Logic (4)
+Theory of fuzzy logic, reasoning and control; mathe- matical aspects of neural architectures for pattern clas- sification, functional approximation, and adaptive estimation and control; theory of computer-assisted learning (supervised, unsupervised and hybrid); theory and practice of recurrent networks (stability, placement of equilibria); computer-aided design of fuzzy and neu- ral systems, Bayes and minimax design. Four hours of lecture. Prerequisite: Math. 20F with a grade of C– or bet- ter. (S) A. Sebald
+174. Introduction to Linear and Nonlinear Optimization with Applications (4)
+The linear least squares problem, including constrained and unconstrained quadratic optimization and the rela- tionship to the geometry of linear transformations. Introduction to nonlinear optimization. Applications to signal processing, system identification, robotics, and circuit design. Four hours of lecture. Prerequisite: Math. 20F with a grade of C– or better. (S) K. Kreutz-Delgado
+175. Elements of Machine Intelligence: Pattern Recognition and Machine Learning (4)
+Decision functions. Pattern classification by distance and likelihood functions; deterministic and statistical trainable pattern classifiers; feature selection; issues in machine learning. Four hours of lecture. Prerequisites: ECE 109 and ECE 174 with grades of C– or better. (W) K. Kreutz-Delgado
+181. Physical Optics and Fourier Optics (4)
+Ray optics, wave optics, beam optics, Fourier optics, and electromagnetic optics. Ray transfer matrix, matrices of cascaded optics, numerical apertures of step and graded index fibers. Fresnel and Fraunhofer diffrac- tions, interference of waves. Gaussian and Bessel beams, the ABCD law for transmissions through arbi- trary optical systems. Spatial frequency, impulse response and transfer function of optical systems, Fourier transform and imaging properties of lenses, holography. Wave propagation in various (inhomoge- neous, dispersive, anisotropic or nonlinear) media. Three hours of lecture, two hours of laboratory. Prerequisites: ECE 103 and 107 with grades of C– or better. (S) S. Lee
+182. Electromagnetic Optics, Guided-wave, and
+Fiber Optics (4)
+Polarization optics: crystal optics, birefringence. Guided-wave optics: modes, losses, dispersion, cou- pling, switching. Fiber optics: step and graded index, single and multimode operation, attenuation, disper- sion, fiber optic communications. Resonator optics. Three hours of lecture, two hours of laboratory. Prerequisites: ECE 103 and 107 with grades of C– or better. (F) S. Fainman
+183. Optical Electronics (4)
+Quantum electronics, interaction of light and matter in atomic systems, semiconductors. Laser amplifiers and laser systems. Photodetection. Electrooptics and acoustooptics, photonic switching. Fiber optic commu- nication systems. Labs: semiconductor lasers, semicon- ductor photodetectors. Three hours of lecture, two hours of demonstration laboratory. (Lab fee: $35)
+Prerequisites: ECE 103 and 107 with grades of C– or better.
+(S)C.Tu
+184. Optical Information Processing and
+Holography (4)
+Labs: optical holography, photorefractive effect, spatial filtering, computer generated holography. Two and a half hours of lecture, four hours of laboratory. (Lab fee: $35) Prerequisite: ECE 182 with a grade of C– or better. ( W ) S. Fainman
+185. Lasers and Modulators (4)
+Labs: CO2 laser, HeNe laser, electrooptic modulation, acoustooptic modulation, spatial light modulators. Two and a half hours of lecture, four hours of laboratory. (Lab fee: $35) Prerequisite: ECE 183 with a grade of C– or better. (S)P.Yu
+187. Introduction to Biomedical Imaging and
+Sensing (4)
+Image processing fundamentals: imaging theory, image processing, pattern recognition; digital radiography, computerized tomography, nuclear medicine imaging, nuclear magnetic resonance imaging, ultrasound imag- ing, microscopy imaging. Three hours of lecture, four hours of laboratory. Prerequisite: Math. 20A-B-F, 20C or 21C, 20D or 21D, Phys. 2A-D, ECE 101 (may be taken con- currently) with grades of C– or better. (F) S. Fainman
+191. Engineering Group Design Project (4)
+Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and con- tribute a section to the final project report.Two hours of discussion, eight hours of laboratory. Prerequisites: Completion of all of the breadth courses and one depth course. (W) C. Guest, P. Das
+192. Engineering Design (4)
+Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended for- mulation of a problem statement/specifications, con- sideration of alternative solutions/realistic constraints. Written final report required. Prerequisites: Students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 192. (Specifications and enrollment forms are available in the undergraduate office.)
+198. Directed Group Study (2 or 4)
+Topics in electrical and computer engineering whose study involves reading and discussion by a small group of students under direction of a faculty member. (P/NP grades only.) Prerequisite: consent of instructor.
+199. Independent Study for Undergraduates (2 or 4)
+Independent reading or research by special arrange- ment with a faculty member. (P/NP grades only.) Prerequisite: consent of instructor.
+GRADUATE
+200. Research Conference (2)
+Group discussion of research activities and progress of group members. (S/U grades only.) Prerequisite: consent of instructor. (F,W,S) Staff
+210. Information Systems in Manufacturing (4)
+Basic problem solving and search techniques. Knowledge based and expert systems. Planning and decision support systems. Fuzzy logic and neural nets. Topics covered will include data models, query process- ing, distributed systems, enterprise computing and intelligent agents, fuzzy logic, neural nets. Four hours of lecture. Prerequisite: basic engineering and introduction to computers. ( W ) R. Jain
+211. Manufacturing Engineering Seminar and Laboratory (2)
+Combination of seminars, laboratory activities, and field trips. Seminars by top manufacturing engineers, man- agers, and student interns. Visits to manufacturing facil- ities. Techniques in accessing international technical and patent databases. Prerequisite: none. M. Trivedi
+220. Space Plasma Physics (4)
+The nature of the solar wind interaction with different planets and comets leads to a variety of magnetos- pheres. This course will deal with both nature of the solar wind as well as these interactions. Three hours of lecture. Prerequisite: ECE 107 or equivalent or consent of instructor. (W) A. Mendis
+222A-B-C. Applied Electromagnetic Theory (4)
+Electrostatics and dielectric materials. Uniqueness, reci- procity, and Poynting theorems. Solutions to Maxwell’s equations in rectangular, cylindrical, and spherical coor- dinates. Waves in isotropic and anisotropic media, transmission lines, wave-guides, optical fibers, and reso- nant structures. Radiation, propagation, and scattering problems. Scattering matrices, microwave circuits, and antennas. Three hours of lecture. Prerequisites: ECE 107, 123, 124 or equivalent. (F,W,S) B. Rickett
+230A. Solid State Electronics (4)
+This course is designed to provide a general back- ground in solid state electronic materials and devices. Course content emphasizes the fundamental and cur- rent issues of semiconductor physics related to the ECE solid state electronics sequences. Three hours of lec- ture. Prerequisites: fundamentals of quantum mechanics, ECE 135A-B, or equivalent. (F) S.S. Lau
+230B. Solid State Electronics (4)
+Physics of solid-state electronic devices, including p-n diodes, Schottky diodes, field-effect transistors, bipolar transistors, pnpn structures. Computer simulation of devices, scaling characteristics, high frequency per- formance, and circuit models. Three hours of lecture. Prerequisite: ECE 230A. (W) P. Asbeck
+193H. Honors Project
+(4-8)
+An advanced reading or research project performed under the direction of an ECE faculty member. Must contain enough design to satisfy the ECE program’s four-unit design requirement. Must be taken for a letter grade. May extend over two quarters with a grade assigned at completion for both quarters. Prerequisite: admission to the ECE departmental honors program.
+195. Teaching (2 or 4)
+Teaching and tutorial activities associated with courses and seminars. Not more than four units of ECE 195 may be used for satisfying graduation requirements. (P/NP grades only.) Three hours of lecture. Prerequisite: con- sent of the department chair.
+197. Field Study in Electrical and Computer Engineering (4, 8, 12, or 16)
+Directed study and research at laboratories and obser- vatories away from the campus. (P/NP grades only.) Prerequisites: consent of instructor and approval of the department.
+
+230C. Solid State Electronics (4)
+This course is designed to provide a treatise of semi- conductor devices based on solid state phenomena. Band structures carrier scattering and recombination processes and their influence on transport properties will be emphasized. Three hours of lecture. Prerequisite: ECE230Aorequivalent.(S)P.Yu
+230E. Introduction to Superconductivity (4)
+Superconductivity phenomenon, two-fluid models and phenomenological theories, magnetic properties of ideal superconductors, type II superconductors, tunnel- ing, microscopic theory, superconducting materials, current developments. Three hours of lecture. Prerequisite: consent of instructor. (F) H-L. Luo
+231. Thin Film Phenomena (4)
+This course is designed to provide a general survey of thin film processes pertinent to microelectronics.Topics to be discussed include preparation methods, various modern analytical techniques, physical properties, growth morphology, interface reaction, and alloy for- mation and applications. Three hours of lecture. Prerequisite: consent of instructor. (W) S.S. Lau and H- L.Luo
+232. The Field Effect and Field Effect Transistors (4)
+Physics of the field effect of elemental and III-V com- pound semiconductors related to the technology and characteristics of Schottky barrier gate, insulated gate, and junction gate field effect transistors. Three hours of lecture. Prerequisite: consent of instructor. (S) H. Wieder
+233. X-Ray Diffraction Analysis of Materials (4)
+This class will cover the physics of x-ray diffraction and its application to the analysis of crystal structure, grain size, grain orientation, surface roughness, epitaxy, film thickness, etc. Experimental techniques to be discussed and will include theta-2theta diffractometry, high reso- lution x-ray rocking curves, Laue patterns, pole figures, reflectivity, small angle scattering, laboratory experi- ments, and computer simulations. Three hours of lec- ture, one hour of laboratory. Prerequisite: consent of instructor. (S) K. Kavanagh
+236B. Optical Processes in Semiconductors (4)
+Absorption and emission of radiation in semiconduc- tors. Radiative transition and nonradiative recombina- tion. Ultra-fast optical phenomena. Laser and photodetector devices will be emphasized. Three hours of lecture. Prerequisites: ECE 230A and 230C or equivalent. (W)P.Yu
+236C. Heterojunction Field Effect Transistors (4)
+Device physics and applications of isotype and aniso- type heterojunctions and quantum wells, including band-edge discontinuities, band bending and space charge layers at heterojunction interfaces, charge trans- port normal and parallel to such interfaces, two-dimen- sional electron gas structures, modulation doping, heterojunction and insulated gate field effect transis- tors. Three hours of lecture. Prerequisite: consent of instructor. (S) H. Wieder
+236D. Heterojunction Bipolar Transistors (4)
+Current flow and charge storage in bipolar transistors. Use of heterojunctions to improve bipolar structures. Transient electron velocity overshoot. Simulation of device characteristics. Circuit models of HBTs. Requirements for high-speed circuit applications. Elements of bipolar process technology, with emphasis on III-V materials. Three hours of lecture. Prerequisite: consent of instructor. (F) P. Asbeck
+237. Modern Materials Analysis (4)
+Analysis of the near surface of materials via ion, elec- tron, and x-ray spectroscopes. Topics to be covered include particle solid interactions. Rutherford backscat- tering, secondary ion mass spectroscopy, electron energy loss spectroscopy, particle induced x-ray emis- sion, Auger electron spectroscopy, extended z-ray absorption, fine structure and channeling. Three hours of lecture. Prerequisite: consent of instructor. (F) Staff
+238A. Thermodynamics of Solids (4)
+The thermodynamics and statistical mechanics of solids. Basic concepts, equilibrium properties of alloy systems, thermodynamic information from phase dia- grams, surfaces and interfaces, crystalline defects. Multiple listed with Materials Science 201A.Three hours of lecture. Prerequisite: consent of instructor. (F) Staff
+238B. Solid State Diffusion and Reaction Kinetics (4)
+Thermally activated processes. Boltzman factor, homo- geneous and heterogeneous reactions, solid state dif- fusion, Fick’s law, diffusion mechanisms, Kirkendall effects, Boltzmann-Manato analysis, high diffusivity paths. Multiple listed with Materials Science 201B. Three hours of lecture. Prerequisite: ECE 238A. (W) Staff
+239. Nanometer-Scale Probes and Devices (4)
+Discussion of scanning tunneling microscopy, atomic force microscopy, and other high-resolution scanning probe techniques, including basic concepts, experi- mental considerations, and applications. Fabrication and properties of submicron structures, with emphasis on the study of semiconductor materials and devices. Three hours of lecture. Prerequisite: consent of instructor. (F)EdwardT.Yu
+Electrical and Compu•ter Engineering (ECE) _______________________________
+240B. Optical Information Processing (4)
+Space-bandwidth product, superresolution, space-vari- ant optical system, partial coherence, image processing with coherent and incoherent light, processing with feedback, real-time light modulators for hybrid process- ing, nonlinear processing. Optical computing and other applications.Threehoursoflecture.Prerequisite:ECE182 or equivalent. (W) S. Lee and S. Fainman
+240C. Optical Modulation and Detection (4)
+Propagation of waves and rays in anisotropic media. Electro-optical switching and modulation. Acousto- optical deflection and modulation. Detection theory. Heterodyne detection, incoherent and coherent detec- tion. Three hours of lecture. Prerequisites: ECE 181,183 or equivalent. (S) S. Esener and P. Yu
+241A. Nonlinear Optics (4)
+Second harmonic generation (color conversion), para- metric amplification and oscillation, photorefractive effects and four-wave mixing, optical bistability; appli- cations. Three hours of lecture. Prerequisites: ECE 240A, C, or consent of instructor. (F) S.Fainman and S. Lee
+241B. Optical Devices for Computing. (4)
+Application of electro-optic, magneto-optic, acousto- optic, and electro-absorption effects to the design of photonic devices with emphasis on spatial light modu- lation and optical storage techniques. Three hours of lecture. Prerequisites: ECE 240A, C, or consent of instructor. (F) S. Esener
+241C. Holographic Optical Elements (4)
+Fresnel, Fraunhofer, and Fourier holography. Analysis of thin and volume holograms, reflection and transmis- sion holograms, color and polarization holograms. Optically recorded and computer-generated hologra- phy. Applications to information storage, optical inter- connects, 2-D and 3-D display, pattern recognition, and image processing. Three hours of lecture. Prerequisite: ECE 182 or equivalent, or consent of instructor. (W) S. Fainman
+241AL. Lasers and Holography Laboratory (2)
+Laser resonator design, construction, alignment, char- acterizations. Operation and evaluation of molecular, gas, liquid dye, semiconductor lasers. Spatial and tem- poral coherance measurements. Design and fabrication of transmission, reflection, bleached, color, multiple exposure holograms. Prerequisites: ECE 181,182,183 or consent of instructor. (This course is cojoint with ECE 184. Graduate students will choose 50 percent of the experi- ments and receive two units of credit.) (F) S. Lee and S. Fainman
+241BL. Optical Signal Processing Laboratory (2)
+Construction and characterization of Fourier/Fresnel transform, coherent/incoherent, imaging-processing systems. Design, coding, fabrication of spatial filters, computer-generated holograms. Experiments in non- linear photorefractive phenomena and image-process- ing applications. Construction of vector-matrix multipliers. Optical systems design using Code-V. Prerequisites: ECE 181, 182, 183, or consent of instructor. (ThiscourseiscojointwithECE185.Graduatestduentswill choose 50 percent of the experiments and receive two units of credit.) ( W ) S. Lee and S. Fainman
+241CL. Optoelectronics and Communications
+laboratory (2)
+Operation and characterization of electro-optic, acousto-optic modulators. Polarization manipulation techniques. Heterodyne detection schemes. Para- metrization of P-I-N and avalanche detectors, LED sources. Evaluation of optical fiber, thin film wave-guide
+234A. Imperfections in Solids
+(4)
+Point, line, and planar defects in crystalline solids, including vacancies, self-interstitials, solute atoms, dis- location interactions, stacking faults, grain boundaries, and their effects on the properties of solids. Hardening by localized obstacles, precipitates, and dispersoids. Three hours of lecture. Prerequisite: consent of instructor. (F) R.A. Asaro
+234B. Advanced Study of Defects in Solids (4)
+Advanced topics in dislocation theory and dislocation dynamics. Defects and defects interactions. Atomistic and subatomistic effects. Physical models based on microscopic considerations. Three hours of lecture. Prerequisite: ECE 234A or consent of instructor. (W) R.A. Asaro
+236A. Semiconductor Heterostructure Materials (4)
+This course covers the growth, characterization, and heterojunction properties of III-IV compound semicon- ductors and group-IV semiconductor heterostructures for the subsequent courses on electronic and photonic device applications. Topics include epitaxial growth techniques, electrical properties of heterojunctions, transport and optical properties of quantum wells and superlattices. Three hours of lecture. Prerequisites: ECE 230A-B-Corconsentofinstructor.(W)C.Tu
+240A. Lasers and Optics
+(4)
+Fresnel and Fraunhofer diffraction theory. Optical res- onators, interferometry. Gaussian beam propagation and transformation. Laser oscillation and amplification, Q-switching and mode locking of lasers, some specific laser systems. Three hours of lecture. Prerequisites: ECE 123, 124 or equivalent; introductory quantum mechanics orECE183.(F),P.Yu
+
+Electrical and Compu•ter Engineering (ECE) _______________________________
+properties. Characterization of Hughes LCLV spatial light modulator. Prerequisites: ECE 181, 182, 183, or con- sent of instructor. Staff
+242A. Optical Systems (4)
+Principles of optical system design. Modeling of optical and opto-electronic components, modules, and sys- tems. Signal integrity analysis. Design optimization using CAD. Assembly and testing. System scalability and manufacturability. Opto-electronic packaging. Three hours of lecture. Prerequisites: ECE 240A-B-C, or consent of instructor. (W) S. Lee
+244A. Statistical Optics (4)
+Introduction to statistical phenomena in optics includ- ing first order properties of light waves generated from various sources. Coherence of optical waves, high-order coherence. Partial coherence and its effects on imaging systems. Imaging in presence of randomly inhomoge- neous medium. Limits in photelectric detection of light. Three hours of lecture. Prerequisite: ECE 240A-B or con- sent of instructor. (F) Y. Fainman
+244B. Quantum Electronics of Femtosecond Optical Pulses (4)
+Femtosecond optical pulses in linear dispersive media. Self-action of optical pulses. Parametric interaction of optical pulses. Self- and cross-phase modulation. Fast phase control, compression and shaping of optical pulses. Optical solitons. Applications of femtosecond optical pulses. Three hours of lecture. Prerequisite: ECE 240A-B-C or consent of instructor. (W) Y. Fainman
+245A. Advanced Acoustics I (4)
+Boundary value problems in vibrating systems, wave propagation in strings, bars, and plates. Fundamentals of acoustical transducers. Three hours of lecture. Prerequisite: concurrent registration in ECE 145AL recom- mended. (F) J. Hildebrand
+245B. Advanced Acoustics II (4)
+Theory of radiation transmission and scattering of sound with special application to ocean acoustics. Three hours of lecture. Prerequisite: ECE 245A or consent of instructor. Concurrent registration in ECE 145BL recom- mended. (W) J. Hildebrand
+246C. Magnetic Recording Laboratory (4)
+Basic measurements in magnetic recording. Fields and Fourier transforms of head structures using resistance paper measurements and computer analysis; induc- tance and B-H loop measurements of recording heads and core materials; recording system calibration and magnetization pattern investigation utilizing spectral measurements (FFT ). Prerequisites: ECE 246B and labora- tory experience. (alternate years) N. Bertram
+250. Random Processes (4)
+Random variables, probability distributions and densi- ties, characteristic functions. Convergence in probabil- ity and in quadratic mean, Stochastic processes, stationarity. Processes with orthogonal and independ- ent increments. Power spectrum and power spectral density. Stochastic integrals and derivatives. Spectral representation of wide sense stationary processes, har- monizable processes, moving average representations. Prerequisite: ECE 153 or equivalent or consent of instruc- tor. (F) R. Lugannani
+251AN. Digital Signal Processing I (4)
+Discrete random signals; conventional (FFT based) spectral estimation. Coherence and transfer function estimation; model-based spectral estimation; linear prediction and AR modeling. Levinson-Durbin algo- rithm and lattice filters, minimum variance spectrum estimation. Three hours of lecture. Prerequisites: ECE 153 in addition to either ECE 161 or 161A, or consent of instruc- tor. (W) W. Hodgkiss and B. Rao
+251BN. Digital Signal Processing II (4)
+Adaptive filter theory, estimation errors for recursive least squares and gradient algorithms, convergence and tracking analysis of LMS, RLS, and Kalman filtering algorithms, comparative performance of Weiner and adaptive filters, transversal and lattice filter implemen- tations, performance analysis for equalization, noise cancelling, and linear prediction applications. Three hours of lecture. Prerequisite: ECE 251AN. (S) W. Hodgkiss and J. Zeidler
+251CN. Filter Banks and Wavelets (4)
+Fundamentals of multirate systems (noble identities, polyphase representations), maximally decimated filter banks (QMF filters for 2-channels, M-channel perfect reconstruction systems), paraunitary perfect recon- struction filter banks, the wavelet transform (multireso- lution, discrete wavelet transform, filter banks and wavelet). Three hours of lecture. Prerequisite: ECE 161B or equivalent. (F) B. Rao
+251DN. Array Processing (4)
+The coherent processing of data collected from sensors distributed in space for signal enhancement and noise rejection purposes or wavefield directionality estima- tion. Conventional and adaptive beamforming. Matched field processing. Sparse array design and processing techniques. Applications to acoustics, geophysics, and electromagnetics. Prerequisite: 251AN, ECE 161 or 151A (ECE 161, 162A-B series recently renumbered to ECE 161A-B-C), or consent of instructor. (F) W. Hodgkiss
+252A. Speech Compression (4)
+Speech signals, production and perception, compres- sion theory, high rate compression using waveform coding (PCM, DPCM, ADPCM, . .), DSP tools for low rate coding, LPC vocoders, sinusoidal tranform coding, multi-band coding, medium rate coding using code excited linear prediction (CELP). Prerequisite: ECE 161A or161.(W)B.Rao
+252B. Speech Recognition (4)
+Signal analysis methods for recognition, dynamic time warping, isolated word recognition, hidden markov models, connectedword, and continuous speech recog- nition. Prerequisites: ECE 109, ECE 262A. (S) B. Rao
+253A. Fundamentals of Digital Image Processing (4)
+Image quantization and sampling, image transforms, image enhancement, image compression. Prerequisites: ECE 109, 153, ECE 161 or ECE 161A. ( W ) P. Cosman
+253B. Digital Image Analysis (4)
+Image morphology, edge detection, scene segmenta- tion, texture analysis, registration and fusion, feature analysis, time-varying images. Prerequisite: ECE 253A or consent of instructor. (S) P. Cosman
+254. Detection Theory (4)
+Hypothesis testing, detection of signals in white and colored Gaussian noise; Karhunen-Loève expansion, estimation of signal parameters, maximum-likelihood detection; resolution of signals; detection and estima- tion of stochastic signals; applications to radar, commu- nications, and optics. Prerequisite: ECE 153. (F) R. Lugannani
+255AN. Information Theory (4)
+Introduction to basic concepts, source coding theo- rems, capacity, noisy-channel coding theorem. Three hours of lecture. Prerequisite: ECE 154A-B-C or consent of instructor. (F) Staff
+255BN/CN. Source Coding I, II (4/4)
+Theory and practice of lossy source coding, vector quantization, predictive and differential encoding, uni- versal coding, source-channel coding, asymptotic the- ory, speech and image applications. Three hours of lecture. Prerequisite: ECE 250 and 259A or 259AN, or con- sent of instructor. (W,S) K. Zeger
+245C. Advanced Acoustics III
+(4)
+Stationary processes; spectral representation; linear transformation. Recursive and nonrecursive prediction and filtering; Wiener-Hopf and Kalman-Bucy filters. Series expansions and applications. Time series analy- sis; probability density, covariance and spectral estima- tion. Inference from sampled-data, sampling theorems; equally and non-equally spaced data, applications to detection and estimation problem. Prerequisite: ECE 153. (F,W) E. Masry
+257A. Multiuser Communication Systems (4)
+M/G/1, G1/M/1 queues, imbedded chains. Ergodic the- ory of Markov chains, classification, ergodic theorems. Multiple access systems, random access protocols, capacity, stability, delay and control, reservation and hybrid schemes. Prerequisites: ECE 153 and 159A, or equivalent. Note: ECE 159A is an integral part of this course and should be taken in the fall quarter. (W) R. Rao
+257B. Principles of Wireless Networks (4)
+This course will focus on the principles, architectures, and analytical methodologies for design of multi-user wireless networks. Topics to be covered include cellular approaches, call processing, digital modulation, adap- tive arrays, broadband networks, and wireless packet access for multimedia service. Three hours of lecture.
+Signal processing in underwater acoustics. Theory and hardwave embodiments. Three hours of lecture. Prerequisite: ECE 245B or consent of instructor. Concurrent registration in ECE 145CL recommended. (S) J. Hildebrand
+246A. Materials for Magnetic Recording (4)
+Properties of magnetic materials utilized as magnetic recording media and heads; magnetic structure of oxides and metals; fine particle magnetism: micromag- netic analysis; hysteresis and reversal mechanisms of hard materials; dynamic processes and domain pat- terns of soft materials; thermal fluctuations; multilayer phenomena: giant magnetoresistance. Prerequisites: undergraduate electromagnetism and solid state physics or consent of instructor. (alternate years) H.L. Luo, N. Bertram
+246B. Analysis of the Magnetic Recording Process
+(4)
+In-depth analysis of the magnetic recording process. Magnetic fields and Fourier transforms of fields and mag- netized media and heads; playback process for single and multiple transitions. Reciprocity theorem for inductive and magnetoresistive heads; record process modeling; interfer- ences and nonlinearities; medium noise mechanisms and correlations; signal to noise ratios. Prerequisites: undergradu- ate electromagnetic theory and mathematical methods or consent of instructor. (alternate years) N. Bertram
+Prerequisites: ECE 159B and 154B. (S)
+A. Acampora
+256A-B. Time Series Analysis and Applications
+(4-4)
+258A-B. Digital Communication
+(4-4)
+Digital communication theory including performance of various modulation techniques, effects of inter-sym- bol interference, adaptive equalization, spread spec-
+
+trum communication. Prerequisites: ECE 154A-B-C and ECE 254 or consent of instructor. (W,S) L. Milstein
+259AN. Algebraic Coding (4)
+Fundamentals of block codes, introduction to groups, rings and finite fields, nonbinary codes, cyclic codes such as BCH and RS codes, decoding algorithms, appli- cations. Three hours of lecture. Prerequisite: consent of instructor. (F) J. Wolf or P. Siegel
+259BN. Trellis-Coded Modulation (4)
+Coding theory developed from the viewpoint of digital communications engineering, information theoretic limits for basic channel models, convolutional codes, maximum-likelihood decoding, Ungerboeck codes, codes based on lattices and cosets, rotational invariance, performance evaluation, applications of modem design. Three hours of lecture. Prerequisites: ECE 154A-B-C, ECE 259A or 259AN, or consent of instructor. (W) P.Siegel
+259CN. Advanced Coding and Modulation for Digital Communications (4)
+Advanced coding and modulation techniques for bandwidth-efficient data transmission and recording; constellation shaping by regions, Voronoi constella- tions, shell mapping, coding for intersymbol-interfer- ence channels, precoding methods, multilevel coding; coding for fading channels, applications to wireline and wireless communications, digital recording. Three hours of lecture. Prerequisites: ECE 259A-B or 259AN-BN. (S) P.Siegel
+260A. VLSI Digital System Algorithms and
+Architectures (4)
+Custom and semicustom VLSI design from the system designer’s perspective. VLSI system algorithms, parallel processing architectures and interconnection net- works, and design mapping methodologies will be emphasized. VLSI computer-aided design (CAD) tools will be introduced. Knowledge of basic semiconductor electronics and digital design is assumed. Three hours of lecture. Prerequisites: undergraduate-level semicon- ductor electronics and digital system design; ECE 165 or equivalent or consent of instructor. (F) P. Chau
+260B. VLSI Integrated Circuits and Systems Design (4)
+Computer arithmetic, control and memory structures for VLSI implementations at logic, circuit, and layout level. Computer-aided design and performance simula- tions, actual design projects for teams of two to three students per team. Layout done on CAD workstations for project IC chip fabrication. Design projects will be reviewed in class presentation. Three hours of lecture. Prerequisite: ECE 260A. (W) P. Chau
+260C. VLSI Advanced Topics (4)
+Advanced topics seminar with issues from system the- ory, to new technologies, to alternative design method- ologies will be subject for review. Class discussion, participation and presentations of projects and special topics assignments will be emphasized. The testing results of fabricated IC chips from other VLSI design classes will be presented in class and in a final report. Three hours of lecture. Prerequisite: ECE 260B. (S) P. Chau
+261A. Design of Analog and Digital GaAs Integrated Circuits I (4)
+Introduction to analytical and computer-aided design (CAD) techniques for microwave integrated circuits. Design of active two-ports using scattering parameters. Monolithic realization of low-noise amplifiers using GaAs FETs and HEMTs. Design of monolithic distributed amplifiers. Design of monolithic power amplifiers and
+mixers. Three hours of lecture. Prerequisite: consent of instructor.(W)W.Ku
+261B. Design of Analog and Digital GaAs Integrated Circuits (4)
+Introduction to GaAs digital integrated circuits (IC). Design of simple digital GaAs ICs using DCFL. Design of digital building blocks for complex multipliers, FET but- terfly chips, DDS, and oversampled A/D converters. Three hours of lecture. Prerequisite: consent of instructor. (S)W.Ku
+262B. RPG of ASSPS (Rapid Prototyping and Generation of Applications-Specific Signal Processing
+Systems) (4)
+Introduction to concurrent engineering which can only be effectively treated through the employment of a multiprocessing environment. Strategies for partition- ing of signal processing system designs and optimiza- tion of scheduling of task assignments in a distributed computing environment. Introduction to mixed-signal systems and reduced complexity system design. Testing of rapid prototyped ASICS. Three hours of lec- ture, nine hours of laboratory. Prerequisite: ECE 262A. (S) P.Chau
+263A. Reliable Design of Digital Systems (4)
+Fault tolerance and testability have the common objec- tive of improving the reliability of computer hardware. Knowing the fault models, how faults manifest them- selves, how to test fault existence, and how to keep sys- tem functioning when fault exists help the engineers choose different techniques in computing and VLSI sys- tems designs. Prerequisite: completion of upper-division ECE/CE courses or consent of instructor. (F) T. T. Lin
+263B. Fault-Tolerant Computing and VLSI Testing I (4)
+This course will cover all aspects of fault-tolerant com- puting and VLSI testing. Topics include fundamental concepts of fault-tolerant hardware design, test pattern generation, signature analysis, system diagnosis and evaluation, and fault tolerance in VLSI-based systems. Prerequisite:ECE263Aorconsentofinstructor.(W)T.T.Lin
+263C. Fault-Tolerant Computing and VLSI Testing II (4)
+Fault tolerance and testability have the common objec- tive of improving system reliability. The second part of the course emphasizes systemwide design issues. Topics include fault-tolerant architecture and systems, design for testability, and computer-aided reliability evaluation. Current research issues in fault-tolerant computing and VLSI testing will be addressed. Prerequisites: ECE 263A-B or consent of instructor. (S) T. T. Lin
+264A. CMOS Analog Integrated Circuits and
+Systems I (4)
+Frequency response of the basic CMOS gain stage and current mirror configurations. Advanced feedback and stability analysis; compensation techniques. High- Performance CMOS amplifier topologies. Switched capacitor circuits.Analysis of noise and distortion.Three hours of lecture, three hours of laboratory. Prerequisites: ECE 164 and 153 or equivalent courses. (W) I. Galton
+264B. CMOS Analog Integrated Circuits and
+Systems II (4)
+Continuous-time filters: synthesis techniques and CMOS circuit topologies. Switched-capacitor filters: syn- thesis techniques and CMOS circuit topologies. Overview of CMOS samplers, data converters, mixers, modulators, oscillators, and PLLs. Three hours of lecture. Prerequisites: ECE 264A and 251A or 251AN. (S) I. Galton
+Electrical and Compu•ter Engineering (ECE) _______________________________
+264C. CMOS Analog Integrated Circuits and
+Systems III (4)
+Integrated CMOS analog/digital systems: Analog to dig- ital and digital to analog converters, Nyquist versus oversampling, linearity, jitter, randomization, calibra- tion, speed versus resolution, pipeline, folding, interpo- lation, averaging. Three hours of lecture. Prerequisites: ECE 163 and 164. ( W ) B.S. Song
+264D. CMOS Analog Integrated Circuits and
+Systems IV (4)
+PLL: Phase noise effect, VCO, phase detector, charge pump, integer/fractional-N frequency synthesizer, clock and data recovery, decision feedback. Filter: Continuous-time filter, I-Q complex filter, raised-cosine, Gaussian, delay, zero equalizers. Three hours of lecture. Prerequisites: ECE 163 and 164. (S) B.S. Song
+265A. Communication Circuit Design I (4)
+Introduction to noise and linearity concepts. System budgeting for optimum dynamic range. Frequency plan tradeoffs. Linearity analysis techniques. Down- conversion and up-conversion techniques. Modulation and de-modulation. Microwave and RF system design communications. Current research topics in the field. Three hours of lecture. Prerequisites: consent of instruc- tor. (F) L. Larson
+265B. Communication Circuit Design II (4)
+Radio frequency integrated circuits: impedance match- ing concepts, low-noise amplifiers, AGCs. Mixers, filters. Comparison between BJT, CMOS and GaAs technolo- gies for radio frequency and microwave applications. Device modeling for radio frequency applications. Design tradeoffs of linearity, noise, power dissipation, and dynamic range. Current research topics in the field. Three hours of lecture. Prerequisites: ECE 164 and 265A or consent of instructor. (W) L. Larson
+270A-B-C. Neurocomputing
+(4-4-4)
+Neurocomputing is the study of nonalgorithmic infor- mation processing. This three-quarter sequence covers neurocomputing theory, design, and application, including sensor processing, knowledge processing, data analysis, and hands-on training with a neurocom- puter. Prerequisite: graduate standing in ECE or CSE, or consent of instructor. (F,W,S) R. Hecht-Nielsen
+272A. Stochastic Processes in Dynamic Systems (4)
+(Not offered 2001/2002.) Diffusion equations, linear and nonlinear estimation and detection, random fields, optimization of stochastic dynamic systems, applica- tions of stochastic optimization to problems. Prerequisites: ECE 250. ( W,S) D. Sworder
+273A-B-C. Optimization in Linear Vector Spaces (4-4-4)
+(Not offered 2001/2002.) Hilbert spaces, Banach spaces, projection theorem, dual spaces, Hahn Banach theo- rem, hyperplanes, geometric form of H Banach theo- rem, modern statistical optimization routines (simulated annealing, evolutionary programming), approaches to large neural net problems derived from the physics literature (chaos, spin glass, basic statistical mechanics). Prerequisites: ECE 174. ECE 273B requires 273A and 273C requires 273B. (F,W,S) A. Sebald
+275A. Parameter Estimation I (4)
+Linear last squares (batch, recursive, total, sparse, psue- doinverse, QR, SVD); statistical figures of merit (bias, consistency, Cramer-Rao lower-bound, efficiency); max- imum likelihood estimation (MLE); sufficient statistics; algorithms for computing the MLE including the expec- tation maximation (EM) algorithm. The problem of missing information; the problem of outliers. Prere-
+
+Electrical and Compu•ter Engineering (ECE) _______________________________
+quisites: ECE 109 and ECE 153 with grades of C– or better.
+(F) K. Kreutz-Delgado
+275B. Parameter Estimation II (4)
+The Bayesian framework and the use of statistical pri- ors; sufficient statistics and reproducing probability dis- tributions; minimum mean square estimation (MSE); linear minimum mean square estimation; maximum a posteriori (MAP) estimation; minimax estimation; Kalman filter and extended Kalman filter (EKF) Baum- Welsh algorithm; Viterbi algorithm. Applications to identifying the parameters and states of hidden Markov models (HMMs) including ARMA, state-space, and finite-state dynamical systems. Applications to parametric and non-parametric density estimation. Prerequisites: ECE 153 and ECE 275A with grades of C– or better. (W) K. Kreutz-Delgado
+276A-B. Robot Kinematics, Dynamics, and Control (4-4)
+Kinematics of rigid bodies and serial-chain manipula- tors. The forward and inverse kinematics problem. Sufficient conditions for exact solvability of the inverse kinematics problem. Joint-space versus tank-space control. Path/trajectory generation. Newton-Euler and Lagrangian formulation of manipulatory dynamics. Manipulability measures. Redundancy resolution by subtask functional optimization and side-constraint satisfaction. Pseudo-inverse kinematic control of redun- dant manipulators. PID and feedback-linearizing trajec- tory and force control. Issues in path planning and compliant assembly. Three hours of lecture. Prerequisites: ECE 171A-B, ECE 174 must be completed with grades of C– or better. (ECE 174 may be concurrent.) (W-S) K. Kreutz-Delgado
+280. Special Topics in Electronic Devices and
+Materials (4)
+A course to be given at the discretion of the faculty at which topics of interest in electronic devices and mate- rials will be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit more than once. Three hours of lecture. Prerequisite: consent of instructor. Staff
+281. Special Topics in Radio and Space Science (4)
+A course to be given at the discretion of the faculty at which topics of interest in radio and space science will be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit more thanonce.Threehoursoflecture.Prerequisite:consentof instructor. Staff
+282. Special Topics in Optoelectronics (4)
+A course to be given at the discretion of the faculty at which topics of interest in optoelectronic materials, devices, systems, and applications will be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit several times. Three hours of lecture. Prerequisite: consent of instructor. Staff
+283. Special Topics in Electronic Circuits and
+Systems (4)
+A course to be given at the discretion of the faculty at which topics of interest in electronic circuits and sys- tems will be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit more than once. Three hours of lecture. Prerequisite: consent of instructor. Staff
+284. Special Topics in Computer Engineering (4)
+A course to be given at the discretion of the faculty at which topics of interest in computer engineering will
+be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit more thanonce.Threehoursoflecture.Prerequisite:consentof instructor. Staff
+285. Special Topics in Robotics and Control Systems (4)
+A course to be given at the discretion of the faculty at which topics of interest in robotics and control systems will be presented by visiting or resident faculty mem- bers. It will not be repeated so it may be taken for credit more than once. Three hours of lecture. Prerequisite: consent of instructor. Staff
+287A,B. Special Topics in Communication Theory and Systems (4)
+A course to be given at the discretion of the faculty at which topics of interest in information science will be presented by visiting or resident faculty members. It will not be repeated so it may be taken for credit more thanonce.Threehoursoflecture.Prerequisite:consentof instructor. Staff
+288. Special Topics in Applied Physics (1-8)
+Topics of interest in applied physics. Topics will vary from quarter to quarter. May be repeated for credit not more than three times.
+290. Graduate Seminar on Current ECE Research (2)
+Weekly discussion of current research conducted in the Department of Electrical and Computer Engineering by the faculty members involved in the research projects. Staff
+292. Graduate Seminar in Radio and Space Science (2)
+Research topics in radio astronomy, space plasmas, and solar system physics. (S/U grades only.) B. Rickett
+293. Graduate Seminar in Communication Theory and Systems (2)
+Weekly discussion of current research literature. Staff
+294. Graduate Seminar in Applied Solid State Physics
+(2)
+Research topics in applied solid state physics and quan- tum electronics. H-L. Luo
+295. Graduate Seminar in Computer Engineering (2)
+Biweekly discussion of research topics in computer engineering. Computer engineering is currently the most impacted field both in industry and academia. Computer engineering is the science of searching for an optimum within constraints of available methods and resources. Three hours of seminar. Prerequisite: con- sent of instructor. (F,W,S) T. T. Lin
+296. Graduate Seminar in Optical Signal Processing (2)
+Research topics of current interest in holography. S. Lee
+298. Independent Study (1-16)
+Open to properly qualified graduate students who wish to pursue a problem through advanced study under the direction of a member of the staff. (S/U grades only.) Prerequisite: consent of instructor.
+299. Research (1-16)
+(S/U grade only.)
+501. Teaching (1-4)
+Teaching and tutorial activities associated with courses and seminars. Not required for candidates for the Ph.D. degree. Number of units for credit depends on number of hours devoted to class or section assistance. (S/U grade only.) Prerequisite: consent of department chair.

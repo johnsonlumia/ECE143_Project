@@ -1,0 +1,683 @@
+EE Courses
+EE 16A. Designing Information Devices and Systems I
+Catalog Description: This course and its follow-on course EE16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. The courses are aimed at entering students as well as non-majors seeking a broad foundation for the field. 
+Units: 4.0
+
+EE 16B. Designing Information Devices and Systems II
+Catalog Description: This course is a follow-on to Electrical Engineering 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in circuit design, signals, and systems in an application-driven context. The courses are delivered assuming mathematical maturity and aptitude at roughly the level of having completed Math 1A-1B, and are aimed at entering students as well as non-majors seeking a broad introduction to the field. 
+Units: 4.0
+
+EE 24. Freshman Seminar
+Catalog Description: The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics may vary from department to department and semester to semester. 
+Units: 1.0
+
+EE 25. What Electrical Engineers Do--Feedback from Recent Graduates
+Catalog Description: A Berkeley Electrical Engineering and Computer Sciences degree opens the door to many opportunities, but what exactly are they? Graduation is only a few years away and it's not too early to find out. In this seminar students will hear from practicing engineers who recently graduated. What are they working on? Are they working in a team? What do they wish they had learned better? How did they find their jobs? 
+Units: 1.0
+
+EE 39. Freshman/Sophomore Seminar
+Catalog Description: Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Units: 2.0-4.0
+
+EE 42. Introduction to Digital Electronics
+Catalog Description: This course serves as an introduction to the principles of electrical engineering, starting from the basic concepts of voltage and current and circuit elements of resistors, capacitors, and inductors. Circuit analysis is taught using Kirchhoff's voltage and current laws with Thevenin and Norton equivalents. Operational amplifiers with feedback are introduced as basic building blocks for amplication and filtering. Semiconductor devices including diodes and MOSFETS and their IV characteristics are covered. Applications of diodes for rectification, and design of MOSFETs in common source amplifiers are taught. Digital logic gates and design using CMOS as well as simple flip-flops are introduced. Speed and scaling issues for CMOS are considered. The course includes as motivating examples designs of high level applications including logic circuits, amplifiers, power supplies, and communication links. 
+Units: 3.0
+
+EE 43. Introductory Electronics Laboratory
+Catalog Description: Using and understanding electronics laboratory equipment such as oscilloscope, power supplies, function generator, multimeter, curve-tracer, and RLC-meter. Includes a term project of constructing and testing a robot or other appropriate electromechanical device. 
+Units: 1.0
+
+EE 49. Electronics for the Internet of Things
+Catalog Description: Electronics has become pervasive in our lives as a powerful technology with applications in a wide range of fields including healthcare, environmental monitoring, robotics, or entertainment. This course teaches how to build electronic circuits that interact with the environment through sensors and actuators and how to communicate wirelessly with the internet to cooperate with other devices and with humans. In the laboratory students design and build representative samples such as solar harvesters, robots, that exchange information with or are controlled from the cloud. 
+Units: 4.0
+
+EE 84. Sophomore Seminar
+Catalog Description: Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores.
+
+EE 97. Field Study
+Catalog Description: Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation. 
+Units: 1-4
+
+EE 98. Directed Group Study for Undergraduates
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 99. Individual Study and Research for Undergraduates
+Catalog Description: Supervised independent study and research for students with fewer than 60 units completed. 
+Units: 1.0-4.0
+
+EE 105. Microelectronic Devices and Circuits
+Catalog Description: This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are discussed. Sinusoidal steady-state signals are introduced and the techniques of phasor analysis are developed, including impedance and the magnitude and phase response of linear circuits. The frequency responses of single and multi-stage amplifiers are analyzed. Differential amplifiers are introduced. 
+Units: 4.0
+
+EE C106A. Introduction to Robotics
+Catalog Description: An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, and other areas. 
+Units: 4.0
+
+EE C106B. Robotic Manipulation and Interaction
+Catalog Description: This course is a sequel to Electrical Engineering C106A/Bioengineering C125, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion. 
+Units: 4.0
+
+EE 113. Power Electronics
+Catalog Description: Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate. 
+Units: 4.0
+
+EE 117. Electromagnetic Fields and Waves
+Catalog Description: Review of static electric and magnetic fields and applications; Maxwell's equations; transmission lines; propagation and reflection of plane waves; introduction to guided waves, microwave networks, and radiation and antennas. Minilabs on statics, transmission lines, and waves. Explanation of cellphone antennas, WiFi communication, and other wireless technologies. 
+Units: 4.0
+
+EE 118. Introduction to Optical Engineering
+Catalog Description: Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography. 
+Units: 3.0
+
+EE 120. Signals and Systems
+Catalog Description: Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems. 
+Units: 4.0
+
+EE 121. Introduction to Digital Communication Systems
+Catalog Description: Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems. Concepts illustrated by a sequence of MATLAB exercises. 
+Units: 4.0
+
+EE 122. Introduction to Communication Networks
+Catalog Description: This course focuses on the fundamentals of the wired and wireless communication networks. The course covers both the architectural principles for making these networks scalable and robust, as well as the key techniques essential for analyzing and designing them. The topics include graph theory, Markov chains, queuing, optimization techniques, the physical and link layers, switching, transport, cellular networks and Wi-Fi. 
+Units: 4.0
+
+EE 123. Digital Signal Processing
+Catalog Description: Discrete time signals and systems: Fourier and Z transforms, DFT, 2-dimensional versions. Digital signal processing topics: flow graphs, realizations, FFT, chirp-Z algorithms, Hilbert transform relations, quantization effects, linear prediction. Digital filter design methods: windowing, frequency sampling, S-to-Z methods, frequency-transformation methods, optimization methods, 2-dimensional filter design. 
+Units: 4.0
+
+EE 126. Probability and Random Processes
+Catalog Description: This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains. 
+Units: 4.0
+
+EE C128. Feedback Control Systems
+Catalog Description: Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems. 
+Units: 4.0
+
+EE 129. Neural and Nonlinear Information Processing
+Catalog Description: Principles of massively parallel real-time computation, optimization, and information processing via nonlinear dynamics and analog VLSI neural networks, applications selected from image processing, pattern recognition, feature extraction, motion detection, data compression, secure communication, bionic eye, auto waves, and Turing patterns. 
+Units: 3.0
+
+EE 130. Integrated-Circuit Devices
+Catalog Description: Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. 
+Units: 4.0
+
+EE 134. Fundamentals of Photovoltaic Devices
+Catalog Description: This course is designed to give an introduction to, and overview of, the fundamentals of photovoltaic devices. Students will learn how solar cells work, understand the concepts and models of solar cell device physics, and formulate and solve relevant physical problems related to photovoltaic devices. Monocrystalline, thin film and third generation solar cells will be discussed and analyzed. Light management and economic considerations in a solar cell system will also be covered. 
+Units: 4.0
+
+EE 137A. Introduction to Electric Power Systems
+Catalog Description: Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system planning and operation, performance measures, and limitations of legacy technologies. 
+Units: 4.0
+
+EE 137B. Introduction to Electric Power Systems
+Catalog Description: Overview of recent and potential future evolution of electric power systems with focus on new and emerging technologies for power conversion and delivery, primarily at the distribution level. Topics include power electronics applications, solar and wind generation, distribution system design and operation, electric energy storage, information management and communications, demand response, and microgrids. 
+Units: 4.0
+
+EE 140. Analog Integrated Circuits
+Catalog Description: Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project. 
+Units: 4.0
+
+EE 142. Integrated Circuits for Communications
+Catalog Description: Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators. 
+Units: 4.0
+
+EE 143. Microfabrication Technology
+Catalog Description: Integrated circuit device fabrication and surface micromachining technology. Thermal oxidation, ion implantation, impurity diffusion, film deposition, expitaxy, lithography, etching, contacts and interconnections, and process integration issues. Device design and mask layout, relation between physical structure and electrical/mechanical performance. MOS transistors and poly-Si surface microstructures will be fabricated in the laboratory and evaluated. 
+Units: 4.0
+
+EE 144. Fundamental Algorithms for Systems Modeling, Analysis, and Optimization
+Catalog Description: The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. Laboratory assignments and a class project will expose students to state-of-the-art tools. 
+Units: 4.0
+
+EE C145B. Medical Imaging Signals and Systems
+Catalog Description: Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems that reliably detect small tumors or infarcts. 
+Units: 4.0
+
+EE C145L. Introductory Electronic Transducers Laboratory
+Catalog Description: Laboratory exercises exploring a variety of electronic transducers for measuring physical quantities such as temperature, force, displacement, sound, light, ionic potential; the use of circuits for low-level differential amplification and analog signal processing; and the use of microcomputers for digital sampling and display. Lectures cover principles explored in the laboratory exercises; construction, response and signal to noise of electronic transducers and actuators; and design of circuits for sensing and controlling physical quantities. 
+Units: 3.0
+
+EE C145M. Introductory Microcomputer Interfacing Laboratory
+Catalog Description: Laboratory exercises constructing basic interfacing circuits and writing 20-100 line C programs for data acquisition, storage, analysis, display, and control. Use of the IBM PC with microprogrammable digital counter/timer, parallel I/O port. Circuit components include anti-aliasing filters, the S/H amplifier, A/D and D/A converters. Exercises include effects of aliasing in periodic sampling, fast Fourier transforms of basic waveforms, the use of the Hanning filter for leakage reduction, Fourier analysis of the human voice, digital filters, and control using Fourier deconvolution. Lectures cover principles explored in the lab exercises and design of microcomputer-based systems for data acquisitions, analysis and control. 
+Units: 3.0
+
+EE 146L. Application Specific Integrated Circuits Laboratory
+Catalog Description: This is a lab course that covers the design of modern Application-Specific Integrated Circuits (ASICs). The labs lay the foundation of modern digital design by first setting-up the scripting and hardware description language base for specification of digital systems and interactions with tool flows. Software testing of digital designs is covered leading into a set of labs that cover the design flow. Digital synthesis, floorplanning, placement and routing are covered, as well as tools to evaluate design timing and power. Chip-level assembly is covered, instantiation of custom IP blocks: I/O pads, memories, PLLs, etc. The labs culminate with a project design – implementation of a 3-stage RISC-V processor with register file and caches. 
+Units: 2.0
+
+EE 147. Introduction to Microelectromechanical Systems (MEMS)
+Catalog Description: This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered. 
+Units: 3.0
+
+EE C149. Introduction to Embedded Systems
+Catalog Description: This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. 
+Units: 4.0
+
+EE 192. Mechatronic Design Laboratory
+Catalog Description: Design project course, focusing on application of theoretical principles in electrical engineering to control of a small-scale system, such as a mobile robot. Small teams of students will design and construct a mechatronic system incorporating sensors, actuators, and intelligence. 
+Units: 4.0
+
+EE 194. Special Topics
+Catalog Description: Topics will vary semester to semester. See the Electrical Engineering announcements. 
+Units: 1.0-4.0
+
+EE 194-001. Machine learning for sequential decision making under uncertainty
+Catalog Description: Topics will vary semester to semester. See the Electrical Engineering announcements. 
+Units: 1.0-4.0
+
+EE H196A. Senior Honors Thesis Research
+Catalog Description: Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester receive a letter grade at the end of H196A. Students who do not, receive an IP in H196A and must enroll in H196B. 
+Units: 1-4
+
+EE H196B. Senior Honors Thesis Research
+Catalog Description: Thesis work under the supervision of a faculty member. A minimum of four units must be taken; the units may be distributed between one and two semesters in any way. To obtain credit a satisfactory thesis must be submitted at the end of the two semesters to the Electrical and Engineering and Computer Science Department archive. Students who complete four units and a thesis in one semester receive a letter grade at the end of H196A. Students who do not, receive an IP in H196A and must enroll in H196B. 
+Units: 1-4
+
+EE 197. Field Study
+Catalog Description: Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation. 
+Units: 1-4
+
+EE 198. Directed Group Study for Advanced Undergraduates
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-001. Hands-On PCB Engineering
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-001. Pioneers in Engineering (PiE) Robotics Mentorship Decal
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-002. Pioneers in Engineering (PiE) Robotics Mentorship DeCal
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-003. Free Ventures DeCal
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-003. Pioneers in Engineering (PiE) Robotics Staff DeCal
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-005. Hands-On PCB Engineering (HOPE)
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-006. Free Ventures
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 198-007. IEEE Micromouse
+Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. 
+Units: 1-4
+
+EE 199. Supervised Independent Study
+Catalog Description: Supervised independent study. Enrollment restrictions apply. 
+Units: 1-4
+
+EE 206A. Introduction to Robotics
+Catalog Description: An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course will cover forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics and control-position, and force control. Proximity, tactile, and force sensing. Network modeling, stability, and fidelity in teleoperation and medical applications of robotics. 
+Units: 4.0
+
+EE 206B. Robotic Manipulation and Interaction
+Catalog Description: This course is a sequel to EECS 125/225, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion. 
+Units: 4.0
+
+EE 210. Applied Electromagnetic Theory
+Catalog Description: Advanced treatment of classical electromagnetic theory with engineering applications. Boundary value problems in electrostatics. Applications of Maxwell's Equations to the study of waveguides, resonant cavities, optical fiber guides, Gaussian optics, diffraction, scattering, and antennas. 
+Units: 3.0
+
+EE C213. Soft X-rays and Extreme Ultraviolet Radiation
+Catalog Description: This course explores modern developments in the physics and applications of x-rays and extreme ultraviolet (EUV) radiation. It begins with a review of electromagnetic radiation at short wavelengths including dipole radiation, scattering and refractive index, using a semi-classical atomic model. Subject matter includes the generation of x-rays with synchrotron radiation, high harmonic generation, x-ray free electron lasers, laser-plasma sources. Spatial and temporal coherence concepts are explained. Optics appropriate for this spectral region are described. Applications include nanoscale and astrophysical imaging, femtosecond and attosecond probing of electron dynamics in molecules and solids, EUV lithography, and materials characteristics. 
+Units: 3.0
+
+EE 213A. Power Electronics
+Catalog Description: Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, inductors, and electromagnetic actuators. Characteristics of power semiconductor devices, including power diodes, SCRs, MOSFETs, IGBTs, and emerging wide bandgap devices. Applications to renewable energy systems, high-efficiency lighting, power management in mobile electronics, and electric machine drives. Simulation based laboratory and design project. 
+Units: 4.0
+
+EE 218A. Introduction to Optical Engineering
+Catalog Description: Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography. 
+Units: 3.0
+
+EE 219A. Numerical Simulation and Modeling
+Catalog Description: Numerical simulation and modeling are enabling technologies that pervade science and engineering. This course provides a detailed introduction to the fundamental principles of these technologies and their translation to engineering practice. The course emphasizes hands-on programming in MATLAB and application to several domains, including circuits, nanotechnology, and biology. 
+Units: 4.0
+
+EE 219B. Logic Synthesis
+Catalog Description: The course covers the fundamental techniques for the design and analysis of digital circuits. The goal is to provide a detailed understanding of basic logic synthesis and analysis algorithms, and to enable students to apply this knowledge in the design of digital systems and EDA tools. The course will present combinational circuit optimization (two-level and multi-level synthesis), sequential circuit optimization (state encoding, retiming), timing analysis, testing, and logic verification. 
+Units: 4.0
+
+EE 219C. Computer-Aided Verification
+Catalog Description: Introduction to the theory and practice of formal methods for the design and analysis of systems, with a focus on automated algorithmic techniques. Covers selected topics in computational logic and automata theory including formal models of reactive systems, temporal logic, model checking, and automated theorem proving. Applications in hardware and software verification, analysis of embedded, real-time, and hybrid systems, computer security, synthesis, planning, constraint solving, and other areas will be explored as time permits. 
+Units: 3.0
+
+EE C220A. Advanced Control Systems I
+Catalog Description: Input-output and state space representation of linear continuous and discrete time dynamic systems. Controllability, observability, and stability. Modeling and identification. Design and analysis of single and multi-variable feedback control systems in transform and time domain. State observer. Feedforward/preview control. Application to engineering systems. 
+Units: 3.0
+
+EE C220B. Experiential Advanced Control Design I
+Catalog Description: Experience-based learning in the design of SISO and MIMO feedback controllers for linear systems. The student will master skills needed to apply linear control design and analysis tools to classical and modern control problems. In particular, the participant will be exposed to and develop expertise in two key control design technologies: frequency-domain control synthesis and time-domain optimization-based approach. 
+Units: 3.0
+
+EE C220C. Experiential Advanced Control Design II
+Catalog Description: Experience-based learning in the design, analysis, and verification of automatic control systems. The course emphasizes the use of computer-aided design techniques through case studies and design tasks. The student will master skills needed to apply advanced model-based control analysis, design, and estimation to a variety of industrial applications. The role of these specific design methodologies within the larger endeavor of control design is also addressed. 
+Units: 3.0
+
+EE 221A. Linear System Theory
+Catalog Description: Basic system concepts; state-space and I/O representation. Properties of linear systems. Controllability, observability, minimality, state and output-feedback. Stability. Observers. Characteristic polynomial. Nyquist test. 
+Units: 4.0
+
+EE 222. Nonlinear Systems--Analysis, Stability and Control
+Catalog Description: Basic graduate course in non-linear systems. Second Order systems. Numerical solution methods, the describing function method, linearization. Stability - direct and indirect methods of Lyapunov. Applications to the Lure problem - Popov, circle criterion. Input-Output stability. Additional topics include: bifurcations of dynamical systems, introduction to the "geometric" theory of control for nonlinear systems, passivity concepts and dissipative dynamical systems. 
+Units: 3.0
+
+EE C222. Nonlinear Systems
+Catalog Description: Basic graduate course in nonlinear systems. Nonlinear phenomena, planar systems, bifurcations, center manifolds, existence and uniqueness theorems. Lyapunov’s direct and indirect methods, Lyapunov-based feedback stabilization. Input-to-state and input-output stability, and dissipativity theory. Computation techniques for nonlinear system analysis and design. Feedback linearization and sliding mode control methods. 
+Units: 3.0
+
+EE 223. Stochastic Systems: Estimation and Control
+Catalog Description: Parameter and state estimation. System identification. Nonlinear filtering. Stochastic control. Adaptive control. 
+Units: 3.0
+
+EE 224A. Digital Communications
+Catalog Description: Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding; channel coding; baseband and passband modulation techniques; receiver design; channel equalization; information theoretic techniques; block, convolutional, and trellis coding techniques; multiuser communications and spread spectrum; multi-carrier techniques and FDM; carrier and symbol synchronization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems are illustrated. The concepts are illustrated by a sequence of MATLAB exercises. 
+Units: 4.0
+
+EE 224B. Fundamentals of Wireless Communication
+Catalog Description: Introduction of the fundamentals of wireless communication. Modeling of the wireless multipath fading channel and its basic physical parameters. Coherent and noncoherent reception. Diversity techniques over time, frequency, and space. Spread spectrum communication. Multiple access and interference management in wireless networks. Frequency re-use, sectorization. Multiple access techniques: TDMA, CDMA, OFDM. Capacity of wireless channels. Opportunistic communication. Multiple antenna systems: spatial multiplexing, space-time codes. Examples from existing wireless standards. 
+Units: 3.0
+
+EE 225A. Digital Signal Processing
+Catalog Description: Advanced techniques in signal processing. Stochastic signal processing, parametric statistical signal models, and adaptive filterings. Application to spectral estimation, speech and audio coding, adaptive equalization, noise cancellation, echo cancellation, and linear prediction. 
+Units: 3.0
+
+EE 225B. Digital Image Processing
+Catalog Description: 2-D sequences and systems, separable systems, projection slice thm, reconstruction from projections and partial Fourier information, Z transform, different equations, recursive computability, 2D DFT and FFT, 2D FIR filter design; human eye, perception, psychophysical vision properties, photometry and colorimetry, optics and image systems; image enhancement, image restoration, geometrical image modification, morphological image processing, halftoning, edge detection, image compression: scalar quantization, lossless coding, huffman coding, arithmetic coding dictionary techniques, waveform and transform coding DCT, KLT, Hadammard, multiresolution coding pyramid, subband coding, Fractal coding, vector quantization, motion estimation and compensation, standards: JPEG, MPEG, H.xxx, pre- and post-processing, scalable image and video coding, image and video communication over noisy channels. 
+Units: 3.0
+
+EE 225D. Audio Signal Processing in Humans and Machines
+Catalog Description: Introduction to relevant signal processing and basics of pattern recognition. Introduction to coding, synthesis, and recognition. Models of speech and music production and perception. Signal processing for speech analysis. Pitch perception and auditory spectral analysis with applications to speech and music. Vocoders and music synthesizers. Statistical speech recognition, including introduction to Hidden Markov Model and Neural Network approaches. 
+Units: 3.0
+
+EE C225E. Principles of Magnetic Resonance Imaging
+Catalog Description: Fundamentals of MRI including signal-to-noise ratio, resolution, and contrast as dictated by physics, pulse sequences, and instrumentation. Image reconstruction via 2D FFT methods. Fast imaging reconstruction via convolution-back projection and gridding methods and FFTs. Hardware for modern MRI scanners including main field, gradient fields, RF coils, and shim supplies. Software for MRI including imaging methods such as 2D FT, RARE, SSFP, spiral and echo planar imaging methods. 
+Units: 4.0
+
+EE 226A. Random Processes in Systems
+Catalog Description: Probability, random variables and their convergence, random processes. Filtering of wide sense stationary processes, spectral density, Wiener and Kalman filters. Markov processes and Markov chains. Gaussian, birth and death, poisson and shot noise processes. Elementary queueing analysis. Detection of signals in Gaussian and shot noise, elementary parameter estimation. 
+Units: 4.0
+
+EE 226B. Applications of Stochastic Process Theory
+Catalog Description: Advanced topics such as: Martingale theory, stochastic calculus, random fields, queueing networks, stochastic control. 
+Units: 2.0
+
+EE 227BT. Convex Optimization
+Catalog Description: Convex optimization is a class of nonlinear optimization problems where the objective to be minimized, and the constraints, are both convex. The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experiments with the optimization software CVX, and a discussion section. 
+Units: 4.0
+
+EE C227C. Convex Optimization and Approximation
+Catalog Description: Convex optimization as a systematic approximation tool for hard decision problems. Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. Applications in robust engineering design, statistics, control, finance, data mining, operations research. 
+Units: 3.0
+
+EE C227T. Introduction to Convex Optimization
+Catalog Description: The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience. 
+Units: 4.0
+
+EE 228A. High Speed Communications Networks
+Catalog Description: Descriptions, models, and approaches to the design and management of networks. Optical transmission and switching technologies are described and analyzed using deterministic, stochastic, and simulation models. FDDI, DQDB, SMDS, Frame Relay, ATM, networks, and SONET. Applications demanding high-speed communication. 
+Units: 3.0
+
+EE 229A. Information Theory and Coding
+Catalog Description: Fundamental bounds of Shannon theory and their application. Source and channel coding theorems. Galois field theory, algebraic error-correction codes. Private and public-key cryptographic systems. 
+Units: 3.0
+
+EE 229B. Error Control Coding
+Catalog Description: Error control codes are an integral part of most communication and recording systems where they are primarily used to provide resiliency to noise. In this course, we will cover the basics of error control coding for reliable digital transmission and storage. We will discuss the major classes of codes that are important in practice, including Reed Muller codes, cyclic codes, Reed Solomon codes, convolutional codes, concatenated codes, turbo codes, and low density parity check codes. The relevant background material from finite field and polynomial algebra will be developed as part of the course. Overview of topics: binary linear block codes; Reed Muller codes; Galois fields; linear block codes over a finite field; cyclic codes; BCH and Reed Solomon codes; convolutional codes and trellis based decoding, message passing decoding algorithms; trellis based soft decision decoding of block codes; turbo codes; low density parity check codes. 
+Units: 3.0
+
+EE 230A. Integrated-Circuit Devices
+Catalog Description: Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. 
+Units: 4.0
+
+EE W230A. Integrated-Circuit Devices
+Catalog Description: Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. 
+Units: 4.0
+
+EE 230B. Solid State Devices
+Catalog Description: Physical principles and operational characteristics of semiconductor devices. Emphasis is on MOS field-effect transistors and their behaviors dictated by present and probable future technologies. Metal-oxide-semiconductor systems, short-channel and high field effects, device modeling, and impact on analog, digital circuits. 
+Units: 4.0
+
+EE W230B. Solid State Devices
+Catalog Description: Physical principles and operational characteristics of semiconductor devices. Emphasis is on MOS field-effect transistors and their behaviors dictated by present and probable future technologies. Metal-oxide-semiconductor systems, short-channel and high field effects, device modeling, and impact on analog, digital circuits. 
+Units: 4.0
+
+EE 230C. Solid State Electronics
+Catalog Description: Crystal structure and symmetries. Energy-band theory. Cyclotron resonance. Tensor effective mass. Statistics of electronic state population. Recombination theory. Carrier transport theory. Interface properties. Optical processes and properties. 
+Units: 3.0
+
+EE W230S. Integrated-Circuit Devices
+Catalog Description: Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. 
+Units: 4.0
+
+EE 232. Lightwave Devices
+Catalog Description: This course is designed to give an introduction and overview of the fundamentals of optoelectronic devices. Topics such as optical gain and absorption spectra, quantization effects, strained quantum wells, optical waveguiding and coupling, and hetero p-n junction will be covered. This course will focus on basic physics and design principles of semiconductor diode lasers, light emitting diodes, photodetectors and integrated optics. Practical applications of the devices will be also discussed. 
+Units: 4.0
+
+EE C235. Nanoscale Fabrication
+Catalog Description: This course discusses various top-down and bottom-up approaches to synthesizing and processing nanostructured materials. The topics include fundamentals of self assembly, nano-imprint lithography, electron beam lithography, nanowire and nanotube synthesis, quantum dot synthesis (strain patterned and colloidal), postsynthesis modification (oxidation, doping, diffusion, surface interactions, and etching techniques). In addition, techniques to bridging length scales such as heterogeneous integration will be discussed. We will discuss new electronic, optical, thermal, mechanical, and chemical properties brought forth by the very small sizes. 
+Units: 4.0
+
+EE 236A. Quantum and Optical Electronics
+Catalog Description: Interaction of radiation with atomic and semiconductor systems, density matrix treatment, semiclassical laser theory (Lamb's), laser resonators, specific laser systems, laser dynamics, Q-switching and mode-locking, noise in lasers and optical amplifiers. Nonlinear optics, phase-conjugation, electrooptics, acoustooptics and magnetooptics, coherent optics, stimulated Raman and Brillouin scattering. 
+Units: 3.0
+
+EE C239. Partially Ionized Plasmas
+Catalog Description: Introduction to partially ionized, chemically reactive plasmas, including collisional processes, diffusion, sources, sheaths, boundaries, and diagnostics. DC, RF, and microwave discharges. Applications to plasma-assisted materials processing and to plasma wall interactions. 
+Units: 3.0
+
+EE 240A. Analog Integrated Circuits
+Catalog Description: Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project. 
+Units: 4.0
+
+EE W240A. Analog Integrated Circuits
+Catalog Description: Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. 
+Units: 4.0
+
+EE 240B. Advanced Analog Integrated Circuits
+Catalog Description: Analysis and optimized design of monolithic operational amplifiers and wide-band amplifiers; methods of achieving wide-band amplification, gain-bandwidth considerations; analysis of noise in integrated circuits and low noise design. Precision passive elements, analog switches, amplifiers and comparators, voltage reference in NMOS and CMOS circuits, Serial, successive-approximation, and parallel analog-to-digital converters. Switched-capacitor and CCD filters. Applications to codecs, modems. 
+Units: 4.0
+
+EE W240B. Advanced Analog Integrated Circuits
+Catalog Description: Analysis and optimized design of monolithic operational amplifiers and wide-band amplifiers; methods of achieving wide-band amplification, gain-bandwidth considerations; analysis of noise in integrated circuits and low noise design. Precision passive elements, analog switches, amplifiers and comparators, voltage reference in NMOS and CMOS circuits, Serial, successive-approximation, and parallel analog-to-digital converts. Switched-capacitor and CCD filters. Applications to codecs, modems. 
+Units: 3.0
+
+EE 240C. Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits
+Catalog Description: Architectural and circuit level design and analysis of integrated analog-to-digital and digital-to-analog interfaces in CMOS and BiCMOS VLSI technology. Analog-digital converters, digital-analog converters, sample/hold amplifiers, continuous and switched-capacitor filters. RF integrated electronics including synthesizers, LNA's, and baseband processing. Low power mixed signal design. Data communications functions including clock recovery. CAD tools for analog design including simulation and synthesis. 
+Units: 3.0
+
+EE W240C. Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits
+Catalog Description: Architectural and circuit level design and analysis of integrated analog-to-digital and digital-to-analog interfaces in modern CMOS and BiCMOS VLSI technology. Analog-digital converters, digital-analog converters, sample/hold amplifiers, continuous and switched-capacitor filters. Low power mixed signal design techniques. Data communications systems including interface circuity. CAD tools for analog design for simulation and synthesis. 
+Units: 3.0
+
+EE W241A. Introduction to Digital Integrated Circuits
+Catalog Description: CMOS devices and deep sub-micron manufacturing technology. CMOS inverters and complex gates. Modeling of interconnect wires. Optimization of designs with respect to a number of metrics: cost, reliability, performance, and power dissipation. Sequential circuits, timing considerations, and clocking approaches. Design of large system blocks, including arithmetic, interconnect, memories, and programmable logic arrays. Introduction to design methodologies, including laboratory experience. 
+Units: 4.0
+
+EE 241B. Advanced Digital Integrated Circuits
+Catalog Description: Analysis and design of MOS and bipolar large-scale integrated circuits at the circuit level. Fabrication processes, device characteristics, parasitic effects static and dynamic digital circuits for logic and memory functions. Calculation of speed and power consumption from layout and fabrication parameters. ROM, RAM, EEPROM circuit design. Use of SPICE and other computer aids. 
+Units: 3.0
+
+EE W241B. Advanced Digital Integrated Circuits
+Catalog Description: Analysis and design of MOS and bipolar large-scale integrated circuits at the circuit level. Fabrication processes, device characteristics, parasitic effects static and dynamic digital circuits for logic and memory functions. Calculation of speed and power consumption from layout and fabrication parameters. ROM, RAM, EEPROM circuit design. Use of SPICE and other computer aids. 
+Units: 3.0
+
+EE 242A. Integrated Circuits for Communications
+Catalog Description: Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators. 
+Units: 4.0
+
+EE W242A. Integrated Circuits for Communications
+Catalog Description: Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators. 
+Units: 4.0
+
+EE 242B. Advanced Integrated Circuits for Communications
+Catalog Description: Analysis, evaluation and design of present-day integrated circuits for communications application, particularly those for which nonlinear response must be included. MOS, bipolar and BICMOS circuits, audio and video power amplifiers, optimum performance of near-sinusoidal oscillators and frequency-translation circuits. Phase-locked loop ICs, analog multipliers and voltage-controlled oscillators; advanced components for telecommunication circuits. Use of new CAD tools and systems. 
+Units: 3.0
+
+EE W242B. Advanced Integrated Circuits for Communications
+Catalog Description: Analysis, evaluation, and design of present-day integrated circuits for communications application, particularly those for which nonlinear response must be included. MOS, bipolar and BICMOS circuits, audio and video power amplifiers, optimum performance of near-sinusoidal oscillators and frequency-translation circuits. Phase-locked loop ICs, analog multipliers and voltage-controlled oscillators; advanced components for telecommunication circuits. Use of new CAD tools and systems. 
+Units: 3.0
+
+EE 243. Advanced IC Processing and Layout
+Catalog Description: The key processes for the fabrication of integrated circuits. Optical, X-ray, and e-beam lithography, ion implantation, oxidation and diffusion. Thin film deposition. Wet and dry etching and ion milling. Effect of phase and defect equilibria on process control. 
+Units: 3.0
+
+EE 244. Fundamental Algorithms for Systems Modeling, Analysis, and Optimization
+Catalog Description: The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. Laboratory assignments and a class project will expose students to state-of-the-art. 
+Units: 4.0
+
+EE W244. Fundamental Algorithms for System Modeling, Analysis, and Optimization
+Catalog Description: The modeling, analysis, and optimization of complex systems require a range of algorithms and design tools. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as an example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. 
+Units: 4.0
+
+EE 247A. Introduction to Microelectromechanical Systems (MEMS)
+Catalog Description: This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered. 
+Units: 3.0
+
+EE C247B. Introduction to MEMS Design
+Catalog Description: Physics, fabrication, and design of micro-electromechanical systems (MEMS). Micro and nanofabrication processes, including silicon surface and bulk micromachining and non-silicon micromachining. Integration strategies and assembly processes. Microsensor and microactuator devices: electrostatic, piezoresistive, piezoelectric, thermal, magnetic transduction. Electronic position-sensing circuits and electrical and mechanical noise. CAD for MEMS. Design project is required. 
+Units: 4.0
+
+EE W247B. Introduction to MEMS Design
+Catalog Description: Physics, fabrication and design of micro electromechanical systems (MEMS). Micro and nano-fabrication processes, including silicon surface and bulk micromachining and non-silicon micromachining. Integration strategies and assembly processes. Microsensor and microactuator devices: electrostatic, piezoresistive, piezoelectric, thermal, and magnetic transduction. Electronic position-sensing circuits and electrical and mechanical noise. CAD for MEMS. Design project is required. 
+Units: 4.0
+
+EE 248C. Numerical Modeling and Analysis: Nonlinear Systems and Noise
+Catalog Description: Numerical modelling and analysis techniques are widely used in scientific and engineering practice; they are also an excellent vehicle for understanding and concretizing theory. This course covers topics important for a proper understanding of nonlinearity and noise: periodic steady state and envelope ("RF") analyses; oscillatory systems; nonstationary and phase noise; and homotopy/continuation techniques for solving "difficult" equation systems. An underlying theme of the course is relevance to different physical domains, from electronics (e.g., analog/RF/mixed-signal circuits, high-speed digital circuits, interconnect, etc.) to optics, nanotechnology, chemistry, biology and mechanics. Hands-on coding using the MATLAB-based Berkeley Model 
+Units: 4.0
+
+EE C249A. Introduction to Embedded Systems
+Catalog Description: This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. 
+Units: 4.0
+
+EE C249B. Embedded System Design: Modeling, Analysis, and Synthesis
+Catalog Description: Principles of embedded system design. Focus on design methodologies and foundations. Platform-based design and communication-based design and their relationship with design time, re-use, and performance. Models of computation and their use in design capture, manipulation, verification, and synthesis. Mapping into architecture and systems platforms. Performance estimation. Scheduling and real-time requirements. Synchronous languages and time-triggered protocols to simplify the design process. 
+Units: 4.0
+
+EE C261. Medical Imaging Signals and Systems
+Catalog Description: Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems that reliably detect small tumors or infarcts. 
+Units: 4.0
+
+EE 290. Advanced Topics in Electrical Engineering
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 0.0
+
+EE 290A. Advanced Topics in Electrical Engineering: Advanced Topics in Computer-Aided Design
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290B. Advanced Topics in Electrical Engineering: Advanced Topics in Solid State Devices
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290B-001. Introduction to Multiferroic Materials and Systems
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290C. Advanced Topics in Electrical Engineering: Advanced Topics in Circuit Design
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290C-001. Advanced Topics in Power Electronics
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290C-002. RFIC Architectures & Circuits for Modern Wireless Communication Systems
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE W290C. Advanced Topics in Circuit Design
+Catalog Description: Seminar-style course presenting an in-depth perspective on one specific domain of integrated circuit design. Most often, this will address an application space that has become particularly relevant in recent times. Examples are serial links, ultra low-power design, wireless transceiver design, etc. 
+Units: 3.0
+
+EE 290D. Advanced Topics in Electrical Engineering: Advanced Topics in Semiconductor Technology
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290F. Advanced Topics in Electrical Engineering: Advanced Topics in Photonics
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290G. Advanced Topics in Electrical Engineering: Advanced Topics in Mems, Microsensors, and Microactuators
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290N. Advanced Topics in Electrical Engineering: Advanced Topics in System Theory
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290N-001. Oscillators: from Fundamentals to Applications See course description: http://potol.eecs.berkeley.edu/classWiki/tiki-index.php?page=EECS290N-Fall-2018
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290O. Advanced Topics in Electrical Engineering: Advanced Topics in Control
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290O-001. Deep multi-agent reinforcement learning with applications to autonomous traffic
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290P. Advanced Topics in Electrical Engineering: Advanced Topics in Bioelectronics
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290P-001. Electronic Implantable Medical Devices
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290Q. Advanced Topics in Electrical Engineering: Advanced Topics in Communication Networks
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290S. Advanced Topics in Electrical Engineering: Advanced Topics in Communications and Information Theory
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290S-001. Machine learning for sequential decision making under uncertainty
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290T. Advanced Topics in Electrical Engineering: Advanced Topics in Signal Processing
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290T-002. High-dim Data Analysis with Sparse and Low-dim Models Theory, Algorithms, and Applications
+Catalog Description: The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. 
+Units: 1-3
+
+EE 290Y. Advanced Topics in Electrical Engineering: Organic Materials in Electronics
+Catalog Description: Organic materials are seeing increasing application in electronics applications. This course will provide an overview of the properties of the major classes of organic materials with relevance to electronics. Students will study the technology, physics, and chemistry of their use in the three most rapidly growing major applications--energy conversion/generation devices (fuel cells and photovoltaics), organic light-emitting diodes, and organic transistors. 
+Units: 3.0
+
+EE C291. Control and Optimization of Distributed Parameters Systems
+Catalog Description: Distributed systems and PDE models of physical phenomena (propagation of waves, network traffic, water distribution, fluid mechanics, electromagnetism, blood vessels, beams, road pavement, structures, etc.). Fundamental solution methods for PDEs: separation of variables, self-similar solutions, characteristics, numerical methods, spectral methods. Stability analysis. Adjoint-based optimization. Lyapunov stabilization. Differential flatness. Viability control. Hamilton-Jacobi-based control. 
+Units: 3.0
+
+EE C291E. Hybrid Systems and Intelligent Control
+Catalog Description: Analysis of hybrid systems formed by the interaction of continuous time dynamics and discrete-event controllers. Discrete-event systems models and language descriptions. Finite-state machines and automata. Model verification and control of hybrid systems. Signal-to-symbol conversion and logic controllers. Adaptive, neural, and fuzzy-control systems. Applications to robotics and Intelligent Vehicle and Highway Systems (IVHS). 
+Units: 3.0
+
+EE 297. Field Studies in Electrical Engineering
+Catalog Description: Supervised experience in off-campus companies relevant to specific aspects and applications of electrical engineering. Written report required at the end of the semester. 
+Units: 0-12
+
+EE 298. Group Studies, Seminars, or Group Research
+Catalog Description: Advanced study in various subjects through special seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation. 
+Units: 1-4
+
+EE 298-002. BLISS/NCD Seminar
+Catalog Description: Advanced study in various subjects through special seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation. 
+Units: 1-4
+
+EE 298-008. BWRC Seminar
+Catalog Description: Advanced study in various subjects through special seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation. 
+Units: 1-4
+
+EE 299. Individual Research
+Catalog Description: Investigation of problems in electrical engineering. 
+Units: 1-12
+
+EE 375. Teaching Techniques for Electrical Engineering
+Catalog Description: Discussion of effective teaching techniques. Use of educational objectives, alternative forms of instruction, and proven techniques to enhance student learning. This course is intended to orient new student instructors to more effectively teach courses offered by the Department of Electrical Engineering and Computer Sciences at UC Berkeley. 
+Units: 2.0
+
+EE 602. Individual Study for Doctoral Students
+Catalog Description: Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. (and other doctoral degrees). 
+Units: 1-8
+
+EECS 47D. Completion of work in Electrical Engineering 16A
+Catalog Description: This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16A and be ready for EE16B or EE47E. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. 
+Units: 1.0-3.0
+
+EECS 47D-001. Self-paced courses
+Catalog Description: This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16A and be ready for EE16B or EE47E. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. 
+Units: 1.0-3.0
+
+EECS 47E. Completion of work in Electrical Engineering 16B
+Catalog Description: This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16B. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing (DFT), learning (SVD/PCA), feedback control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. 
+Units: 1.0-3.0
+
+EECS 47E-001. Self-paced courses
+Catalog Description: This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16B. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing (DFT), learning (SVD/PCA), feedback control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. 
+Units: 1.0-3.0
+
+EECS 47F. Completion of work in Computer Science 70
+Catalog Description: This course allows students who have had a discrete math and/or probability course to complete the work in CS70. Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing, existence arguments, Bayesian inference. 
+Units: 1.0-3.0
+
+EECS 47F-001. Self-paced courses
+Catalog Description: This course allows students who have had a discrete math and/or probability course to complete the work in CS70. Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing, existence arguments, Bayesian inference. 
+Units: 1.0-3.0
+
+EECS C106A. Introduction to Robotics
+Catalog Description: An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, and other areas. 
+Units: 4.0
+
+EECS C106B. Robotic Manipulation and Interaction
+Catalog Description: This course is a sequel to EECS C106A/Bioengineering C106A, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion. 
+Units: 4.0
+
+EECS 126. Probability and Random Processes
+Catalog Description: This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains. 
+Units: 4.0
+
+EECS 127. Optimization Models in Engineering
+Catalog Description: This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization. 
+Units: 4.0
+
+EECS 149. Introduction to Embedded Systems
+Catalog Description: This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. 
+Units: 4.0
+
+EECS 151. Introduction to Digital Design and Integrated Circuits
+Catalog Description: An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The class includes extensive use of industrial grade design automation and verification tools for assignments, labs and projects. The class has two lab options: ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB). Students must enroll in at least one of the labs concurrently with the class. 
+Units: 3.0
+
+EECS 151LA. Introduction to Digital Design and Integrated Circuits Lab
+Catalog Description: This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g., implementation of a three-stage RISC-V processor with a register file and caches. The design is mapped to simulation and layout specification. 
+Units: 2.0
+
+EECS 151LB. Introduction to Digital Design and Integrated Circuits Lab
+Catalog Description: This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full three-stage RISC-V processor system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform. 
+Units: 2.0
+
+EECS 206A. Introduction to Robotics
+Catalog Description: An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course will cover forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics and control-position, and force control. Proximity, tactile, and force sensing. Network modeling, stability, and fidelity in teleoperation and medical applications of robotics. 
+Units: 4.0
+
+EECS 206B. Robotic Manipulation and Interaction
+Catalog Description: This course is a sequel to EECS C106A/206A, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion. 
+Units: 4.0
+
+EECS 219C. Formal Methods: Specification, Verification, and Synthesis
+Catalog Description: Introduction to the theory and practice of formal methods for the design and analysis of systems, with a focus on algorithmic techniques. Covers selected topics in computational logic and automata theory including modeling and specification formalisms, temporal logics, satisfiability solving, model checking, synthesis, learning, and theorem proving. Applications to software and hardware design, cyber-physical systems, robotics, computer security, and other areas will be explored as time permits. 
+Units: 3.0
+
+EECS 227AT. Optimization Models in Engineering
+Catalog Description: This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization. 
+Units: 4.0
+
+EECS 251A. Introduction to Digital Design and Integrated Circuits
+Catalog Description: An introduction to digital circuit and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The class includes extensive use of industrial grade design automation and verification tools for assignments, labs, and projects. 
+Units: 3.0
+
+EECS 251LA. Introduction to Digital Design and Integrated Circuits Lab
+Catalog Description: This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g. implementation of a 3-stage RISC-V processor with a register file and caches. The design is mapped to simulation and layout specification. 
+Units: 2.0
+
+EECS 251LB. Introduction to Digital Design and Integrated Circuits Lab
+Catalog Description: This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full 3-stage RISC-V processor system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform. 
+Units: 2.0
