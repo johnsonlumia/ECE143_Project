@@ -126,8 +126,8 @@ def word_freq(file_name):
             continue
         # elif not (key[0] in posDict.keys() and key[1] in posDict.keys()):
         #     continue
-        elif pos_dict[key[0]] == 'NN' or pos_dict[key[0]] == 'NNS' or pos_dict[key[0]] == 'JJ':
-            if pos_dict[key[1]] == 'NN' or pos_dict[key[1]] == 'NNS':
+        elif pos_dict[key[0]] == 'NN' or pos_dict[key[0]] == 'NNS' or pos_dict[key[0]] == 'JJ' or pos_dict[key[0]] == 'VBN' or pos_dict[key[0]] == 'VBP' or pos_dict[key[0]] == 'VBD':
+            if pos_dict[key[1]] == 'NN' or pos_dict[key[1]] == 'NNS' or pos_dict[key[1]] == 'VBG' or pos_dict[key[1]] == 'VBZ' or pos_dict[key[1]] == 'VBD':
                 if key[0] + ' ' + key[1] in common_words:
                     continue
                 bigram_frequency[key[0] + ' ' + key[1]] = value
