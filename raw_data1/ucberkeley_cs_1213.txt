@@ -1,0 +1,960 @@
+Computer Science
+Except for CS 2, 95, and 99, the lower-division
+Computer Science courses are subject to the
+“computing service” course restriction. See Computing
+Service Courses on page 238.
+Lower Division Courses
+3L. Introduction to Symbolic Programming. (4)
+Students may remove a deficiency in 3 by taking 3L.
+One hour of lecture and six hours of laboratory per
+week and approximately five hours of self-scheduled
+programming laboratory. Prerequisites: High school
+algebra. Introduction to computer programming,
+emphasizing symbolic computation and functional programming
+style. Students will write a project of at least
+200 lines of code in Scheme (a dialect of the LISP
+programming language). (F,SP) Clancy
+3S. Introduction to Symbolic Programming (SelfPaced).
+(1-4) Refer to computer science service
+course restrictions. Course may be repeated up to 4
+units. One to four hours of discussion and three to
+nine hours of laboratory per week. Prerequisites: High
+school algebra. The same material as 3 but in a selfpaced
+format; introduction to computer programming,
+emphasizing symbolic computation and functional programming
+style, using the Scheme programming language.
+Units assigned depend on amount of work
+completed. The first two units must be taken together.
+(F,SP) Garcia
+9A. MATLAB for Programmers. (1) Refer to computer
+science service course restrictions. Self-paced.
+Must be taken on a passed/not passed basis. Prerequisites:
+Programming experience equivalent to that
+gained in 3; familiarity with applications of matrix processing.
+Introduction to the constructs in the MATLAB
+programming language, aimed at students who
+already know how to program. Array and matrix operations,
+functions and function handles, control flow,
+plotting and image manipulation, cell arrays and
+ structures, and the Symbolic Mathematics toolbox.
+(F,SP) Garcia
+9B. Pascal for Programmers. (1) Refer to computer
+science service course restrictions. Self-paced. Must
+be taken on a passed/not passed basis. Prerequisites:
+Programming experience similiar to that gained
+in 3 or Engineering 7 or 77. Self-paced Pascal course
+for students who already know how to program. This
+course provides the practice with the use of pointers
+and linked data structures that is assumed as prerequisite
+for 9C and 9F. (F,SP) Garcia
+9C. C for Programmers. (1) Refer to computer science
+service course restrictions. Must be taken on a
+passed/not passed basis. Prerequisites: Programming
+experience with pointers (or addresses in assembly
+language) and linked data structures equivalent to
+that gained in 9B, 61A, or Engineering 7 or 77. Selfpaced
+course in the C programming language for
+ students who already know how to program. Computation,
+input and output, flow of control, functions,
+arrays, and pointers, linked structures, use of dynamic
+storage, and implementation of abstract data types.
+(F,SP) Garcia
+9D. Scheme and Functional Programming for Programmers.
+(1) Refer to computer science service
+course restrictions. Must be taken on a passed/not
+passed basis. Prerequisites: Programming experience
+similar to that gained in Engineering 77. Self-paced
+course in functional programming, using the Scheme
+programming language, for students who already
+know how to program. Recursion; higher-order functions;
+list processing; implementation of rule-based
+querying. (F,SP) Garcia
+9E. Productive Use of the UNIX Environment. (1)
+Refer to computer science service course restrictions.
+Self-paced. Must be taken on a passed/not passed
+basis. Prerequisites: Programming experience similar
+to that gained in 61A or Engineering 7 or 77; DOS
+or UNIX experience. Use of UNIX utilities and scripting
+facilities for customizing the programming environment,
+organizing files (possibly in more than one computer
+account), implementing a personal database,
+reformatting text, and searching for online resources.
+(F,SP) Garcia
+9F. C++ for Programmers. (1) Refer to computer
+science service course restrictions in this catalog.
+Must be taken on a passed/not passed basis. Prerequisites:
+Programming experience equivalent to that
+gained in 9B, 61A, or Engineering 7 or 77. Self-paced
+introduction to the constructs provided in the C++ programming
+language for procedural and object-oriented
+programming, aimed at students who already
+know how to program. (F,SP) Garcia
+9G. JAVA for Programmers. (1) One hour of selfpaced
+per week. Must be taken on a passed/not
+passed basis. Prerequisites: 9C or 9F or 61A plus
+experience with object-oriented programming or C35492
+B-Cat_AP:B-Cat Template.QXD 5/25/11 2:40 PM Page 244
+based language. Self-paced course in Java for students
+who already know how to program. Applets;
+variables and computation; events and flow of control;
+classes and objects; inheritance; GUI elements;
+applications; arrays, strings, files, and linked structures;
+exceptions; threads. (F,SP) Garcia
+9H. Python for Programmers. (1) Refer to computer
+science service course restrictions. Self-paced. Must
+be taken on a passed/not passed basis. Prerequisites:
+Programming experience equivalent to that
+gained in 3. Introduction to the constructs provided
+in the Python programming language, aimed at students
+who already know how to program. Flow of control;
+strings, tuples, lists, and dictionaries; CGI
+programming; file input and output; object-oriented
+programming; GUI elements. (F,SP) Garcia
+10. The Beauty and Joy of Computing. (4) Two
+hours of lecture, four hours of laboratory, and one
+hour of discussion per week. An introduction to the
+beauty and joy of computing. The history, social implications,
+great principles, and future of computing.
+Beautiful applications that have changed the world.
+How computing empowers discovery and progress in
+other fields. Relevance of computing to the student
+and society will be emphasized. Students will learn
+the joy of programming a computer using a friendly,
+graphical language, and will complete a substantial
+team programming project related to their interests.
+(F,SP) Garcia, Harvey
+39. Freshman/Sophomore Seminar. Course may
+be repeated for credit as topic varies. One hour of
+seminar per week per unit. Sections 1-2 to be graded
+on a letter-grade basis. Sections 3-4 to be graded on
+a passed/not passed basis. Prerequisites: Priority
+given to freshmen and sophomores. Freshman and
+sophomore seminars offer lower division students the
+opportunity to explore an intellectual topic with a faculty
+member and a group of peers in a small-seminar
+setting. These seminars are offered in all campus
+departments; topics vary from department to department
+and from semester to semester. Enrollment
+limits are set by the faculty, but the suggested limit
+is 25. (F,SP)
+47A. Completion of Work in Computer Science
+61A. (1) Students will receive no credit for 47A after
+taking 61A. Self-paced. Prerequisites: 61B or equivalent,
+9D, and consent of instructor. Implementation of
+generic operations. Streams and iterators. Implementation
+techniques for supporting functional, objectoriented,
+and constraint-based programming in the
+Scheme programming language. Together with 9D,
+47A constitutes an abbreviated, self-paced version of
+61A for students who have already taken a course
+equivalent to 61B. (F,SP) Garcia
+47B. Completion of Work in Computer Science
+61B. (1) Students will receive no credit for 47B after
+taking 61B. Self-paced. Prerequisites: A course in
+data structures, 9G or equivalent, and consent of
+instructor. Iterators. Hashing, applied to strings and
+multi-dimensional structures. Heaps. Storage management.
+Design and implementation of a program
+containing hundreds of lines of code. Students with
+sufficient partial credit in 61B may, with consent of
+instructor, complete the credit in this self-paced course.
+(F,SP) Garcia
+47C. Completion of Work in Computer Science
+61C. (1) Students will receive no credit for 47C after
+taking 61C. Self-paced. Prerequisites: Experience
+with assembly language including writing an interrupt
+handler, 9C or equivalent, and consent of instructor.
+MIPS instruction set simulation. The assembly and
+linking process. Caches and virtual memory. Pipelined
+computer organization. Students with sufficient partial
+credit in 61C may, with consent of instructor, complete
+the credit in this self-paced course. (F,SP) Garcia
+61A. The Structure and Interpretation of Computer
+Programs. (4) Students will receive no credit for 61A
+after taking 47A. Three hours of lecture, one and onehalf
+hours of discussion, and one and one-half hours
+of laboratory and two and one-half hours of unscheduled
+laboratory per week. Prerequisites: Mathematics
+1A (may be taken concurrently); programming
+experience equivalent to that gained in 3 or the
+Advanced Placement Computer Science A course.
+Introduction to programming and computer science.
+This course exposes students to techniques of abstraction
+at several levels: (1) within a programming language,
+using higher-order functions, manifest types,
+data-directed programming, and message-passing;
+and (2) between programming languages, using functional
+and rule-based languages as examples. It also
+relates these techniques to the practical problems of
+implementation of languages and algorithms on a von
+ Neumann machine. There are several significant programming
+projects, programmed in a dialect of the
+LISP language. (F,SP) Garcia, Harvey, Hilfinger
+61B. Data Structures. (4) Students will receive no
+credit for 61B after taking 47B or 61BL. Deficiency in
+61BL may be removed by taking 61B. Three hours
+of lecture, one hour of discussion, and two hours of
+laboratory per week. Prerequisites: 61A or Engineering
+7. Fundamental dynamic data structures, including
+linear lists, queues, trees, and other linked structures;
+arrays strings, and hash tables. Storage management.
+Elementary principles of software engineering. Abstract
+data types. Algorithms for sorting and searching. Introduction
+to the Java programming language. (F,SP)
+Hilfinger, Shewchuk
+61BL. Data Structures and Programming Methodology.
+(4) Students will receive no credit for 61BL after
+taking 47B or 61B. Deficiency in 61B may be removed
+by taking 61BL. One hour of lecture and six hours of
+laboratory per week. Prerequisites: 61A or Engineering
+7. The same material as in 61B but in a laboratorybased
+format. (F,SP) Hilfinger
+61C. Machine Structures. (4) Students will receive no
+credit for 61C after taking 47C or 61CL. Deficiency in
+61C may be removed by taking 61CL. Three hours
+of lecture, two hours of laboratory, and one hour of
+discussion per week. Prerequisites: 61A, along with
+either 61B or 61BL, or programming experience equivalent
+to that gained in 9C, 9F, or 9G. The internal
+organization and operation of digital computers.
+Machine architecture, support for high-level languages
+(logic, arithmetic, instruction sequencing) and operating
+systems (I/O, interrupts, memory management,
+process switching). Elements of computer logic design.
+Tradeoffs involved in fundamental architectural design
+decisions. (F,SP) Staff
+61CL. Machine Structures (Lab-Centric). (4) Students
+will receive no credit for 61CL after taking 47C or 61C.
+Deficiency in 61C may be removed by taking 61CL.
+Two hours of lecture, one hour of discussion, and four
+hours of laboratory per week. Prerequisites: 61A,
+along with 61B or 61BL, or programming experience
+equivalent to that gained in 9C, 9F, or 9G. The same
+material as in 61C but in a lab-centric format. (F,SP)
+Garcia, Patterson
+70. Discrete Mathematics and Probability Theory.
+(4) Students will receive no credit for 70 after taking
+Mathematics 55. Three hours of lecture per week, or
+three hours of lecture and two hours of discussion
+per week. Prerequisites: Sophomore mathematical
+maturity, and programming experience equivalent to
+that gained in 3 or the Advanced Placement Computer
+Science A course. Logic, infinity, and induction;
+applications include undecidability and stable marriage
+problem. Modular arithmetic and GCDs; applications
+include primality testing and cryptography.
+Polynomials; examples include error correcting codes
+and interpolation. Probability including sample spaces,
+independence, random variables, law of large numbers;
+examples include load balancing, existence arguments,
+Bayesian inference. (F,SP) Staff
+84. Sophomore Seminar. (1,2) Course may be
+repeated for credit as topic varies. One hour of seminar
+per week per unit for 15 weeks. One and one-half
+hours of seminar per week per unit for 10 weeks. Two
+hours of seminar per week per unit for eight weeks.
+Three hours of seminar per week per unit for five
+weeks. Sections 1-2 to be graded on a passed/not
+passed basis. Sections 3-4 to be graded on a lettergrade
+basis. Prerequisites: At discretion of instructor.
+Sophomore seminars are small interactive courses
+offered by faculty members in departments all across
+the campus. Sophomore seminars offer opportunity
+for close, regular intellectual contact between faculty
+members and students in the crucial second year.
+The topics vary from department to department and
+semester to semester. Enrollment limited to 15 sophomores.
+(F,SP)
+98. Directed Group Study. (1-4) Course may be
+repeated for credit. One hour of lecture per week per
+unit. Must be taken on a passed/not passed basis.
+Prerequisites: Consent of instructor. Seminars for
+group study of selected topics, which will vary from
+year to year. Intended for students in the lower division.
+(F,SP) Staff
+99. Individual Study and Research for Undergraduates.
+(1-2) Course may be repeated for credit.
+Must be taken on a passed/not passed basis. Prerequisites:
+GPA of 3.4 or better. A course for lower
+division students in good standing who wish to undertake
+a program of individual inquiry initiated jointly by
+the student and a professor. There are no other formal
+prerequisites, but the supervising professor must be
+convinced that the student is able to profit by the program.
+(F,SP) Staff
+Upper Division Courses
+C149. Introduction to Embedded Systems. (4)
+Three hours of lecture and one hour of laboratory per
+week. Prerequisites: 61C, 70 or Math 55, and Electrical
+Engineering 20. Formerly Electrical Engineering
+124. This course introduces students to the basics of
+models, analysis tools, and control for embedded systems
+operating in real time. Students learn how to
+combine physical processes with computation. Topics
+include models of computation, control, analysis and
+verification, interfacing with the physical world, mapping
+to platforms, and distributed embedded systems.
+The course has a strong laboratory component, with
+emphasis on a semester-long sequence of projects.
+Also listed as Electrical Engineering C149. (F,SP)
+Lee, Seshia, Tomlin
+150. Components and Design Techniques for Digital
+Systems. (5) Three hours of lecture, one hour of
+discussion, and three hours of laboratory per week.
+Prerequisites: 61C, Electrical Engineering 40 or 42.
+Basic building blocks and design methods to contruct
+synchronous digital systems. Alternative representations
+for digital systems. Bipolar TTL vs. MOS implementation
+technologies. Standard logic (SSI, MSI) vs.
+programmable logic (PLD, PGA). Finite state machine
+design. Digital computer building blocks as case studies.
+Introduction to computer-aided design software.
+Formal hardware laboratories and substantial design
+project. Informal software laboratory periodically
+throughout semester. (F,SP) Katz, Pister, Wawrzynek
+152. Computer Architecture and Engineering. (5)
+Three hours of lecture and two hours of discussion
+per week. Prerequisites: 61C. Instruction set design,
+Register Transfer. Computer design project requiring
+about 100 hours. Data-path design. Controller design.
+Memory system. Addressing. Microprogramming.
+Computer arithmetic. Survey of real computers
+and microprocessors. (F,SP) Culler, Kubiatowicz,
+Wawrzynek
+160. User Interface Design and Development. (4)
+Three hours of lecture, 1 hour of discussion, and four
+hours of self-scheduled programming laboratory per
+week. Prerequisites: 61B. The design, implementation,
+and evaluation of human/computer interfaces.
+Interface devices (keyboard, pointing, display, audio,
+etc.), metaphors (desktop, notecards, rooms, ledger
+sheets, tables, etc.), interaction styles and dialog
+models, design examples, and user-centered design
+and task analysis. Interface-development methodologies,
+implementation tools, testing, and quality assessment.
+Students will develop a direct-manipulation
+interface. Agrawala, Canny, Hartmann
+161. Computer Security. (4) Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+61C (Machine Structures), plus either 70 (Discrete
+Mathematics) or Mathematics 55. Introduction to computer
+security. Cryptography, including encryption,
+authentication, hash functions, cryptographic protocols,
+and applications. Operating system security,
+Electrical Engineering and Computer Sciences / 245
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American Cultures
+requirement
+W prefix=online course
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:40 PM Page 245
+246 / Electrical Engineering and Computer Sciences
+access control. Network security, firewalls, viruses,
+and worms. Software security, defensive programming,
+and language-based security. Case studies
+from real-world systems. (F,SP) Staff
+162. Operating Systems and System Programming.
+(4) Three hours of lecture, one hour of discussion,
+and four hours of programming laboratory per
+week. Prerequisites: 61B, 61C, and Math 55. Basic
+concepts of operating systems and system programming.
+Utility programs, subsystems, multiple-program
+systems. Processes, interprocess communication,
+and synchronization. Memory allocation, segmentation,
+paging. Loading and linking, libraries. Resource
+allocation, scheduling, performance evaluation. File
+systems, storage devices, I/O systems. Protection,
+security, and privacy. (F,SP) Joseph, Kubiatowicz
+164. Programming Languages and Compilers. (4)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 61B and 61C. Survey of programming
+languages. The design of modern programming
+languages. Principles and techniques of
+scanning, parsing, semantic analysis, and code generation.
+Implementation of compilers, interpreters, and
+assemblers. Overview of run-time organization and
+error handling. (F,SP) Bodik, Hilfinger, Necula
+169. Software Engineering. (4) Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+61B and 61C, Math 55 or 113. Ideas and techniques
+for designing, developing, and modifying large software
+systems. Function-oriented and object-oriented
+modular design techniques, designing for re-use and
+maintainability. Specification and documentation. Verification
+and validation. Cost and quality metrics and
+estimation. Project team organization and management.
+Students will work in teams on a substantial
+programming project. (F,SP) Brewer, Fox, Necula, Sen
+170. Efficient Algorithms and Intractable Problems.
+(4) Three hours of lecture and one hour of discussion
+per week. Prerequisites: 61B, Mathematics
+55. Concept and basic techniques in the design and
+analysis of algorithms; models of computation; lower
+bounds; algorithms for optimum search trees, balanced
+trees and UNION-FIND algorithms; numerical
+and algebraic algorithms; combinatorial algorithms.
+Turing machines, how to count steps, deterministic
+and nondeterministic Turing machines, NP-completeness.
+Unsolvable and intractable problems. (F,SP)
+Staff
+172. Computability and Complexity. (4) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+170. Finite automata, Turing machines and
+RAMs. Undecidable, exponential, and polynomialtime
+problems. Polynomial-time equivalence of all
+ reasonable models of computation. Nondeterministic
+Turing machines. Theory of NP-completeness:
+Cook’s theorem, NP-completeness of basic problems.
+Selected topics in language theory, complexity
+and randomness. (F,SP) Staff
+174. Combinatorics and Discrete Probability. (4)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 170. Permutations, combinations,
+principle of inclusion and exclusion, generating
+functions, Ramsey theory. Expectation and variance,
+Chebychev’s inequality, Chernov bounds. Birthday
+paradox, coupon collector’s problem, Markov chains
+and entropy computations, universal hashing, random
+number generation, random graphs and probabilistic
+existence bounds. (F,SP) Staff
+184. Foundations of Computer Graphics. (4) Three
+hours of lecture, one hour of discussion, and three
+hours of laboratory per week. Prerequisites: 61B; programming
+skills in C, C++, or Java; linear algebra and
+calculus. Techniques of modeling objects for the purpose
+of computer rendering: boundary representations,
+constructive solids geometry, hierarchical scene
+descriptions. Mathematical techniques for curve and
+surface representation. Basic elements of a computer
+graphics rendering pipeline; architecture of modern
+graphics display devices. Geometrical transformations
+such as rotation, scaling, translation, and their
+matrix representations. Homogeneous coordinates,
+projective and perspective transformations. Algorithms
+for clipping, hidden surface removal, rasterization,
+and anti-aliasing. Scan-line based and ray-based rendering
+algorithms. Lighting models for reflection, refraction,
+transparency. (F,SP) Barsky, O’Brien, Sequin
+186. Introduction to Database Systems. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 61B and 61C. Access methods and file
+systems to facilitate data access. Hierarchical, network,
+relational, and object-oriented data models.
+Query languages for models. Embedding query languages
+in programming languages. Database services
+including protection, integrity control, and
+alternative views of data. High-level interfaces including
+application generators, browsers, and report writers.
+Introduction to transaction processing. Database
+system implementation to be done as term project.
+(F,SP) Franklin, Hellerstein
+188. Introduction to Artificial Intelligence. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 61A or 61B and consent of instructor; 70
+or Mathematics 55. Basic ideas and techniques underlying
+the design of intelligent computer systems. Topics
+include heuristic search, problem solving, game playing,
+knowledge representation, logical inference, planning,
+reasoning under uncertainty, expert systems,
+learning, perception, language understanding. (F,SP)
+Klein, Malik
+C191. Quantum Information Science and Technology.
+(3) Three hours of lecture/discussion per
+week. Prerequisites: Mathematics 54, Physics 7A-7B,
+and either Physics 7C, Mathematics 55, or Computer
+Science 170. This multidisciplinary course provides
+an introduction to fundamental conceptual aspects of
+quantum mechanics from a computational and informational
+theoretic perspective, as well as physical
+implementations and technological applications of
+quantum information science. Basic sections of quantum
+algorithms, complexity, and cryptography, will be
+touched upon, as well as pertinent physical realizations
+from nanoscale science and engineering. Also
+listed as Physics C191 and Chemistry C191. (F,SP)
+Crommie, Vazirani, Whaley
+194. Special Topics. (1-4) Course may be repeated
+for credit as topic varies. One to fours hours of lecture/discussion
+per week. Prerequisites: Consent of
+instructor. Topics will vary semester to semester. See
+the Computer Science Division announcements.
+(F,SP) Staff
+195. Social Implications of Computer Technology.
+(1) Students will receive no credit for 195 after taking
+C195/Interdisciplinary Field Study C155 or H195. One
+and one-half hours of lecture per week. Must be taken
+on a passed/not passed basis. Topics include electronic
+community; the changing nature of work; technological
+risks; the information economy; intellectual
+property; privacy; artificial intelligence and the sense
+of self; pornography and censorship; professional
+ethics. Students will lead discussions on additional
+topics. (F,SP) Harvey
+H195. Honors Social Implications of Computer
+Technology. (3) Student will receive no credit for
+H195 after taking 195 or C195. One and one-half
+hours of lecture and one and one-half hours of discussion
+per week. Must be taken on a passed/not
+passed basis. Topics include electronic community;
+the changing nature of work; technological risks; the
+information economy; intellectual property; privacy;
+artificial intelligence and the sense of self; pornography
+and censorship; professional ethics. Students may
+lead discussions on additional topics. (F,SP) Harvey
+H196A-H196B. Senior Honors Thesis Research.
+(1-4;1-4) Individual research. Prerequisites: Open only
+to students in the Computer Science Honors Program.
+Thesis work under the supervision of a faculty mem -
+ber. To obtain credit the student must, at the end of
+two semesters, submit a satisfactory thesis to the
+Electrical Engineering and Computer Science department
+archive. A total of 4 units must be taken. The
+units many be distributed between one or two semes -
+ters in any way. H196A-H196B count as graded technical
+elective units, but may not be used to satisfy the
+requirement for 27 upper division technical units in
+the College of Letters and Science with a major
+in computer science. (F,SP)
+198. Directed Group Studies for Advanced Undergraduates.
+(1-4) Course may be repeated for credit.
+Course format varies with section. Must be taken on a
+passed/not passed basis. Prerequisites: 2.0 GPA or
+better; 60 units completed. Group study of selected
+topics in computer sciences, usually relating to new
+developments.
+199. Supervised Independent Study. (1-4) Enrollment
+is restricted; see the Introduction to Courses
+and Curricula section of this catalog. Individual conferences.
+Must be taken on a passed/not passed
+basis. Prerequisites: Consent of instructor and major
+adviser. Supervised independent study. Enrollment
+restrictions apply. (F,SP) Staff
+Graduate Courses
+C219D. Concurrent Models of Computation. (3)
+Course may be repeated for credit with consent of
+instructor. Three hours of lecture per week. Prerequisites:
+Graduate standing. Theory and practice of
+ concurrent models of computation (MoCs) with applications
+to software systems, embedded systems, and
+cyber-physical systems. Analysis for boundedness,
+deadlock, and determinacy; formal semantics (fixed
+point semantics and metric-space models); composition;
+heterogeneity; and model-based design. MoCs
+covered may include process networks, threads, message
+passing, synchronous/reactive, dataflow, rendez -
+vous, time-triggered, discrete events, and continuous
+time. Also listed as Electrical Engineering C219D.
+(F,SP) Lee
+250. VLSI Systems Design. (4) Three hours of lecture
+and four hours design laboratory per week. Prerequisites:
+150. Unified top-down and bottom-up design of
+integrated circuits and systems concentrating on architectural
+and topological issues. VLSI architectures,
+systolic arrays, self-timed systems. Trends in VLSI
+development. Physical limits. Tradeoffs in customdesign,
+standard cells, gate arrays. VLSI design tools.
+(F) Wawrzynek
+252. Graduate Computer Architecture. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 152. Graduate survey of contemporary
+computer organizations covering: early systems, CPU
+design, instruction sets, control, processors, busses,
+ALU, memory, I/O interfaces, connection networks,
+virtual memory, pipelined computers, multiprocessors,
+and case studies. Term paper or project is required.
+(F,SP) Culler, Kubiatowicz, Patterson
+258. Parallel Processors. (3) Three hours of lecture
+per week. Prerequisites: 252. In-depth study of the
+design, engineering, and evaluation of modern parallel
+computers. Fundamental design: naming, synchronization,
+latency, and bandwidth. Architectural
+evolution and technological driving forces. Parallel
+programming models, communication primitives, programming
+and compilation techniques, multiprogramming
+workloads and methodology for quantitative
+evaluation. Latency avoidance through replication in
+small- and large-scale shared memory designs; cachecoherency,
+protocols, directories, and memory consistency
+models. Message passing: protocols, storage
+management, and deadlock. Efficient network interface,
+protection, events, active messages, and coprocessors
+in large-scale designs. Latency tolerance
+through prefetching, multithreading, dynamic instruction
+scheduling, and software techniques. Network
+design: topology, packaging, k-ary n-cubes, performance
+under contention. Synchronization: global operations,
+mutual exclusion, and events. Alternative
+architectures: dataflow, SIMD, systoltic arrays. Culler
+260. User-Interfaces to Computer Systems. (3)
+Three hours of lecture per week. Prerequisites: 162 and
+164 recommended, or consent of instructor. Formerly
+CS 287. Design and implementation of user-interfaces
+to computer systems. Software and hardware
+architectures for personal workstations. Object-oriented
+programming systems. Form-based user-interfaces.
+Window and display management abstractions.
+Case studies of naive- and expert-user interfaces.
+Students will complete a substantial project. Canny
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:40 PM Page 246
+261. Security in Computer Systems. (3) Three hours
+of lecture per week. Prerequisites: 162. Graduate
+survey of modern topics in computer security, including
+protection, access control, distributed access security,
+firewalls, secure coding practices, safe languages,
+mobile code, and case studies from real-world systems.
+May also cover cryptographic protocols, privacy
+and anonymity, and/or other topics as time permits.
+(SP) D. Song, Wagner
+261N. Internet and Network Security. (3) Three hours
+of lecture per week. Prerequisites: 161 or familiarity
+with basic security concepts; Electrical Engineering
+122 or equivalent. Develops a thorough grounding in
+Internet and network security suitable for those interested
+in conducting research in the area or those
+more broadly interested in security or networking.
+Potential topics include denial-of-service; capabilities;
+network intrusion detection/prevention; worms; forensics;
+scanning; traffic analysis; legal issues; web
+attacks; anonymity; wireless and networked devices;
+honeypots; botnets; scams; underground economy;
+attacker infrastructure; research pitfalls. (F,SP) Paxson
+262A. Advanced Topics in Computer Systems. (4)
+Three hours of lecture per week. Prerequisites: 162
+and entrance exam. Formerly 262. Graduate survey of
+systems for managing computation and information,
+covering a breadth of topics: early systems; volatile
+memory management, including virtual memory and
+buffer management; persistent memory systems,
+including both file systems and transactional storage
+managers; storage metadata, physical vs. logical
+naming, schemas, process scheduling, threading and
+concurrency control; system support for networking,
+including remote procedure calls, transactional RPC,
+TCP, and active messages; security infrastructure;
+extensible systems and APIs; performance analysis
+and engineering of large software systems. Homework
+assignments, exam, and term paper or project
+required. (F,SP) Brewer, Hellerstein
+262B. Advanced Topics in Computer Systems. (3)
+Three hours of lecture per week. Prerequisites: 262A.
+Continued graduate survey of large-scale systems for
+managing information and computation. Topics include
+basic performance measurement; extensibility, with
+attention to protection, security, and management of
+abstract data types; index structures, including support
+for concurrency and recovery; parallelism, including
+parallel architectures, query processing and scheduling;
+distributed data management, including distributed
+and mobile file systems and databases; distributed
+caching; large-scale data analysis and search. Homework
+assignments, exam, and term paper or project
+required. (F,SP) Staff
+263. Design of Programming Languages. (3) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 164. Selected topics from analysis,
+comparison, and design of programming languages,
+formal description of syntax and semantics, advanced
+programming techniques, structured programming,
+debugging, verification of programs and compilers,
+and proofs of correctness. Necula
+264. Implementation of Programming Languages.
+(4) Three hours of lecture, one hour of discussion,
+and six hours programing laboratory per week. Prerequisites:
+164, 263 recommended. Compiler construction.
+Lexical analysis, syntax analysis. Semantic
+analysis code generation and optimization. Storage
+management. Run-time organization. Bodik
+265. Compiler Optimization and Code Generation.
+(3) Three hours of lecture per week. Prerequisites:
+164. Table-driven and retargetable code generators.
+Register management. Flow analysis and global optimization
+methods. Code optimization for advanced
+languages and architectures. Local code improvement.
+Optimization by program transformation.
+Selected additional topics. A term paper or project is
+required. Sen
+266. Introduction to System Performance Analysis.
+(3) Three hours of lecture per week. Prerequisites:
+162 and Statistics 5. Formerly 267 and 268. Performance
+indices. Evaluation techniques. Measurement:
+instrumentation, design of experiments, interpretation
+of results. Simulation modeling: simulator design,
+model calibration, statistical analysis of output data.
+Introduction to analytic modeling. Workload characterization.
+Tuning, procurement, and capacity planning
+application. Program performance evaluation.
+File and I/O system optimization. CPU Scheduling
+and architecture performance analysis.
+C267. Applications of Parallel Computers. (3) Three
+hours of lecture and one hour of laboratory per week.
+Models for parallel programming. Fundamental algorithms
+for linear algebra, sorting, FFT, etc. Survey of
+parallel machines and machine structures. Exiting
+parallel programming languages, vectorizing compilers,
+environments, libraries and toolboxes. Data partitioning
+techniques. Techniques for synchronization
+and load balancing. Detailed study and algorithm/
+program development of medium sized applications.
+Demmel, Yelick
+268. Computer Networks. (3) 292V Three hours of
+lecture per week. Prerequisites: 162. Distributed systems,
+their notivations, applications, and organization.
+The network component. Network architectures.
+Local and long-haul networks, technologies, and
+topologies. Data link, network, and transport protocols.
+Point-to-point and broadcast networks. Routing
+and congestion control. Higher-level protocols.
+Naming. Internetworking. Examples and case studies.
+Joseph, Katz, Stoica
+270. Combinatorial Algorithms and Data Structures.
+(3) Three hours of lecture and one hour of discussion
+per week. Prerequisites: 170. Design and
+analysis of efficient algorithms for combinatorial problems.
+Network flow theory, matching theory, matroid
+theory; augmenting-path algorithms; branch-and-bound
+algorithms; data structure techniques for efficient
+implementation of combinatorial algorithms; analysis
+of data structures; applications of data structure
+ techniques to sorting, searching, and geometric problems.
+Staff
+271. Randomness and Computation. (3) Three
+hours of lecture per week. Prerequisites: 170 and at
+least one course numbered 270-279. Computational
+applications of randomness and computational theories
+of randomness. Approximate counting and uniform
+generation of combinatorial objects, rapid
+convergence of random walks on expander graphs,
+explicit construction of expander graphs, randomized
+reductions, Kolmogorov complexity, pseudo-random
+number generation, semi-random sources. Sinclair
+273. Foundations of Parallel Computation. (3)
+Three hours of lecture per week. Prerequisites: 170, or
+consent of instructor. Formerly 292K. Fundamental
+theoretical issues in designing parallel algorithms and
+architectures. Shared memory models of parallel computation.
+Parallel algorithms for linear algegra, sorting,
+Fourier Transform, recurrence evaluation, and
+graph problems. Interconnection network based
+models. Algorithm design techniques for networks like
+hypercubes, shuffle-exchanges, threes, meshes and
+butterfly networks. Systolic arrays and techniques for
+generating them. Message routing. Rao
+274. Computational Geometry. (3) Course may be
+repeated for credit. Three hours of lecture per week.
+Prerequisites: 170 or equivalent. Formerly 292T. Constructive
+problems in computational geometry: convex
+hulls, triangulations, Voronoi diagrams, arrangements
+of hyperplanes; relationships among these problems.
+Search problems: advanced data structures; subdivision
+search; various kinds of range searches. Models
+of computation; lower bounds. Shewchuk
+276. Cryptography. (3) Three hours of lecture per
+week. Prerequisites: 170. Graduate survey of modern
+topics on theory, foundations, and applications of
+modern cryptography. One-way functions; pseudorandomness;
+encryption; authentication; public-key
+cryptosystems; notions of security. May also cover
+zero-knowledge proofs, multi-party cryptographic protocols,
+practical applications, and/or other topics, as
+time permits. (F,SP) Trevisan, Wagner
+278. Machine-Based Complexity Theory. (3) Three
+hours of lecture per week. Prerequisites: 170. Properties
+of abstract complexity measures; Determinism
+vs. nondeterminism; time vs. space; complexity hierarchies;
+aspects of the P-NP question; relative power
+of various abstract machines. Trevisan
+C280. Computer Vision. (3) Three hours of lecture
+per week. Prerequisites: Knowledge of linear algebra
+and calculus. Mathematics 1A-1B, 53, 54 or equivalent.
+Paradigms for computational vision. Relation to
+human visual perception. Mathematical techniques
+for representing and reasoning, with curves, surfaces
+and volumes. Illumination and reflectance models.
+Color perception. Image segmentation and aggregation.
+Methods for bottom-up 3-D shape recovery: line
+drawing analysis, stereo, shading, motion, texture.
+Use of object models for prediction and recognition.
+Also listed as Vision Science C280. Malik
+C281A. Statistical Learning Theory. (3) Three hours
+of lecture per week. Prerequisites: Linear algebra,
+calculus, basic probability, and statistics, algorithms.
+Recommended 289. Classification regression, clustering,
+dimensionality, reduction, and density estimation.
+Mixture models, hierarchical models, factorial
+models, hidden Markov, and state space models,
+Markov properties, and recursive algorithms for general
+probabilistic inference nonparametric methods
+including decision trees, kernal methods, neural networks,
+and wavelets. Ensemble methods. Also listed
+as Statistics C241A. (F) Bartlett, Jordan, Wainwright
+C281B. Advanced Topics in Learning and Decision
+Making. (3) Three hours of lecture per week.
+Prerequisites: C281A, Statistics C241A. Recent topics
+include: Graphical models and approximate inference
+algorithms. Markov chain Monte Carlo, mean field
+and probability propagation methods. Model selection
+and stochastic realization. Bayesian information
+theoretic and structural risk minimization approaches.
+Markov decision processes and partially observable
+Markov decision processes. Reinforcement learning.
+Also listed as Statistics C241B. (SP) Bartlett,
+Jordan, Wainwright
+282. Algebraic Algorithms. (3) Three hours of lecture
+per week. Prerequisites: 164, Mathematics 113B, or
+permission of instructor. Theory and construction of
+symbolic algebraic computer programs. Polynomial
+arithmetic, GCD, factorization, integration of elementary
+functions, analytic approximation, simplification,
+design of computer systems and languages for symbolic
+manipulation. Fateman
+283. Advanced Computer Graphics Algorithms
+and Techniques. (4) Three hours of lecture per week.
+Prerequisites: 184 or equivalent. This course provides
+a graduate-level introduction to advanced computer
+graphics algorithms and techniques. Students should
+already be familiar with basic concepts such as transformations,
+scan-conversion, scene graphs, shading,
+and light transport. Topics covered in this course
+include global illumination, mesh processing, subdivision
+surfaces, basic differential geometry, physically
+based animation, inverse kinematics, imaging and
+computational photography, and precomputed light
+transport. (F,SP) O’Brien, Ramamoorthi
+284. Computer-Aided Geometric Design and Modeling.
+(3) Three hours of lecture per week. Prerequisites:
+Mathematical skill in calculus and linear algebra.
+Mathematical techniques for curve and surface representation,
+including: Hermite interpolation, interpolatory
+splines, tensed splines, Bezier curves and
+surfaces, B-splines, Beta-splines, Coons patches,
+tensor product forms, as well as subdivision end/
+bounding conditions, and computational considerations.
+Barsky, Sequin
+285. Solid Free-Form Modeling and Fabrication.
+(3) Three hours of lecture per week. Prerequisites:
+184. From shape design to computer-based descriptions
+suitable for manufacturing or rapid prototyping.
+Solid modeling techniques and procedural shape generation.
+Effective data structures and unambiguous
+part description formats. Algorithms for dealing with
+Boolean operations and for machine tool path planning.
+Problems of finite-precision geometry and
+machining tolerances. Introduction to some rapid prototyping
+techniques based on Solid Free-Form FabriElectrical
+Engineering and Computer Sciences / 247
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American Cultures
+requirement
+W prefix=online course
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:40 PM Page 247
+248 / Electrical Engineering and Computer Sciences
+cation and NC machining. Other advanced topics and
+recent developments in the field. Sequin
+286. Implementation of Data Base Systems. (3)
+Three hours of lecture per week. Prerequisites: 162
+and 186. Implementation of data base systems on
+modern hardware systems. Considerations concerning
+operating system design, including buffering, page
+size, prefetching, etc. Query processing algorithms,
+design of crash recovery and concurrency control systems.
+Implementation of distributed data bases and
+data base machines. Franklin, Hellerstein
+287. Advanced Robotics. (3) Three hours of lecture
+per week. Prerequisites: Electrical Engineering 125.
+Advanced topics related to current research in robotics.
+Planning and control issues for realistic robot systems,
+taking into account: dynamic constraints, control
+and sensing uncertainty, and non-holonomic motion
+constraints. Analysis of friction for assembly and grasping
+tasks. Sensing systems for hands including tactile
+and force sensing. Environmental perception from
+sparse sensors for dextrous hands. Grasp planning
+and manipulation. Abbeel
+288. Artificial Intelligence Approach to Natural
+Language Processing. (3) Three hours of lecture
+per week plus programming assignment. Prerequisites:
+164. Representation of conceptual structures,
+language analysis and production, models of inference
+and memory, high-level text structures, question
+answering and conversation, machine translation. Klein
+294. Special Topics. (1-4) Course may be repeated
+for credit. Topics will vary from semester to semester.
+See Computer Science Division announcements.
+(F,SP) Staff
+297. Field Studies in Computer Science. (1-12)
+Course may be repeated for credit. Independent study.
+Must be taken on a satisfactory/unsatisfactory basis.
+Supervised experience in off-campus companies relevant
+to specific aspects and applications of electrical
+engineering and/or computer science. Written report
+required at the end of the semester. (F,SP)
+298. Group Studies Seminars, or Group Research.
+(1-4) Course may be repeated for credit. One to four
+hours per unit. Sections 1-25 to be graded on a satisfactory/unsatisfactory
+basis. Sections 26-35 to be
+graded on a letter-grade basis. Advanced study in
+various subjects through seminars on topics to be
+selected each year, informal group studies of special
+problems, group participation in comprehensive design
+problems, or group research on complete problems
+for analysis and experimentation. (F,SP) Staff
+299. Individual Research. (1-12) Course may be
+repeated for credit. Investigations of problems in computer
+science. (F,SP) Staff
+602. Individual Study for Doctoral Students. (1-8)
+Course may be repeated for credit. Course does not
+satisfy unit or residence requirements for doctoral
+degree. Independent study, consultation with faculty
+member. Must be taken on a satisfactory/unsatisfactory
+basis. Individual study in consultation with the
+major field adviser, intended to provide an opportunity
+for qualified students to prepare themselves for the
+various examinations required of candidates for the
+Ph.D. (and other doctoral degrees). (F,SP) Staff
+Professional Courses
+300. Teaching Practice. (1-6) Course may be
+repeated for credit. Three to 20 hours of discussion
+and consulting per week. Must be taken on a satisfac -
+tory/unsatisfactory basis. Supervised teaching practice,
+in either a one-on-one tutorial or classroom discussion
+setting. (F,SP) Staff
+301. Teaching Techniques for Computer Science.
+(2) Course may be repeated for credit. Three hours of
+discussion for ten weeks. Must be taken on a satisfactory/unsatisfactory
+basis. Prerequisites: Consent
+of instructor. Discussion and practice of techniques
+for effective teaching, focusing on issues most relevant
+to teaching assistants in computer science courses.
+(F,SP) Barsky, Garcia, Harvey
+302. Designing Computer Science Education. (3)
+Two hours of lecture per week. Prerequisites: Computer
+Science 301 and two semesters of GSI experience.
+Discussion and review of research and practice
+relating to the teaching of computer science:
+knowledge organization and misconceptions, curriculum
+and topic organization, evaluation, collaborative
+learning, technology use, and administrative
+issues. As part of a semester-long project to design a
+computer science course, participants invent and
+refine a variety of homework and exam activities, and
+evaluate alternatives for textbooks, grading and other
+administrative policies, and innovative uses of technology.
+(SP) Garcia
+399. Professional Preparation: Supervised Teaching
+of Computer Science. (1,2) Course may be
+repeated for credit. One hour of meeting with instructor
+plus 10 hours (1 unit) or 20 hours (2 units) of
+ teaching per week. Must be taken on a satisfactory/
+unsatisfactory basis. Prerequisites: Appointment as
+graduate student instructor. Discussion, problem
+review and development, guidance of computer science
+laboratory sections, course development, super
