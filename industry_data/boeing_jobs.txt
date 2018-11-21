@@ -1,0 +1,617 @@
+Systems Engineering Engineer
+Apply
+Company The Boeing Company
+Job ID 1800075771
+Date posted 09/21/2018
+Location Oklahoma City Oklahoma United States
+
+Job Description
+Boeing is seeking a Systems Engineer (junior/early career) for the Aircraft Modernization and Modifications, a sub-division of Boeing Defense Systems, is focused on providing our customers with new and enhanced capabilities to their existing fleets. This position is located in Oklahoma City, OK.
+
+ 
+
+The AMM Systems Engineering activities consist of overall Systems Engineering, Requirements Management, Functional Integration/Architecture, Certification, and System Testing/Verification / Validation. Supporting  the various Programs within AMM, over multi-year Engineering and Logistics contracts, that enable Government and Commercial customers to keep their aircraft fleets capable and relevant.
+
+ 
+
+Responsibilities:
+
+Applies an interdisciplinary, collaborative approach to assist with analyses, design, development and verification of a lifecycle balanced system of systems and system solutions.
+Assists with analyses to evaluates customer/operational needs to define system performance requirements, integrate technical parameters and assure compatibility of all physical, functional and program interfaces.
+Assists with various analyses to optimize total system of systems and/or system architecture.
+Assists with analyses for affordability, safety, reliability, maintainability, testability, human systems integration, survivability, vulnerability, susceptibility, system security, regulatory, certification, product assurance and other specialties quality factors into a preferred configuration to ensure mission success.
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.
+
+
+Division
+SSM
+
+Relocation Assistance Available 
+Yes. Available for eligible candidates, if authorized.
+
+Qualifications 
+This position requires the ability to obtain a US Security Clearance for which the US Government requires US Citizenship. 
+
+Basic Qualifications: 
+•Bachelor's degree in Engineering or closely related discipline and 2 + years experience 
+OR 
+•Master's degree in Engineering or closely related discipline and experience 
+
+
+Preferred Qualifications:
+•Experience with DOORS 
+•Experience with SysML, OML, or Rational Rhapsody 
+•Experience in System Engineering, Program Management 
+
+Typical Education and Experience: 
+
+Degree and typical experience in engineering classification: Bachelor's and 2 or more years' experience or a Master's degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+
+
+Relocation benefits are Available for eligible candidates
+
+. 
+
+
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6K8CP2
+
+Software Engineer
+Apply
+Company The Boeing Company
+Job ID 1800065491
+Date posted 07/17/2018
+Location Saint Louis Missouri United States
+
+Job Description
+The Boeing Company is seeking experienced Software Engineers to join a team where Software really matters to work on a variety of exciting opportunities with training systems products in St. Louis, Missouri. 
+
+Software is an integral part of each of these products and these products are integral parts of the defense of multiple nations. If you come to work with us you will be responsible for full life-cycle software development which means you will have a hand in defining the requirements; designing, implementing and testing the software; and supporting these products through delivery and in the field. 
+
+There are a number of possible job assignments, including: 
+Pilot Training Simulators
+Maintenance Training Simulators
+Instructor Operator Stations
+Flight Environment Simulations
+As a Software Engineer you will work with a team in a casual but professional environment where there is long-term potential for career growth into management or technical leadership positions
+
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.
+
+Division
+Training and Professional Svcs
+
+Relocation Assistance Available 
+Yes. Available for eligible candidates, if authorized.
+
+Qualifications 
+
+This position requires the ability to obtain US Security Clearance for which the US Government requires US Citizenship
+
+Basic Qualifications (Required)
+5+ years of professional experience in Software Development.
+ 
+
+Desired Qualifications/Experience:
+Bachelors degree or higher in Computer Science, Computer Engineering, or Electrical Engineering.
+Professional experience with C++, C#, and/or Java.
+Strong written and verbal communication skills and the ability and desire to work in a team environment. 
+Typical Education/Experience:
+Degree and typical experience in engineering classification: Bachelor's and 5 or more years' experience, Master's degree with 3 or more years' experience or PhD degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+
+Limited travel may be required depending on the job assignment.
+
+This position requires the ability to obtain a U.S. Security Clearance, for which the US Government requires US Citizenship.
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6J7BP3
+
+Software Engineer
+Apply
+Company The Boeing Company
+Job ID 1800082647
+Date posted 11/13/2018
+Location Saint Louis Missouri United States
+
+Job Description
+The Systems Engineering Integration and Test (SEIT) Organization, Modeling and Simulation Group in St. Louis, Missouri is seeking an Early-to-Mid Level Software Professional to develop virtual operator-in-the-loop simulations to support advanced programs and experimentation. The team provides a reliable, Windows based simulation in a rapid-turnaround environment that can serve the needs of advanced programs.
+
+ 
+
+The position involves all phases of software development lifecycle including:
+
+Working with a variety of internal and external customers to define system requirements
+Code development and testing to meet those requirements,
+Integrating the resultant simulation into large scale system-of-systems
+Experiments to support the engineering and business development objectives of emerging programs
+ 
+
+Primary Responsibilities:
+
+Develops, documents and maintains architectures, requirements, algorithms, interfaces and designs for software systems
+Develops and maintains code and integrates software components into a fully functional software system
+Serves as a subject matter expert for software domains, system-specific issues, processes and regulations
+ 
+
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.
+
+
+Division
+SSM
+
+Relocation Assistance Available 
+No. Relocation assistance is not a negotiable benefit.
+
+Qualifications 
+This position requires an active Current Secret U.S. Security Clearance. (A U.S. Security Clearance that has been active in the past 24 months is considered active.)
+
+ 
+
+ 
+
+Basic Qualifications (Required):
+
+Experience developing C++ software in a Windows environment
+Understanding of distributed real-time operator-in-the-loop simulation
+ 
+
+ 
+
+Desired Qualifications/Experience:
+
+Experience with Agile, Common Simulation Framework (CSF), DIS, OSG, OpenGL, C#, and/or Git
+Technical experience in any of the following areas are preferred:
+Systems engineering
+Aircraft missions systems
+PVI/OVI
+Sensors
+Weapons
+Imagery databases
+Tactical communication systems
+Fusion algorithms
+Airframes & handling qualities
+Ability to communicate and work well with a team
+
+Have a drive towards continuous improvement and determination in troubleshooting
+
+An interest working closely with operators and the technical community to define systems requirements
+
+Typical Education/Experience:
+
+Bachelor's Degree in Computer Engineering, Computer Science, Electrical Engineering, Aerospace Engineering, or significant applicable experience
+ 
+
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6J7BP3
+
+Electrical Engineer
+Apply
+Company The Boeing Company
+Job ID 1800078913
+Date posted 10/30/2018
+Location El Segundo California United States
+
+Job Description
+The Electronics Products Shared Integrated Product Group at The Boeing Company's Satellite Development Center in El Segundo, California is seeking an experienced electrical engineer (Level 3) whose area of expertise include wideband RF/microwave/millimeter-wave electronics design and development as well as verification and test.
+ 
+Primary Responsibilities:
+Lead design, verification and test projects for state-of-the art RF, Microwave , and Millimeter wave electronics for space-based communication systems
+Develop Wideband Low Noise Amplifiers and Solid State Power Amplifiers employing GaAs, InP, GaN, and SiC technologies
+Lead design teams of 2 to 20 people for product development activities with cost and schedule accountability
+Support proposals and bids
+Support external sub-contractors in development of articles to be delivered to the Boeing Company.
+The person in this position will report to the manager of RF Products in the Electronics Products organization. 
+
+ 
+
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.
+
+
+Division
+Space and Launch
+
+Relocation Assistance Available 
+Yes. Available for eligible candidates, if authorized.
+
+Qualifications 
+This position requires an active U.S. Security Clearance (SSBI or DoD TS), for which the U.S. Government requires U.S. Citizenship
+
+ 
+Typical Education & Experience:
+ 
+Degree and typical experience in engineering classification: Bachelor's and 5 or more years' experience, Master's degree with 3 or more years' experience or PhD degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+ 
+Basic Qualifications (Required Skills/ Experience):
+ A minimum of BS Physics, BS Mathematics or BS Electrical Engineering and 5 years of experience
+Low Noise Amplifier OR Solid State Power Amplifier Design experience
+Active SSBI or DoD TS clearance
+Preferred Qualifications (Desired Skills/Experience):
+
+ 
+
+Requirements and interface definition, design for test, hands-on testing, performance and design verification
+Production experience including resolving anomalies that occur during integration and test
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 25 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6B1EP3
+
+Software Engineer
+Apply
+Company The Boeing Company
+Job ID 1800082997
+Date posted 10/31/2018
+Location Saint Louis Missouri United States
+
+Job Description
+As a Software Engineer on this team you will embrace a common technical vision and develop software that will meet the product functional requirements and design constraints.  In this role you will be a self-directed member of development team and contribute to the design, implementation and testing of the product.
+ 
+The software we develop will monitor and assess aircraft fault data to provide flight deck and maintenance personnel with appropriate information for assessing the health of the aircraft.  There will be both on-board (semi-real-time to real-time) and off-board functionality to this software.
+ 
+Prior experience in developing software products in a complex system is critical to success in this role.  These software products will support both commercial and defense aircraft platforms.
+ 
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.
+
+Division
+Engineering Test and Tech
+
+Relocation Assistance Available 
+Yes. Available for eligible candidates, if authorized.
+
+Qualifications 
+This position requires the ability to obtain a US Security Clearance, for which the US Government requires US Citizenship.
+ 
+Basic Qualifications (Required Skills and Experience)
+The ability to obtain a U.S. Secret Security Clearance (post-start)
+Experience developing Large scale, complex software systems
+Desired Experience, Skills, and Qualifications
+Developing software architectures in a complex system
+Experience developing software in an agile environment
+Hands on experience developing software in C++ and/or Java
+Working with embedded, real-time software
+Experience working with web-based applications deployed in the cloud
+Willingness to work with a geographically dispersed team.
+Typical Education / Experience: 
+Degree and typical experience in engineering classification: Bachelor's and 5 or more years' experience, Master's degree with 3 or more years' experience or PhD degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6J7BP3
+
+Electrical Engineer
+Apply
+Job ID 1857
+Date posted 04/23/2018
+Location Cambridge MA
+
+Job Description
+We are seeking outstanding Electrical Engineers with experience from recent graduates to seasoned subject matter experts to help develop and test industry-leading avionics solutions for the unmanned aerial vehicle industry. Aurora is a highly collaborative environment in which you will work independently and as a member of cohesive cross-functional teams. As such, candidates must have excellent communication and organizational skills and the desire to take on new tasks and learn new techniques.
+
+Candidates must be a U.S. Person (U.S. Citizen or a Permanent Resident/Green Card Holder) and normally possess at least one of the following engineering degrees:
+
+Electrical
+Computer Hardware
+Physics
+Controls
+Candidates have a demonstrated interest in and will have a range of working knowledge of one or more of the following::
+
+Electrical and/or Computer Engineering
+Aviation and/or Unmanned Systems
+Avionics / Avionics Technician
+Military Vehicle Electronics or Equivalent Industrial Applications
+Designing Power, Control and RF Circuits for Vehicle Command and Control
+Technical Project Management Skills
+Unmanned Air Vehicle design
+Electric Propulsion Design
+Design aircraft solar power system applications
+Printed Circuit, Harness Design and Build
+Software Normally Include Knowledge of: DOORs, VESYS (Schematic Design tool), Altium PCB, 3D Design in CATIA and Solidworks, MS Office, Project and MS Visio
+If changing the future of aerospace is of interest and you are up to an incredible adventure, take the next step by applying to Aurora Flight Science.
+
+Aurora Flight Sciences is an Equal Opportunity Employer
+
+Electrical Engineer
+Apply
+Job ID 1972
+Date posted 09/18/2018
+Location Manassas VA
+
+Job Description
+ 	
+We are seeking outstanding Electrical Engineers with experience from recent graduates to seasoned subject matter experts to help develop and test industry-leading avionics solutions for the unmanned aerial vehicle industry. Aurora is a highly collaborative environment in which you will work independently and as a member of cohesive cross-functional teams. As such, candidates must have excellent communication and organizational skills and the desire to take on new tasks and learn new techniques.
+
+Candidates must be a U.S. Person (U.S. Citizen or a Permanent Resident/Green Card Holder) and normally possess at least one of the following engineering degrees:
+
+Electrical
+Computer Hardware
+Physics
+Controls
+Candidates have a demonstrated interest in and will have a range of working knowledge of one or more of the following::
+
+Electrical and/or Computer Engineering
+Aviation and/or Unmanned Systems
+Avionics / Avionics Technician
+Military Vehicle Electronics or Equivalent Industrial Applications
+Designing Power, Control and RF Circuits for Vehicle Command and Control
+Technical Project Management Skills
+Unmanned Air Vehicle design
+Electric Propulsion Design
+Design aircraft solar power system applications
+Printed Circuit, Harness Design and Build
+Software Normally Include Knowledge of: DOORs, VESYS (Schematic Design tool), Altium PCB, 3D Design in CATIA and Solidworks, MS Office, Project and MS Visio
+If changing the future of aerospace is of interest and you are up to an incredible adventure, take the next step by applying to Aurora Flight Science.
+
+Aurora Flight Sciences is an Equal Opportunity Employer
+
+
+Division
+Aurora Flight
+
+Software Engineer
+Apply
+Company The Boeing Company
+Job ID 1800077979
+Date posted 10/09/2018
+Location Saint Louis Missouri United States
+
+Job Description
+The Boeing Defense Mission Computing (DMC) team in St. Louis, MO produces the mission computing solutions for deploying multi-level secure, networked, open architecture embedded processing devices applicable to a wide variety of manned and unmanned airborne platforms across the Boeing suite of defense aircraft.  The Boeing DMC team is a large multi-discipline team working together to design, procure, and produce the hardware for the mission computers of the future.  The Boeing DMC team also produces the software architecture, software infrastructure, and software support tools for teams around Boeing to utilize this cutting edge avionics equipment.  The Boeing DMC team leverages its diverse program experiences and broad engineering expertise to develop rapid prototyping demonstrations for a wide variety of customers and potential customers.  This broad set of objectives and opportunities provides the DMC engineering workforce with a wide variety of experiences and opportunities to grow their career and technical expertise in the areas of their choice. 
+Due to many recent wins such as T-X, MQ-25, and the F/A-18 Block 3 upgrade, as well as many ongoing proprietary interactions, the Boeing DMC team is currently experiencing an exciting time of growth and expansion into new technology areas.  The DMC team is looking to hire motivated engineers with a desire to work on developing the mission computers of today and tomorrow.
+This position is for a software engineer to join the team.   A variety of roles to match interest are available including:
+Software infrastructure and device drivers for new embedded processors and hardware interfaces necessary to integrate the latest mission computing hardware components into the DMC software suite.
+Integration and test of control software using simulators and ground systems.
+The DMC software development environment is primarily C++ with a strong focus on object oriented designs, an open architecture approach, and a hands-on strategy for hardware integration and testing.  Candidates should have a strong programming background, a problem solving attitude, and a desire to work problems from design to hardware integration and test.
+Responsibilities:
+Responsible for full life-cycle development including requirements analysis, software architecture, design, coding, unit test, integration and formal qualification.
+Candidate should possess excellent communications skills to participate in design and code reviews, have a thorough understanding of version control and software quality attributes, such as testability, portability and maintainability, and enjoy a self-driven and collaborative development approach. 
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers.  Join us, and you can build something better for yourself, for our customers and for the world.
+
+Division
+Engineering Test and Tech
+
+Relocation Assistance Available 
+No. Relocation assistance is not a negotiable benefit.
+
+Qualifications 
+This position requires the ability to obtain a U.S. Security Clearance, for which the US Government requires US Citizenship.
+ 
+Basic Qualifications (Required Skills and Experience)
+Bachelor's and 5 or more years' experience, Master's degree with 3 or more years' experience or PhD degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+5 or more years of software development experience in C++ using object oriented design methods.
+Hands-on experience with VxWorks and/or Linux in an embedded environment.
+Hands-on experience with Microsoft Windows and Office
+Good interpersonal skills and good communication skills, both written and oral.
+Drive for continuous personal and organizational improvement
+Desired Experience, Skills, and Qualifications
+Experience with software tools such as Visual Studio, Eclipse, ClearCase, Git, BitBucket, Jira, Bamboo, Jenkins
+Experience with low-level software development, including driver creation and direct exercise of hardware interfaces.
+Experience with low-level software debugging tools including ICEs and protocol analyzers
+Experience with scripting languages such as Python and VBScript
+Knowledge and implementation of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6J7BP3
+
+Robotics Engineer
+Apply
+Job ID 2018
+Date posted 10/11/2018
+Location Cambridge MA
+
+Job Description
+Job Qualifications:
+
+Aurora Flight Sciences is a world-leader in developing robot hardware for new aerospace applications. We develop and apply state-of-the-art technologies in sensing, actuation, planning, design, and system verification & validation to bring innovative robot prototypes to life.
+
+Specific Responsibilities:
+
+The Robotics Engineer contributes to conceptualizing, designing, building, testing, and demonstrating robot prototypes, in dynamic simulation, controlled lab settings, hardware-in-the-loop aircraft simulations, and in flight on full-scale aircraft.
+
+Position is available for both hardware and software-oriented roboticists.
+
+Minimum Requirements:
+
+0 – 10 years experience.
+
+Must be a US Person (citizen or permanent resident)
+
+Candidates must have demonstrated interest and ability to design and build robots.
+
+Candidates must have excellence in at least one of the following, and a working knowledge or interest in a majority of the others:
+
+Real-time computation
+
+Power electronics
+
+Trajectory planning
+
+Electromechanical system design
+
+Machine vision
+
+Rapid prototyping
+
+Dynamic simulation
+
+Tactile sensing
+
+Math
+
+Low-level motor control
+
+Acceptance testing of physical robot hardware
+
+Real-time control of multi-DOF robots
+
+Software engineering
+
+Communication protocols
+
+Embedded systems
+
+Candidates should have a zeal for working on high-functioning and diverse teams and for making real systems work.
+
+Physical Requirements:
+
+Occasionally required to travel
+
+Shift Requirements:
+
+Occasionally required to work non-business hours to support experiments and travel to customer sites
+
+Aurora Flight Sciences is an Equal Opportunity Employer
+
+
+Division
+Aurora Flight
+
+Software Engineer
+Apply
+Company The Boeing Company
+Job ID 1800077979
+Date posted 10/09/2018
+Location Saint Louis Missouri United States
+
+Job Description
+The Boeing Defense Mission Computing (DMC) team in St. Louis, MO produces the mission computing solutions for deploying multi-level secure, networked, open architecture embedded processing devices applicable to a wide variety of manned and unmanned airborne platforms across the Boeing suite of defense aircraft.  The Boeing DMC team is a large multi-discipline team working together to design, procure, and produce the hardware for the mission computers of the future.  The Boeing DMC team also produces the software architecture, software infrastructure, and software support tools for teams around Boeing to utilize this cutting edge avionics equipment.  The Boeing DMC team leverages its diverse program experiences and broad engineering expertise to develop rapid prototyping demonstrations for a wide variety of customers and potential customers.  This broad set of objectives and opportunities provides the DMC engineering workforce with a wide variety of experiences and opportunities to grow their career and technical expertise in the areas of their choice. 
+Due to many recent wins such as T-X, MQ-25, and the F/A-18 Block 3 upgrade, as well as many ongoing proprietary interactions, the Boeing DMC team is currently experiencing an exciting time of growth and expansion into new technology areas.  The DMC team is looking to hire motivated engineers with a desire to work on developing the mission computers of today and tomorrow.
+This position is for a software engineer to join the team.   A variety of roles to match interest are available including:
+Software infrastructure and device drivers for new embedded processors and hardware interfaces necessary to integrate the latest mission computing hardware components into the DMC software suite.
+Integration and test of control software using simulators and ground systems.
+The DMC software development environment is primarily C++ with a strong focus on object oriented designs, an open architecture approach, and a hands-on strategy for hardware integration and testing.  Candidates should have a strong programming background, a problem solving attitude, and a desire to work problems from design to hardware integration and test.
+Responsibilities:
+Responsible for full life-cycle development including requirements analysis, software architecture, design, coding, unit test, integration and formal qualification.
+Candidate should possess excellent communications skills to participate in design and code reviews, have a thorough understanding of version control and software quality attributes, such as testability, portability and maintainability, and enjoy a self-driven and collaborative development approach. 
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers.  Join us, and you can build something better for yourself, for our customers and for the world.
+
+Division
+Engineering Test and Tech
+
+Relocation Assistance Available 
+No. Relocation assistance is not a negotiable benefit.
+
+Qualifications 
+This position requires the ability to obtain a U.S. Security Clearance, for which the US Government requires US Citizenship.
+ 
+Basic Qualifications (Required Skills and Experience)
+Bachelor's and 5 or more years' experience, Master's degree with 3 or more years' experience or PhD degree with experience. Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.
+5 or more years of software development experience in C++ using object oriented design methods.
+Hands-on experience with VxWorks and/or Linux in an embedded environment.
+Hands-on experience with Microsoft Windows and Office
+Good interpersonal skills and good communication skills, both written and oral.
+Drive for continuous personal and organizational improvement
+Desired Experience, Skills, and Qualifications
+Experience with software tools such as Visual Studio, Eclipse, ClearCase, Git, BitBucket, Jira, Bamboo, Jenkins
+Experience with low-level software development, including driver creation and direct exercise of hardware interfaces.
+Experience with low-level software debugging tools including ICEs and protocol analyzers
+Experience with scripting languages such as Python and VBScript
+Knowledge and implementation of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+
+
+Experience Level 
+Individual Contributor
+
+Job Type 
+Standard
+
+Travel 
+Yes, 10 % of the Time
+
+Contingent Upon Program Award 
+No
+
+Union 
+No
+
+Job Code 
+6J7BP3
