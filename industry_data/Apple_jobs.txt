@@ -1,0 +1,405 @@
+1) Design Verification Engineer - PHY
+
+San Diego, California, United States
+
+Hardware
+• 15+ years hands-on PHY verification experience with at least 3 in the capacity of a lead
+• Advanced knowledge of SystemC, TLM and Virtual prototyping, SystemVerilog and DV methodologies (problem solving, constrained random testing, SystemVerilog Assertion (SVA) and debugging).
+• Knowledge of wireless protocols such as Bluetooth, WLAN, or Zigbee a plus.
+• Should be a team player with excellent communication skills and the desire to take on diverse challenges.
+
+Description
+
+• Experience with DSP design verification (e.g. digital filter, modulation, demodulation, frequency estimation, channel estimation, amplitude gain control etc.)
+• Understand PHY layer pipeline design, data-path bit-matching concept against golden reference model (Matlab or C)
+• Experience with mixed signal simulation (ADC, DAC, Power Amplifier, LNA etc.) using RF behavior model and digital PHY’s RTL is a plus.
+• Understand verification methodology (UVM/OVM etc.)
+• Good understanding on C/C++/Python, experience with C modeling for design verification (DPI, etc.)
+• Be able to craft crisp test plans for PHY keeping key DSP concepts in mind
+• Be able to appropriately judge complexities of various PHY modules and overall data path
+• Be able to do hands-on TB, Test development, debug, provide guidance to the team by calling priorities appropriately
+• Have proven track record of delivering complex wireless chip with 0-spin tapeout success
+
+Education & Experience
+
+Must have MS in Electrical Engineering with Signal Processing background and work experience in a signal processing chips (WiFi, BT, 3G, LTE modem) in the capacity of team lead or Sr level DV Engineer.
+
+Additional Requirements
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant at http://www1.eeoc.gov/employers/upload/eeocselfprintposter.pdf (Opens in a new window) at http://www1.eeoc.gov/employers/upload/eeocselfprintposter.pdf .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html Learn more at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html (Opens in a new window) at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf guidelines at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf (opens in a new window) at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf applicable in your area.
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program at https://www.apple.com/jobs/pdf/EverifyPosterEnglish.pdf (Opens in a new window) at https://www.apple.com/jobs/pdf/EverifyPosterEnglish.pdf .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy at https://www.apple.com/jobs/us/accommodationdrugfree.html Learn more at https://www.apple.com/jobs/us/accommodationdrugfree.html (Opens in a new window) at https://www.apple.com/jobs/us/accommodation_drugfree.html
+
+2) Data Scientist 
+
+Summary
+
+Posted: Nov 1, 2018
+
+Role Number: 200007078
+
+At Apple Media Products (AMP) Analytics, we analyze large-scale data across customer and content provider touch points in order to develop metrics and deep insights to measure performance and drive strategy.
+
+Our culture is about getting things done iteratively and rapidly, with open feedback and debate along the away; we believe analytics is a team sport.
+
+We support independent decision-making and taking smart risks. AMP Analytics collaborates deeply with partners across product, design, engineering, and business teams: our mission is to drive innovation at Apple through deep quantitive research of the App Store, Apple Music, iTunes Video, iBooks, Podcasts amongst other services.
+
+Key Qualifications
+• 3 + years of recent experience in a data science or data analyst role.
+• Familiarity with measuring UX, customer engagement, planning and analyzing AB experiments.
+• Appropriate and well versed working with predictive and causal problems
+• A real passion for improving the customer experience through refining the product.
+• Excellent presentation, communication and social skills, with strong attention to detail.
+• Strong business mindset, possessing an ability to condense complex analysis and technical concepts into clear and concise takeaways for business leaders.
+• Ability to operate appropriately and effectively in a dynamic, highly cross-functional, fast-paced environment.
+• Excellent time management skills with the ability to lead work to tight deadlines and handle the pressure of product launches and executive requests.
+• Well-versed SQL languages. Experience with big data technologies such as Hadoop and Spark preferred.
+• Familiarity with Python or R and data visualization tools such as Tableau for full-stack data analysis, insight synthesis and presentation.
+• Ability to comprehensively understand data elements, sources and relationships in business and technical terms.
+• Strong familiarity with multiple platforms, tools, methodologies in data analysis and insight synthesis.
+
+Description
+
+You will play a key role improving the AMP commerce engine. As a member of this team you will help optimize the engine by developing new products and tuning existing features. A few areas your work will influence include account and payment creation flows, transaction efficiency and authorizations, and subscription management and renewals.
+
+Your Day to Day Activities will Include: Deep dives in large-scale data to identify key insights that inform product improvements and business strategy. Supervised and unsupervised learning. A/B testing and causal modeling. Define how best to measure and monitor commerce products and features. Engage with business, engineering, product management teams as a thought partner. Build and maintain positive relationships with key partners across the company to successfully deliver actionable insights. Partner with other Apple organizations on data gathering, data governance, democratizing data with reporting tools and evangelizing critical metrics.
+
+Education & Experience
+
+Master’s degree in Economics, Statistics, Computer Science, Mathematics or relevant field
+
+3)
+Summary
+
+Posted: Sep 11, 2018
+
+Weekly Hours: 40
+
+Role Number: 114269884
+
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Key Qualifications
+• Detail-oriented and self-driven.
+• Excellent oral & written communication skills and interpersonal skills.
+• Excellent programming, debugging and problem solving skills ( C, C++, Objective-C ).
+• Excellent knowledge and experience of computer vision and machine learning
+• Experience performance tuning on embedded architectures.
+• Experience developing embedded image and video processing solutions.
+• You have excellent judgment and integrity with the ability to make timely and sound decisions
+• You have an ability to stay focused and prioritize a heavy workload while achieving extraordinary quality
+• You are upbeat, adaptable, and results oriented with a positive attitude
+
+Description
+
+The Interactive Media Group is looking for a highly skilled and innovative engineer who is up to playing a key role in delivering state of the art embedded video coding and processing technologies. We're looking for a teammate with proven success in delivering products. You will be a critical part of a dynamic team, and have thrive in a high energy, time constrained, multitasking environment.
+
+Education & Experience
+
+MS Computer Science or MS Electrical Engineering or equivalent
+
+4) Hardware engineer
+
+Summary
+
+Posted: Oct 30, 2018
+
+Role Number: 200005419
+
+Are you passionate about building world class video products? Do you have experience architecting products such as Blu-Ray players, televisions, video switchers, set-top boxes, or hardware video processors? Do you deeply understand the architecture of these designs? If so, then we have the perfect role for you. The Apple TV system integration team is looking for exceptional senior electrical engineers to complement our world-class engineering team. In this role, he/she will contribute their deep understanding of video engineering to drive silicon decisions, provide technical leadership in architecting video based products, develop robust and scalable schematics, provide technical guidance during layout, teach and mentor junior engineers, and collaborate with a vast cross-functional team to deliver the worlds best, most optimized, designs.
+
+Key Qualifications
+• Do you have 10+ years overall experience developing products as a system integrator?
+• You have architectural knowledge of video based product design and strong EE fundamentals with an interest in teaching junior engineers.
+• Does your experience include ASIC or SOC architectures, specifically with HW video encoders/decoders, video pipelines, display pipelines, multi-image blending strategies, CPU, and GPU?
+• You have been a hardware and software architectures for video processing including color space conversion, scaling, frame rate conversion, noise reduction, blending, and more.
+• Your strong verbal and written communication skills give you an ability to work cross-functionally and collaborate in our flat organization.
+• Must have deep electrical and protocol knowledge of current and emerging DisplayPort and HDMI standards, and their supporting specifications (including, but not limited to CTA-861, VESA E-EDID, E-DDC, DisplayID, and CVT, etc.)
+• Experience with leading architecture, electrical design, and characterization of the following areas: DisplayPort, Embedded DisplayPort (eDP), HDMI1.4b and HDMI2.0b, S/PDIF, ARC, USB-C, I2S, DDR3/4, LPDDR3/4/4x, PCIe gen1/2/3, USB2/3, parallel-NAND, eMMC, I2C/SPI/UART buses, and power
+• Your hands-on experience in prototype bring-up and debugging, functional verification and manufacturing support, as it relates to video products.
+• Must have experience designing high volume products from beginning to end
+• Expertise in board CAD tools, preferably Concept & Allegro
+• Expert with High-Definition Content Protection (HDCP) is much preferred
+• Expertise in signal integrity and simulation is our preference
+• Expert in RF design for BT, BTLE, and WLAN is preferred
+• Expertise in DC/DC power design is preferred
+• Proficiency in use of oscilloscopes, logic and protocol analyzers
+
+Description
+
+As a member of our team, you will contribute to every aspect of system engineering. You will apply your engineering expertise and work with cross-functional teams to realize products that consumers will love. You will solve challenging engineering problems by selecting components, designing schematics, directing layout, and bringing-up/debugging circuits in the lab. You will collaborate with a large number of groups including PD, DFM, RF Design, OPS, Software, HW Test, etc. to bring a product from concept to mass production. You will define and influence custom, future silicon. You will go beyond the industry norm and demonstrate creativity in problem solving, ability to think dynamically and outside of standard convention, and adapt quickly to new technical areas. You will provide mentorship and technical leadership to our engineers. Occasional travel internationally to work with our manufacturing partners is expected.
+
+Education & Experience
+
+B.S., M.S., or PhD in Electrical or Computer Engineering with relevant experience
+5) Security Ops engineer
+
+Summary
+
+Posted: Nov 14, 2018
+
+Weekly Hours: 40
+
+Role Number: 200009843
+
+Software Engineering Operations (SEO) is seeking an experienced DevOps or systems engineer to join our team and tackle security projects. SEO is a diverse group of system engineers that collaborate with build and software engineering to provide systems and services that form the foundation of the build system that is responsible for assembling Apple’s software products. This role will have a wide range of responsibilities. From configuration management changes to implement security fixes, working with internal teams on migrations to secure platforms, to responding to reported vulnerabilities. The environment is fast paced, requiring an ability to work autonomously and to manage aggressive delivery schedules. Suitable candidates should have excellent problem solving skills and passion to improve existing process and systems. The right mix of technical, organizational, and communication skills is key to success Attention to detail and a proven ability to manage priorities are essential.
+
+Key Qualifications
+• Extensive hands-on knowledge of system administration and Linux/UNIX operating systems in a large environment
+• Knowledge of IT security principles, techniques and technologies
+• Interest in IT security, network and server administration technologies
+• Experience in a high-level programming language, and small-scale tool development
+• Experience in usage of configuration management tools such as Puppet, Chef, or SaltStack
+• Deftness to handle multiple simultaneous competing priorities and deliver solutions in a timely manner
+• Great written and verbal communication skills; ability to create procedures and document processes
+
+Description
+
+Specific responsibilities will include
+• Work closely with internal security and provide technical leadership to customer teams - Hardening of network, software, and operating systems - Help determine best solutions and drive resolution for security problems - Evaluate and recommend new and emerging security products and technologies - Stay informed of new and emerging threats and evaluate their impact to the organization - Assessment and deployment of open source technologies with the goal of "working smarter, not harder"
+
+Preferred Experience
+• Knowledge of networking protocols and technologies, e.g. TCP/IP, firewalls, routers, etc. - Knowledge of operational security tools and practices (e.g. IDS, firewalls, & 3rd-party security products) - VMware and KVM hypervisor experience - RHEL/Centos/OracleLinux experience - OpenStack/Mesos or similar cloud architecture experience -Familiarity with macOS operating system
+
+Education & Experience
+
+Additional Requirements
+
+6) Camera Software Imaging Scientist
+
+Summary
+
+Posted: Jun 1, 2018
+
+Weekly Hours: 40
+
+Role Number: 113309538
+
+The Image Processing team is responsible for delivering state of the art solutions to resolve difficult problems in digital photography. We are searching for someone who is passionate about using mathematics, signal processing, statistics, and machine learning for devising new innovative ways to digital camera image processing.
+
+Key Qualifications
+• Recognized expertise in digital imaging using advanced statistics, machine learning, and/or computer vision concepts.
+• Proven analytical skills, excellent mathematical background, and ability to communicate effectively.
+• Technical publication record is desirable.
+• Proficiency with C/C++ development and Matlab is essential.
+
+Description
+
+The Image Processing team is seeking scientists who are passionate about working without constraints in digital photography. You will be part of a team of driven engineers and scientists who are passionate about solving some of the difficult challenges in image processing. As an imaging scientist, you will be responsible for developing advanced algorithms for restoring and enhancing images. You will bring experience and know how in various learning architectures — deep networks and other supervised learning methodologies — as well as understanding of their application to image restoration problems such as noise reduction, demosaicking, tone mapping, super-resolution, etc. Your experience will define and develop a framework for solving challenging problems. We interact with other groups at Apple to facilitate optimization and implementation of the Image Processing team’s ideas. You will have the unique opportunity of impacting Apple’s imaging products that will be used by millions worldwide.
+
+Education & Experience
+
+A Master's degree in electrical engineering, computer science, or applied mathematics with a minimum of 5 years related engineering experience is required. Ph.D. is highly preferred.
+
+Additional Requirements
+• Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants
+
+7)
+Summary
+
+Posted: Nov 8, 2018
+
+Weekly Hours: 40
+
+Role Number: 200004298
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+The Safari and WebKit team is looking for a QA Engineer to help deliver the next generation Safari browser to customers on iOS, macOS and watchOS. We're looking for critical thinkers to play a key role qualifying Safari software releases and ensuring a high-quality customer experience.
+
+Key Qualifications
+• Experience with QA methodologies.
+• Ability to think creatively.
+• Strong attention to detail.
+• Comfortable and adaptable in a fast-paced software development environment.
+• Knowledge of Python or other scripting languages.
+• Familiarity in test automation environments.
+
+Description
+• As a Software QA Engineer on the Safari and WebKit team, you will be responsible for user-focused testing of the Safari browser as well as uses of the WebKit framework in products such as iTunes, News, Mail, and Messages. - Responsible for planning, designing, maintaining and executing test cases. - Work to identify, reproduce and isolate bugs found through concise bug reporting. - Excellent communication skills are a requirement, because of the high level of interaction with the engineering teams, management, other organizations within Apple, as well as the larger developer community. - We're looking for a highly technical, detail-oriented, creative, motivated, candidate who is focused on achieving results.
+
+Education & Experience
+
+BS in Computer Science or equivalent
+
+8)
+ummary
+
+Posted: Oct 23, 2018
+
+Weekly Hours: 40
+
+Role Number: 113545768
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+As a member of the Network Services software development team you will build tools to organize, visualize, and analyze network related metrics and data from our global IP network deployment.
+
+Key Qualifications
+• 5+ years of Javascript experience
+• Knowledge of modern JS frameworks (React experience is a plus) or visualization tools (D3.js or others).
+• Competent JavaScript programmer who doesn’t need to rely on libraries to accomplish innovative interactions.
+• Understanding of all major browsers and the special considerations required for all various quirks.
+• Aware of the interplay between JavaScript and HTML & CSS, and can dynamically build, modify, and style element on a page with ease.
+• Able to communicate technical issues with non-technical users.
+• Ability to multi-task and run tasks with varying priorities.
+
+Description
+
+Come help us build the next generation of network management and monitoring systems at Apple. Our global networks support services like iTunes, iCloud, Siri, and Maps, as well as everything from Retail Store Genius bars to production lines around the world. The software and systems you build will ensure that every packet makes its destination, and that network operations engineers can sleep at night. We support both open source and homegrown technologies to provide everything from basic inventory collection to sophisticated event correlation and traffic analysis, to network configuration management.
+
+Education & Experience
+
+Technical degree or equivalent industry experience.
+
+Additional Requirements
+• Successful completion of a pre-employment assessment, background check and drug screen
+
+8)
+Summary
+
+Posted: Nov 16, 2018
+
+Weekly Hours: 40
+
+Role Number: 200009156
+
+As an Estimation Scientist pursuing special projects within the Location Services team, you will be part of an elite group investigating new technologies and how they can transform the lives of our users. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to physical and theoretical limits.
+
+Shape the next generation of location-aware mobile experiences by working on state-of-the-art technologies to seamlessly integrate people’s digital and physical lives. If you're passionate about building technology that will make a difference, we may be the team for you.
+
+Key Qualifications
+• Strong theoretical and practical understanding of estimation, especially as it applies to device location (e.g. Kalman filter, particle filter)
+• Strong software developer with high proficiency in C or C++
+• Good understanding of RF and location signal processing techniques, e.g. ranging, TOA, RTT, PDOA, and TDOA
+• Ability to prototype systems for technology evaluation, algorithm development, and error modeling
+• Experience with data analysis and error modeling
+• Good collaboration skills
+• Knowledge of software design paradigms and software development best practices
+• Knows how to debug complex systems
+• Strong creative problem solving skills
+• A passion for developing new technologies
+• Understanding of radar a plus
+• iOS, OS X, application, and/or unix system development a plus
+
+Description
+
+Join a team which designs, implements, and powers brand new technologies and services on the world's fastest-growing mobile development platform. We are looking for a highly-motivated and creative estimation scientist with an understanding of RF-based location technologies and related fields (RF ranging and angle-of-arrival techniques, estimation theory, proximity detection, GNSS, error modeling).
+
+Develop estimation strategies and software to investigate new technologies, fuse with existing capabilities, and enable new classes of capabilities and user experience. Invent and design systems to solve interesting problems in RF ranging, angle-of-arrival, GNSS, WiFi/Cell, indoor positioning, iBeacon, location-based reminders, inertial sensor fusion, dead reckoning, crowd-sourced analytics, and other location-related technologies.
+
+Education & Experience
+
+Minimum requirements: MS or PhD in relevant location or estimation field (angle-of-arrival, WiFi, GPS/GNSS, Bayesian estimation, Computer Science, etc, or related field)
+
+Additional Requirements
+• Interested in creating new technologies and solving the algorithmic challenges that come with it.
+• Desire to be exposed to all aspects of development; prototyping, planning, designing, productizing, launching, and scaling.
+• Thrive in a collaborative environment and communicate effectively.
+• Obsessively passionate and inquisitive, and seek to solve everyday problems in innovative ways.
+• Laser-focused on the smallest details that are meaningful to our customers
+
+9)
+ummary
+
+Posted: Oct 2, 2018
+
+Weekly Hours: 40
+
+Role Number: 114253020
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+The Fraud, Engineering, Algorithms and Risk group is responsible for combating fraud and abuse for Internet Software and Services at Apple. In this role, you will be tasked with building mission-critical, robust and scalable distributed systems that can keep pace with data across a number of high-profile and large-volume Apple cloud properties. You will chip in to building the next-generation libraries, platforms, and data pipelines to empower us to rapidly build and deploy complex models to production.
+
+Key Qualifications
+• MS or BS in Computer Science or related field
+• 3 or more years experience building large-scale distributed systems
+• Exceptional analytical and programming skills
+• Experience in Scala or Java
+• Superior knowledge with at least two of the following: Spark, MapReduce, HDFS, Cassandra, Kafka
+
+Description
+
+We engineer high-quality, scalable and resilient distributed systems that power data exploration, model building and production models. Our core systems need to work seamlessly across different execution contexts (real-time, near real-time and batch) You will support diverse data analytics stacks such as Spark, Hadoop, Kafka, Cassandra and beyond.
+
+We work at an unusual intersection of huge data volumes and adversaries that are continuously adapting, which means we are operating at and beyond the limits of conventional alternative data systems. On our team you can be sure that every commit you make will come with the satisfaction that you are helping protect and improve the user experience of hundreds of millions of users.
+
+This role requires in-depth knowledge with cutting-edge data analytics technologies. Tuning, troubleshooting and scaling these big data technologies are a key part of our work, where having a curiosity with the internal workings of these systems is key to being successful. This is a hard-core software engineering role, where a large part of an engineer's time is spent writing code with the remainder being spent on designing and architecting systems, tuning and debugging alternative data systems, supporting production systems and supporting our data scientists.
+
+Education & Experience
+
+BS in Math, Computer Science, or equivalent experience
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants
+
+10) ML Engineer
+Summary
+
+Posted: Oct 30, 2018
+
+Weekly Hours: 40
+
+Role Number: 113060632
+
+Picture yourself working on cutting-edge technologies that drive on-device intelligence at Apple. Our Input and Intelligence team owns critical technologies on the OS that power auto-correction, predictive typing, photos search, emoji prediction, and smart responses. We provide all of the fundamental text processing (language identification, tokenization, tagging, etc.) functionalities on Apple platforms and support the NLP behind CreateML and CoreML. We are looking for a machine learning engineer who is passionate about designing and writing optimized ML software for Apple's best in class devices. This role allows you to be a highly multi-functional engineer who partners with our Keyboards, Camera & Photos, CoreOS and CPU/GPU teams. To thrive in this position you will need strong math fundamentals, software engineering experience and exposure to deep learning tools are pertinent to this role.
+
+Key Qualifications
+• Hands-on experience with machine learning and solid math fundamentals
+• Strong object-oriented C++ experience and design skills
+• Experience writing high performance/memory efficient code for machine learning
+• Deep understanding of algorithms, data structures, and coding standards
+• Excellent communication and organizational skills
+
+Description
+
+Join the Input and Intelligence team that is responsible for on-device text processing across all Apple platforms. As a member of this premier team, you will work on the intersection of software engineering, natural language processing, and machine learning. The position requires proven hands-on machine learning experience in conjunction with software engineering. The role spans the entire gamut of machine learning: empirical experimentation, productizing ML algorithms for Apple and working on concrete user-facing features that harness the ML software stack. This role has plenty of opportunities for collaboration with several engineering teams at Apple that work on machine learning algorithms for first party and third party applications.
+
+To learn more about what our team works on watch our WWDC sessions: https://developer.apple.com/videos/play/wwdc2018/713/ https://developer.apple.com/videos/play/wwdc2017/208/
+
+Education & Experience
+
+Master's or Ph.D. in Computer Science, Computational Linguist or a related field
+
+Additional Requirements
+• - Experience with Natural Language Processing (NLP) is a plus
+
+11)Summary
+
+Posted: Jul 2, 2018
+
+Weekly Hours: 40
+
+Role Number: 113437668
+
+The team is now seeking a top-notch and dedicated GPU driver Engineer who is passionate about creating great innovative products, and has a strong track record of building high performance and production quality software on an aggressive schedule.
+
+Key Qualifications
+• Excellent programming skills and knowledge of C/C++.
+• User mode or kernel mode device driver development experience.
+• Excellent debugging skills (lldb, gdb) and capability to dive into different layers of the driver and macOS stack.
+• Experience with 3D Graphics and any GPU programming APIs like Metal, OpenGL, OpenCL, Vulkan, D3D.
+• Experience with driver, low-level programming or operating system development.
+• Excellent analytical and problem solving skills.
+• Strong communication and a good team player.
+
+Description
+
+The ideal candidate will have 3 plus years with the following skills and experience or a fresh graduate with interest in graphics. - Work on the driver team to implement performance-focused Metal features for current and next generation macOS platforms. - Work closely with the HW Architecture team to provide feedback on performance of HW roadmap as well as cross-platform architecture comparison across products. - Debug performance issues across the GPU stack, identify and develop performance optimizations within the GPU driver and across the stack. - Work with Metal Ecosystem team to collaborate with external developers on best practices with the Metal API for optimized performance in their apps. - Develop internal tools for performance analysis.
+
+Education & Experience
+
+Technical BS/MS degree
+
+Additional Requirements
+• Knowledge of GPU architectures and 3D Graphics pipeline
+• Experience analyzing performance of 3D applications
+• Knowledge of performance strengths and deficiencies of different HW architectures is a plus

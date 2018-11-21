@@ -1,0 +1,405 @@
+1) Compiler Enginnering
+
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+AMD Radeon Open Compute Group is looking to hire a world class Compiler Engineer to work in a talented and motivated team of great engineers. As a senior member of team, you will be responsible for design and implementation of significant parts of the HCC C compiler in CLANG and LLVM. You will get a chance to tackle several interesting and challenging problems working on compilers for cutting-edge GPU technologies.
+
+Requirements:
+• BS in Computer Science, Electrical Engineering, or Math + 5-7 years or MS + 3-5 years or PhD + 1 year
+• Strong background in compilers.
+• Strong C/C++ programming skills.
+• Experience with wide variety of aspects of compiler and parallel programming languages including:
+• Code optimizations,
+• Data flow analysis,
+• Code generation and building a good compiler framework.
+• LLVM experience
+• Good understanding of programming languages
+• Parallel Programming Models, Languages and Runtime Systems
+
+#LI-JG1
+
+Requisition Number: 64685
+
+Country: United States State: California City: San Diego
+
+Job Function: Software Engineering
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+2)
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+Do you think differently about security issues than a typical developer? Do you like to break technology in novel ways? Do you like finding alternative uses for technology? Do you like causing mischief among the product security community?
+
+AMD Product Security is expanding its Product Security Incident Response Team (PSIRT) and Security Red Teams. AMD responds to security incidents in collaboration with industry peers, partners, customers, and other PSIRT teams. In addition, AMD invests in finding security issues ahead of delivery to market through a security Red Team.
+
+This is an opportunity to harden AMD’s expanding presence in server, laptops, game systems, and others and to participate in general security mischief within the AMD product development community.
+
+The Role:
+
+Strong to desire to participate in global product security along side researchers, peers, partners, and customers
+
+Work closely with product teams to drive security mitigations into customer products
+
+Respond to security issues rumored or real that affect AMD products.
+
+Contributes to the development of product strategy and provides technical leadership in the development of new products, processes or technologies in support of this strategy.
+
+The Person:
+
+Knowledge of computer architecture especially an in-depth knowledge of security exploitable components
+
+Strong programming skills, especially in C/C++
+
+Strong communication skills (verbal and written)
+
+Strong desire to break through security constructs
+
+Strong desire to “break things” and find security issues ahead of researchers.
+
+Ability to communicate with security researchers and industry PSIRTs
+
+Directly impact the security of products in development by finding security issues before others.
+
+Engage with peers, partners, customers, and industry peers on security issues, with a timely response
+
+Participate in architecture reviews with the Product Security Office
+
+Contribute to AMD’s global security presence via web sites, blogs, white papers, seminars, consortiums, and conferences.
+
+EDUCATION:
+
+BS + 5-7 years or MS + 3-5 years or PhD + 1 year.
+
+#LI-MK2
+
+Requisition Number: 66867
+
+Country: United States State: California City: San Diego
+
+Job Function: Software Engineering
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information.
+
+Nearest Major Market: San Diego
+
+3)
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+Job Description
+
+As a Senior Design Engineer, you will work closely with mixed signal IP DFT and Verification teams to develop state of the art mixed signal Phy IP. You will work with both DFT and verification teams to quantify the structural test qualify of the IP and take it to desired level. You will work to drive innovation as by tackling challenging problems for the latest mixed signal IPs on latest technology nodes. As a Senior Design Engineer, you will quantify the structural test coverage for the high speed SERDES IPs using commercial fault simulator tools
+
+Qualifications
+
+The successful candidate's minimum qualifications will include the following:
+
+o BSEE or MSEE with min 3 years of verification or DFT experience
+
+o Experience with high-speed SERDES, such as PCIe Phy is desirable
+
+o Strong background in Design-for-Test concepts, System Verilog, VMM/UVM and C/C++
+
+o Experience with Verilog and System Verilog design of complex IP blocks working with high speed design
+
+o Experience on verifying design-for-test DFT logic is desirable
+
+o Experience with Synopsys Z01X tool is desirable
+• LI-AP1
+
+Requisition Number: 67894
+
+Country: United States State: California City: Santa Clara
+
+Job Function: Design
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+4)
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+The successful candidate will play a key role in AMD’s Wireless IP team to design, test and bring high quality wireless ICs to production.
+
+Job Description
+• Design and/or lead a chain of RF transceiver building blocks in deep sub-micron CMOS process. This includes developing various calibration schemes and verifying the design to ensure robust performance for high-volume production.
+• Collaborate with various design teams (applications, system, software, baseband, digital) to define/review circuit and calibration design specifications.
+• Perform reviews on circuit topologies, schematic design, post-layout simulation and verification plan.
+• Layout critical blocks and/or supervise layout.
+• Conduct lab measurement and debug, root cause analysis and design-vs-silicon correlation.
+• Provide support for tape-out verification and production.
+
+Job Requirements
+• Minimum MSEE with 5+ years of relevant industry experience or Ph.D. with 2+ years of relevant industry experience. Candidates with significantly more experience can be considered for PMTS.
+• Hands-on experience in designing various mmWave/RF integrated circuits such as PA, LNA, Mixer, RF VGAs, Phase Shifters, Transformers, Combiners/Splitters, Frequency Dividers, VCO, PLL and LO Distribution circuits, etc., in deep submicron technologies.
+• Able to comprehend RF transceiver system requirements and translate them into circuit level specifications.
+• Deep understanding of mmWave/RFIC circuit design, sub-micron CMOS device physics and modeling, transmission lines, RF inductors/transformer/capacitor/resistor modeling, impedance matching, packaging effects, supply isolations and RF layout techniques.
+• Familiar with IC design CAD tools such as Spectre, SpectreRF, ADS, EMX, HFSS, Virtuoso Layout, Calibre DRC/LVS/PEX, Matlab and Verilog.
+• Direct experience in IC bring up, debug and characterization using RF lab equipment and/or wafer probe tools.
+• Excellent problem solving and analytical skills, good communication skills and a strong team player.
+• Experience with wireless consumer electronics products using WiFi/WiGig/BT/Cellular is preferred.
+• Local and international travel may be required.
+
+#LI-DD1
+
+Requisition Number: 67623
+
+Country: United States State: California City: Santa Clara
+
+Job Function: Design
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+5)
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+Advanced Micro Devices, Inc. (AMD) (NYSE: AMD) is an innovative technology company dedicated to collaborating with customers and technology partners to ignite the next generation of computing and graphics solutions at work, home and play.
+If you have a passion for excellence and a drive to achieve, you belong at AMD. Our employees work hard, have fun, and thrive on success. We meet the challenges of an evolving marketplace by staying true to our corporate values, including an unwavering respect for individuals and a focus on retaining superior employees.
+PRIMARY PURPOSE:
+Provide technical expertise for execution on the functional verification strategy for next generation microprocessor designs. Maintain and enhance existing functional verification methodology. Improve existing infrastructure. Work on related projects and/or assignments as needed, to meet team goals. Perform project definition, training and documentation. Develop quality, timely and cost effective solutions independently. Interface with architects and TG/PG RTL/Designers. Develop an effective working relationship with parties involved.
+KEY JOB FUNCTIONS:
+Perform Functional and Design for Test feature verification of high speed Microprocessor designs, including development of infrastructure, directed and random test suites at behavioral RTL and gate design levels across SoC, Core and block hierarchies.
+Develop environments, infrastructure and test plans to accommodate both full chip and stand alone block level verification and debug capabilities using simulation tools, debug tools and programming skills, based on in-depth understanding of the architecture and HDL/logical design of the microprocessor.
+Participate in development of formal verification techniques.
+Develop an automated regression infrastructure setup for functional verification of high speed microprocessor designs.
+Based on thorough understanding of the design architecture, develop, run and debug x86 assembly based directed tests and random exercisers to validate functionality and testability operation of the microprocessor design leveraging C/C++/Perl/assembly programming, logic design and simulation skill set. Resolve all simulation discrepancies and assertion responses for both behavioral and gate level logic models.
+Measure and analyze coverage terms, address exposed weaknesses to meet design/project quality objectives.
+Develop infrastructure for pattern generation used in post silicon device validation and characterization. When presented with post-silicon issues, replicate design responses using pre-silicon infrastructure and provide debug expertise to ensure complete validation and characterization success.
+Drive project deliverables/dependencies with cross-discipline/site RTL, DFT and Implementation design teams along with product manufacturing teams.
+Demonstrated expertise with Verilog HDL. Proven programming proficiency in x86 assembly, C/C++ and Perl languages along with strong logic simulation competence.
+
+Demonstrated solid understanding of modern computer architecture including thorough DFT feature knowledge with JTAG -1149.x, Memory, Logic and I/O Built-In-Self-Test(BIST) and Scan design(LSSD/MuxD) structures and protocol.
+Familiarity with CMOS transistor design and deep sub-micron logic and memory fault models, including fault simulation techniques.
+Prior experience with verification techniques of microprocessors/ASIC designs desired but not required.
+EDUCATION :
+BS in EE/CE
+At AMD, we are committed to equal employment opportunity. AMD does not accept resumes from headhunters, placement agencies or other suppliers that have not signed a formal agreement with us. Our supplier base is restricted to specified hiring needs. Therefore, any resume received from an unapproved supplier will be considered unsolicited, and AMD will not be obligated to pay a referral or placement fee
+
+6)
+What You Do At AMD Changes Everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+Summary
+• Drive GPU/APU program’s power constrained performance achievement execution.
+
+Responsibilities Will Include One Or More Of The Following
+• Use power and performance model results to forecast relative performance vs power.
+• Evaluate IP/SOC capabilities, power features, platform and software for power efficiency and improvement opportunities
+• Identify and drive key improvements through the execution process in collaboration with partner organizations
+• Track simulation and/or emulation results and correlate with model predictions.
+• Track post silicon performance bring up and debug of new silicon, with and without power constraints and power management features fully enabled.
+• Analyze results and possible causes for underperforming.
+• Coordinate corrective actions activity
+
+Requirements
+• Prior silicon power analysis and/or optimization experience.
+• Deep power management and silicon product optimization experience
+• Pre-silicon and/or post silicon debug experience.
+• B.S. with more than 15 years of applicable experience, M.S. with more than 12 years of applicable experience.
+• Strong communication skills
+
+Requisition Number: 70845
+Country: United States State: Colorado City: Ft Collins
+Job Function: Design
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+7)
+What You Do At AMD Changes Everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+We are looking for a graphics software developer with experience in programming and debugging graphics applications. Candidate should have a strong understanding of computer graphics concepts and familiarity with at least one graphics programming API Experience with graphics driver development on Windows or Linux is a plus.
+
+The engineer will be involved in the development, debugging, bringup, and performance tuning of new graphics hardware. The position will involve interfacing with hardware design engineers and architects, OS engineers and peers in related development teams. The individual will be a member of a team where communication and team skills are highly valued.
+
+Skills
+• Advanced C and C++ programming experience.
+• Mastery of 3d graphics concepts and graphics application development experience.
+• D3D or OpenGL graphics API knowledge and development experience.
+Requisition Number: 68855
+Country: United States State: California City: Santa Clara
+Job Function: Design
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+8)
+What You Do At AMD Changes Everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+The AMD Game Engineering team works closely with external games software developers and publishers to create some of the best games on the planet. We help them to fully exploit the technical capabilities of AMD's hardware products. Our aim is to raise the standards for gaming graphics and performance and we do everything in our power to make the user understand why they were right to buy AMD.
+
+The Successful Candidate Will
+• Work with the external game development partners of AMD to enable them to produce their applications as efficiently as possible.
+• Optimize game and application performance for discrete GPUs, APUs and CPUs.
+• Design and implement rendering effects using established APIs such as Vulkan and/or DirectX 12
+• Integrate features into game titles
+The ideal candidate is a highly-skilled software designer and engineer, strong in 3D math, fluent in C and C++ and the efficient use of discrete GPUs, APUs, and CPUs. You're team-driven and motivated to do things others might find too difficult.
+
+Minimum Requirements
+• At least 3 years of full-time (post grad) experience efficiently creating C/C++ game code for Windows and knows all about data structures, design patterns, language features, standard libraries and writing easy-to-understand code.
+• Has practical hands-on experience with Vulkan and DirectX-class development tools and techniques.
+• Has strong graphics code optimization skills, in particular shader code optimizations.
+• Understands that requirements are rarely perfect and is willing to extract the spirit of the requirement to make the system or software better.
+• Has a degree in computer science or a related technical discipline, or the equivalent.
+• Has excellent written and verbal skills.
+• Is willing to travel domestically and internationally on a regular basis.
+The Following Experiences Are Optional But Highly Desired
+• GCN graphics architecture experience.
+• Experience with DirectX 12 or Vulkan graphics APIs.
+• Familiarity with Virtual Reality concepts and programming
+Requisition Number: 65227
+Country: United States State: Florida City: Orlando
+Job Function: Software Engineering
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+9)What You Do At AMD Changes Everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+The Primary Role Of This Position Is
+
+Working with a mentor, debug and manage manufacturing and characterization test programs for next-generation AMD microprocessors. Work on Automated Test Equipment (ATE) or System Level Test (SLT) platforms. Debug test infrastructure issues including test HW, test SW, and device-specific IP. Engineer must ensure overall compatibility, compliance, and test coverage of microprocessors by developing product specific test hardware, software and diagnostics.
+
+Potential Roles Of a Co-op Engineer Include
+• Development and implementation of test programs to test and analyze AMD products.
+• Develops test requirements and specifications.
+• Performs logic and circuit design verification via software and hardware.
+• Works with product engineering, characterization and platform debug teams to define and debug existing and new products.
+• Debugs test infrastructure issues in hardware, software, device, or manufacturing flow domains.
+• Support product improvement activities including driving cost reduction and yield improvement initiatives and resolving quality issues.
+• Works on related projects and/or assignments as needed.
+
+Qualifications
+
+Years of experience and education: Candidate must be enrolled in a Bachelor's degree program in Computer Science, Computer Engineering, or Electrical Engineering and capable of completing two co-op terms prior to graduation. MS and PHD candidates will not be considered.
+
+Required Skills
+• Good written and verbal communication skills.
+• Courses in Computer Science, Software Engineering, Digital Logic, Circuit Theory.
+• Familiar with Linux or Unix Operating Systems.
+• Familiar with Microsoft standard apps (i.e. Office), Microsoft Windows Operating Systems.
+
+Preferred Skills
+• Familiar with high level software programming languages (C++, Java, C, C#).
+• Familiar with a scripting language (Perl, Ruby, shell script, or similar).
+• Familiar with revision control (GIT, SVN, CVS, RCS or similar).
+• Familiar with XP, AGILE, Scrum, or Kanban programming paradigms.
+• Familiar with logic analyzers, voltmeters, oscilloscopes, and other debug tools.
+Experience as a leader in roles held through a job or extracurricular activities.
+
+Requisition Number: 68963
+Country: United States State: Texas City: Austin
+Job Function: Student/ Intern/ Temp
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+10)
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+As a Software Engineer in the Server Operating Systems team you must understand the x86-64 architecture and the operating system concepts designed for this architecture. A component of your job function will be to communicate core CPU and SOC features, and reference board functionality to our operating systems and virtualization partner technical teams. You must be familiar with the virtualization extensions of x86-64 and be able to support the enterprise virtualization solutions offered by our partner companies. You will guide them through the process of AMD hardware enablement for new generation CPUs. You will be responsible for providing responsive and effective solutions that bring new AMD processors to market with enterprise virtualization solutions. As a senior member of the team, you will also be responsible for code reviews, creating unit tests, authoring detailed documentation related to your work, and working with on-site and off-shore teams to deliver the software solutions on schedule. You will be involved in all phases of the software development including system requirement analysis and coordinating feature design and development with other departments.
+
+REQUIREMENTS:
+• Advanced programming skills in C for operating system kernel & systems development
+• Experience with the GNU toolchain
+• Proficient use of git
+• Experience building and submitting patches on a mailing list and in general collaborative open source development
+• Excellent understanding of operating systems concepts, data structures, the x86-64 architecture, and virtualization
+• Experience with low level debug tools as well as emulators and simulators
+• Experience with open source software development
+• Experience working with external software partners
+• Experience running, analyzing, and tuning system performance benchmarks
+• Strong analysis and problem solving skills
+• Proven interpersonal skills, technical and team leadership and collaboration
+• Excellent written communication skills
+
+EDUCATION:
+• Bachelor's degree in Computer Science or Engineering with 1-3 years of work experience or MS with 0-1 years of experience
+
+#LI-TM1
+
+Requisition Number: 60462
+
+Country: United States State: Texas City: Austin
+
+Job Function: Software Engineering
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
+
+11)
+Machine Learning Inference Engineer
+
+AMD is seeking a lead software developer with experience in creating software tools that automatically optimize machine learning DNNs. Your skills in optimizing algorithms that run on GPUs and other accelerators will be used to optimize the code generation paths for AMD’s world class CPUs, GPUs, APUs and other accelerators. You will work closely with teams across AMD to define inference tools that solve tomorrow’s machine learning challenges.
+
+You will have the opportunity to:
+• Define AMD’s deployed inference platform, including hardware and software components
+• Develop software that addresses the need for high performance, low latency, high reliability, and low power machine learning solutions
+• Work with internal AMD teams and external customers to understand and define software requirements and architectures that address real-world problems
+• Drive development, product definitions, and customer interactions that lead to the development of AMD best-in-class deployed inference platforms
+• Collaborate with AMD teams to drive software and systems solutions for machine inference applications
+
+The best applicant will have:
+• MS or equivalent experience in a field associated with AI and machine learning such as computer science/engineering, applied mathematics, or statistics
+• Expertise with deployed inference software architecture
+• Experience writing production quality deployed inference tools such as TensorRT, nGraph or similar
+• Significant experience developing production quality software in C++ and Python
+• Expertise with GPU acceleration and integrating compute accelerators into software applications
+• Familiarity with new application areas of machine learning inference techniques in automotive, embedded, or others
+
+What you do at AMD changes everything
+
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+
+#LI-SK1
+
+#RealTimeAi
+
+Requisition Number: 67955
+
+Country: United States State: Texas City: Austin
+
+Job Function: Design
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. AMD and its subsidiaries are equal opportunity employers. We consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. Please click here for more information
