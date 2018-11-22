@@ -60,7 +60,7 @@ def reorganize_data(school, department, cursor):
     column_year = list(sorted_ecelist.keys())
     frequency_dataframe = pd.DataFrame(
         matrix_bigram, index=row_bigram, columns=column_year)
-    # frequency_dataframe.to_excel('output.xlsx',sheet_name='result')
+    frequency_dataframe.to_excel(school+'_'+department+'.xlsx',sheet_name='result')
     return frequency_dataframe
 
 
