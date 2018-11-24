@@ -24,7 +24,7 @@ common_words.extend(list(map(chr, range(97, 123))))
 
 logger.info(f'"common_words.txt" loaded.')
 # print("[word_freq] 'common_words.txt' loaded.")
-file_name = 'raw_data/ucla_ece_1617.txt'
+file_name = 'raw_data/ucsd_ece_0708.txt'
 """
 word_freq counts the words and bigrams in the file
 returning two dictionaries containing all the words with
@@ -114,7 +114,7 @@ for key, value in bigram_freq_temp.items():
     # elif not (key[0] in posDict.keys() and key[1] in posDict.keys()):
     #     continue
     elif pos_dict[key[0]] == 'NN' or pos_dict[key[0]] == 'NNS' or pos_dict[key[0]] == 'JJ' or pos_dict[key[0]] == 'VBN':
-        if pos_dict[key[1]] == 'NN' or pos_dict[key[1]] == 'NNS' or pos_dict[key[1]] == 'VBG' or pos_dict[key[1]] == 'VBZ':
+        if pos_dict[key[1]] == 'NN' or pos_dict[key[1]] == 'NNS' or pos_dict[key[1]] == 'VBG' or pos_dict[key[1]] == 'VBZ' or pos_dict[key[1]] == 'JJ':
             if key[0] + ' ' + key[1] in common_words:
                 continue
             bigram_frequency[key[0] + ' ' + key[1]] = value
