@@ -55,6 +55,8 @@ def reorganize_data(school, department, cursor):
     matrix_bigram = np.zeros((len(row_bigram), len(sorted_ecelist.keys())))
     for key in list(sorted_ecelist.keys()):
         for value in sorted_ecelist[key]:
+            # print(key)
+            # print(list(sorted_ecelist.keys())[0])
             matrix_bigram[row_bigram.index(value[0]), int(
                 key)-int(list(sorted_ecelist.keys())[0])] = value[1]
     column_year = list(sorted_ecelist.keys())
