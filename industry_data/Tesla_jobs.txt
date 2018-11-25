@@ -1,0 +1,366 @@
+Software Engineer, Firmware Platforms
+The Role
+
+As a member of the firmware development team, you will be responsible for delivering high quality embedded code running on the processors at the heart of Tesla powertrains, vehicles and energy storage systems. Join a team of deeply knowledgeable engineers that strive to build the most robust and reliable embedded systems using cutting-edge software development tools and practices. You will solve some of the most ambiguous and challenging problems in the embedded software space and change the way the world produces electric vehicles and delivers energy. At Tesla you’ll have the ability to take a lofty goal such as ‘the vehicle will park itself’ into an everyday reality. 
+
+
+
+Responsibilities
+
+Deliver high-quality C code in a real-time embedded environment.
+Specify, design, and implement functionality and behaviors of embedded subsystems.
+Design the software architecture and firmware implementation on hardware through integration, test and high volume manufacturing.
+Hands-on hardware bringup, system debugging and code optimization.
+Make performance and optimization trade-offs to meet product requirements.
+Requirements
+
+Experience in embedded development in robotics, real-time controls, or system software.
+Proficiency in C, familiarity with MISRA C a plus.
+Fluent in software fundamentals including software design and maintainability.
+Experience with the embedded microprocessor tools.
+Controls software and algorithm development.
+Test driven development and familiarity with developer driven automated testing.
+Ability to collaborate and communicate complex technical concepts.
+Understanding of physics and basic principles is highly preferred.
+Experience with TI DSPs or NXP microcontrollers a plus.
+Software QA Engineer - Digital Products
+Role
+
+Tesla is looking for extraordinary talent with a penchant for innovation and passion about quality. You will continuously design creative ways to break software and identify potential bugs. You will be responsible for driving test development of Tesla services and distributed systems. Come join us and learn from the best while transforming your career.
+As a QA Engineer, you will be an agile architect in the design, development, and support of the most visible Internet-scale features and infrastructures at Tesla.
+Responsibilities
+
+Design and develop advanced test suites using object-oriented methodologies.
+Implement and execute test strategies on all supported platforms and languages to help improve overall quality and test code coverage.
+Should be able to do both functional and Automation.
+Write backend integration tests and tests for RESTful APIs.
+Develop frameworks and automated test cases using Selenium and Python.
+Design and develop integration, regression, and stress tests using industry standard tools.
+Collaborate with Business Analyst  and Developers to understand requirements and translate them into test cases.
+Good knowledge of Web/UI testing.
+Define, implement, and maintain test plans, test specifications and test suites.
+Provide technical leadership, driving and performing engineering best practices to initiate, plan, and execute large-scale, cross-functional, and company-wide critical programs.
+Requirements
+
+BA/BS Degree in Computer Science or related technical discipline, or 4+ years of related practical experience.
+Experience with one or more of the following: Ruby, Python, JavaScript,  Java, and/or C#.
+Working knowledge of test methodologies, processes, and tools (Selenium, Python or any programming language,  Appium, JIRA, STLC, Test Management tool –ALM , Zephyr).
+Knowledge of relational databases/SQL.
+Experience working with client-server  architectures and automation.
+Experience working with black box/grey box testing.
+Evidence of exceptional ability
+Unified Communications (UC)/Telecom Staff Engineer
+The Role
+The Unified Communications (UC) Staff Engineer is responsible for the strategic design, standards and implementations of Tesla's global voice and contact center technologies, in partnership with Tesla's Customer Support and Sales organizations.  The Unified Communications team provides voice and contact center services utilizing Avaya technologies and multiple service providers around the globe, in a fast-paced and dynamic environment. Our services are provided in call center locations, retail service/sales centers, manufacturing environments and general office locations. We are responsible for providing voice communications that are always-on, highly reliable and provide a great customer experience.
+
+Responsibilities
+·        End-to-end engineering, design and implementation of standards for Tesla's global communications platforms
+·        Consult with internal business units to collect requirements, partner with vendors/third parties on solution design, and work with internal engineering and operations teams to deploy solutions
+·        Project manage complex Unified Communications efforts that span multiple teams, technologies and solutions
+·        Roadmaps development that blends the needs of the business and IT teams, as well as integrating new and emerging technologies.
+·        Proactively identify and deploy new solutions to meet business needs
+·        Act as the bridge between the UC team and partner technology teams to ensure cross-team efforts are adhered to and implemented on time.
+·        Aggressively pursue developing solutions that exceed the business needs and leverages solutions inside and outside of the current technology stack
+·        Serve as a mentor for team members and an escalation point for mission critical issues and challenges
+·        Documentation of system designs and standards, including High-Level Design, Low-Level Design, Business Requirements Document, Functional Specifications Documents
+·        Partner closely with customer facing contact center teams to develop technical solutions.
+·        Partner with vendors and external suppliers to ensure alignment with strategy
+·        Perform analysis and diagnosis of complex voice and data network issues
+Required Skills
+·        10+ years designing and deploying complex voice solutions leveraging Avaya platforms and technologies
+·        Expert-level knowledge of Avaya Call Center Elite, Communication Manager, System/Session Manger, Session Border controllers, multi-vendor SIP trunking
+·        Strong knowledge of Workforce Optimization, OneX Agent, CMS, CMS Supervisor, Avaya Experience Portal
+·        Experience with AT&T IP Toll Free and RouteIt environments (or similar carrier offerings)
+·        Strong network background with Juniper and Palo Alto experience
+·        Experience with Oracle Enterprise Operations Monitor/Acme Palladion and AppNeta performance monitoring tools
+·        Experience with complex systems integrations with external service providers (premise, hybrid, cloud)
+·        Demonstrated understanding and experience with international carrier services including SIP trunking, international toll free services, and complex routing for private number dial plans.
+·        Demonstrated leadership driving technology solutions from design through implementation which leverages cross-functional teams comprised of employees, vendors, outsource partners, and contractors across multiple locations
+·        Proven ability to drive complex technical solutions which may include both legacy and converging technology
+·        Proven ability thru experience to diagnose complex technical problems in a multi-layered enterprise environment encompassing both vendor and custom built solutions
+·        Relentless pursuit of service excellence at both project and operational levels
+·        Ability to build and maintain successful relationships with operational/production leadership as well as strategic planners
+·        Strong analytical background with focus on developing data-driven solutions
+·        Developing and maintaining call flow and technical documentation
+·        Ability to work in a fast-paced and dynamic environment that can quickly change direction
+·        Ability to deliver on multiple project simultaneously
+·        Exposure to business intelligence platforms
+
+Site Reliability Engineer, Cloud Platforms
+The Role
+
+We're the small, expert team creating the next-generation server-side infrastructure to support the growing fleets of Tesla products, and we're looking for seasoned SREs with domain expertise in one or more of: containers, public clouds and cloud-native apps.
+
+Today, Tesla owners rely on our services to safely and securely summon their cars with a tap on their mobile phones -- a feature enabled by one of the many over-the-air updates we've delivered to the Tesla vehicle fleet. Tesla engineering relies on our data and analytics platform to make Tesla products better and safer. And, when an owner needs assistance, Tesla service and support rely our applications to understand and respond to the situation. Tomorrow, we will apply fleet learning to dispatch and deliver real-time road conditions to millions of autonomous vehicles and manage distributed energy generation & storage at grid scale.
+
+Join us and you will work alongside world-class software and data engineers on some of the newest and most challenging IoT and service engineering problems in the world today. The platform you help us build and automate will be used daily by millions of Tesla owners (and tens of thousands of Tesla employees) to improve and enhance the functionality of our cars, chargers, and batteries worldwide.
+
+
+
+Responsibilities:
+
+Design and write software that enables rapid prototyping by development teams, while ensuring the highest levels of reliability and availability
+Drive the migration of large-scale, distributed fleet applications towards cloud-native microservices
+Influence architectural decisions with focus on security, scalability and high-performance
+Automate the build and deployment of infrastructure using Docker, Kubernetes & other orchestration technologies in a hybrid-cloud environment
+Setup and maintain monitoring, metrics & reporting systems for fine-grained observability and actionable alerting 
+
+Requirements:
+
+5+ years building and maintaining SaaS infrastructure with a healthy mix of...
+Expert skills with Linux, networking, storage and virtualization automation with tools like Kubernetes, Terraform, Ansible, Chef et al
+Setting up and supporting CI/CD
+Proficiency in a high-level language like Python, Go, Ruby and/or Java
+Scaling through data-driven capacity planning, within both physical data centers and Cloud infrastructure (AWS, GCP or Azure)
+Troubleshooting and full-cycle incident response (mitigation, correction, prevention)
+Strong belief in spreading (& acquiring) knowledge through mentorship and acting like an owner
+Smart but humble, with a bias for action and for enabling others’ success
+Software QA Engineer
+Role
+
+The Application Software Quality Assurance group within the Software Engineering Applications group, supports the verification and validation of the home-grown and packaged applications used by the Tesla Business User Community.  Software QA Engineers in these groups support functional validation of applications for new features and enhancements delivered to the business as part of an Agile process in bi-weekly sprints and monthly releases. Engineers also validate applications/modules, end-to-end, across various applications. Engineers use open source tools like Selenium framework with Python coding for building the automation regression suite that is executed for every sprint. Engineers are required to enhance the automation framework and work on CI tools.  Software QA Engineers automate the micro services/API that are built for each application. Engineers automate the smoke test cases that are used as post-validation scripts after every successful production deployment. Engineers also use defect and test management tools to communicate the test status within the teams and to other cross functional teams. Software QA Engineers need to understand and validate the data by running SQL scripts against the DB Schema and ensure that the data that is displayed correctly from the database tables.
+
+The Software QA Engineer will be involved throughout the development life cycle of each Tesla application development, with particular responsibility of quality and emphasis on development and implementation of test automation. The Engineer will be involved in the creation of test scripts and test scenarios per the business requirement or user acceptance criteria and also conduct automated and manual tests (where necessary) to ensure that the software created meets requirements. The Software QA Engineer will be called upon to think “outside the box” and do exploratory testing where needed.
+
+Responsibilities
+
+Develop Automated Test suits for Applications
+Evangelize QA Methodologies to development teams
+Develop Test plans and test cases.
+Preparation of test data for Testing.
+The ability to work to aggressive deadlines
+Testing Mobile apps
+Execute functional system and Integration testing, regression testing of Website, ERP, CRM and packages Application
+Verify the quality of data; ensure data coming in matches existing data, verify functionality and data output against requirements.
+Log, manage, and retest defects in bug tracking system.
+Report testing status, milestones and issues to project stakeholders.
+Support off-hours launch and monitoring of systems with IT teams as needed.
+Update and use Confluence page extensively for open knowledge-sharing.
+ 
+Requirements
+BA/BS in Computer Science, IT, or related field.
+Solid experience in automation using one or more of the following languages:  Java, JavaScript/Type Script or Python
+Proficient in designing/creating frameworks\
+Strong knowledge in one or more tools (Webdriver / Appium or WebdriverJS)
+Strong Understanding of REST and demonstrated experience with web services APIs testing/automation
+Very good experience in using open source tools like Git, stash and Jenkins
+Good experience with Protractor, BDD (e.g Cucumber, Jasmine), Continuous Integration (e.g., Jenkins, Hudson) or Delivery
+Basic knowledge of unit testing using tools like TestNG, JUnit
+Debugging distributed systems and applications
+Clear understanding of the product development cycle, technical requirements and project management
+Strong understanding of concepts related to computer architecture, data structures and programming practices
+Evidence of exceptional ability
+Elastomeric Dynamic Seal Engineer - Closures Systems
+The Role
+
+As a dynamic seal engineer you’ll be working with some of the industry’s brightest minds and have engineering ownership of complete sealing systems for Tesla vehicles.  Your work will focus on the dynamic seals for current vehicle programs: Model S, Model X, Model 3 for improved quality, cost reduction, and manufacturing improvements. Engineering and design of dynamic seals for future vehicles will also be within the scope of work. Your ownership of seals will include initiation and oversight of virtual (CAE) and non-virtual testing and analysis to prove new designs from concept until production. Ownership of closures dynamic seals offers a great opportunity to interface with all aspects of the vehicle.  In this position you’ll work closely with body, closures, electrical/firmware, exterior trim, interior trim, as well as manufacturing engineering, to establish world class seal designs and world class assembly processes utilizing those designs.
+
+Basic qualifications and required experience
+
+Bachelor’s or Master’s Degree in Mechanical Engineering or equivalent in experience and evidence of exceptional ability.
+Three years working on the design and engineering of dynamic seals
+Ability to design new and improved seals within an existing environment using design software
+Use of CAD software to design 2D sections and 3D geometry of seals
+Past ownership of seal designs from concept (improvement of existing or new) through production
+Past work with a seal supply chain partner in the development of new seal designs
+Fully specifying elastomeric seals designs through creation of specification drawings
+Initiating seal CAE studies, interpreting results, and iterating until geometry and materials meet targets
+Material selection for elastomeric dynamic and static seals
+Manufacturing processes utilized to produce elastomeric seals and seal assemblies
+ 
+Preferred Qualifications
+CATIA V5 software for 2D section and 3D geometry
+Designing complex seal molds using design software (2D and 3D design)
+Software Engineer, MES
+Role:
+Tesla is looking for a strong Software Engineer to design and develop software for its current and next generations of Business systems application. This position will be working with the Software Engineering team in Fremont, CA.
+ 
+The mission of the development team is to build applications for manufacturing operations. Work with Tesla’s manufacturing, production control, quality and software teams to help design, develop and support a world class software system that is used for manufacturing Vehicles and sub- assemblies.
+ 
+·         Design, development and implementation of custom, mission critical applications using the .NET Framework and SQL technologies.
+·         Write server-side code for web-based applications, create robust high-volume production applications, and develop prototypes quickly.
+·         This position will work closely with the software business and manage project implementations.
+·         Build internal systems and support business needs with your domain expertise
+ 
+Requirements:
+ 
+·         Experience with the .NET platform and possesses Enterprise application development experience.
+·         Programming experience with C#, WCF, Restful services using WEB API, Entity Framework, ASP.NET and WPF.
+·         Experience in Oracle and MS SQL Server Programming is desired.
+·         Experience in Angular, MVC, ORM tools is desired.
+·         Java and other open source technologies is a plus.
+·         Unit Testing and Continuous Integration.
+·         Agile/SCRUM Software Development Process experience is a plus.
+       
+Education:
+ 
+·         MS/BS Computer Science or equivalent with at least 7+ years of progressive experience in the industry or other evidence of exceptional ability
+·         MCSD certification is a plus.
+Low Voltage Technician
+Role
+Tesla is seeking a sharp, fast-on-their-toes, innovative Low Voltage Technician that will be working with manufacturing, to resolve connection issues with various electrical systems, including electrical circuits and some testing equipment. You will need a strong technical aptitude, good communication skills, and fast trouble-shooting capabilities using wiring schematics in order to succeed in this role.
+
+Responsibilities
+Assist with troubleshooting withe any connection issues and have the ability to make innovative repairs.
+Inspect electrical wiring and connections to ensure that they meet applicable codes and safety standards.
+Work collaboratively with cross-functional teams and team members to deliver quality results.
+Communicate regularly on issues and following up on those issues.
+Provide clients with exceptional service.
+Prioritize top projects to pursue based on impact, risk, and resources.
+Foster a culture of continuous improvement in safety, people, quality, rate, and cost.
+Perform other duties as required.
+Requirements
+
+Previous low voltage experience.
+Strong technical aptitude required.
+Must be able to troubleshoot and problem solve on the spot.
+Good written and verbal communication skills required.
+Ability to pass Tesla’s background check.
+Ability to work with Office Suite tools is preferred.
+Software Engineer
+The Role:
+The Tesla Finance team is transforming how people purchase automotive and energy products. Our team is composed of architects, product managers, business analysts, UX designers, and full stack software engineers, working together to create elegant solutions to complex problems. We run lean, move quickly and pride ourselves on accelerating Tesla from start-up to scaled enterprise without losing our scrappy spirit. We are currently seeking a Python Engineer to join our team. You are highly self-motivated, detail-oriented, and love to try new things and do them well. You will be part of a small application development team – so you must be a problem solver, a fast learner, and comfortable wearing many hats.  You enjoy a challenge, finding elegant solutions to complex problems, and thrive under pressure of high visibility deadlines.
+
+Responsibilities:
+You will build and maintain features and tools to support the Tesla website http://www.tesla.com and related projects to support sales and manufacturing of Models S, X, 3, as well as our energy and solar products. Specifically, you will be building out the next generation product and pricing catalogs for all Tesla products.
+
+Requirements:
+B.S. or higher studies in Computer Science (or equivalent experience)
+3+ years’ experience writing clean, standards based code in consumer-facing web applications
+Fundamental web technologies (e.g. HTTP, REST, and JSON) are second nature
+Familiarity with open source development workflow using GIT, Fork, Pull Requests, and branches
+Solid understanding of the software development lifecycle, and familiarity with modern Agile development methodologies
+Experience with testing and automation tools
+Experience working with data—lots of it—and building robust, scalable applications to manage and leverage it
+Expert knowledge in Python, with knowledge of at least one Python web framework (e.g. Django, Flask, etc.)
+Knowledge of ORM (Object Relational Mapper) libraries 
+Writing and managing REST APIs is nearly second nature 
+Experience with various data storage solutions (e.g. MySQL, Mongo, Redis, etc.), and knowledge of when and why to use one over the other
+Experience integrating multiple data sources and databases into one system
+Knowledge of user authentication and authorization between multiple systems, servers, and environments
+Virtualenv and pip are great, but you know and leverage the power of container systems like Docker as much as possible
+Software Engineer, Application Engineering
+Role
+
+As a Software Engineer you’ll take part in the design and development of software for the current and next generation of Tesla’s Enterprise Resource Planning systems. In this role, you’ll be developing highly complex applications with a team goal of streamlining business operations and improving overall user experience. The ideal candidate is a self-starter with a strong desire to increase efficiencies and make an impact while contributing to a cross-functional team. Your ability to creatively collaborate and execute team goals will affect scalability and directly contribute to the company mission of accelerating the world’s transition to sustainable energy.
+
+
+Responsibilities
+
+Work with experienced engineers across many functional areas to deliver business value to internal and external stakeholders.
+Design and develop new modules on the home-grown ERP application (Warp) which is used to plan, procure and build Tesla products.
+Develop scalable solutions using tools like Angular, C#, .Net, MySQL and other open stack frameworks.
+Know your app!  Seek to understand all aspects, business and technical, of the applications on which you work so that you can be most effective.
+Contribute towards the timely completion of development tasks and small projects while applying company standards.
+Continually learn and apply relevant software development practices, patterns, tools and technologies.
+Increase efficiency, reduce waste wherever and whenever possible.
+
+Requirements
+4+ years in web application development, including: Implementing Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
+Experience in frontend development, using tools such as: JavaScript, Angular, React, etc.
+Experience in backend development, using tools such as: C#, Java, Go, Ruby, etc.
+Relational databases, SQL, NoSQL
+Agile Development
+Distributed Source Control, using tools such as: Git
+Education: BS/MS in Computer Science or equivalent degree.
+Software Engineer – Energy Tools Team
+The Role
+
+Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage.  The Energy Tools team's contribution is to construct full-stack software that enables data analysts, service engineers, and other software teams to dive with greater efficiency into our big data sources and solve critical safety and performance problems.  We deliver software controls that are used to restore a fleet of over 300,000 energy systems to homeostasis.  We provide the tools to keep the Energy fleet running so that Tesla can provide groundbreaking services such as aggregation and control, optimized dispatch, and wholesale market participation.
+
+To accomplish this work, we embrace change, encourage continuous learning and foster psychological safety.  As a member of the Energy Tools team, you will develop new features with automated tests while adapting to rapid feedback from stakeholders and addressing any urgent issues that manifest.  We follow agile practices, leading you to work full-stack to ensure familiarity with all products, empowering you to help us complete all our commitments, and encouraging you to speak up about behavior that is slowing us down.   You'll often go directly to domain experts within Tesla in order to better understand problems related to our solar, storage and software systems.
+
+Responsibilities
+
+Implement features collaboratively by making frequent commits to repos, reviewing pull requests promptly and delegating work when necessary
+Write code at all levels of the stack and across multiple languages that is efficient, tested and well documented
+Build out and maintain software and software configurations to support continuous integration, deployment, monitoring and automation of common tasks that are part of the software development pipeline
+Recognize and propose solutions for scaling weaknesses, performance bottlenecks and security risks
+Take ownership of several larger-scope projects by interacting directly with stakeholders to identify the specific problems they are struggling with, communicating with team to identify software solutions and breaking work down to enable parallel development efforts
+Requirements
+
+Bachelor’s degree or higher in computer science, engineering or equivalent in experience and training
+Proficient in at least one programming/scripting language (we use Python, JavaScript & Golang)
+Familiarity with a front-end application framework (we use React & Redux)
+Comfortable working with databases, writing queries, and designing schemas (we work with SQL Server, MySql and Postgres)
+Understanding of automated testing, deployment process and tools (we use Docker, Jenkins, Ansible & more)
+Excellent written and verbal communication skills
+Software Engineer
+The Role
+
+Tesla aims to accelerate world’s transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers. To meet this goal, Tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services. To that end, Tesla is seeking hardworking and passionate software engineers as various levels. These engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customers.
+
+Responsibilities
+Design and develop high quality, scalable and stable web applications and/or back-end services
+Develop client-side applications that connect with web services
+Develop back-end web services
+Follow Tesla’s high standards for security-best practices in all development
+Partner closely with security team for code analysis and design reviews
+Perform unit testing
+Process bug reports and release fixes
+Participate in code reviews
+Participate in agile processes
+Always think innovatively to solve customer problems
+
+Requirements
+Bachelor’s or Master’s degree in Computer Science or related field, or equivalent in experience
+At least 3-10+ years of experience in building software products for external customer use in Java, C, C++, C# or some other object-oriented language with evidence of exceptional ability
+Experience with writing SQL-based applications such as MySQL or MS SQL or Oracle
+Experience working with Linux or similar O/Ss
+Experience building scalable applications (Web applications or back-end services)
+Detail-oriented, can identify and fix own bugs, and write quality code that runs efficiently
+Passionate, positive, can-do attitude and can adapt to any challenge and willing to take ownership of problems and brings issues to full resolution
+Enjoy working in a team that follows agile practices and code reviews and CI/CD
+Software Engineer
+The Role
+
+Tesla aims to accelerate world’s transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers. To meet this goal, Tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services. To that end, Tesla is seeking hardworking and passionate software engineers as various levels. These engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customers.
+
+Responsibilities
+Design and develop high quality, scalable and stable web applications and/or back-end services
+Develop client-side applications that connect with web services
+Develop back-end web services
+Follow Tesla’s high standards for security-best practices in all development
+Partner closely with security team for code analysis and design reviews
+Perform unit testing
+Process bug reports and release fixes
+Participate in code reviews
+Participate in agile processes
+Always think innovatively to solve customer problems
+
+Requirements
+Bachelor’s or Master’s degree in Computer Science or related field, or equivalent in experience
+At least 3-10+ years of experience in building software products for external customer use in Java, C, C++, C# or some other object-oriented language with evidence of exceptional ability
+Experience with writing SQL-based applications such as MySQL or MS SQL or Oracle
+Experience working with Linux or similar O/Ss
+Experience building scalable applications (Web applications or back-end services)
+Detail-oriented, can identify and fix own bugs, and write quality code that runs efficiently
+Passionate, positive, can-do attitude and can adapt to any challenge and willing to take ownership of problems and brings issues to full resolution
+Enjoy working in a team that follows agile practices and code reviews and CI/CD
+Software Engineer
+The Role
+
+Tesla aims to accelerate world’s transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers. To meet this goal, Tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services. To that end, Tesla is seeking hardworking and passionate software engineers as various levels. These engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customers.
+
+Responsibilities
+
+Design and develop high quality, scalable and stable web applications and/or back-end services
+Develop client-side applications that connect with web services
+Develop back-end web services
+Follow Tesla’s high standards for security-best practices in all development
+Partner closely with security team for code analysis and design reviews
+Perform unit testing
+Process bug reports and release fixes
+Participate in code reviews
+Participate in agile processes
+Always think innovatively to solve customer problems
+
+Requirements
+Bachelor’s or Master’s degree in Computer Science or related field, or equivalent in experience
+3+ years of experience in building software products for external customer use in Java, C, C++, C# or some other object-oriented language with evidence of exceptional ability
+Experience with writing SQL-based applications such as MySQL or MS SQL or Oracle
+Experience working with Linux or similar O/Ss
+Experience building scalable applications (Web applications or back-end services)
+Detail-oriented, can identify and fix own bugs, and write quality code that runs efficiently
+Passionate, positive, can-do attitude and can adapt to any challenge and willing to take ownership of problems and brings issues to full resolution
+Enjoy working in a team that follows agile practices and code reviews and CI/CD
