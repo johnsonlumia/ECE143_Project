@@ -1,0 +1,86 @@
+2019 Software Engineer Lugano
+
+Our team:
+Bloomberg's diverse community of engineers take on some of the world’s most interesting and important technical challenges. We develop impactful solutions to complex, real-world problems. With new systems being rolled out daily, we make an immediate impact on global markets and we look for the best software engineers to build them.
+
+We'll trust you to:
+
+ Take ownership of the full development cycle
+ Partner with business stakeholders and other developers to design, build and roll out solutions that will optimize complex workflows
+ Understand and efficiently manipulate large datasets
+ Make quick, thoughtful decisions
+ Be a collaborative member of your team
+ Have a deep understanding of data structures and algorithms
+ Be an excellent problem solver
+You'll need to have:
+
+ A degree in Computer Science, Engineering, or related technology subject
+ Programming experience in C, C++, C#, Java or Python
+ A thirst for learning and a drive to keep improving
+We are deeply proud of our diverse and open culture, and value diversity of thought and perspective in every form. If you have a degree outside of the above, but still have strong software development skills, then we can teach you the rest.
+
+We're looking for engineers who have a real passion for writing reusable, performant solutions to complex problems, who can keep an open mind and adapt to an ever-changing market landscape, who can collaborate and work effectively on small teams, and who want to develop software that impacts thousands of power users around the world. We want people who see things differently, find solutions and collaborate instinctively.
+
+If this sounds like you, please apply below! We'll review your application and be in touch as soon as possible to discuss next steps.
+
+We do not discriminate on the basis of race, religion, colour, national origin, sex, gender identity, sexual orientation, age, marital status, veteran status, disability status, or any other classification protected by applicable law. Disruptive innovation and breakthrough performance only happen when we are able to channel the diverse ideas and experiences of our employees to solve the needs of our clients.
+Bloomberg is a disability inclusive employer. Please let us know if you require any adjustments to be made for the recruitment process by emailing access2@bloomberg.net.
+Now, here’s what else we’ll expect you to do:
+
+ Design, develop, and implement internal tools for data processing that power Bloomberg’s product offerings.
+ Identify and build automated solutions for the acquisition and processing of data that would otherwise require manual effort.
+ Apply problem-solving skills to create flexible and innovative technology solutions that can be re-used across products.
+ Gather requirements, develop project plans, monitor progress, and communicate with stakeholders throughout the development lifecycle.
+ Collaborate with data analysts and software engineers to develop creative solutions to the technical challenges facing our businesses.
+ Monitor, maintain and troubleshoot issues for the production systems we support
+Successful applicants will likely possess:
+
+ A BA/BS degree or higher in Engineering, Information Systems, Mathematics, or relevant data technology field, or up to 2 years of professional work experience in information technology, engineering, or data analysis.
+ Previous internship or relevant work experiences in scripting, software development, or data analytics.
+ Applied proficiency with one or more programming/scripting languages (e.g. Python, JavaScript, Java).
+ Knowledge of data modeling, database design and proficient in SQL .
+ Strong aptitude for problem solving, particularly to modify and enhance processes and workflows.
+ Project management skills: ideation, prioritization, communication, delivery.
+ Excellent communication skills, especially when explaining technical processes and solutions to business stakeholders and management.
+ We'll trust you to:
+
+ Take ownership of the full development cycle
+ Partner with business stakeholders and other developers to design, build and roll out solutions that will optimize complex workflows
+ Understand and efficiently manipulate large datasets
+ Make quick, thoughtful decisions
+ Be a collaborative member of your team
+ Have a deep understanding of data structures and algorithms
+ Be an excellent problem solver
+You'll need to have:
+
+ A degree in Computer Science, Engineering, or related technology subject
+ Programming experience in C, C++, C#, Java or Python
+ A thirst for learning and a drive to keep improving
+We are deeply proud of our diverse and open culture, and value diversity of thought and perspective in every form. If you have a degree outside of the above, but still have strong software development skills, then we can teach you the rest.
+
+We're looking for engineers who have a real passion for writing reusable, performant solutions to complex problems, who can keep an open mind and adapt to an ever-changing market landscape, who can collaborate and work effectively on small teams, and who want to develop software that impacts thousands of power users around the world. We want people who see things differently, find solutions and collaborate instinctively.
+
+If this sounds like you, please apply below! We'll review your application and be in touch as soon as possible to discuss next steps.
+
+We do not discriminate on the basis of race, religion, colour, national origin, sex, gender identity, sexual orientation, age, marital status, veteran status, disability status, or any other classification protected by applicable law. Disruptive innovation and breakthrough performance only happen when we are able to channel the diverse ideas and experiences of our employees to solve the needs of our clients.
+
+Bloomberg is a disability inclusive employer. Please let us know if you require any adjustments to be made for the recruitment process by emailing access2@bloomberg.net.
+
+Alternatively, you can get support from our disability partner EmployAbility, please contact +44 7852 764 684 or info@employ-ability.org.uk.
+We'll trust you to:
+
+ Take ownership of the full development cycle
+ Partner with clients and other developers to design, build and roll out solutions that will optimize complex workflows
+ Understand and efficiently manipulate large datasets
+ Make quick, thoughtful decisions
+ Be a collaborative member of your team
+ Have a strong understanding of data structures and algorithms
+ Be an excellent problem solver
+You'll need to have:
+
+ BA, BS, MS, PhD in Computer Science, Computer Engineering or related technology field
+ Programming experience in C, C++, C#, Java or Python
+ Minimum 3.0 GPA
+We are extremely proud of our diverse and open culture, and value diversity of thought and perspective in every form. If you have a degree outside of the above, but still have strong software development skills, then we can teach you the rest.
+
+We're looking for engineers who have a passion for writing reusable, performant solutions to complex problems, who can keep an open mind and adapt to an ever-changing market landscape, who can collaborate and work effectively on small teams, and who want to develop software that impacts thousands of power users around the world. If this sounds like you, please apply below!
