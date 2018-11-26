@@ -14,9 +14,24 @@ from matplotlib.pylab import subplots
 
 def make_venn_diagram(set_a,set_b,title_of_plot='UCSD'):
 	'''
-	Function that creates a venn diagram representation of ECE and CSE Departments and portrays the extent of overlap between them
+	Purpose : Function that creates a venn diagram representation of ECE and CSE Departments and portrays the extent of overlap between them
+	
+	Inputs : set_a
+			 set_b 
+			 (set)
+			 Input sets which are the departments whose overlap you want to plot using a venn diagram
+			 
+			 title_of_plot
+			 (str)
+			 Title of the venn diagram, default value - "UCSD"
+	
+	Output : VennDiagram object to plot
 	
 	'''
+	assert isinstance(set_a,set),"Inputs should be set objects"
+	assert isinstance(set_b,set),"Inputs should be set objects"
+	assert isinstance(title_of_plot,str),"Title should be a valid string"
+	
     labels_depts=['CSE','ECE']
     total = len(set_a.union(set_b))
     v1 = venn2([set_a,set_b],set_labels=labels_depts,set_colors=['red','green'],subset_label_formatter=lambda x: f"{(x/total):1.0%}")
