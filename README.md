@@ -1,18 +1,29 @@
 # Engineering Course Analysis (Group 6)
 
 ## Team Members
-- Renjie Zhu
-- Fernando Lopez Garcia
-- Daoyu Li
-- Ambareesh Sreekumaran Nair Jayakumari
+- Renjie Zhu (@johnsonlumia)
+- Fernando Lopez Garcia (@Fernando-LopezGarcia)
+- Daoyu Li (@Nwoodle)
+- Ambareesh Sreekumaran Nair Jayakumari (@ambareeshsrja16)
 
 ## Problem
 Analysing course offerings in engineering departments of top universities in the United States related to industry demands.
 
 ## Summary
-The Electronics and Computer Software industry has been evolving vastly for the past twenty years or so. As a result, both students and the concerned departments need to keep up with the ever evolving and demanding industry changes. Therefore, we want to study the relationship between industry needs and university course offerings, to understand what choices a student should make to best fit himself (or herself) in the dynamic industry.
+Technology has been evolving ever so rapidly for the past two decades. 
+Both students and Departments concerned with technical learning need to keep up with the demanding changes. 
+The Course Catalog of a department gives a brief, yet exhaustive description of all subjects covered. 
+Analysis on a new dataset created from course catalogs provided an interesting challenge to understand how the universities have changed over time. 
 
-Our project aims to identify the relevant skills focused on by different universities that can be identified from the course offerings. Then we will compare the course offerings with the industries' demands from different dimensions including job descriptions and role requirements.
+## Methodology
+
+- Catalog descriptions were scrapped to analyze the occurrence of every word and pair of words (2006-2019)
+- The unigrams, and bigrams along with their occurrence frequency were stored in a database (managed through SQLite)
+- Pairs of words (or Bigrams) were of relatively higher relevance ("Signal Processing", "Machine Learning", "Fuzzy Logic", "Integrated Circuits")
+- To shorten the features of interest and derive more meaning, lemmatization was used (NLTK python library)
+- Words with minimal frequency and common words ("credits", "pre-requisites", "classes") were discarded, to make the final processed dataset.
+- Job descriptions from companies were collected and they underwent the above processing as well.
+
 
 ## Dataset
 
@@ -26,11 +37,10 @@ Universities (UCSD, UCB, UCLA, UCSB)
 +--- MAE ---+   + Catalog of 2018 - 2019
 ```
 *Primary:*
-- Course catalogs from 2002 to 2019 from top 12 Universities. We will be scrapping for ECE, CSE and MAE Departments. Universities include: UCSD, UC Berkeley, UCLA, MIT, and so on.
-- Current industry job requirements from 12 leading companies in various domains, such as Qualcomm, Amazon, Google, Apple and so on.
+- Course catalogs from 2002 to 2019 from 4 UC's. We will be scrapping for ECE, CSE and MAE Departments. 
 
 *Secondary:*
-- Industry data from the yearly financial reports of the same companies.
+-  Current industry job requirements from 10 leading companies in various domains, such as Qualcomm, Amazon, Google, Apple and so on.
 
 ## Applications
 1. Identifying the most common skills that have been promoted by departments from different universities, which will serve as the basis of our project.
@@ -40,32 +50,27 @@ Universities (UCSD, UCB, UCLA, UCSB)
 5. Observing the extent of overlap between two departments of a university in terms of skills for domains (for e.g. Machine Learning)
 6. Identifying how the present job requirements from different companies map to the course offerings.
 
-## Milestones
-| Steps                    | Time Frame       | Division                     |
-| ------------------------ |:----------------:| :---------------------------:|
-| Data Collection          | ~1 week (11/05)  | Four universities per member |
-| Data Analysis            | ~2 weeks (11/19) | Applications 1,6 will be worked upon together; the rest will be split across four members  |
-| Data Visualization       | ~1 week (11/26)  |  Similar to Analysis         |
-| Results and Presentation | ~1 week (12/03)  |                              | 
-
 ## File Structure
 
 ```
 Root
 |
-+---- raw_data
++----raw_data
 |
-+---- industry_data
++----industry_data
 |
-+---- scripts
-|        |   __init__.py
-|        |   process_data.py
-|        |   word_freq.py
-|        |   SQLite.py
-|        |   common_words.txt
++----scripts
+|       |   create_processed_data.py
+|       |   word_freq.py
+|       |   SQLite.py
+|       |   common_words.txt
 |
-|   main.py
-|   database.db 
+|    main.py
+|    analyse_data.py
+|    analyse_data_department_only.py
+|    Extent_of_overlap.py
+|    ucsd_ece_plot.py
+|    database.db
 ```
 
 ## Instructions on running the code
