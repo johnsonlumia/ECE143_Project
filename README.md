@@ -1,5 +1,6 @@
-# ECE 143 Project Proposal
-## Group 6 Team Members
+# Engineering Course Analysis (Group 6)
+
+## Team Members
 - Renjie Zhu
 - Fernando Lopez Garcia
 - Daoyu Li
@@ -14,8 +15,18 @@ The Electronics and Computer Software industry has been evolving vastly for the 
 Our project aims to identify the relevant skills focused on by different universities that can be identified from the course offerings. Then we will compare the course offerings with the industries' demands from different dimensions including job descriptions and role requirements.
 
 ## Dataset
+
+```
+Universities (UCSD, UCB, UCLA, UCSB)
+|
++--- ECE ---+   + Catalog of 2006 - 2007
+|           |   |           .
++--- CSE ---+---|           .
+|           |   |           .
++--- MAE ---+   + Catalog of 2018 - 2019
+```
 *Primary:*
-- Course catalogs over the last 20 years from top 12 Universities. We will be scrapping for ECE, CSE and MAE Departments. Universities include: UCSD, UC Berkeley, UCLA, MIT, and so on.
+- Course catalogs from 2002 to 2019 from top 12 Universities. We will be scrapping for ECE, CSE and MAE Departments. Universities include: UCSD, UC Berkeley, UCLA, MIT, and so on.
 - Current industry job requirements from 12 leading companies in various domains, such as Qualcomm, Amazon, Google, Apple and so on.
 
 *Secondary:*
@@ -56,3 +67,37 @@ Root
 |   main.py
 |   database.db 
 ```
+
+## Instructions on running the code
+
+### Required packages
+
+1. numpy
+1. pandas
+2. matplotlib
+3. matplotlib_venn
+3. [apsw](####apsw)
+4. sqlite3
+5. plotly
+
+For installing these packages, you can use either ```pip```
+or ```conda``` in the usual way. For example, 
+
+```pip3 install numpy```
+
+```conda install numpy```
+
+#### ```apsw```
+
+In our code, ```apsw``` is used to create connections to our database. 
+
+If you are using conda, please install it using:
+
+```conda install apsw```
+
+If you are not using conda and you have a C compiler, you can install it using:
+
+```pip3 install apsw```
+
+If the above failed or you don't have a C compiler, please go to [this link](https://rogerbinns.github.io/apsw/download.html) to download binaries for your specific machine. I would recommend using conda to install this package on macOS.
+
