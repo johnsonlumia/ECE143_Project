@@ -4,7 +4,7 @@ Root
 |
 +----raw_data
 |
-+----processed_data
++----industry_data
 |
 +----scripts
 |       |   create_processed_data.py
@@ -13,5 +13,10 @@ Root
 |       |   common_words.txt
 |
 |   main.py
+|   analyse_data.py
+| 	analyse_data_department_only.py
+| 	Extent_of_overlap.py
+| 	Extent_of_overlap.py
+|	ucsd_ece_plot.py
 |   database.db
 ```
