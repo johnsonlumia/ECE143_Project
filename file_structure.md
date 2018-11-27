@@ -16,7 +16,6 @@ Root
 |   analyse_data.py
 | 	analyse_data_department_only.py
 | 	Extent_of_overlap.py
-| 	Extent_of_overlap.py
-|	ucsd_ece_plot.py
+|	  ucsd_ece_plot.py
 |   database.db
 ```
