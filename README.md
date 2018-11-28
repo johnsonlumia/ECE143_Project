@@ -103,5 +103,5 @@ Please install it using:
 If the above failed or you don't have a C compiler, please go to [this link](https://rogerbinns.github.io/apsw/download.html) to download binaries for your specific machine. I would recommend using conda to install this package on macOS.
 
 ### Run the code
-1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
+1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
 2. Manually run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` to get the graphs.
