@@ -9,6 +9,9 @@
 #   bigram3 5  7  8  9  11 11 11
 #   ...
 # Script will only run if the Analyzed_data.db is not exsist
+# Output Files:
+#   processed_data/Analyzed_data.db //Databased containing reorganized topic frequency
+#   processed_data/[university]_[department].xlsx //Same data but provided in Excel sheet
 import os
 import sqlite3
 import numpy as np
