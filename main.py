@@ -14,4 +14,8 @@ logger.setLevel(logging.INFO)
 process_data('school')
 process_data('industry')
 
+import analyze_data
+import analyze_data_by_department
+import merge_industry
+
 logger.info('Program ends.')
