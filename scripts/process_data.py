@@ -57,10 +57,10 @@ def process_data(dataset='school'):
         # create a connection to a database where all our processed data live
         # for details please see `SQLite.py`
         # db = SQLite(os.path.join('processed_data','database.db'))
-        db = SQLite('school.db')
+        db = SQLite(os.path.join('processed_data','school.db'))
     else:
         folder_name = os.path.join('industry_data')
-        db = SQLite('industry.db')
+        db = SQLite(os.path.join('processed_data','industry.db'))
 
 
     # calling the above generator, we work with the every raw data file in the folder
