@@ -14,7 +14,6 @@ import numpy as np
 import pandas as pd
 
 data = sqlite3.connect('school.db')
-# data = sqlite3.connect(os.path.join('processed_data', 'database.db'))
 cursor = data.cursor()
 cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
 tablename = cursor.fetchall()

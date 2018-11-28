@@ -1,13 +1,3 @@
-# This scrpt is used for generaring a more compavt bigram result from the data processed.
-# It will automatically convert the database into a new database with schools and their
-# department as seperate tables. Datas in tables show how each bigram changes through
-# years
-# Table example:
-#           yr yr yr yr yr yr yr
-#   bigram1 1  3  3  3  5  9  3
-#   bigram2 2  2  1  1  0  1  2
-#   bigram3 5  7  8  9  11 11 11
-#   ...
 import os
 import sqlite3
 import numpy as np
