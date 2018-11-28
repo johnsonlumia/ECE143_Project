@@ -1,10 +1,16 @@
+# TODO: Add features, comments and documentation
+# TODO: File is currently being finished
+# 
+#
+#
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#Department to analyze
+# Department to analyze
 department = 'ucsd_cse'
 
-#keywords to analyze
+# keywords to analyze
 keyword0 = 'computer architecture'
 keyword1 = 'data structures'
 keyword2 = 'machine learning'
