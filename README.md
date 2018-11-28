@@ -66,12 +66,15 @@ Root
 |       |   word_freq.py
 |       |   SQLite.py
 |       |   common_words.txt
+|       |   Industry_words.txt
 |
 |    main.py
 |    analyse_data.py
 |    analyse_data_department_only.py
-|    Extent_of_overlap.py
-|    ucsd_ece_plot.py
+|    Plot_Extent_of_overlap.py
+|    Plot_radar_chart.py
+|    Plot_ucsd_cse.py
+|    Plot_ucsd_ece.py
 |    database.db
 ```
 
