@@ -87,6 +87,7 @@ Root
 3. [apsw](####apsw)
 4. sqlite3
 5. plotly
+6. xlrd
 
 For installing these packages, you can use either ```pip3``` to install packages. For example, 
 
