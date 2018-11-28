@@ -15,12 +15,7 @@ process_data('school')
 process_data('industry')
 
 import analyze_data
-import analyze_data_department_only
-
-# Visualization
-logger.info('Visualization starts')
-import Extent_of_overlap
-import ucsd_ece_plot
-import ucsd_cse_plot
+import analyze_data_by_department
+import merge_industry
 
 logger.info('Program ends.')

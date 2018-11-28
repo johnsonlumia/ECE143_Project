@@ -33,10 +33,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from matplotlib.ticker import MaxNLocator
+import os
 
 # !pip install xlrd
 
-ucsd_ece = pd.read_excel('ucsd_ece.xlsx')
+ucsd_ece = pd.read_excel(os.path.join('processed_data','ucsd_ece.xlsx'))
 
 field = ucsd_ece.loc['field effect']
 magnetic = ucsd_ece.loc['magnetic recording']
@@ -58,7 +59,7 @@ ax.set_xlabel('catalog year')
 ax.set_title('UCSD ECE')
 ax.legend()
 
-fig.savefig('all.jpg')
+fig.savefig(os.path.join('processed_data','all.jpg'))
 
 fig2, ax2 = plt.subplots()
 ax2.xaxis.set_major_locator(MaxNLocator(integer=True))
@@ -72,7 +73,7 @@ ax2.set_xlabel('catalog year')
 ax2.set_title('UCSD ECE')
 ax2.legend()
 
-fig2.savefig('drop.jpg')
+fig2.savefig(os.path.join('processed_data','drop.jpg'))
 
 fig3, ax3 = plt.subplots()
 ax3.xaxis.set_major_locator(MaxNLocator(integer=True))
@@ -86,7 +87,7 @@ ax3.set_xlabel('catalog year')
 ax3.set_title('UCSD ECE')
 ax3.legend()
 
-fig3.savefig('incre.jpg')
+fig3.savefig(os.path.join('processed_data','incre.jpg'))
 
 fig4, ax4 = plt.subplots()
 ax4.xaxis.set_major_locator(MaxNLocator(integer=True))
@@ -100,7 +101,7 @@ ax4.set_xlabel('catalog year')
 ax4.set_title('UCSD ECE')
 ax4.legend()
 
-fig4.savefig('flat.jpg')
+fig4.savefig(os.path.join('processed_data','flat.jpg'))
 
 """# Additional Question:
 
@@ -174,5 +175,5 @@ layout = {
   }
 }
 fig = go.Figure(data=data, layout=layout)
-py.iplot(fig)
+py.plot(fig)
 

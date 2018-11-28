@@ -59,6 +59,8 @@ Root
 |
 +----industry_data
 |
++----processed_data
+|
 +----scripts
 |       |   create_processed_data.py
 |       |   word_freq.py
@@ -75,6 +77,7 @@ Root
 
 ## Instructions on running the code
 
+* Python version: Python 3.6.6 64-bit
 ### Required packages
 
 1. numpy
@@ -85,24 +88,20 @@ Root
 4. sqlite3
 5. plotly
 
-For installing these packages, you can use either ```pip```
-or ```conda``` in the usual way. For example, 
+For installing these packages, you can use either ```pip3``` to install packages. For example, 
 
 ```pip3 install numpy```
 
-```conda install numpy```
-
 #### ```apsw```
 
-In our code, ```apsw``` is used to create connections to our database. 
+In part of our code, ```apsw``` is used to create connections to our database. 
 
-If you are using conda, please install it using:
-
-```conda install apsw```
-
-If you are not using conda and you have a C compiler, you can install it using:
+Please install it using:
 
 ```pip3 install apsw```
 
 If the above failed or you don't have a C compiler, please go to [this link](https://rogerbinns.github.io/apsw/download.html) to download binaries for your specific machine. I would recommend using conda to install this package on macOS.
 
+### Run the code
+1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
+2. Manually run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` to get the graphs.
