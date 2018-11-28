@@ -17,7 +17,7 @@ with open(os.path.join('scripts', 'Industry_words.txt'), 'rt') as f:
     for line in f.readlines():
         industry_words.append(line.strip('\n'))
 df_rowindex = industry_words
-with sqlite3.connect('Analyzed_data.db') as con:
+with sqlite3.connect(os.path.join('processed_data','Analyzed_data.db')) as con:
     cursor = con.cursor()
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
     tablename = cursor.fetchall()
@@ -54,7 +54,7 @@ with sqlite3.connect('Analyzed_data.db') as con:
                     freq_array[industry_words.index(iword), school_list.index(school)] = freq_array[industry_words.index(
                         iword), school_list.index(school)]+df_ece['18'][df_index]
 df = pd.DataFrame(freq_array, df_rowindex, df_columnindex)
-df.to_excel('industry_connection.xlsx', sheet_name='result')
+df.to_excel(os.path.join('processed_data','industry_connection.xlsx'), sheet_name='result')
 # We examine the output excel file to find the five hot topics which have frequency overlap among
 # four universities.
 # Then we have the subject_list to draw the radar chart
