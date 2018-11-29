@@ -1,7 +1,7 @@
 # ECE 143 Engineering Course Analysis
 # Plots of selected catalog topics from the UCSD CSE Department
 #
-# matplotlib ONLY version
+# matplotlib ONLY version, WORK IN PROGRESS
 # python and plotly used for presentation
 #
 # By Fernando Lopez
