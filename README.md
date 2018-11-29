@@ -108,4 +108,4 @@ If the above failed or you don't have a C compiler, please go to [this link](htt
 
 ### Run the code
 1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
-2. Run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` to get the graphs.
+2. Run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` etc. to get the graphs.
