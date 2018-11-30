@@ -1,0 +1,514 @@
+ME 6. Basic Electrical and Electronic Circuits
+(4) MARKS 
+Prerequisite: Physics 3-3L; Mathematics 4A or 4AI or 3C; open to ME majors only.
+Enrollment Comments: Quarters usually offered: Winter. Not open for credit to students who have completed ECE 2A or 2B, or ECE 6A or 6B.
+Introduction to basic electrical circuits and electronics. Includes Kirchhoff's laws, phasor analysis, circuit elements, operational amplifiers and transistor circuits.
+ME 10. Engineering Graphics: Sketching, CAD and Conceptual Design
+(4) SUSKO 
+Prerequisite: Mechanical Engineering majors only.
+Introduction to engineering graphics, CAD, and freehand sketching. Develop CAD proficiency using advanced 3-D software. Graphical presentation of design: views, sections, dimensioning, and tolerancing.
+ME 11. Introductory Concepts in Mechanical Engineering
+(1) FIELDS 
+Prerequisite: Lower-division standing.
+The theme question of this course is, "What do mechanical engineers do?" Survey of mechanical engineering applications. Lectures by mechanical engineering faculty and practicing engineers.
+ME 12. Manufacturing Processes
+(1) STAFF 
+Prerequisite: ME majors only.
+Processes used to convert raw material into finished objects. Overview of manufacturing processes including: casting, forging, machining, presswork, plastic and composite processing. Videos, demonstrations, and tours illustrate modern industrial practice. Selection of appropriate processes.
+ME 12S. Introduction to Machine Shop
+(1) GREEN 
+Prerequisite: Mechanical engineering majors only.
+Enrollment Comments: Quarters usually offered: Winter, Spring, Fall. Not open for credit to students who have completed Mechanical Engineering 156S. Course materials fee required.
+Basic machine shop skills course. Students learn to work safely in a machine shop. Students are introduced to the use of hand tools, the lathe, the milling machine, drill press, saws, and precision measuring tools. Students apply these skills by completing a project.
+ME 13. Design Case Studies
+(1) STAFF
+Introduces students to the important role of engineering calculations in product design. This will be accomplished through detailed case studies that show how fundamental physics and engineering are applied to scope the performance of engineering prototypes. This will also show how prototype shape emerges from a combination of customer requirements and what is feasible within the constraints of time, budget, physics and the current state of technology.
+ME 14. Statics
+(4) BEGLEY, DALY, MCMEEKING 
+Prerequisite: Math 2B, or Math 3B, or AP Calculus AB with a score of 5, or AP Calculus BCwith a score of 3 or better; and Physics 1
+Introduction to applied mechanics. Forces, moments, couples, and resultants; vector algebra; construction of free body diagrams; equilibrium in 2- and 3- dimensions; analysis of frames, machines, trusses and beams; distributed forces; friction.
+ME 15. Strength of Materials
+(4) BELTZ 
+Prerequisite: ME 14 with a minimum grade of C-; open to mechanical engineering majors only.
+Enrollment Comments: Quarters usually offered: Fall.
+Properties of structural materials, including Hooke’s law and behavior beyond the elastic limit. Concepts of stress, strain, displacement, force, force systems, and multiaxial stress states. Design applications to engineering structures, including problems of bars in tension, compression, and torsion, beams subject to flexure, pressure vessels, and buckling.
+ME 16. Engineering Mechanics: Dynamics
+(4) CAMPAS 
+Prerequisite: Physics 2, ME 14 with a minimum grade of C-, Mathematics 5C or 6B (may be taken concurrently); open to ME majors only.
+Vectorial kinematics of particles. Coordinate systems, moving frames, relative and constrained motion. Dynamics of particles and systems of particles. Energy and momentum methods. Collisions. Planar kinematics and kinematics of rigid bodies. Energy and momentum methods for rigid body systems.
+ME 17. Mathematics of Engineering
+(3) GIBOU 
+Prerequisite: Engineering 3; Mathematics 5B or 6A or 6AI (may be taken concurrently); open to ME majors only.
+Enrollment Comments: Quarters usually offered: Spring, Summer.
+Introduction to basic numerical and analytical methods, with implementation using MATLAB. Topics include root finding, linear algebraic equations, introduction to matrix algebra, determinants, inverses and eigenvalues, curve fitting and interpolation, and numerical differentiation and integration.
+ME 95. Introduction to Mechanical Engineering
+(1-4) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: May be repeated for credit to a maximum of 6 units.
+Participation in projects in the laboratory or machine shop. Projects may be student- or faculty-originated depending upon student interest and consent of faculty member.
+ME 97. Mechanical Engineering Design Projects
+(1-4) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: May be repeated for maximum of 12 units.
+Course offers students opportunity to work on established departmental design projects. P/NP grading, does not satisfy technical elective requirement.
+ME 99. Introduction to Research
+(1-3) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: May be repeated for credit to a maximum of 6 units. Students are limited to5 units per quarter and 30 units total in all 98/99/198/199/199AA-ZZ courses combined.
+Directed study to be arranged with individual faculty members. Course offers exceptional students an opportunity to participate in a research group.
+Collapse Courses Upper Division 
+ME 100. Professional Seminar 
+(1) STAFF 
+Prerequisite: Undergraduate standing.
+Enrollment Comments: May be repeated for up to 3 units. May not be used as a departmental elective.
+A series of weekly lectures given by university staff and outside experts in all fields of mechanical engineering.
+ME 102. Finite Elements Analysis of Heat Transfer and Fluid Flow with COMSOL 
+(3) MATTHYS 
+Prerequisite: ME 151C and ME 152B; or consent by instructor
+Study of modeling and analysis of Heat Transfer and Fluid Flow problems using Finite Elements numerical techniques. Students learn to develop sound numerical models of engineering devices using COMSOL Multiphysics Finite Elements software. Addresses geometry construction, model development, meshing, results generation, and physical analysis.
+ME 104. Mechatronics 
+(3) BAMIEH 
+Prerequisite: ME 6; open to ME majors only.
+Interfacing of mechanical and electrical systems and mechatronics. Basic introduction to sensors, actuators, and computer interfacing and control. Transducers and measurement devices, actuators, A/D and D/A conversion, signal conditioning and filtering. Practical skills developed in weekly lab exercises.
+ME 105. Mechanical Engineering Laboratory 
+(4) VALENTINE 
+Prerequisite: ME 151B, 152B, 163; and, Materials 101 or 100B.
+Enrollment Comments: Quarters usually offered: Spring.
+Introduction to fundamental engineering laboratory measurement techniques and report writing skills. Experiments from thermosciences, fluid mechanics, mechanics,and materials science. Introduction to modern data acquisition and analysis techniques.
+ME 106A. Advanced Mechanical Engineering Laboratory 
+(3) BAMIEH 
+Prerequisite: ME 155A.
+An advanced lab course with experiments in dynamical systems and feedback control design. Students design, troubleshoot, and perform detailed, multi-session experiments.
+ME 110. Aerodynamics and Aeronautical Engineering 
+(3) BELTZ, MEINHART 
+Prerequisite: Mechanical Engineering 14 and 152A.
+Concepts from aerodynamics, including lift and drag analysis for airfoils as well as aircraft sizing/scaling issues. Structural mechanics concepts are applied to practical aircraft design. Intended for students considering a career in aeronautical engineering.
+ME 112. Energy 
+(3) MATTHYS 
+Prerequisite: Senior Undergraduate or Graduate Student status in the College of Engineering; or consent of Instructor
+Introduction to the field of Energetics. Topics may include energy sources and production, energy usage, renewable technologies, hardware, operating principles, environmental impact, energy reserves, national and global energy budgets, historical perspectives, economics, societal considerations, and others.
+ME 124. Advanced Topics in Transport Phenomena/Safety 
+(3) MCFARLAND 
+Prerequisite: Chemical Engineering 120A-B-C; or, Mechanical Engineering 151A-B and 152A.
+Enrollment Comments: Same course as Chemical Engineering 124.
+Hazard identification and assessments, runaway reactions, emergency relief. Plant accidents and safety issues. Dispersion and consequences of releases.
+ME 125AAZZ. Special Topics in Mechanical Engineering 
+(3) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: May be repeated for credit to a maximum of 12 units provided letter designations are different. Students are advised to consult their faculty advisor before making their course selection.
+Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.
+ME 125BL. Special Topics: Radiative Transfer and Solar Energy 
+ME 125EH. Special Topics in Soft Robotics 
+ME 125EM. Special Topics in Mechanical Engineering: Finite Element Analysis of HeatTransfer and Fluid Flow 
+ME 125EY. Special Topics in Biological Computing 
+ME 125IB. Special Topics: Failure- Why Defects Are Essential to Material Science 
+ME 125KT. Special Topics in Mechanical Engineering: Advanced Dynamics 
+ME 125LP. Special Topics in Mechanical Engineering: Intro to Design Optimization 
+ME 125PL. Special Topics in Mechanical Engineering: Wind and Tidal Extraction Over Large Scales 
+ME 128. Design of Biomedical Devices 
+(3) LAGUETTE 
+Prerequisite: Mechanical Engineering 10, 14, 15, 16, and 153; open to ME majors only.
+Introductory course addresses the challenges of biomedical device design, prototyping and testing, material considerations, regulatory requirements, design control, human factors and ethics.
+ME 134. Advanced Thermal Science 
+(3) MATTHYS 
+Prerequisite: Mechanical Engineering 151C.
+This class will address advanced topics in fluid mechanics, heat transfer, and thermodynamics. Topics if interest may include combustion, phase change, experimental techniques, materials processing, manufacturing, engines, HVAC, non-newtonian fluids, etc.
+ME 140A. Numerical Analysis in Engineering 
+(3) MEIBURG 
+Prerequisite: ME 17 with a minimum grade of C-, or Chemical Engineering 132A.
+Enrollment Comments: Designed for majors. Quarters usually offered: Fall.
+Numerical analysis and analytical solutions of problems described by linear and nonlinear differential equations with an emphasis on MATLAB. First and second order differential equations; systems of differential equations; linear algebraic equations, matrices and eigenvalues; boundary value problems; finite differences.
+ME 140B. Theoretical Analysis in Mechanical Engineering 
+(3) MOEHLIS, GIBOU, MEIBURG 
+Prerequisite: ME 140A.
+Analysis of engineering problems formulated in terms of partial differential equations. Solutions of these mathematical models by means of analytical and numerical methods. Physical interpretation of the results.
+ME 141A. Introduction to Nanoelectromechanical and Microelectromechanical systems (NEMS/MEMS) 
+(3) PENNATHUR 
+Prerequisite: ME 16 & 17; ME 152A & ME 151A (may be concurrent); or ECE 130A & 137A with a minimum grade of C- in both.
+Introduction to nano- and microtechnology. Scaling laws and nanoscale physics are stressed. Individual subjects at the nanoscale including materials, mechanics, photonics, electronics, and fluidics will be described, with an emphasis on differences of behavior at the nanoscale and real-world examples.
+ME 141B. MEMS: Processing and Device Characterization 
+(4) PENNATHUR 
+Prerequisite: ME 141A, ME 163 (may be concurrent); or ECE 141A.
+Enrollment Comments: Quarters usually offered: Winter.
+Lectures and laboratory on semiconductor-based processing for MEMS. Description of key equipment and characterization tools used for MEMS and design, fabrication, characterization and testing of MEMS. Emphasis on current MEMS devices including accelerometers, comb drives, micro-reactors and capacitor-actuators.
+ME 146. Molecular and Cellular Biomechanics 
+(3) VALENTINE
+Enrollment Comments: Concurrently offered with ME 246. Quarters usually offered: Fall.
+Course introduces fundamental concepts in molecular and cellular biomechanics. Will consider the role of physical, thermal and chemical forces, examine their influence on cell strength and elasticity, and explore the properties of enzymatically-active materials.
+ME 147. Mechatronics Using Labview 
+(3) HARE 
+Prerequisite: Engineering 3; and Mechanical Engineering 6
+Enrollment Comments: Not open for additional credit to students who have completed ME 125CH.
+Introduction to mechatronics, electromechanical systems, data acquisition, software programming and Labview. Students learn programming fundamentals, hardware interfacing and controls with simulated hardware and actual motor controllers. Students compete to control a motor system through a variety of control problems. Final projects automate working hardware in research labs.
+ME 151A. Thermosciences 1 
+(4) BENNETT, MEINHART 
+Prerequisite: Physics 2; ME 14 with a minimum grade of C-; and, Mathematics 5C or Mathematics 6B.
+Enrollment Comments: Quarters usually offered: Fall.
+Basic concepts in thermodynamics, system analysis, energy, thermodynamic laws, and cycles.
+ME 151B. Thermosciences 2 
+(4) BENNETT, LIAO 
+Prerequisite: ME 151A and 152A.
+Enrollment Comments: Quarters usually offered: Winter.
+Introduction to heat transfer processes, steady and unsteady state conduction, multidimensional analysis. Introduction to convective heat transfer.
+ME 151C. Thermosciences 3 
+(3) BENNETT 
+Prerequisite: ME 151B and 152B. Open to ME majors only.
+Convective heat transfer, external and internal flow, forced and free convection, phase change, heat exchangers. Introduction to radiative heat transfer.
+ME 152A. Fluid Mechanics 
+(4) CAMPAS, MEINHART 
+Prerequisite: Mathematics 5C or Math 6B; and, ME 16 with a minimum grade of C-.
+Enrollment Comments: Quarters usually offered: Fall.
+Introduction to the fundamental concepts in fluid mechanics and basic fluid properties. Basic equations of fluid flow. Dimensional analysis and similitude. Hydrodynamics.
+ME 152B. Fluid Mechanics 
+(3) LUZZATTO-FEGIZ 
+Prerequisite: ME 152A. Open to ME majors only.
+Incompressible viscous flow. Turbomachinery. Boundary-layer theory. Introductory considerations for one-dimensional compressible flow.
+ME 153. Introduction to Mechanical Engineering Design 
+(3) BELTZ, TURNER, HAWKES 
+Prerequisite: ME 10 and 16; open to ME majors only.
+Enrollment Comments: Course materials fee required.
+Design of systems using mechanics, stress analysis and finite elements. Statistical problems in manufacturing and reliability. Ethics. One paper design project plus the ASME student design project.
+ME 154. Design and Analysis of Structures 
+(3) MCMEEKING 
+Prerequisite: ME 15 with a minimum grade of C-; and, ME 16 with a minimum grade of C-; open to ME majors only.
+Introductory course in structural analysis and design. The theories of matrix structural analysis and finite element analysis for the solution of analytical and design problems in structures are emphasized. Lecture material includes structural theory compatibility method, slope deflection method, displacement method, and virtual work. Topics include applications to bars, beams, trusses, frames, and solids.
+ME 155A. Control System Design 
+(3) BAMIEH, BULLO 
+Prerequisite: ME 17 with a minimum grade of C-; ME 104; ME 163.
+The discipline of control and its application. Dynamics and feedback. The mathematical models: transfer functions and state space descriptions. Simple control design (PID). Assessment of a control problem, specification, fundamental limitations, codesign of system and control.
+ME 155B. Control System Design 
+(3) BAMIEH 
+Prerequisite: ME 155A.
+Dynamic system modeling using state-space methods, controllability and observability, state-space methods for control design including pole placement, and linear quadratic regulator methods. Observers and observer-based feedback controllers. Sampled-data and digital control. Laboratory exercises using MATLAB for simulation and control design.
+ME 155C. Control Systems Laboratory 
+(3) BAMIEH 
+Prerequisite: ME 155A.
+An advanced lab course with experiments in dynamical systems and feedback control design. Students design, troubleshoot, and perform detailed, multi-session experiments.
+ME 156A. Mechanical Engineering Design - I 
+(3) SUSKO 
+Prerequisite: ME 14, with a minimum grade of C-; and ME 15, with a minimum grade of C-; and MATRL 101 (or MATRL 100B); or consent of instructor. Open to ME majors only
+The rational selection of engineering materials, and the utilization of Ashby- charts, stress, strain, strength, and fatigue failure consideration as applied to the design of machine elements. Lectures also support the development of system design concepts using assigned projects and involve the preparation of engineering reports and drawings.
+ME 156B. Mechanical Engineering Design-II 
+(3) SUSKO 
+Prerequisite: ME 156A. Open to ME majors only.
+Machine elements including gears, bearings and shafts. Joint design and analysis: bolts, rivets, adhesive bonding and welding. Machine dynamics andfatigue. Design reliability and safety. Codes and standards. Topics coveredwill be applies in practical design projects.
+ME 157. Introduction to Multiphysics Simulation 
+(3) MEINHART 
+Prerequisite: Mechanical Engineering 151A-B; and Mechanical Engineering 152A-B; and Mechanical Engineering 140A
+Enrollment Comments: Concurrently offered with ME 257. May not be taken for additional credit bystudents who have completed ME 125CM. May not be taken by students who have completed ME 225CM or ME 257.
+Introduces students to the concepts of multiphysics simulation. Students are introduced to PDE's, associated analytical solutions, and the finite elements method. Multiphysics problems are solved in multiple domains, and with fluid/structure interactions. Each student conducts a project where multiphysics tools are used to explore details of multiphysical processes.
+ME 158. Computer Aided Design and Manufacturing 
+(3) STAFF 
+Prerequisite: ME 10 and ME 156A; open to ME majors only.
+Emphasis on programming, operation and design of automated manufacturing tools. Students learn to program CNC tools to make parts with G&M Code and Mastercam CAM software. Students make parts in hands-on labs using CNC tools, 3D printers and laser cutters. Select topics in automated tool design and construction.
+ME 162. Introduction to Elasticity 
+(3) MCMEEKING, BELTZ 
+Prerequisite: ME 15 and 140A.
+Equations of equilibrium, compatibility, and boundary conditions. Solutionsof two-dimensional problems in rectangular and polar coordinates. Eigen-solutions for the Wedge and Williams' solution for cracks. Stress intensity factors. Extension, torsion, and bending. Energy theorems. Introduction to wave propagation in elastic solids.
+ME 163. Engineering Mechanics: Vibrations 
+(3) MEZIC 
+Prerequisite: ME 16 with a minimum grade of C-; open to ME majors only.
+Enrollment Comments: Not open for credit to students who have completed ME 163B.
+Topics relating to vibration in mechanical systems; exact and approximate methods of analysis, matrix methods, generalized coordinates and Lagrange's equations, applications of systems. Basic feedback systems and controlled dynamic behavior.
+ME 166. Advanced Strength of Materials 
+(3) DALY 
+Prerequisite: ME 15.
+Analysis of statically determinate and indeterminate systems using integration, area moment, and energy methods. Beams on elastic foundations,curved beams stress concentrations, fatigue, and theories of failure for ductile and brittle materials. Photoelasticity and other experimental techniques are covered, as well as methods of interpreting in-service failures.
+ME 167. Structural Analysis 
+(3) YANG 
+Prerequisite: ME 15
+Enrollment Comments: May not be taken for additional credit by students who have completed ME W 167.
+Presents introductory matrix methods for analysis of structures. Topics include review of matrix algebra and linear equations, basic structural theorems including the principle of superposition and energy theorems, truss bar, bean and plane frame elements, and programming techniques to realize these concepts.
+ME 169. Nonlinear Phenomena 
+(4) MOEHLIS 
+Prerequisite: Physics 105A or Physics 103; or ME 163 or upper-division standing in ECE.
+Enrollment Comments: Same course as ECE 183 and Physics 106. Not open for credit to students who have completed ECE 163C.
+An introduction to nonlinear phenomena. Flows and bifurcations in one and two dimensions, chaos, fractals, strange attractors. Applications to physics, engineering, chemistry, and biology.
+ME 179D. Introduction to Robotics: Dynamics and Control 
+(4) BYL 
+Prerequisite: ECE 130A or ME 155A (may be taken concurrently)
+Dynamic modeling and control methods for robotic systems. Lagrangian method for deriving equations of motion, introduction to the Jacobian, and modeling and control of forces and contact dynamics at a robotic end effector. Laboratories encourage a problem-solving approach to control.
+ME 179L. Introduction to Robotics: Design Laboratory 
+(4) STAFF 
+Prerequisite: Engr 3; and ME 6 or ECE 2A. Not open for credit to students who have completed ME 170C or ECE 181C.
+Enrollment Comments: Course materials fee required.
+Design, programming, and testing of mobile robots. Design problems are formulated in terms of robot performance. Students solve electromechanical problems, developing skills in brainstorming, concept selection, spatial reasoning, teamwork and communication. Robots are controlled with micro-controllers using C programming and interfaced to sensors and motors.
+ME 179P. Introduction to Robotics: Planning and Kinematics 
+(4) BULLO 
+Prerequisite: Engr 3; and either ME 17 or ECE 130C (may be taken concurrently). Not open for credit to students who have completed ME 170A or ECE 181A.
+Enrollment Comments: Same course as ECE 179P
+Motion planning and kinematics topics with an emphasis on geometric reasoning, programming and matrix computations. Motion planning: configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics: reference frames, rotations and displacements, kinematic motion models.
+ME 185. Materials in Engineering 
+(3) LEVI 
+Prerequisite: Materials 100B or 101.
+Enrollment Comments: Same course as Materials 185.
+Introduces the student to the main families of materials and the principlesbehind their development, selection, and behavior. Discusses the generic properties of metals, ceramics, polymers, and composites more relevant to structural applications. The relationship of properties to structure and processing is emphasized in every case.
+ME 186. Manufacturing and Materials 
+(3) LEVI 
+Prerequisite: ME 151C; and ME 15; and Materials 101 or Materials 100C
+Enrollment Comments: Same course as Materials 186.
+Introduction to the fundamentals of common manufacturing processes and their interplay with the structure and properties of materials as they are transformed into products. Emphasis on process understanding and the key physical and basic mathematical relationships involved in each of the processes discussed.
+ME 186A. Manufacturing and Materials 
+(3) LEVI 
+Prerequisite: ME 151C; and ME 15; and Materials 101 or Materials 100C
+Enrollment Comments: Same course as Materials 186A.
+Introduction to the fundamentals of common manufacturing processes and their interplay with the structure and properties of materials as they are transformed into products. Emphasis on process understanding and the key physical and basic mathematical relationships involved in each of the processes discussed.
+ME 186B. Introduction to Additive Manufacturing 
+(3) BEGLEY 
+Recommended Preparation: ME/MATRL 186A
+Enrollment Comments: Same course as Materials 186B
+Introduction to additive manufacturing processes: review of manufacturing methods and process selection consideration, economies of production, common additive manufacturing strategies, and brief description of the physics of photopolymerization, extrusion, selective laser melting and e-beam melting fabrication.
+ME 189A. Capstone Mechanical Engineering Design Project 
+(3) SUSKO 
+Prerequisite: ME 105; and ME 151C; and ME 152B; and ME 153; and ME 163; or consent of instructor. Open to ME majors only.
+Enrollment Comments: Designed for majors. Quarters usually offered: Fall. A 3-quarter sequence with grades issued for each quarter. Students may not concurrently enroll in ME 197 and ME 189A-B-C with the same design project. Course materialsfee required.
+Repeat Comments: Course can only be repeated as a full sequence (189A-B-C).
+Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Emphasis on practical, hands-on experience, and the integration of analytical and design skills.
+ME 189B. Capstone Mechanical Engineering Design Project 
+(2) SUSKO, LAGUETTE 
+Prerequisite: ME 189A
+Enrollment Comments: Designed for majors. Quarters usually offered: Winter. A 3-quarter sequencewith grades issued for each quarter. Students may not concurrently enrollin ME 197 and ME 189A-B-C with the same design project. Course materialsfee required.
+Repeat Comments: Course can only be repeated as a full sequence (189A-B-C).
+Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Course emphasizes practical, hands-on experience, and integrates analytical and design skills acquired in the companion ME 156 courses.
+ME 189C. Capstone Mechanical Engineering Design Project 
+(2) LAGUETTE 
+Prerequisite: ME 189A,B
+Enrollment Comments: Designed for majors. Quarters usually offered: Spring. A 3-quarter sequencewith grades issued for each quarter. Students may not concurrently enrollin ME 197 and ME 189A-B-C with the same design project. Course materialsfee required.
+Repeat Comments: Course can only be repeated as a full sequence (189A-B-C).
+Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Course emphasizes practical, hands-on experience, and integrates analytical and design skills acquired in the companion ME 156 courses.
+ME 193. Internship in Industry 
+(1) STAFF 
+Prerequisite: Consent of instructor. Prior departmental approval needed.
+Enrollment Comments: Cannot be used as a departmental elective. May be repeated to a maximum of 2 units.
+Students obtain credit for a mechanical engineering related internship and/or industrial experience under faculty supervision. A 6-10 page written report is required for credit. It may NOT be used to satisfy the engineering elective requirement for ME majors.
+ME 197. Independent Projects in Mechanical Engineering Design 
+(1-4) STAFF 
+Prerequisite: ME 16; consent of instructor.
+Enrollment Comments: May be repeated for a maximum of 12 units. No more than 4 units may be used as departmental electives.
+Special projects in design engineering. Course offers motivated students opportunity to synthesize academic skills by designing and building new machines.
+ME 199. Independent Studies in Mechanical Engineering 
+(1-5) STAFF 
+Prerequisite: Consent of instructor; upper-division standing; completion of two upper-division courses in Mechanical Engineering.
+Enrollment Comments: Students must have a minimum 3.0 grade-point average for the preceding 3 quarters and are limited to 5 units per quarter and 30 units total in all98/99/198/199/199DC/199RA courses combined. May be repeated for credit toa maximum of 12 units but no more than four units may be used as departmental electives.
+Directed individual study.
+Collapse Courses Graduate 
+ME 200. Professional Seminar 
+(1) STAFF 
+Prerequisite: Graduate standing.
+A series of weekly lectures given by university staff and outside experts in all fields of mechanical engineering.
+ME 200P. M.S. Project 
+(3) STAFF 
+Prerequisite: Graduate standing.
+A ten-week individual research project on an advanced topic in mechanical engineering.
+ME 201. Advanced Dynamics 
+(3) MEZIC
+Newton’s laws and symmetries, Newton, Laplace and principle of determinism, qualitative analysis of Newton’s equations of motion, Hamiltonian mechanics, one degree of freedom (DOF) systems, two DOF systems, motion in central fields, application to molecular dynamics, control of classical dynamical systems, Lagrangian mechanics, chaos and ergodic theory, rigid body motion.
+ME 203. Operator Theory Methods in Dynamical Systems 
+(3) MEZIC 
+Prerequisite: ME 201.
+Geometric mechanics, volume-preserving dynamical systems, molecular dynamics; Infinite dimensional dynamics and finite dimensional approximations including incompressible Euler equations and point vortex theory, transport and fluid mixing, control of measure-preserving systems, equilibrium and non- equilibrium statistical mechanics methods for vortex gases.
+ME 207. Faculty Research Seminar 
+(1) STAFF
+A series of bi-weekly presentations given by ladder faculty members to familiarize graduate students with current department research projects. This course is required to be taken by all graduate students within the first year of arrival.
+ME 210A. Matrix Analysis and Computation 
+(4) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some programming language. Same course as Computer Science 211A, ECE 210A, Mathematics 206A, Chemical Engineering 211A, and Geology 251A.
+Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.
+ME 210B. Numerical Simulation 
+(4) PETZOLD 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some programming language. Same course as Computer Science 211B, ECE 210B, Mathematics 206B, and Chemical Engineering 211B and Geology 251B.
+Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. numerical solution of boundary value problems.
+ME 210C. Numerical Solution of Partial Differential Equations--Finite Difference Methods. 
+(4) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some programming language. Same course as Computer Science 211C, ECE 210C, Mathematics 206C, Chemical Engineering 211C, and Geolgy 251C.
+Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.
+ME 210D. Numerical Solution of Partial Differential Equations - Finite Element Methods 
+(4) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Students should be proficient in basic numerical methods, linear algebra, mathematically rigorous proofs, and some programming language. Same course as Computer Science 211D, ECE 210D, Mathematics 206D, Chemical Engineering 211D, and Geology 251D.
+Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptical partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.
+ME 211. Pattern Formation and Self-Organization 
+(3) CAMPAS
+Introductory course to the processes of pattern formation and self- organization in natural systems (physical and biological systems), as well as in engineering. The goal of the course is to explain how ordered spatial structures appear in different systems. We will discuss the common aspects and the differences in the mechanisms that establish the patterns, and introduce various techniques used in different disciplines to study the formation of spatially extended structures.
+ME 215A. Applied Dynamical Systems I 
+(3) MOEHLIS 
+Prerequisite: Graduate standing.
+Phase-plane methods, non-linear oscillators, stability of fixed points and periodic orbits, invariant manifolds, structural stability, normal form theory, local bifurcations for vector fields and maps, applications from engineering, physics, chemistry, and biology.
+ME 215B. Applied Dynamical Systems II 
+(3) MOEHLIS 
+Prerequisite: ME 215A; graduate standing.
+Local codimension two bifurcations, global bifurcations, chaos for vector fields and maps, Smale horshoe, symbolic dynamics, strange attractors, universality, bifyrcation with symmetry, perturbation theory and averaging, Melnikov's method, canards, applications from engineering, physics, chemistry, and biology.
+ME 216. Level Set Methods 
+(4) GIBOU 
+Prerequisite: CMPSC 211C or CH E 211C or ECE 210C or ME 210C.
+Enrollment Comments: Same course as CH E 226, ECE 226, and CMPSC 216.
+Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applications in CFD, Materials Sciences, Computer Vision and Computer Graphics.
+ME 219. Mechanics of Materials 
+(3) MCMEEKING, BEGLEY, BELTZ
+Enrollment Comments: Same course as Materials 207.
+Matrices and tensors, stress and deformation, compatibility and equilibrium conditions, constitutive equations, and boundary conditions, applications in elasticity, plasticity and fracture.
+ME 220A. Fundamentals of Fluid Mechanics 
+(3) STAFF
+Introductory course in fluid mechanics. Basic equations of motion (continuity, momentum, energy, vorticity), coordinate transformations, "potential" flow, thin airfoil theory, conformal mapping, vortex dynamics, boundary layers, stability theory, laminar/turbulent transition, turbulence. Inviscid/viscid, irrotational/rotational, incompressible/ compressible flow examples.
+ME 220B. Fundamentals of Fluid Mechanics 
+(3) STAFF 
+Prerequisite: ME 151A-B and ME 152A-B.
+Introductory course in fluid mechanics. Basic equations of motion (continuity, momentum, energy, vorticity), coordinate transformations, "potential" flow, this airfoil theory, conformal mapping, vortex dynamics, boundary layers, stability theory, laminar/turbulent transition, turbulence.
+ME 221. Advanced Viscous Flow 
+(3) STAFF 
+Prerequisite: ME 220A.
+Review the Navier-Stokes equations in velocity, pressure, and vorticity variables. Analyze details of important low and moderate reynolds number flow applications and then high reynolds number flows with boundary layer phenomena. Compare exact, approximate, numerical, and experimental solutionmethods.
+ME 225AAZZ. Special Topics in Mechanical Engineering 
+(3) STAFF 
+Prerequisite: Consent of instructor.
+Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.
+ME 225EY. Special Topics in Biological Computing 
+ME 225SD. Special Topics: Mechanics & Measurement 
+ME 230. Elasticity and Plasticity 
+(3) MCMEEKING, BEGLEY 
+Prerequisite: ME 219 or MATRL 207
+Enrollment Comments: Same course as Materials 230.
+Review field equations of elasticity and plasticity. Energy principles and uniqueness theorems. Elementary problems in one and two dimensions, stress functions, and complex variable methods. Plastic stress-strain laws; flow potentials. Torsion and bending of plastic flow, slip line theory. Bounding theorems.
+ME 232. Plasticity 
+(3) STAFF 
+Prerequisite: ME 219.
+Enrollment Comments: Same course as Materials 232.
+Plastic, creep, and relaxation behavior of solids. Mechanics of inelastically strained bodies; plastic stress-strain laws; flow potentials.Torsion and bending of prismatic bars, expansion of thick shells, plane plastic flow, slip line theory. Variational formulations, approximate methods.
+ME 233A. Design of Composite Structures 
+(3) STAFF 
+Prerequisite: ME 230 or ME 275A.
+Emphasis is placed on the differences of design with composites vis a vis the design of conventional metallic structures. The content is directed at the class of polymermatrix composites.
+ME 236. Nonlinear Control Systems 
+(4) TEEL 
+Recommended Preparation: ECE 230A.
+Enrollment Comments: Same course as ECE 236.
+Analysis and design of nonlinear control systems. Focus on Lyapunov stability theory, with sufficient time devoted to contrasts between linear and nonlinear systems, input- output stability and the describing function method.
+ME 238. Advanced Control Design Laboratory 
+(4) STAFF 
+Prerequisite: ME 243A/ECE 230A and at least one class among the following: ME 243B/ECE 230B, ME 236/ECE 236, ME 256/ECE 232, or ME 254/ECE 271C.
+A laboratory course requiring students to design and implement advanced control systems on a physical experiment. Experiments from any engineering or scientific discipline are chosen by the student.
+ME 243A. Linear Systems I 
+(4) BAMIEH 
+Prerequisite: ECE 210A.
+Enrollment Comments: Same course as ECE 230A.
+Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Distribance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The seperation theorem; LQG compensator design. Computational considerations. Selected additional topics.
+ME 243B. Linear Systems II 
+(4) BAMIEH 
+Prerequisite: ECE 140; 230A or ME 243A; and ME 210A.
+Enrollment Comments: Same course as ECE 230B.
+Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Distribance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The seperation theorem; LQG compensator design. Computational considerations. Selected additional topics.
+ME 244A. Advanced Theoretical Methods in Engineering 
+(4) FREDRICKSON 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Same course as Chemical Engineering 230A.
+Methods of solution of partial differential equations and boundary value problems. Linear vector and function spaces, generalized fourier analysis, Sturm-Liouville theory, calculus of variations, and conformal mapping techniques.
+ME 244B. Advanced Theoretical Methods in Engineering 
+(3) STAFF 
+Prerequisite: Mechanical Engineering 244A and consent of instructor.
+Enrollment Comments: Same course as Chemical Engineering 230B.
+Advanced mathematical methods for engineers and scientists. Complex analysis, integral equations and Green's functions. Asymptotic analysis of integrals and sums. Boundary layer methods and WKB theory.
+ME 245. Modeling and Control of Spatially Distributed Systems 
+(4) BAMIEH 
+Prerequisite: ME 243B or ECE 230B or consent of instructor.
+Modeling, dynamics, and control of spatially distributed systems described by partial differential equations or dynamical systems on lattices. The emphasis is on linear, constructive, and algebraic techniques, with motivation from physical examples such as oscillator networks and hydrodynamic stability.
+ME 246. Molecular and Cellular Biomechanics 
+(3) VALENTINE
+Enrollment Comments: Concurrently offered with ME 146. Quarters usually offered: Fall.
+Course introduces fundamental concepts in molecular and cellular biomechanics. Will consider the role of physical, thermal and chemical forces, examine their influence on cell strength and elasticity, and explore the properties of enzymatically-active materials.
+ME 252A. Computational Fluid Dynamics 
+(3) STAFF 
+Prerequisite: ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or ChemicaEngineering 211C.
+Numerical simulation of fluid flows. Basic discretization techniques for parabolic, elliptic, and hyperbolic conservation laws. Stability and accuracy. Diffusion equation, linear convection equation.
+ME 252B. Computational Fluid Dynamics 
+(3) STAFF 
+Prerequisite: ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or ChemicaEngineering 211C.
+Discussion of appropriate boundary conditions. Nonlinear convection dominated problems, curvilinear coordinates, basics of grid generation. Inviscid flow, boundary layer flow, incompressible Navier-Stokes flows.
+ME 256. Introductory Robust Control with Applications 
+(4) STAFF 
+Prerequisite: ECE 230A or ME 255A; and, ECE 230B or ME 243B (may be taken concurrently).
+Enrollment Comments: Same course as ECE 232.
+Robust Control theory; uncertainty modeling; stability of systems in the presence of norm-bounded perturbations; induced norm performance problems; structured singular value analysis; H-infinity control theory; model reduction; computer simulation based design project involving practical problems.
+ME 257. Introduction to Multiphysics Simulation 
+(3) MEINHART
+Enrollment Comments: Concurrently offered with ME 157.
+Introduces students to the concepts of multiphysics simulation. Students are introduced to PDE's, associated analytical solutions, and the finite element method. Multiphysics problems are solved in multiple domains, and with fluid/structure interactions. Each student conducts a project where multiphysics tools are used to explore details of multiphysical processes.
+ME 264. Mechanical Behavior of Materials 
+(3) ZOK, ODETTE 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Same course as Materials 220.
+Concepts of stress and strain. Deformation of metals, polymers, and ceramics. Elasticity, viscoelasticity, plasitc flow, and creep. Linear elastic fracture mechanics. Mechanisms of ductile and brittle fracture.
+ME 265. Composite Materials 
+(3) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Same course as Materials 261.
+Stress and strain relations in composites. Residual stresses. The fracture resistance of organic and inorganic matrix composites. Statistical aspects of fiber failure. Composite laminates and delamination cracks. Cumulative damage concepts. Interface properties. Design criteria.
+ME 267. Thin Films and Multilayers 
+(3) BEGLEY 
+Prerequisite: Materials 207 (same course as ME 219); consent of instructor
+The development of stresses in thin films and its relaxation. Edge effects and discontinuities. Cracks in films and at interfaces. Delamination of residually stressed films. Buckling and buckle propagation of compressed films. Cyclic behavior and ratcheting effects.
+ME 269. Network Systems: Dynamics and Control 
+(4) BULLO
+Motivating socio/economic networks, power grids, multi- agent robotics. Perron- Frobenius matrix theory and algebraic graph theory. Fundamental dynamics in networks: averaging dynamics in discrete and continuous time; positive and compartmental systems; robotic coordination problems; coupled oscillator systems; virus propagation models; population dynamic models.
+ME 271. Finite Element Structural Analysis 
+(3) BEGLEY 
+Prerequisite: ME 219.
+Enrollment Comments: Same course as Materials 240.
+Definitions and basic element operations displacement approach in linear elasticity. Element formulation: direct methods and variational methods. Global analysis procedures: assemblage and solution. Plane stress and plane strain. Solids of revolution and general solids. Isoparametric representation and numerical integration. Computer implementation.
+ME 275. Fracture Mechanics 
+(3) STAFF 
+Prerequisite: ME 219.
+Enrollment Comments: Same course as Materials 234.
+Analytic solutions of a stationary crack under static loading. Elastic and elastoplastic analysis. The J integral. Energy balance and crack growth. Criteria for crack initiation and growth. Dynamic crack propagation. Fatigue. The micromechanics of fracture.
+ME 291A. Physics of Transducers 
+(3) SOH 
+Prerequisite: Graduate standing. 
+Recommended Preparation: ECE 220 (may be taken concurrently).
+The use of concepts in electromagnetic theory and solid state physics to describe capacitive, piezoresistive, piezoelectric and tunneling transduction mechanisms and analyze their applications in microsystems technology.
+ME 292. Design of Transducers 
+(3) PENNATHUR, TURNER 
+Prerequisite: graduate standing
+Design issues associated with microscale transduction. Electrodynamics, linear and nonlinear mechanical behavior, sensing methods, MEMS-specific fabrication rules, and layout are all covered. Modeling techniques for electromechanical systems are also discussed.
+ME 295. Group Studies: Controls, Dynamical Systems, and Computation 
+(1) STAFF
+Enrollment Comments: Same course as ECE 295, Computer Science 592, and Chemical Engineering 295.
+A series of weekly lectures given by university staff and outside experts in the fields of control systems, dynamical systems, and computation.
+ME 501. Teaching Assistant Practicum 
+(1-4) STAFF
+Enrollment Comments: Normally required of students serving as teaching assistants. No unit credit allowed towards advanced degree.
+Practical experience in the various activities associated with teaching, including lecturing, supervision of laboratories and discussion sections, preparation and grading of homework and exams.
+ME 503. Research Assistant Practicum 
+(1-4) STAFF
+Enrollment Comments: Will not count as unit credit towards M.S. or Ph.D. degree in mechanical engineering.
+Practical experience in the various activities associated with research, including experimental work, theoretical work and analyses, and assisting department faculty and other professional researchers in their duties.
+ME 596. Directed Research 
+(1-12) STAFF 
+Prerequisite: Consent of instructor.
+Enrollment Comments: Not applicable to course requirement for M.S. or Ph.D. degree. S/U grading.
+Experimental or theoretical research undertaken under the direction of a faculty member for graduate students who have not yet advanced to candidacy.
+ME 597. Individual Study for Ph.D. Qualifying Examination 
+(1-12) STAFF 
+Prerequisite: Graduate standing.
+Enrollment Comments: No unit credit allowed toward advanced degree. Maximum of 12 units per quarter; enrollment limited to 24 units per examination. Instructor is normallystudent's major advisor. S/U grading.
+Individual studies for ph.d. qualifying examination.
+ME 598. Master's Thesis Research and Preparation 
+(1-12) STAFF 
+Prerequisite: Consent of thesis adviser.
+Enrollment Comments: No unit credit allowed toward advanced degree.
+For research underlying the thesis and writing of the thesis.
+ME 599. Ph.D. Dissertation Research and Preparation 
+(1-12) STAFF 
+Prerequisite: Consent of dissertation adviser.
+Enrollment Comments: No unit credit allowed toward advanced degree.
+For research and preparation of the dissertation.
+
+ 
+Mechanical Engineering (Online)  (Show All | Hide All)
+Collapse Courses Upper Division 
+ME W 167. Structural Analysis 
+(3) YANG 
+Prerequisite: ME 15
+Enrollment Comments: May not be taken for additional credit by students who have completed ME 167.
+Presents introductory matrix methods for analysis of structures. Topics include review of matrix algebra and linear equations, basic structural theorems including the principle of superposition and energy theorems, truss bar, bean and plane frame elements, and programming techniques to realize these concepts.

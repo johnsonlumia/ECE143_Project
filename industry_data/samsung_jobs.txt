@@ -1,0 +1,316 @@
+DevOps Infrastructure Engineer
+
+Samsung Smart Machines Group is a new initiative focused on innovation to support the future of transportation and mobility. We are concentrated on disruptive technologies that are relevant to the automotive industry such as Autonomous and Self-Driving Cars, Connectivity, Electrification, and User Experience. The Smart Machines initiative is part of the newly established Samsung Strategy and Innovation Center, which was created to bring new game changing products to market leveraging Samsung’s best in class technologies as well as Samsung Ventures America and Samsung Catalyst Fund. The Smart Machines group is empowered to deploy internal technologies and apply open innovation through development, investment and partnership with innovators around the world.
+
+Responsibilities:
+• Define a infrastructure for a global multi site organization (includes some travel)
+• Exponentially growing group attacking hard infrastructure issues in self driving cars and machine learning
+• Ability to create these systems from the ground upRequirements:
+• Configuration Management (Puppet Required)
+• Cloud Computing (OpenStack, AWS, or Docker Required
+• Monitoring/Performance Analysis
+• Scripting (Bash Required, Python optional)
+• Source Control (Git Required)
+• Operating Systems (Ubuntu and CentOS/RedHat Required)
+• Binary Repository Management (Artifactory)
+• Advanced Troubleshooting Skills
+• Ability to work with others in collaborative fashionImmediate Tasks:
+• Refine backup and restore procedures ensuring repeatable infrastructure
+• Scale infrastructure for global rollout
+• Deploy new services and ensure scalability of existing systems
+
+Software Development Engineer (Cinematic & HDR Content Player Development)
+Title: Software Development Engineer (Cinematic & HDR Content Player Development) Audio and Video Solutions
+
+Company: Samsung Research America (SRA)
+
+Lab: Digital Media Solutions Lab
+
+Location: Irvine, CA
+
+Lab Summary: The Digital Media Solutions Lab at Samsung Research America is developing innovative and advanced core technologies related to video and audio systems.
+
+Position Summary: Developing/Integrating Audio/Video Solutions architected by our Video Algorithm team.
+
+Responsibilities Include
+
+Develop Cinematic & HDR Content Player Development
+
+Quickly prototype new ideas/technologies to create proof of concept and demos (e.g. Develop new framework for Studio Demonstration).
+
+Analyze any available sources to find bugs and make enhancements in the code.
+
+Evaluate and recommend best software designs and architecture.
+
+Effectively communicate and support other global engineering teams.
+
+Experience Requirements
+
+BS in Computer Science/Engineering/MS and/or PhD preferred
+
+0-5+ years of experience in system level software development
+Solid C and C++ coding abilities (Note: Strong C++ skill is a MUST) Familiarity with Media Player
+
+Preferred Qualifications
+
+Familiar with Open Sources such as FFMPEG Familiar with Color Management & Video Processing Algorithm.
+
+Excellent communication and organizational skills. Strong problem solving skills, proactive, and willing to take ownership.
+
+Plus
+Development experience with DCP player development Development; experience using QT development environment; Development experience using OpenCL to optimize video algorithms
+
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace
+
+IoT Cloud Software Engineer Intern
+Overview: The IoT Cloud Lab at Samsung Research America (SRA) plays a pivotal role in developing the next generation of Internet-of-Things (IoT) products and platform. Our mission is to deliver high performance cloud-native services and continuously enrich the experience our users and customers have with connected objects. Headquartered in Silicon Valley, with locations in many technology centers in North America, SRA is driven to build a culture of innovation that rapidly translates research and new ideas into the unexpected.
+
+Why Samsung?
+
+Come and get real world experience developing innovative solutions at a global leader in the IoT revolution! Samsung internships enhance your academic goals by providing the opportunity to gain hands-on experience and apply learned theory on real commercial projects.
+
+Position Overview: The primary mission will be to develop, enhance and fix back-end cloud services that are used in our IoT commercial platform. As an intern, you will join a scrum team that owns a number of microservices and is responsible for delivering and maintaining them in production. As such, areas of focus will be: implementation of new services, modifications of news services, APIs, micro services, secure and high-quality coding, testing, performance, scalability, resiliency, AWS.
+
+Desired Skills & Experience
+• BS/MS in Computer Science
+• Java, Scala, MySQL
+• Cloud native, micro services engineering
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace
+Software Engineer, Cloud (10/2018)
+
+This is a great opportunity for a talented and passionate software engineer to join newly formed Samsung Knox Cloud team to build the next generation secure cloud services for the world’s best-selling mobile devices. Come join Samsung Knox Cloud team to define and build the future of smartphones and services!
+
+This Is An Exciting Area For Samsung
+
+The Samsung Knox group is looking for world class software engineers to join our technology innovation group focused on the rapid development of cloud based end-to-end mobile applications and services.
+
+Cloud based service platforms and infrastructure to support mobility.
+
+Responsibilities
+• Design and develop front-end applications, REST APIs, scripts, tools, and back-end systems for various
+Samsung Knox Cloud service developments and operations
+• Write, document, test, deploy, maintain, improve, and fix software codes
+Minimum Qualifications
+• BS in Computer Science, similar field of study, or equivalent experience
+• Strong data structure and algorithm skills
+• Enjoy programming and passionate about software development and engineering
+• Experience building multi-tier web and mobile applications, distributed and parallel systems, or information
+process and retrieval systems
+
+Preferred Qualifications
+• MS or PhD in Computer Science or similar technical field
+• Proficiency in one of general purpose programming languages including but not limited to Java, Javascript,
+Clojure, Scala, Go, or Python
+• Working knowledge in relational or non-relational database such as MySQL, Mongo, and Couchbase
+• Working knowledge in web application framework including but not limited to React, Redux, AngularJS,
+Spring Cloud, or Node.js
+• Proficiency in AWS stacks – EC2, S3, API Gateway, Lambda, RedShift, Kinesis, SNS, SES, R53, Cloud
+Front, Aurora, Dynamo, QuickSight
+
+Fall 2019 Machine Learning Engineer Intern
+
+Lab Summary: The Think Tank Team is an interdisciplinary collective of researchers, designers, scientists and engineers located in Mountain View, CA. Our mandate is to explore what’s next for Samsung through a unique mix of research, early product development, and encompassing approach – and we have a strong track record of driving concepts to production. Our team members represent a diverse skillset, including electrical engineering, computer engineering, signal processing, machine learning, computer vision, visual design, interaction design, industrial design, optics, physics, and more from top-notch institutions such as MIT, Stanford, CMU, Oxford and others. You can learn about a fraction of our work at http://thinktankteam.info/.
+
+We want to create products that will impact the lives of millions, and we believe that the first step on the path is to show real prototypes. We work on a wide variety of time scales, advancing science to working technology, developing new products, and creating new experiences. We believe that design and creativity are core duties of every member of our team.
+
+Position Summary
+
+The position requires frequent collaboration with colleagues. Employee will be required to work on-site in our Mountain View offices.
+
+Responsibilities Include
+• Participate in cutting edge research in machine intelligence and machine learning applications. Leverage expertise from ML research and develop novel predictive models/algorithms
+• Develop solutions and algorithms that can be applied in variety of real-world applications and devices.
+• Work closely with researchers and engineers from variety of disciplines to develop new algorithms, product concepts and core-technologies that will bring new business opportunities to Samsung.
+
+Experience Requirements
+• You must be passionate about creating new devices and technologies, and ready to learn on the fly, solve complex problems, work closely with others, and creatively approach design and engineering tasks at all scales. We believe a person’s work speaks for itself, and welcome everyone with the right drive, attitude, and skills.
+• MS/PhD degree in Computer Science or related technical field or equivalent practical experience.
+• Experience with one or more general purpose programming languages including but not limited to: Java, C/C++ or Python.
+• Experience with one or more machine learning methods such as SVMs, logistic regression, boosting, decision trees, clustering, HMMs etc.
+• Experience with current state-of-the-art methods from machine learning & deep learning libraries such as TensorFlow, Caffe, Scikit-Learn, Scipy, Pandas, Torch and others.
+• Experience with the design and creation of custom novel features in order to improve baseline algorithms.
+• Solid understanding of proper evaluation including folds, cross-validation and metrics.
+• Experience with one or more of the following: Deep Learning, classification optimization, data mining, recommendation systems, regression, clustering and others.
+• Flexibility to deal with rapidly changing environment.
+• Prior experience of developing/porting machine learning applications to Android is a major plus.
+• Prior experience with signal processing from sensor data is a plus.
+
+Full Stack Engineer (UI)
+
+Samsung Design Innovation Center (SDIC) located in San Francisco, CA is looking for a UI Full Stack Engineer who shares our “innovation through passion” philosophy and thrives in a fast-pace, results-driven environment.
+
+Core Competencies
+• Full stack engineering
+• Strong technical skills to assess feasibility of various novel UX concepts, evaluate challenges and opportunities based on Samsung’s platform architecture.
+• Experience in writing server and client based applications or services
+• Strong experience and hands-on skills in UX-driven application software development
+• Experience in Cross-platform development (mobile, web, IoT, VR)
+• In-depth functional knowledge in developing concepts into finished products
+
+Responsibilities
+• Writing functional requirements, architecting platforms and frameworks, determine technical specifications, direct and perform feasibility studies for cutting edge consumer electronics experiences
+• Design and develop applications and software service prototypes
+• Advise the UX design team on design direction and outcomes based on wealth of industry experience
+• Available to work overtime when needed
+
+Education
+• Bachelor’s Degree in Computer Science or Computer Engineering
+• Master’s Degree preferred
+
+Skills Required
+• 5+ years of hands-on experience in full-stack development of front-end and back-end services
+• A solid foundation in Computer Science fundamentals- data structures, algorithms and software design
+• Expert in application and software service programming languages (Java, C++, Python, C#)
+• Work closely with product team to define feature priorities and project milestones
+• Experience in full stack software development, from operating system, to application software, to client-server software and network, to server-side development
+• APIs, high-performance back-end applications, database design, and deployment architecture
+• Contribute to software architecture discussions and decisions
+• Extensive experience in prototyping software products in a cross-disciplinary team tasked with defining and designing new product categories and connected services
+• Experience with frontend technologies like HTML, DOM, CSS,JS, React
+• Familiarity with networking, sockets, protocols, server infrastructures and hosting environments
+
+Years Of Experience
+• 5+ years of industry experience
+
+Travel
+• International and Domestic travel is required
+
+Deep Learning/AI Engineer
+
+The Smart Machines team at Samsung Strategy and Innovation Center (SSIC) is seeking a talented, highly motivated individual to join our Autonomous Mobility R&D group. In this team, you will be responsible for creating cutting-edge technologies that can significantly enhance the ability of smart mobile machines to safely and efficiently understand and navigate complex real-world environments. You will also work on efficient software and hardware implementations on current and/or upcoming Samsung product platforms. The Smart Machines team is the fastest growing team at SSIC and is composed of talented and entrepreneurial people, in our own location, with the vibrant feel of a startup. We are squarely targeting the rapidly evolving multi-trillion dollar automotive industry.
+
+The Samsung AI Lab (SAIL) team at Samsung Strategy and Innovation Center (SSIC) is seeking a talented, highly motivated individual to join our Autonomous Mobility R&D group. In this team you will be responsible for creating cutting-edge technologies that can significantly enhance the ability of smart mobile machines to safely and efficiently understand and navigate complex real-world environments. You will also work on efficient software and hardware implementations on current and/or upcoming Samsung product platforms. The Smart Machines team is the fastest growing team at SSIC and is composed of talented and entrepreneurial people, in our own location, with the vibrant feel of a startup. We are squarely targeting the rapidly evolving multi-trillion dollar automotive industry.
+
+As a Deep Learning Engineer you will be responsible for supporting the team in developing, implementing, and training deep learning algorithms and architectures to enable an autonomous vehicle to perceive and interact with its environment. You will be working with a team of talented individuals integrating your work into our cutting-edge platforms. As part of our team, you will be able to work with partners developing the next wave of deep learning hardware, allowing both training and inference at larger scales than ever before. We are looking for a driven individual who is ready to work with a team of the best and brightest at Samsung to develop the next generation of Smart Machines.
+
+Responsibilities:
+• Support our development and training of deep neural network architectures to power the next generation of autonomous driving
+• Develop deep learned algorithms using modern frameworks for object detection, tracking, segmentation, and other related perception tasks
+• Collaborate with technical and non-technical team members to build full-stack autonomous solutions
+• Work with hardware and software partners to develop cutting-edge platforms for training and inference
+• Perform other duties as necessary for completion of projects and achievement of goals.
+
+Education:
+• MS/PhD degree in Deep Learning, Machine Learning or related field
+• Research experience and publications in the field of Deep Learning
+
+Qualifications:
+• Experience with the following Neural Network families: CNN, FCN, RNN/LSTM, GAN (preferred)
+• Experience with one or more of the following frameworks: Tensorflow, Caffe/Caffe2, PyTorch
+• Experience in C++, Python, and/or MATLAB
+• Experience with software engineering tools and linux environment (e.g., Git, CMake, CI, gdb, etc)
+• Able to work with Linux, OSX
+
+Software Engineer- Computer Graphics
+
+Samsung Electronics is a global leader in mobile and digital media technologies. Through relentless innovation and discovery, we are transforming the way customers around the world experience mobile technology.
+
+At the Mountain View Mobile R&D lab, we move Samsung forward by solving some of the most difficult challenges facing the business: Dramatic performance improvements in the core platform, prototyping next-generation products, and developing mobile applications appreciated by consumers around the world. Our Engineers have the unique opportunity to both contribute to globally distributed products and explore cutting-edge technologies.
+
+Key Responsibilities:
+
+Design, develop, document, and test software within the Computer Graphics/Platform Team
+
+Research new developments in the industry
+
+Participate in brainstorming sessions
+
+Qualifications:
+
+BS/MS in Computer Science, Electrical Engineering, or related field
+
+Experience with 3D graphics libraries (OpenGL ES2/3, GLSL)
+
+Experience with 3D visualization.
+
+Knowledge of Loading various 3D file formats, including X3D.
+
+Experience with 3D Scene Graphs and other 3D scene management systems.
+
+Strong programming experience in C, C++, Java
+
+Knowledge of algorithms
+
+Other Desirable Traits:
+
+Experience in Android or other mobile platforms.
+
+Experience in Virtual Reality.
+
+Experience in Augmented Reality.
+
+Strong oral and written communication skills
+
+Self-starter who also thrives in a team environment
+
+Attention to detail and a commitment to quality
+
+Compiler Engineer (ACL)
+
+Samsung is a world leader in Memory, LCD and System LSI technologies. We are currently looking for exceptional software and hardware talent to join our Samsung Austin R & D Center (SARC) in Austin, TX and our Advanced Computing Lab (ACL) in San Jose, CA. SARC was established in Austin, TX in 2010 to be one of Samsung’s strategic investments in high performance low power ARM based device technology. Our CPU design teams develop IP for Samsung mobile products and their Application Processor (AP). Our GPU design teams, located in Austin (SARC) and San Jose (ACL), are developing a custom GPU that will be deployed in Samsung mobile products.
+
+Responsibilities
+• Design and implement world class JIT compiler for new Samsung GPU architecture targeting OpenGL-ES and OpenCL. Architect IR and global JIT infrastructure. Select and implement set of relevant optimizations, both at machine specific and machine independent levels, determine and implement code generation strategies (adaptive compilation, run-time feedback).
+• Work closely with driver team to integrate JIT into driver infrastructure and determine compilation strategies for good performance and low power.
+• Work closely with GPU architecture team to provide timely input on ISA and various architectural design decisions
+• Determine compiler testing strategies, both for unit test and application levels. Interact with the driver team to have unified testing approach.
+
+Background & Experience
+• 3+ years of experience with an MS/PhD CS/EE/Applied math or relevant field
+
+Skills
+• Strong software design / engineering skills, C, C++, excellent debugging skills
+• Performance analysis
+• Good communication skills, strong team work
+• Understanding of debug support
+• Working knowledge of compiler technology, hands on experience in one of the following:
+• Register allocation, instruction scheduling, graphics specific optimizations, SIMD relevant control flow and code placement optimizations, classic machine independent optimizations preferably on low level IRs
+• Additional skills: compiler development for mobile architectures, knowledge of Android, knowledge of OpenGL/OpenGL-ES or DX. Knowledge of OpenCL, Clang, LLVM, practical experience in developing JIT compilers, practical experience in developing compilers for shading languages. Knowledge of GLSL or HLSL languages.
+
+Samsung provides Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, status as a protected veteran, genetic information, status as a qualified individual with a disability or any other characteristic protected by law
+
+MPS-Software Engineer Internship
+
+We are looking for interns to join our team to work on cutting edge technologies in AI and cloud technologies with our mobile platform team.
+
+Required
+• Passion in technologies and innovation, strong problem solving skills.
+• Solid fundamentals in Computer Science and math inclined.
+• Proficient in at least two programming languages - Java, Python, C++, Lua
+
+Preferred
+• Knowledge in machine learning framework - Tensorflow, Caffe, Torch or Theano
+• Knowledge in Android development
+• Graduate students or college seniors.
+
+Software Engineering New College Grads
+
+Position Summary
+
+Seeking software engineers with a strong background in C++ based web, mobile or computing architecture applications- various graphics driver, and compute algorithms relevant to mobile GPU’s. Depending on your area of interest and expertise, you’ll work on CPU or GPU projects in the areas of: simulation architecture, performance modeling/ analysis, modeling framework design development, software optimization, modeling infrastructure and tools.
+
+Role and Responsibilities
+
+Samsung is a world leader in Memory, LCD and System LSI technologies. We are currently looking for exceptional software and hardware talent to join our Samsung Austin R & D Center (SARC) in Austin, TX and our Advanced Computing Lab (ACL) in San Jose, CA. SARC was established in Austin, TX in 2010 to be one of Samsung’s strategic investments in high performance low power ARM based device technology. Our CPU design teams develop IP for Samsung mobile products and their Application Processor (AP). Our GPU design teams, located in Austin (SARC) and San Jose (ACL), are developing a custom GPU that will be deployed in Samsung mobile products.
+
+We are seeking software engineers with a strong background in C++ based web, mobile or computing architecture applications- various graphics driver, and compute algorithms relevant to mobile GPU’s. Depending on your area of interest and expertise, you’ll work on CPU or GPU projects in the areas of: simulation architecture, performance modeling/ analysis, modeling framework design development, software optimization, modeling infrastructure and tools.
+
+Experience Requirements:
+• BSECE/CS or related field of study with a minimum of 3.5 GPA
+• Strong programming skills in C++, algorithms, data structures, and scripting languages
+• Knowledge of OGL API, OGL app development, OCL API and GPGPU compute
+• High level shading language, e.g. HLSL, GLSL
+• Simulation, modeling
+• Understanding of debug support
+• Knowledge of games engines, benchmarks, key applications, popular graphics architectures
+
+Skills and Qualifications
+
+• Learns to use professional concepts. Applies company policies and procedures to resolve routine issues
+
+• Works on problems of limited scope. Follows standard practices and procedures
+
+• Normally receives detailed instructions on all work
+
+• Typical entry point for university graduates
+• Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page.

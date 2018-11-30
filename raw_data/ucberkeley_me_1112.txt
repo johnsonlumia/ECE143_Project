@@ -1,0 +1,1768 @@
+Mechanical
+Engineering
+(College of Engineering)
+Department Office: 6195 Etcheverry Hall, (510) 642-1338
+me.berkeley.edu
+Chair: David A. Dornfeld, Ph.D.
+Professors
+Alice M. Agogino (The Roscoe and Elizabeth Hughes Chair
+in Mechanical Engineering), Ph.D. Stanford University.
+Decision and expert systems
+Van P. Carey (The A. Richard Newton Chair), Ph.D. State
+University of New York, Buffalo. Transport in multiphase
+systems, thermophysics of phase-change processes
+James Casey, Ph.D. University of California, Berkeley.
+Continuum mechanics
+Juh-Yuan Chen, Ph.D. Cornell University. Turbine
+combustion, chemical kinetics, numerical simulation
+Hari Dharan, Ph.D. University of California, Berkeley.
+Composite materials
+Robert W. Dibble, Ph.D. University of Wisconsin.
+Combustion, gas dynamics David A. Dornfeld (Chair, Mechanical Engineering; The Will
+C. Hall Family Chair in Engineering), Ph.D. University of
+Wisconsin. Manufacturing processes, robotics
+Carlos Fernandez-Pello (Associate Dean, Graduate Division;
+The Almy C. Maynard and Agnes Offield Maynard
+Endowed Chair), Ph.D. University of California, San
+Diego. Combustion, heavy and condensed fuels
+Michael Y. Frenklach, Ph.D. Hebrew University. Chemical
+kinetics, combustion chemistry, chemical vapor deposition
+Costas Grigoropoulos, Ph.D. Columbia University. Heat
+transfer, laser materials processing J. Karl Hedrick (The James Marshall Wells Chair in
+Mechanical Engineering), Ph.D. Stanford University.
+Control systems, transportation systems Roberto Horowitz (The James Fife Chair), Ph.D. University
+of California, Berkeley. Automatic control systems design,
+robotics George C. Johnson, Ph.D. Stanford University. Ultrasonic stress evaluation Homayoon Kazerooni, D.Sc. Massachusetts Institute of
+Technology. Mechatronics, robotics
+Tony Keaveny, Ph.D. Cornell University. Tissue engineering and biomechanics Kyriakos Komvopoulos, Ph.D. Massachusetts Institute of
+Technology. Tribology, contact mechanics, mechanical
+behavior of materials Dorian Liepmann, Ph.D. University of California, San Diego.
+Classical fluid dynamics, bio-fluid mechanics
+†Dennis K. Lieu, D. Eng. University of California, Berkeley.
+High-speed electromechanic devices Liwei Lin (The Chancellor’s Professor), Ph.D. University of
+California, Berkeley. NSF-Career MEMS
+(microelectromechanical systems)
+Fai Ma, Ph.D. California Institute of Technology. Vibration
+and control
+Alaa Mansour, Ph.D. University of California, Berkeley.
+Structural reliability and safety, probabilistic dynamics of
+marine structures, strength of ship and offshore
+structures, development of design criteria
+Philip Marcus, Ph.D. Princeton University. Computational
+fluid dynamics
+Stephen Morris, Ph.D. Johns Hopkins University.
+Geophysical fluid dynamics
+†Oliver M. O’Reilly (Vice Chair, Graduate Study), Ph.D.
+Cornell University. Nonlinear dynamics with applications
+to continuum mechanics
+Andrew Packard, Ph.D. University of California, Berkeley.
+Automatic control systems, mechanical systems
+Panayiotis Papadopoulos, Ph.D. University of California,
+Berkeley. Computational mechanics, solid mechanics
+Albert P. Pisano (The FANUC Chair for Mechanical
+Systems), Ph.D. Columbia University. Computer-aided
+design, design optimization
+†Kameshwar Poolla (The Cadences Distinguished
+Professorship in the College of Engineering), Ph.D.
+University of Florida, Gainesville. Dynamic systems,
+automatic controls
+Lisa A. Pruitt (The Lawrence Talbot Chair in Engineering),
+Ph.D. Brown University. Tissue biomechanics, biomaterial
+science
+Robert O. Ritchie (Chair, Materials and Science Engineering;
+The H. T. and Jessie Chua Distinguished Professorship in
+Engineering), Sc.D. University of Cambridge. Fracture
+mechanics and fatique-crack propagation
+S. Shankar Sastry (Dean, College of Engineering; Director,
+Blum Center for Developing Economies; and The NEC
+Distinguished Professorship), Ph.D. University of
+California, Berkeley. Embedded and autonomous
+software, computation in novel substrates, nonlinear and
+adaptive control, robotic telesurgery, control of hybrid
+systems, embedded systems, sensor networks, and
+biological motor control
+Omer Savas, Ph.D. California Institute of Technology.
+Aerodynamics, boundary layers, combustion, rotating
+flows, turbulence
+David J. Steigmann, Ph.D. Brown University. Continuum
+mechanics, solid mechanics, shell theory,
+electrodynamics
+Andrew J. Szeri (Dean, Graduate Division), Ph.D. Cornell
+University. Fluid dynamics and nonlinear dynamics
+Masayoshi Tomizuka (Executive Associate Dean; The
+Cheryl and John Neerhout Jr. Distinguished Professor),
+Ph.D. Massachusetts Institute of Technology. Automatic
+control systems, robotics and manufacturing systems
+Benson Tongue, Ph.D. Princeton University. Chaotic
+oscillations in dynamic systems
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 360
+Paul K. Wright (Director, CITRIS, College of Engineering;
+The A. Martin Berlin Professor of Mechanical
+Engineering), Ph.D. University of Birmingham.
+Manufacturing processes, automation
+Ronald W. Yeung, Ph.D. University of California, Berkeley.
+Hydromechanics, numerical modeling, surface waves,
+ocean space systems
+Xiang Zhang (The Ernest S. Kuh Chair in Engineering),
+Ph.D. University of California, Berkeley. Nanofabrication
+and processing in mechanical engineering
+Tarek I. Zohdi (Vice Chair, Instruction), Habilitation Degree,
+University of Hanover, Germany. Ph.D. University of
+Texas, Austin. Computational mechanics
+Cyril P. Atkinson (Emeritus), M.S.M.E.
+*David M. Auslander (Emeritus), Sc.D.
+*†Stanley A. Berger (Emeritus), Ph.D.
+*David B. Bogy (The William S. Floyd Jr. Distinguished
+Professor in Engineering Emeritus), Ph.D.
+Gilles M. Corcos (Emeritus), Ph.D.
+*Ralph Greif (Emeritus), Ph.D.
+Frank E. Hauser (Emeritus), Ph.D.
+Chieh S. Hsu (Emeritus), Ph.D.
+*George Leitmann (Emeritus), Ph.D.
+†Clayton D. Mote Jr. (The FANUC Professor of Mechanical
+Systems Emeritus), Ph.D.
+Patrick J. Pagni (Emeritus), Ph.D.
+Charles W. Radcliffe (Emeritus), M.S., M.E.
+*Boris Rubinsky (Emeritus), Ph.D.
+Robert F. Sawyer (The Class of ’35 Professor of Energy
+Emeritus), Ph.D.
+George J. Trezek (Emeritus), Ph.D.
+Kent Udell (Emeritus), Ph.D.
+Associate Professors
+Sara McMains, Ph.D. University of California, Berkeley.
+Computer graphics and geometric modeling
+Lydia L. Sohn, Ph.D. Harvard University. Integrated
+microfluidic devices for biological sensing
+Assistant Professor
+Francesco Borrelli, Ph.D. Swiss Federal Institute of
+Technology ETH-Zurich. Control of dynamical systems
+Adjunct Professor
+Samuel Mao, Ph.D.
+Overview
+Mechanical engineers contribute to society by
+ solving problems in transportation, energy, the
+environment, and human health. The mechanical
+engineer needs a thorough preparation in mathematics,
+physics, chemistry, manufacturing processes,
+properties of materials, mechanics, fluid
+mechanics, thermodynamics, as well as intensive
+design and laboratory experience. The program
+of study includes basic subjects common to all
+engineering fields, fundamental subjects important
+to all mechanical engineers, and specia ization
+in one or more phases of mechanical engineering.
+Undergraduate Program
+The freshman and much of the sophomore years
+of the program emphasize mathematics, physics,
+chemistry, computing, graphics, materials, and
+statics. Students are introduced to the profession
+of engineering in their freshman year in Engineering
+10 and first exposed to engineering design
+in their sophomore year in Engineering 28. In their
+freshman year students are also introduced, in
+Engineering 7, to solving engineering problems
+using computers. Part of the sophomore and much
+of the junior year curricula focus on engineering
+science. The sophomore and junior year courses—
+Mechanical Engineering 40, C85, 104, 106, 108
+and Electrical Engineering and Computer Sciences
+100—are engineering science courses covering
+dynamics, fluid mechanics, strength of materials,
+and thermodynamics, with elements of design and
+computing included. They also introduce students
+to the use of engineering concepts as tools to analyze
+component and system performance. From
+this solid foundation, a student synthesizes tools
+from different engineering sciences and applies
+them to design problems. This is the rationale for
+placing much of the design component of the program
+in the senior year. Specialization may be
+provided in the choice of technical electives from
+the subject areas of applied mechanics, automatic
+controls, electrochemical systems, energy conversion,
+fluid mechanics, heat transfer, manufacturing
+systems, materials processing, mechanical
+design, cryogenics, robotics and automation, bioengineering,
+and environmental engineering.
+Because of the widening range of technical problems
+and the limited amount of specialization available
+in the undergraduate curriculum, qualified
+students should consider graduate study to expand
+their scientific and technological capability. Further
+details on undergraduate and graduate fields
+of emphasis in mechanical engineering are available
+in the College of Engineering Announcement:
+A Guide to Undergraduate and Graduate Study
+at coe.berkeley.edu/college-of-engineeringannouncement
+. Visit the department website for
+information detailing the undergraduate and graduate
+program.
+The B.S. program is accredited in mechanical engineering
+by the Engineering Accreditation Commission
+of ABET, Inc., 111 Market Place, Suite
+1050, Baltimore, MD 21202-4012; (410) 347-7700.
+Mechanical Engineering Minor
+The department offers a minor in mechanical engineering
+that is open to all students not majoring
+in ME who have completed the necessary prerequisites
+for the minor requirements. Information
+is available on the department website.
+Graduate Programs
+Both master’s and doctoral programs are available.
+The student may choose either a scientific
+emphasis in particular areas or integrated studies
+directed to professional objectives. Master of Science
+and Ph.D. degrees are the relevant degrees
+for the scientific emphasis, and the M.Eng and
+D.Eng degrees for the professional one. The
+department also offers a program leading to dual
+degrees in Master of Science in engineering and
+Master of Public Policy. Specialization is offered in
+the following mechanical engineering disciplines:
+(1) controls and dynamics, (2) design, (3) fluids,
+(4) mechanics, (5) materials, and (6) energy science
+and technology. Specialization is also offered
+in the following focus areas: (1) bioengineering,
+(2) manufacturing, (3) micro-electromechanical
+systems (MEMS) and nanoengineering, (4) mechatronics,
+(5) energy and environment, and (6) ocean
+engineering. Details on various aspects of graduate
+study are available at me.berkeley.edu and
+from the College of Engineering Announcement.
+Note: In addition to the courses listed below, the
+Department of Mechanical Engineering offers
+the following courses, found in the Engineering
+section of this catalog: 10, Engineering Design
+and Analysis; 28, Graphic Communication in
+ Engineering; 117, Methods of Engineering Analysis;
+128, Advanced Engineering Design Graphics;
+177, Advanced Programming with MATLAB; 191,
+Engineering Ethics; 193, California Engineer
+Staff; 230A, Engineering Analysis; 230B, Engineering
+Analysis; 231, Mathematical Methods in
+Engineering; 266A, Finite Difference Methods for
+Fluid Dynamics; 266B, Spectral Methods for
+Fluid Dynamics.
+Lower Division Courses
+24. Freshman Seminars. (1) Course may be repeated
+for credit as topic varies. One hour of seminar per
+week. Sections 1-4 to be graded on a letter-grade
+basis. Sections 5-8 to be graded on a passed/not
+passed basis. The Freshman Seminar Program has
+been designed to provide new students with the opportunity
+to explore an intellectual topic with a faculty
+member in a small-seminar setting. Freshman seminars
+are offered in all campus departments, and topics
+vary from department to department and semester to
+semester. (F,SP) Staff
+40. Thermodynamics. (3) Students will receive no
+credit for 40 after taking 105B. Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+Chemistry 1A, Engineering 7, Mathematics 1B, and
+Physics 7B. This course introduces the fundamentals
+of energy storage, thermophysical properties of liquids
+and gases, and the basic principles of thermodynamics
+which are then applied to various areas of
+engineering related to energy conversion and air conditioning.
+(F,SP) Staff
+C85. Introduction to Solid Mechanics. (3) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Mathematics 53 and 54 (may be taken
+concurrently); Physics 7A. A review of equilibrium for
+particles and rigid bodies. Application to truss structures.
+The concepts of deformation, strain, and stress.
+Equilibrium equations for a continuum. Elements of
+the theory of linear elasticity. The states of plane stress
+and plane strain. Solution of elementary elasticity
+problems (beam bending, torsion of circular bars).
+Euler buckling in elastic beams. Also listed as Civil
+and Environmental Engineering C30. (F,SP) Armero,
+Papadopoulos, Zohdi
+98. Supervised Independent Group Studies. (1-4)
+Course may be repeated for credit. Hours to be
+arranged. Must be taken on a passed/not passed
+basis. Prerequisites: Consent of instructor. Organized
+group study on various topics under the sponsorship
+and direction of a member of the Mechanical Engineering
+faculty. (F,SP) Staff
+Upper Division Courses
+101. High Mix/Low Volume Manufacturing. (3)
+Three hours of lecture per week. Prerequisites: Upper
+division standing in engineering or consent of instructor.
+Fundamentals of high mix/low volume (HMLV)
+manufacturing systems including manufacturing fundamentals,
+unit operations and manufacturing line
+considerations for work in process (WIP), manufacturing
+lead time (MLT), economics, quality monitoring;
+HMLV systems fundamentals including just in
+time (JIT), kanban, buffers and line balancing; class
+project/case studies for design of competitive manufacturing
+systems. (F) Dornfeld, McMains
+102A. Introduction to Measurement Systems for
+Mechatronics. (4) Two hours of lecture, three hours
+of laboratory, and one hour of discussion per week.
+Prerequisites: 104, 109; 132 (corequisite); Electrical
+Engineering 100; Engineering 10, 28; English R1A or
+equivalent course. Introduction to measurement systems
+and sensors. Measurement statistics and error
+propagation. Digital data acquisition and experimental
+control. Basic signal processing. Introduction to the
+physics, applications, and limitations of sensors. Principles
+of technical communication for formal technical
+reports, feasibility studies, descriptions and
+instructions, and practice in oral presentations to technical
+and nontechnical audiences. (F,SP)
+102B. Mechatronics Design. (3) Two hours of lecture
+and three hours of laboratory per week. Prerequisites:
+102A, Electrical Engineering 100, and Engineering
+28. Introduction to design and realization of mechatronics
+systems. Micro-computer architectures. Basic
+computer IO devices. Embedded microprocessor systems
+and control, IO programming such as analogue
+to digital converters, PWM, serial and parallel outputs.
+Electrical components such as power supplies,
+operational amplifiers, transformers, and filters. Shielding
+and grounding. Design of electric, hydraulic, and
+pneumatic actuators. Design of sensors. Design of
+power transmission systems. Kinematics and dynamics
+of robotics devices. Basic feedback design to create
+robustness and performance. (F,SP) Kazerooni, Staff
+104. Engineering Mechanics II. (3) Three hours of
+lecture and one hour of discussion per week. Prerequisites:
+C85 and Engineering 7. This course is an
+introduction to the dynamics of particles and rigid
+bodies. The material, based on a Newtonian formulation
+of the governing equations, is illustrated with
+numerous examples ranging from one-dimensional
+motion of a single particle to planar motions of rigid
+bodies and systems of rigid bodies. (F,SP) Staff
+106. Fluid Mechanics. (3) Three hours of lecture and
+one hour of discussion per week. Prerequisites: C85
+and 104 (104 may be taken concurrently). This course
+introduces the fundamentals and techniques of fluid
+mechanics with the aim of describing and controlling
+engineering flows. (F,SP) Staff
+Mechanical Engineering / 361
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American Cultures
+requirement
+W prefix=online course
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 361
+362 / Mechanical Engineering
+107. Mechanical Engineering Laboratory. (3) Two
+hours of lecture and three hours of laboratory per
+week. Prerequisites: 102A; senior standing. Experimental
+investigation of engineering systems and of
+phenomena of interest to mechanical engineers.
+Design and planning of experiments. Analysis of data
+and reporting of experimental results. (F,SP) Staff
+108. Mechanical Behavior of Engineering Materials.
+(4) Three hours of lecture, one hour of discussion,
+and four hours of laboratory per week. Prerequisites:
+C85. This course covers elastic and plastic deformation
+under static and dynamic loads. Failure by yielding,
+fracture, fatigue, wear, and environmental factors
+are also examined. Topics include engineering materials,
+heat treatment, structure-property relationships,
+elastic deformation and multiaxial loading, plastic
+deformation and yield criteria, dislocation plasticity
+and strengthening mechanisms, creep, stress concentration
+effects, fracture, fatigue, and contact deformation.
+(F,SP) Komvopoulos, Staff
+109. Heat Transfer. (3) Three hours of lecture and
+one hour of discussion per week. Prerequisites: 40
+and 106. This course covers transport processes of
+mass, momentum, and energy from a macroscopic
+view with emphasis both on understanding why matter
+behaves as it does and on developing practical problem
+solving skills. The course is divided into four parts:
+introduction, conduction, convection, and radiation.
+(F,SP) Staff
+110. Introduction to Product Development. (3)
+Three hours of lecture per week. Prerequisites: Junior
+or higher standing. Provides project-based learning
+experience in innovative new product development,
+with a focus on mechanical engineering systems.
+Design concepts and techniques are introduced, and
+the student’s design ability is developed in a design or
+feasibility study chosen to emphasize ingenuity and
+provide wide coverage of engineering topics. Relevant
+software will be integrated into studio sessions,
+including solid modeling and environmental life cycle
+analysis. Design optimization and social, economic,
+and political implications are included. All product
+ideas will be evaluated against the “triple bottom line”:
+economic, societal, and environmental. Both individual
+and group oral presentations are made, and par -
+ticipation in a final tradeshow type presentation is
+required. Staff
+C117. Structural Aspects of Biomaterials. (4) Three
+hours of lecture and two hours of laboratory per week.
+Prerequisites: Biology 1A, Engineering 45, Civil and
+Environmental Engineering 130 or 130N or Bioengineering
+102, and Engineering 190. This course covers
+the structure and mechanical functions of load bearing
+tissues and their replacements. Natural and synthetic
+load-bearing biomaterials for clinical applications are
+reviewed. Biocompatibility of biomaterials and host
+response to structural implants are examined. Quantitative
+treatment of biomechanical issues and constitutive
+relationships of tissues are covered in order to
+design biomaterial replacements for structural function.
+Material selection for load bearing applications
+including reconstructive surgery, orthopedics, dentistry,
+and cardiology are addressed. Mechanical
+design for longevity including topics of fatigue, wear,
+and fracture are reviewed. Case studies that examine
+failures of devices are presented. This course includes
+a teaching/design laboratory component that involves
+design analysis of medical devices and outreach
+teaching to the public community. Several problembased
+projects are utilized throughout the semester
+for design analysis. In addition to technical content, this
+course involves rigorous technical writing assignments,
+oral communication skill development and teamwork.
+Also listed as Bioengineering C117. (SP) Pruitt
+118. Introduction to Nanotechnology and Nano -
+science. (3) Three hours of lecture per week. Prerequisites:
+Chemistry 1A and Physics 7B. Physics 7C
+and Engineering 45 (or the equivalent) recommended.
+This course introduces engineering students (juniors
+and seniors) to the field of nanotechnology and
+nanoscience. The course has two components:
+(1) Formal lectures—students receive a set of formal
+lectures introducing them to the field of nanotechnology
+and nanoscience. The material covered includes
+nanofabrication technology (how one achieves the
+nanometer length scale, from “bottom up” to “top
+down” technologies), the interdisciplinary nature of
+nanotechnology and nanoscience (including areas of
+chemistry, material science, physics, and molecular
+biology), examples of nanoscience phenomena (the
+crossover from bulk to quantum mechanical prop -
+erties), and applications (from integrated circuits,
+ quantum computing, MEMS, and bioengineering).
+(2) Projects—students are asked to read and present
+a variety of current journal papers to the class and lead
+a discussion on the various works. (F,SP) Lin, Sohn
+119. Introduction to MEMS (Microelectromechanical
+Systems). (3) Three hours of lecture per week.
+Prerequisites: Electrical Engineering 100, Physics 7B.
+Fundamentals of microelectromechanical systems
+including design, fabrication of microstructures; surface-micromachining,
+bulk-micromachining, LIGA, and
+other micro machining processes; fabrication principles
+of integrated circuit device and their applications for
+making MEMS devices; high-aspect-ratio microstructures;
+scaling issues in the micro scale (heat transfer,
+fluid mechanics and solid mechanics); device
+design, analysis, and mask layout. (F) Staff
+122. Processing of Materials in Manufacturing. (3)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 108; Civil and Environmental
+Engineering 130 or 130N. Fundamentals of manufacturing
+processes (metal forming, metal cutting,
+welding, joining, and casting); selection of metals,
+plastics and other materials relative to the design and
+choice of manufacturing processes. (SP) Staff
+127. Composite Materials—Analysis, Design, Manufacture.
+(3) Three hours of lecture per week. Prerequisites:
+Civil and Environmental Engineering 130 or
+130N or equivalent course in mechanics of materials;
+Engineering 36 and 45. Properties and microstructure
+of high-strength fiber materials (glass, carbon,
+polymer, ceramic fibers) and matrix materials (polymer,
+metal, ceramic, and carbon matrices). Specific
+strength and stiffness of high-performance composites.
+Stress, strain and stiffness transformations. Elastic
+properties of a single orthotropic ply. Laminated plate
+theory. Failure criteria. Short fiber composites. Manufacturing
+processes. Sandwich panels. Joints. Design
+of composite structures and components. Sustainability
+and recycling. Laboratory sessions on manufacturing
+processes and testing. Assigned class design
+projects on design and manufacturing of composites.
+(F,SP) Dharan
+128. Computer-Aided Mechanical Design. (3) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Engineering 28, and Mathematics 53,
+54, or consent of instructor. Introduction to design
+(not drafting) via computers. Using MATLAB and other
+Finite Element software, students will be introduced to
+a variety of mechanical design techniques and apply
+those techniques to the design of beams, automobile
+engine components, planar machine elements, linkages,
+and flexure hinges. These techniques include
+ad-hoc methods, exhaustive numeration, grid studies,
+and informal optimizations. (SP) Lin
+130. Design of Planar Machinery. (3) Three hours of
+lecture and one hour of laboratory per week. Prerequisites:
+104. Synthesis, analysis, and design of planar
+machines. Kinematic structure, graphical, analytical,
+and numerical analysis and synthesis. Linkages,
+cams, reciprocating engines, gear trains, and flywheels.
+(SP) Youssefi
+131. Vehicle Dynamics and Control. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+Engineering 7, Math 53 and 54, and
+Physics 7A-7B. Physical understanding of automotive
+vehicle dynamics including simple lateral, longitudinal,
+and ride quality models. An overview of active
+safety systems will be introduced including the basic
+concepts and terminology, the state-of-the-art development,
+and basic principles of systems such as ABS,
+traction control, dynamic stability control, and roll stability
+control. Passive, semi-active, and active suspension
+systems will be analyzed. Concepts of
+autonomous vehicle technology including drive-bywire
+and steer-by-wire systems, adaptive cruise control,
+and lane keeping systems. Upon completion of
+this course, students should be able to follow the literature
+on these subjects and perform independent
+design, research, and development work in this field.
+(SP) Hedrick
+132. Dynamic Systems and Feedback. (3) Three
+hours of lecture and one hour of laboratory per week.
+Prerequisites: Math 53, 54, Physics 7A-7B. Physical
+understanding of dynamics and feedback. Linear feedback
+control of dynamic systems. Mathematical tools
+for analysis and design. Stability. Modeling systems
+with differential equations. Linearization. Solution to
+linear, time-invariant differential equations. (F,SP) Staff
+133. Mechanical Vibrations. (3) Three hours of lecture
+per week. Prerequisites: 104. An introduction to
+the theory of mechanical vibrations including topics
+of harmonic motion, resonance, transient and random
+excitation, applications of Fourier analysis and convolution
+methods. Multidegree of freedom discrete
+systems including principal mode, principal coordinates
+and Rayleigh’s principle. (SP) Tongue
+C134. Feedback Control Systems. (4) Students will
+receive no credit for Mechanical Engineering C134/
+Electrical Engineering C128 after taking Mechanical
+Engineering 134 or Electrical Engineering 128. Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Mechanical Engineering 132 or Electrical
+Engineering 20N, and Electrical Engineering 40.
+Analysis and synthesis of linear feedback control systems
+in transform and time domains. Control system
+design by root locus, frequency response, and state
+space methods. Applications to electromechanical
+and mechatronics systems. Also listed as Electrical
+Engineering C128. (F) Staff
+135. Design of Microprocessor-Based Mechanical
+Systems. (4) Three hours of lecture and three
+hours of laboratory per week. Prerequisites: Engineering
+7. This course provides preparation for the
+conceptual design and prototyping of mechanical systems
+that use microprocessors to control machine
+activities, acquire and analyze data, and interact with
+operators. The architecture of microprocessors is
+related to problems in mechanical systems through
+study of systems, including electromechanical components,
+thermal components, and a variety of instruments.
+Laboratory exercises lead through studies of
+different levels of software. (SP) Kazerooni
+140. Combustion Processes. (3) Three hours of lecture
+and one hour of demonstration laboratory. Prerequisites:
+40, 106, and 109 (106 and 109 may be
+taken concurrently). Fundamentals of combustion,
+flame structure, flame speed, flammability, ignition,
+stirred reaction, kinetics and nonequilibrium processes,
+pollutant formation. Application to engines, energy
+production, and fire safety. (F) Fernandez-Pello, Chen
+146. Energy Conversion Principles. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+40, 106, and 109 (106 and 109 may be
+taken concurrently). This course covers the fundamental
+principles of energy conversion processes,
+followed by development of theoretical and computational
+tools that can be used to analyze energy conversion
+processes. The course also introduces the
+use of modern computational methods to model
+energy conversion performance characteristics of
+devices and systems. Performance features, sources
+of inefficiencies, and optimal design strategies are
+explored for a variety of applications, which may
+include conventional combustion based and Rankine
+power systems, energy systems for space applications,
+solar, wind, wave, thermoelectric, and geothermal
+energy systems. (F,SP) Carey
+151. Advanced Heat Transfer. (3) Three hours of
+lecture per week. Prerequisites: 40, 106, and 109 (106
+and 109 may be taken concurrently). Basic principles
+of heat transfer and their application. Subject areas
+include steady-state and transient system analyses
+for conduction, free and forced convection, boiling,
+condensation, and thermal radiation. (SP) Staff
+163. Engineering Aerodynamics. (3) Three hours
+of lecture per week. Prerequisites: 106. Introduction to
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 362
+the lift, drag, and moment of 2-D airfoils, 3-D wings,
+and the complete airplane. Calculations of the performance
+and stability of airplanes in subsonic flight.
+(F) Savas
+164. Marine Statics and Structures. (3) Students
+will receive no credit for 164 after taking C164/Ocean
+Engineering C164; 2 units after taking 151. Three
+hours of lecture per week. Prerequisites: Civil and
+Environmental Engineering 130 or 130N or consent
+of instructor. Formerly C164. Terminology and definition
+of hull forms, conditions of static equilibrium
+and stability of floating submerged bodies. Effects of
+damage on stability. Structural loads and response.
+Box girder theory. Isotropic and orthotropic plate bending
+and bucking. (F,SP) Mansour
+165. Ocean-Environment Mechanics. (3) Students
+will receive no credit for 165 after taking C165/Ocean
+Engineering C165. Three hours of lecture and one
+hour of discussion per week. Prerequisites: 106 or
+Civil and Environmental Engineering 100. Formerly
+C165. Ocean environment. Physical properties and
+characteristics of the oceans. Global conservation
+laws. Surface-waves generation. Gravity-wave
+mechanics, kinematics, and dynamics. Design consideration
+of ocean vehicles and systems. Model-testing
+techniques. Prediction of resistance and response
+in waves—physical modeling and computer models.
+(F,SP) Yeung
+166. Fluid Mechanics of Biological Systems. (3)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 106 and 109 (may be taken concurrently).
+This is a general introduction to biological
+fluid mechanics. The course will primarily examine
+the biological and mechanical aspect of mammalian
+flow. If time allows, animal, bugs, fish, and environmental
+fluid mechanics will also be covered, but the
+majority of the course focuses on the blood flow in
+the human body. This class does not presume previous
+knowledge of anatomy. (F,SP) Savas
+167. Microscale Fluid Mechanics. (3) Three hours of
+lecture per week. Prerequisites: 40, 106, 109 (106
+and 109 may be taken concurrently), Physics 7B, or
+equivalent. Phenomena of physical, technological,
+and biological significance in flows of gases and liquids
+at the microscale. The course begins with familiar
+equations of Newtonian fluid mechanics, then proceeds
+to the study of essentially 1-D flows in confined
+geometries with the lubrication equations. Next is a
+study of the flow of thin films spreading under gravity
+or surface tension gradients. Lubrication theory of
+compressible gases leads to consideration of air bearings.
+Two-and 3-D flows are treated with Stokes’ equations.
+Less familiar physical phenomena of significance
+and utility at the microscale are then considered: intermolecular
+forces in liquids, slip, diffusion and bubbles
+as active agents. A review of relevant aspects
+of electricity and magnetism precedes a study of
+ electrowetting and electrokinetically driven liquid flows.
+(F) Morris, Szeri
+170. Engineering Mechanics III. (3) Three hours of
+lecture per week. Prerequisites: 104 or consent of
+instructor. This course builds upon material learned
+in 104, examining the dynamics of particles and rigid
+bodies moving in 3-D. Topics include non-fixed axis
+rotations of rigid bodies, Euler angles and parameters,
+kinematics of rigid bodies, and the Newton-Euler
+equations of motion for rigid bodies. The course material
+will be illustrated with real-world examples such
+as gyroscopes, spinning tops, vehicles, and satellites.
+Applications of the material range from vehicle navigation
+to celestial mechanics, numerical simulations,
+and animations. (F) O’Reilly, Tongue
+173. Fundamentals of Acoustics. (3) Three hours
+of lecture per week. Prerequisites: 104. Plane and
+spherical sound waves. Sound intensity. Propagation
+in tubes and horns. Resonators. Standing waves.
+Radiation from oscillating surface. Reciprocity. Reverberation
+and diffusion. Electro-acoustic loud speaker
+and microphone problems. Environmental and architectural
+acoustics. Noise measurement and control.
+Effects on man. (SP) Staff
+175. Intermediate Dynamics. (3) Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+104 or equivalent. This course introduces and
+investigates Lagrange’s equations of motion for particles
+and rigid bodies. The subject matter is particularly
+relevant to applications comprised of inter -
+connected and constrained discrete mechanical components.
+The material is illustrated with numerous
+examples. These range from 1-D motion of a single
+particle to 3-D motions of rigid bodies and systems
+of rigid bodies. (SP) Staff
+C176. Orthopedic Biomechanics. (4) Three hours
+of lecture and one hour of discussion/computer workshop
+per week. Prerequisites: Mechanical Engineering
+C85/Civil Engineering C30 or Bioengineering 102
+(may be taken concurrently). Proficiency in MATLAB
+or equivalent. Statics, dynamics, optimization theory,
+composite beam theory, beam-on-elastic foundation
+theory, Hertz contact theory, and materials behavior.
+Forces and moments acting on human joints; composition
+and mechanical behavior of orthopedic biomaterials;
+design/analysis of artificial joint, spine, and
+fracture fixation prostheses; musculoskeletal tissues
+including bone, cartilage, tendon, ligament, and
+muscle; osteoporosis and fracture-risk predication of
+bones; and bone adaptation. MATLAB-based project
+to integrate the course material. Also listed as Bioengineering
+C119. (F,SP) Keaveny
+C180. Engineering Analysis Using the Finite Element
+Method. (3) Three hours of lecture and two
+hours of laboratory per week. Prerequisites: Engineering
+7 or Computer Science 61A; Mathematics 53
+and 54; senior status in engineering or applied science.
+This is an introductory course on the finite element
+method and is intended for seniors in engineering
+and applied science disciplines. The course covers
+the basic topics of finite element technology, including
+domain discretization, polynomial interpolation, application
+of boundary conditions, assembly of global
+arrays, and solution of the resulting algebraic systems.
+Finite element formulations for several important
+field equations are introduced using both direct and
+integral approaches. Particular emphasis is placed
+on computer simulation and analysis of realistic engineering
+problems from solid and fluid mechanics, heat
+transfer, and electromagnetism. The course uses
+FEMLAB, a multiphysics MATLAB-based finite element
+program that possesses a wide array of modeling
+capabilities and is ideally suited for instruction.
+Assignments will involve both paper- and computerbased
+exercises. Computer-based assignments will
+emphasize the practical aspects of finite element
+model construction and analysis. Also listed as Civil
+and Environmental Engineering C133. (SP) Staff
+185. Introduction to Continuum Mechanics. (3)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: Physics 7A; Mathematics 53, 54.
+Kinematics of deformation, the concept of stress, conservation
+of mass and balance of linear momentum,
+angular momentum and energy. Mechanical constitutive
+equations for ideal fluid, linear elastic solid.
+(F) Staff
+190K. Professional Communication for Mechanical
+Engineers. (1) One hour of lecture per week. The
+course emphasizes understanding of and performance
+in professional speaking situations, including presentations,
+meetings, interviews, and informal business
+conversations. It emphasizes collaborative projects
+with distance partners. It combines theory and practice,
+integrating extensive speaking practice and individual
+critiques from instructor and students. The purpose
+is to advance students’ ability to collaborate and
+communicate effectively in a variety of professional
+environments. (F,SP) Staff
+190L. Practical Control System Design: A Systematic
+Loopshaping Approach. (1) One hour of
+lecture per week. Prerequisites: 132 or Electrical Engineering
+128 (Electrical Engineering 20 may suffice)
+or similar introductory experience regarding feedback
+control systems. After a review of basic loopshaping,
+we introduce the loopshaping design methodology of
+McFarlane and Glover, and learn how to use it effectively.
+The remainder of the course studies the mathematics
+underlying the new method (one of the most
+prevalent advanced techniques used in industry) justifying
+its validity. (F,SP) Packard
+190M. Model Predictive Control. (1) One hour of
+lecture per week. Prerequisites: 132. Basics on optimization
+and polyhedra manipulation. Analysis and
+design of constrained predictive controllers for linear
+and nonlinear systems. (F,SP) Borrelli
+190Y. Practical Control System Design: A Systematic
+Optimization Approach. (1) One hour of
+lecture per week. Prerequisites: 132 or Electrical Engineering
+128 (EE 20 may suffice) or similar introductory
+experience regarding feedback control systems. The
+Youla-parametrization of all stabilizing controllers
+allows certain time-domain and frequency-domain
+closed-loop design objectives to be cast as convex
+optimizations, and solved reliably using off-the-shelf
+numerical optimization codes. This course covers the
+Youla parametrization, basic elements of convex optimization,
+and finally control design using these techniques.
+(F,SP) Packard
+H194. Honors Undergraduate Research. (2-4)
+Course may be repeated for credit. Prerequisites: 3.3
+or higher upper-division technical GPA and consent of
+instructor and adviser. Final report required. Students
+who have completed a satisfactory number of ad -
+vanced courses may pursue original research under
+the direction of one of the members of the staff. A
+maximum of 3 units of H194 may be used to fulfill
+Technical Elective requirements in the Mechanical
+Engineering Program (unlike 198 or 199, which do not
+satisfy Technical Elective requirements). (F,SP) Staff
+198. Directed Group Studies for Advanced Undergraduates.
+(1-4) Course may be repeated for credit.
+One to four hours of directed group study per week.
+Must be taken on a passed/not passed basis. Prerequisites:
+Upper division standing and good academic
+standing. Group study of a selected topic or topics in
+mechanical engineering. Credit for 198 or 199 courses
+combined may not exceed 4 units in any single term.
+See college for other restrictions. (F,SP) Staff
+199. Supervised Independent Study. (1-4) Course
+may be repeated for credit. Individual conferences.
+Must be taken on a passed/not passed basis. Prerequisites:
+Consent of instructor and major adviser.
+Supervised independent study. Enrollment restrictions
+apply; see the Introduction to Courses and Curricula
+section of this catalog. (F,SP) Staff
+Graduate Courses
+C212. Heat and Mass Transport in Biomedical
+Engineering. (3) Three hours of lecture per week.
+Prerequisites: 106 and 109 (106 and 109 may be
+taken concurrently). Formerly Mechanical Engineering
+212. Fundamental processes of heat and mass transport
+in biological systems; organic molecules, cells,
+biological organs, whole animals. Derivation of mathematical
+models and discussion of experimental procedures.
+Applications to biomedical engineering. Also
+listed as Bioengineering C212. (SP) Staff
+C213. Fluid Mechanics of Biological Systems. (3)
+Three hours of lecture per week. Prerequisites: 106 or
+equivalent, or consent of instructor. Fluid mechanical
+aspects of various physiological systems, the circulatory,
+respiratory, and renal systems. Motion in large
+and small blood vessels. Pulsatile and peristaltic flows.
+Other biofluidmechanical flows: the ear, eye, etc.
+Instrumentation for fluid measurements in biological
+systems and for medical diagnosis and applications.
+Artificial devices for replacement of organs
+and/or functions, e.g. blood oxygenators, kidney dialysis
+machines, artificial hearts/circulatory assist
+devices. Also listed as Bioengineering C213. (F,SP)
+Berger, Liepmann
+C214. Advanced Tissue Mechanics. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+C176, 185; graduate standing or consent of
+instructor. Knowledge of MATLAB or equivalent. The
+goal of this course is to provide a foundation for characterizing
+and understanding the mechanical behavior
+of load-bearing tissues. A variety of mechanics
+topics will be introduced, including anisotropic elasMechanical
+Engineering / 363
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American Cultures
+requirement
+W prefix=online course
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 363
+364 / Mechanical Engineering
+ticity and failure, cellular solid theory, biphasic theory,
+and quasi-linear viscoelasticity (QLV) theory. Building
+from this theoretical basis, we will explore the constitutive
+behavior of a wide variety of biological tissues.
+After taking this course, students should have sufficient
+background to independently study the mechanical
+behavior of most biological tissues. Formal dis cussion
+section will include a seminar series with external
+speakers. Also listed as Bioengineering C214. (SP)
+Staff
+C217. Biomimetic Engineering—Engineering from
+Biology. (3) Three hours of lecture per week. Prerequisites:
+Graduate standing in engineering or consent
+of instructor. Study of nature’s solutions to specific
+problems with the aim of determining appropriate engineering
+analogs. Morphology, scaling, and design in
+organisms applied to engineering structures. Mechanical
+principles in nature and their application to engineering
+devices. Mechanical behavior of biological
+materials as governed by underlying microstructure,
+with the potential for synthesis into engineered materials.
+Trade-offs between redundancy and efficiency.
+Students will work in teams on projects where they
+will take examples of designs, concepts, and models
+from biology and determine their potential in specific
+engineering applications. Also listed as Integrative
+Biology C217 and Bioengineering C217. (F) Dharan
+C218. Introduction to MEMS Design. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Graduate standing in engineering or
+science; undergraduates with consent of instructor.
+Physics, fabrication, and design of microelectromechanical
+systems (MEMS). Micro- and nanofabrication
+processes, including silicon surface and bulk
+micromachining and non-silicon micromachining. Integration
+strategies and assembly processes. Micro -
+sensor and microactuator devices: electrostatic,
+piezoresistive, piezoelectric, thermal, magnetic transduction.
+Electronic position-sensing circuits and electrical
+and mechanical noise. CAD for MEMS. Design
+project is required. Also listed as Electrical Engineering
+C245. (F,SP) Nguyen, Pister
+C219. Parametric and Optimal Design of MEMS.
+(3) Three hours of lecture per week. Prerequisites:
+119 and C218/Electrical Engineering C245 are highly
+recommended but not mandatory. Formerly 219. Parametric
+design and optimal design of MEMS. Emphasis
+on design, not fabrication. Analytic solution of MEMS
+design problems to determine the dimensions of
+MEMS structures for specified function. Trade-off of
+various performance requirements despite conflicting
+design requirements. Structures include flexure systems,
+accelerometers, and rate sensors. Also listed
+as Electrical Engineering C246. (SP) Lin, Pisano
+220. Precision Manufacturing. (3) Three hours of
+lecture per week. Prerequisites: 101, 102B, or consent
+of instructor. Introduction to precision engineering
+for manufacturing. Emphasis on design and performance
+of precision machinery for manufacturing.
+Topics include machine tool elements and structure,
+sources of error (thermal, static, dynamic, process
+related), precision machining processes and process
+models (diamond turning and abrasive (fixed and free)
+processes), sensors for process monitoring and
+ control, metrology, actuators, machine design case
+studies and examples of precision component manufacture.
+(SP) Dornfeld
+221. High-Tech Product Design and Rapid Manufacturing.
+(3) Three hours of lecture per week
+enhanced by a semester-long “hands-on” rapid prototyping
+project. Prerequisites: 101; recommended:
+Basic metalprocessing, IC manufacturing; CAD, C,
+and Java helpful. This is a “manufacturing survey
+course” that deals with Internet-based design, rapid
+prototyping, and a review of manufacturing processes
+relevant to today’s production of consumer electronics
+or electromechanical devices. It also aims to provide
+a balanced view for the “management of technology.”
+(F) Wright
+222. Advanced Manufacturing Processes. (3) Three
+hours of lecture per week. Prerequisites: 122 or consent
+of instructor. This course presents an overview of
+the theory of manufacturing processes, machine tool
+design, and process issues in quality, production rate,
+and flexibility of manufacturing. Nontraditional manufacturing
+processes will be introduced. Topics covered
+include overview of models of conventional
+manufacturing (material removal, joining, forming, and
+deforming), elements of machine tool error and
+machine tool component design, nontraditional manufacturing
+processes (laser, water jet, electrical discharge
+machining, electro-chemical machining), rapid
+prototyping, and process selection, optimization, and
+planning issues. This course incorporates a laboratory
+term project in the application of nontraditional
+manufacturing processes. (SP) Wright
+C223. Polymer Engineering. (3) Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+Civil and Environmental Engineering 130 or
+130N, Engineering 45. A survey of the structure and
+mechanical properties of advanced engineering polymers.
+Topics include rubber elasticity, viscoelasticity,
+mechanical properties, yielding, deformation, and fracture
+mechanisms of various classes of polymers. The
+course will discuss degradation schemes of polymers
+and long-term performance issues. The class will
+include polymer applications in bioengineering and
+medicine. Also listed as Bioengineering C223. (F) Staff
+224. Mechanical Behavior of Engineering Materials.
+(3) Three hours of lecture and one hour of discussion
+per week. Prerequisites: Civil and Environmental Engineering
+130 or 130N; Engineering 45. This course
+covers elastic and plastic deformation under static
+and dynamic loads. Prediction and prevention of failure
+by yielding, fracture, fatigue, creep, corrosion, and
+wear. Basic elasticity and plasticity theories are discussed.
+(SP) Staff
+C225. Deformation and Fracture of Engineering
+Materials. (4) Four hours of lecture per week. Prerequisites:
+Civil and Environmental Engineering 130 or
+130N, Engineering 45. This course covers deformation
+and fracture behavior of engineering materials for both
+monotonic and cyclic loading conditions. Also listed
+as Materials Science and Engineering C212. (SP)
+Ritchie, Pruitt
+226. Tribology. (3) Three hours of lecture per week.
+Prerequisites: 102B, 104, 108. Surface interactions.
+Fundamentals of contact mechanics. Friction theories.
+Types of measurement of wear. Response of
+materials to surface tractions. Plastic deformation,
+void/crack nucleation and crack propagation. Delamination
+wear. Microstructural effects in wear processes.
+Mechanics of layered media. Solid film and boundary
+liquid film lubrication. Friction and wear of polymers
+and fiber-reinforced polymeric composites. Brief
+introduction to metal cutting and tool wear mechanisms.
+(SP) Komvopoulos
+227. Mechanical Behavior of Composite Materials.
+(3) Students will receive no credit for 227 after
+taking 290J. Three hours of lecture per week. Prerequisites:
+Graduate standing or consent of instructor.
+Formerly 290J. Response of composite materials
+(fiber and particulate-reinforced materials) to static,
+cyclic, creep and thermomechanical loading. Manufacturing
+process-induced variability, and residual
+stresses. Fatigue behavior, fracture mechanics, and
+damage development. Role of the reinforcementmatrix
+interface in mechanical behavior. Environmental
+effects. Dimensional stability and thermal fatigue.
+Application to polymer, metal, ceramic, and carbon
+matrix composites. (SP) Dharan
+228. Computer-Aided, Optimal Mechanical Design.
+(3) Three hours of lecture per week. Prerequisites:
+Graduate standing and the equivalent of both 102B
+and 128. This course will cover the optimal mechanical
+design of mechanical systems and components. A
+variety of optimization techniques will be developed,
+applied to mechanical design, and implemented on
+the computer. (SP) Agogino
+229. Design of Basic Electromechanical Devices.
+(3) Three hours of lecture per week. Prerequisites:
+EECS 100, graduate standing or consent of instructor.
+Fundamental principles of magnetics, electro-magnetics,
+and magnetic materials as applied to design
+and operation of electromechanical devices. Type of
+device to be used in a particular application and
+dimensions of parts for the overall design will be discussed.
+Typical applications covered will be linear
+and rotary actuators, stepper motors, AC motors, and
+DC brush and brushless motors. A design project is
+required. (F,SP) Staff
+230. Real-Time Applications of Mini- and Microcomputers.
+(4) Three hours of lecture and three hours
+of laboratory per week. Prerequisites: Graduate standing
+in engineering or consent of instructor for advanced
+undergraduates. Mini- and micro-computers, operating
+in real time, have become ubiquitous components in
+engineering systems. The purpose of this course is
+to build competence in the engineering use of such
+systems through lectures stressing small computer
+structure, programming, and output/input operation,
+and through laboratory work with mini- and microcomputer
+systems. (F) Staff
+232. Advanced Control Systems I. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+134 recommended. Input-output and state
+space representation of linear continuous and discrete
+time dynamic systems. Controllability, observability,
+and stability. Modeling and identification. Design
+and analysis of single and multi-variable feedback
+control systems in transform and time domain. State
+observer. Feedforward/preview control. Application
+to engineering systems. (F) Tomizuka, Horowitz
+233. Advanced Control Systems II. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+232. Linear Quadratic Optimal Control,
+Stochastic State Estimation, Linear Quadratic Gaussian
+Problem, Loop Transfer Recovery, Adaptive Control
+and Model Reference Adaptive Systems, Self
+Tuning Regulators, Repetitive Control, Application to
+engineering systems. (SP) Tomizuka, Horowitz
+234. Multivariable Control System Design. (3) Students
+may not take 234 for credit if they have taken
+291C. Three hours of lecture per week. Prerequisites:
+232 or EECS 221A, as well as firm foundation in classical
+control. Formerly 291C. Analysis and synthesis
+techniques for multi-input (MIMO) control systems.
+Emphasis is on the effect that model uncertainty has
+on the design process. (SP) Packard, Poolla
+C236. Control and Optimization of Distributed
+Parameters Systems. (3) Three hours of lecture per
+week. Distributed systems and PDE models of physical
+phenomena (propagation of waves, network traffic,
+water distribution, fluid mechanics, electromagnetism,
+blood vessels, beams, road pavement, structures,
+etc.). Fundamental solution methods for PDEs: separation
+of variables, self-similar solutions, characteristics,
+numerical methods, spectral methods. Stability
+analysis. Adjoint-based optimization. Lyapunov stabilization.
+Differential flatness. Viability control. Hamilton-Jacobi-based
+control. Also listed as Electrical
+Engineering C291 and Civil and Environmental Engineering
+C291F. (SP) Staff
+237. Control of Nonlinear Dynamic Systems. (3)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 232. Fundamental properties of
+nonlinear systems. Stability of nonlinear systems.
+Controller Design via Lyapunov methods. Equivalent
+Linearization methods including limit cycle prediction.
+(SP) Hedrick
+239. Advanced Design and Automation. (4) Three
+hours of lecture and three hours of laboratory per
+week. Prerequisites: Graduate standing in engineering
+or science and one course in control. This course will
+provide students with a solid understanding of smart
+products and the use of embedded microcomputers in
+products and machines. The course has two components:
+(1) Formal lectures—students receive a set of
+formal lectures on the design of smart machines and
+products that use embedded microcomputers. The
+materials cover machine components, actuators,
+ sensors, basic electronic devices, embedded micro -
+processor systems and control, power transfer com po -
+nents, and mechanism design. (2) Projects—students
+will design and construct prototype products that use
+embedded microcomputers. (F) Kazerooni
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 364
+240A. Advanced Marine Structures I. (3) Students
+will receive no credit for 240A after taking
+C240A/Ocean Engineering C240A. Three hours of
+lecture per week. Prerequisites: Graduate standing;
+Statistics 25 or equivalent. Formerly C240A. This
+course introduces a probabilistic description of ocean
+waves and wave loads acting on marine structures.
+These topics are followed with discussion of structural
+strength and reliability analysis. (F,SP) Mansour
+240B. Advanced Marine Structures II. (3) Students
+will receive no credit for 240B after taking C240B/
+Ocean Engineering C240B. Three hours of lecture
+per week. Prerequisites: Consent of instructor. Formerly
+C240B. This course is concerned with the structural
+response of marine structures to environmental
+loads. Overall response of the structure as well as
+the behavior of its members under lateral and compressive
+loads are discussed. (F,SP) Mansour
+241A. Marine Hydrodynamics I. (3) Students will
+receive no credit for 241A after taking C241A/
+Ocean Engineering C241A. Three hours of lecture
+per week. Prerequisites: Engineering 165 recommended
+or graduate standing. Formerly C241A.
+Navier-Stokes Equations. Boundary-layer theory, laminar,
+and turbulent. Frictional resistance. Boundary
+layer over water surface. Separated flow modeling.
+Steady and unsteady flow. Momentum theorems.
+Three-dimensional water-wave theory. Formulation
+of wave resistance of ships. Michell’s solution. Wave
+patterns. Applications. (F,SP) Yeung
+241B. Marine Hydrodynamics II. (3) Three hours of
+lecture per week. Prerequisites: 260A or 241A recommended.
+Formerly Naval Architecture 241B.
+Momentum analysis for bodies moving in a fluid.
+Added-mass theory. Matched asymptotic slenderbody
+theory. Small bodies in a current. Theory of
+motion of floating bodies with and without forward
+speed. Radiation and diffraction potentials. Wave
+forces. Hydro-elasticity formulation. Memory effects
+in time domain. Second-order effects. Impact hydrodynamics.
+(F,SP) Yeung
+243. Advanced Methods in Free-Surface Flows.
+(3) Students will receive no credit for 243 after taking
+C243/Ocean Engineering C243. Three hours of lecture
+per week. Prerequisites: 260A or Civil Engineering
+200; 241B recommended. Formerly C243. Analytical
+and numerical methods in free-surface problems.
+ Elements of inviscid external lifting and nonlifting
+flows. Analytical solutions in special coordinates systems.
+Integral-equation methods: formulations and
+implementations. Multiple-bodies interaction problems.
+Free-surface Green functions in 2- and 3-D.
+Hybrid integral-equation methods. Finite-element formulations.
+Variational forms in time-harmonic flows.
+Finite-difference forms, stability, and accuracy. Boundary-fitted
+coordinates methods. Unsteady linearized
+wave-body interaction in time domain. Nonlinear breaking
+waves calculations. Particle dynamics. Extensive
+hands-on experience of microcomputers and/or workstations
+in developing solution. (F,SP) Yeung
+251. Heat Conduction. (3) Three hours of lecture per
+week. Prerequisites: 151; Engineering 230A. Analytical
+and numerical methods for the determination of
+the conduction of heat in solids. (F) Staff
+252. Heat Convection. (3) Three hours of lecture per
+week. Prerequisites: 151, 265A; Engineering 230A.
+The transport of heat in fluids in motion; free and
+forced convection in laminar and turbulent flow over
+surfaces and within ducts. (SP) Greif
+253. Thermal Radiation. (3) Three hours of lecture
+per week. Prerequisites: 151. Thermal radiation properties
+of gases, liquids, and solids; the calculation of
+radiant energy transfer. (F) Grigoropoulos, Majumdar
+254. Thermodynamics I. (3) Three hours of lecture
+per week. Prerequisites: 40. Axiomatic formulation of
+macroscopic equilibrium thermodynamics. Quantum
+mechanical description of atomic and molecular structure.
+Statistical-mechanical evaluation of thermo -
+dynamic properties of gases, liquids, and solids.
+Elementary kinetic theory of gases and evaluation of
+transport properties. (F) Carey
+256. Combustion. (3) Three hours of lecture per
+week. Prerequisites: 40, 106, and 109 (106 and 109
+may be taken concurrently). 140 is recommended.
+Combustion modeling. Multicomponent conservation
+equations with reactions. Laminar and turbulent deflagrations.
+Rankine-Hugoniot relations. Diffusion flames.
+Boundary layer combustion, ignition, and stability.
+(SP) Dibble
+257. Advanced Combustion. (3) Three hours of lecture
+per week. Prerequisites: 256. Critical analyses
+of combustion phenomenon. Conservation relations
+applied to reacting systems. Reactions are treated by
+both asymptotic and numerical methods. Real hydrocarbon
+kinetics are used; where available reduced
+kinetic mechanics are introduced. Flame propagation
+theory and experiments are discussed in detail for
+both laminar and turbulent flows. (F) Staff
+258. Heat Transfer with Phase Change. (3) Three
+hours of lecture per week. Prerequisites: 151. Heat
+transfer associated with phase change processes.
+Topics include thermodynamics of phase change,
+evaporation, condensation, nucleation and bubble
+growth, two phase flow, convective boiling and condensation,
+melting and solidification. (SP) Carey
+259. Microscale Thermophysics and Heat Transfer.
+(3) Three hours of lecture per week. Prerequisites:
+151, 254, or consent of instructor. This course introduces
+advanced statistical thermodynamics, nonequilibrium
+thermodynamics, and kinetic theory concepts
+used to analyze thermophysics of microscale systems;
+and explores applications in which microscale transport
+plays an important role. (SP) Carey, Majumdar
+260A. Advanced Fluid Mechanics I. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+106; 185 (strongly recommended) or consent
+of instructor. Introduces the foundations of fluid
+mechanics. Exact flow solutions are used to develop
+a physical insight of the fluid flow phenomena. Rigorous
+derivation of the equations of motion. Incompressible
+and compressible potential flows. Canonical
+viscous flows. (F) Staff
+260B. Advanced Fluid Mechanics II. (3) Three hours
+of lecture and one hour of discussion per week. Prerequisites:
+260A or consent of instructor. Develops a
+working knowledge of fluid mechanics by identifying
+the essential physical mechanism in complex canonical
+flow problems which leads to simplified yet accurate
+formulation. Boundary layers, creeping flows,
+rotational flows, rotating flows. Stability and transition,
+introduction to turbulence. (SP) Staff
+260D. Advanced Fluid Mechanics IV. (3) Three
+hours of lecture and one hour of discussion per
+week. Prerequisites: 260A and B, or 241A; or consent
+of instructor. Expanded coverage of compressible
+flow and boundary layers beyond material in 260A260B.
+Time-harmonic elements of free-surface flows.
+(F,SP) Berger
+262. Hydrodynamic Stability and Instability. (3)
+Three hours of lecture per week. Prerequisites: 185
+and 106, or equivalents. Discussions of linear and
+nonlinear instabilities in a variety of fluid flows: thermal
+convection, Rayleigh-Taylor flows, shearing flows, circular
+and cylindrical Couette flows (i.e., centrifugal
+instability). Use of the Landau equation, bifurcation
+diagrams, and energy methods for nonlinear flows.
+(F) Marcus
+263. Turbulence. (3) Three hours of lecture per week.
+Prerequisites: 260A-260B or equivalent. Physics of
+turbulence: Summary of stability and transition.
+Description of turbulence phenomena. Tools for studying
+turbulence. Homogeneous turbulence, shear turbulence,
+rotating turbulence. Summary of engineering
+models. Discussion of recent advances. (SP) Savas
+266. Dynamics and Stability of Engineering and
+Geophysical Flows with Rotation, Convection, or
+Waves. (3) Three hours of lecture per week. Prerequisites:
+260A and 260B or consent of instructor. Formerly
+260C. A presentation of four related topics in
+high Reynolds number flow: stability theory, waves,
+rotating flows, and geophysical/astrophysical fluid
+dynamics. Linear stability of classical, shear, convecting,
+and rotating flows are reviewed. Weakly nonlinear
+stability is examined with amplitude equations
+and numerical studies of sub-critical instabilities of
+pipe and channel flows are discussed. Rapidly rotating
+flows are analyzed by asymptotically deriving the
+quasi-geotrophic and shallow water equations. Examples
+of geophysical flows include vortex dynamics in
+the atmosphere and ocean, jet streams and waves
+(Rossby, Poincare, inertial, internal gravity and Kelvin).
+The mathematical formulation of hyperbolic waves in
+stratified, free surface, and compressible flows is discussed
+and applied to flows with shocks and breaking
+waves. (F,SP) Staff
+C268. Physicochemical Hydrodynamics. (3) Three
+hours of lecture per week. Prerequisites: A first graduate
+course in fluid mechanics is recommended. An
+introduction to the hydrodynamics of capillarity and
+wetting. Balance laws and short-range forces. Dimensionless
+numbers, scaling and lubrication approximation.
+Rayleigh instability. Marangoni effect. The
+moving contact line. Wetting and short-range forces.
+The dynamic contact angle. Dewetting. Coating flows.
+Effect of surfactants and electric fields. Wetting of
+rough or porous surfaces. Contact angles for evaporating
+systems. Also listed as Chemical Engineering
+C268. (F,SP) Morris
+273. Oscillations in Linear Systems. (3) Three hours
+of lecture per week. Prerequisites: 104 and 133.
+Response of discrete and continuous dynamical systems,
+damped and undamped, to harmonic and general
+time-dependent loading. Convolution integrals
+and Fourier and Laplace Transform methods.
+Lagrange’s equations; Eigensolutions; Orthogonality;
+generalized coordinates; nonreciprocal and degenerate
+systems; Rayleigh quotient. (F) Ma
+274. Random Oscillations of Mechanical Systems.
+(3) Three hours of lecture per week. Prerequisites:
+104 and 133. Random variables and random processes.
+Stationary, nonstationary, and ergodic proceses.
+Analysis of linear and nonlinear, discrete and
+continuous, mechanical systems under stationary and
+nonstationary excitations. Vehicle dynamics. Applications
+to failure analysis. Stochastic estimation
+and control and their applications to vibratory systems.
+(SP) Ma
+275. Advanced Dynamics. (3) Three hours of lecture
+per week. Prerequisites: 175. Review of Lagran -
+gian dynamics. Legendre transform and Hamilton’s
+equations, Cyclic coordinates, Canonical transformations,
+Hamilton-Jacobi theory, integrability. Dynamics
+of asymmetric systems. Approximation theory. Current
+topics in analytical dynamics. (F) Staff
+277. Oscillations in Nonlinear Systems. (3) Three
+hours of lecture per week. Prerequisites: 175. Oscillations
+in nonlinear systems having one or two degrees
+of freedom. Qualitative and quantitative methods:
+graphical, iteration, perturbation, and asymptotic methods.
+Self-excited oscillations, limit cycles, and domains
+of attraction. (F,SP) Szeri
+C279. Statistical Mechanics of Elasticity. (3) Three
+hours of lecture per week. Prerequisites: 185, or Civil
+and Environmental Engineering C231, or Material Science
+and Engineering C211, or consent of instructor.
+Introduction to statistical mechanics for engineers
+interested in the constitutive behavior of matter with a
+particular interest in continua. Systems of interest will
+be polymers and crystalline solids. Coverage includes
+introduction to statistical mechanics, ensembles, phase
+spaces, partitions functions, free energy, polymer
+chain statistics, polymer networks, harmonic and
+quasi-harmonic crystalline solids, limitations of classical
+methods and quantum mechanical influences. Also
+listed as Civil and Environmental Engineering C235.
+(F) Govindjee, Papadopoulos
+280A. Introduction to the Finite Element Method.
+(3) Three hours of lecture and one hour of discussion
+or computer laboratory per week. Prerequisites: Mathematics
+50A-50B; some familiarity with elementary
+field theories of solid/fluid mechanics and/or thermal
+science. Formerly 280. Weighted-residual and variational
+methods of approximation. Canonical construction
+of finite element spaces. Formulation of
+Mechanical Engineering / 365
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American Cultures
+requirement
+W prefix=online course
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 365
+366 / Mechanical Engineering
+element and global state equations. Applications to
+linear partial differential equations of interest in engineering
+and applied science. (F) Papadopoulos, Zohdi
+280B. Finite Element Methods in Nonlinear Continua.
+(3) Three hours of lecture per week. Prerequisites:
+280A or equivalent; background in continuum
+mechanics at the level of 185. A brief review of continuum
+mechanics. Consistent linearization of kinematical
+variables and balance laws. Incremental
+formulations of the equations of motion. Solution of
+the nonlinear field equations by Newton’s method and
+its variants. General treatment of constraints. Applications
+to nonlinear material and kinematical modeling
+on continua. (SP) Papadopoulos
+281. Methods of Tensor Calculus and Differential
+Geometry. (3) Three hours of lecture per week. Prerequisites:
+Mathematics 53 and 54. Methods of tensor
+calculus and classical differential geometry. The tensor
+concept and the calculus of tensors, the RiemannChristoffel
+tensor and its properties, Riemannian and
+Euclidean spaces. Geometry of a surface, formulas
+of Weingarten, and equations of Gauss and Codazzi.
+(F) Staff
+282. Theory of Elasticity. (3) Three hours of lecture
+per week. Prerequisites: 185. Fundamentals and general
+theorems of the linear theory of elasticity (in three
+dimensions) and the formulation of static and dynamic
+boundary value problems. Application to torsion, flexure,
+and 2-D problems of plane strain, generalized
+plane stress, and bending of plates. Representation of
+basic field equations in terms of displacement potentials
+and stress functions. Some basic 3-D solutions.
+(SP) Bogy, Steigmann
+283. Wave Propagation in Elastic Media. (3) Three
+hours of lecture per week. Prerequisites: 185. Propagation
+of mechanical disturbances in unbounded and
+bounded media. Surface waves, wave reflection and
+transmission at interfaces and boundaries. Stress
+waves due to periodic and transient sources. Some
+additional topics may vary with instructor. (F) Bogy
+284. Nonlinear Theory of Elasticity. (3) Students
+will receive no credit for 284 after taking 284A. Three
+hours of lecture per week. Prerequisites: 185 and 281.
+Formerly 284A. Fundamentals of nonlinear theory of
+elasticity. Exact solutions in elastostatics by inverse
+and semi-inverse methods. The method of successive
+approximations. Small deformations superposed
+on finite deformations. Nonlinear oscillations, shocks
+and acceleration waves, progressive waves and standing
+waves of finite amplitude, waves in pre-stressed
+solids. (F,SP) Casey
+285A. Foundations of the Theory of Continuous
+Media. (3) Three hours of lecture per week. Prerequisites:
+185. Formerly 285. A general development of
+thermodynamics of deformable media, entropy production,
+and related entropy inequalities. Thermomechanical
+response of dissipative media, including those
+for viscous fluids and nonlinear elastic solids. A discussion
+of invariance, internal constraints, material
+symmetry, and other special topics. (F,SP) Casey
+285B. Surfaces of Discontinuity and Inhomogeneities
+in Deformable Continua. (3) Three hours
+of lecture per week. Prerequisites: 185. Finitely deforming
+thermo-mechanical media. Moving surfaces of
+ discontinuity. Shock waves and acceleration waves
+in elastic materials. The Eshelby tensor and Eshelbian
+mechanics. Fracture. Microstructured continua.
+(F,SP) Casey
+285C. Electrodynamics of Continuous Media. (3)
+Three hours of lecture per week. Prerequisites: A first
+course in continuum mechanics (such as 185 or Civil
+Engineering 231). Formerly 284B. This course presents
+the fundamentals of electromagnetic interactions
+in deformable continuous media. It develops the
+background necessary to understand various modern
+technologies involving MEMS devices, sensors and
+actuators, plasmas, and a wide range of additional
+phenomena. The emphasis of this course is on fundamentals,
+beginning with Maxwell’s equations in
+vacuum, the ether relations and their extension to
+electromagnetic interactions in materials. The treatment
+is general within the limits of nonrelativistic
+physics and accommodates coupling with mechanical
+and thermal effects. The topics discussed are all
+developed at a general level including the effects of
+finite deformations. Various linear models, which are
+especially useful in applications, are developed through
+specialization of general theory. This course will be
+of interest to students in engineering, physics, and
+applied mathematics. (F,SP) Steigmann
+286. Theory of Plasticity. (3) Three hours of lecture
+per week. Prerequisites: 185. Formulation of the theory
+of plasticity relative to loading surfaces in both strain
+space and stress space and associated loading criteria.
+Nonlinear constitutive equations for finitely
+deformed elastic-plastic materials. Discussion of strainhardening
+and special cases. Applications. (F) Casey,
+Papadopoulos
+287. Multiscale Modeling and Design of New Materials.
+(3) Three hours of lecture per week. Prerequisites:
+185 or equivalent. This course focuses on
+methods for the modeling, analysis, numerical simulation,
+and design of microheterogeneous materials,
+with a central theme being the determination of relationships
+between the microstructure and the macroscopic
+response or “macroscale property.” The course
+is self-contained and is designed in an interdisciplinary
+manner for graduate students in engineering, applied
+mathematics, materials science, and physics who are
+interested in methods to accelerate the laboratory
+analysis and design of new materials. Examples draw
+primarily from various mechanical, diffusive, and thermal
+applications, although the techniques developed
+apply to any partial differential system possessing
+oscillatory coefficients. (SP) Zohdi
+288. Theory of Elastic Stability. (3) Three hours of
+lecture per week. Prerequisites: 185 and 273. Dynamic
+stability of elastic bodies. Small motion on finite deformation.
+Classical treatments of buckling problems.
+Snapthrough and other global stability problems. Stability
+theory based upon nonlinear 3-D theory of elasticity.
+(F) Steigmann
+289. Theory of Shells. (3) Three hours of lecture per
+week. Prerequisites: 185 and 281. A direct formulation
+of a general theory of shells and plates based on
+the concept of Cosserat (or Directed) surfaces. Non -
+linear constitutive equations for finitely deformed
+elastic shells. Linear theory and a special nonlinear
+theory with small strain accompanied by large or moderately
+large rotation. Applications. (F,SP) Johnson,
+Steigmann
+290A. Nonlinear Dynamics of Continuous Systems.
+(3) Three hours of lecture per week. Prerequisites:
+175, 185. This course uses methods from
+dynamical systems theory for the analysis of the nonlinear
+dynamics of elastic bodies. Various methods
+for modeling these bodies will be used, and the
+dynamics predicted by these models of the body will
+be explored. Of particular interest will be the dynamics
+of nonlinearly elastic rods and strings. (SP) O’Reilly
+290C. Topics in Fluid Mechanics. (3) Three hours of
+lecture per week. Prerequisites: Consent of instructor.
+Lectures on special topics which will be announced
+at the beginning of each semester that the course is
+offered. Topics may include transport and mixing,
+ geophysical fluid dynamics, biofluid dynamics, ocean -
+og raphy, free surface flows, non-Newtonian fluid
+mechanics, among other possibilities. (F,SP) Savas,
+Yeung
+290D. Solid Modeling. (3) Three hours of lecture per
+week. Prerequisites: Computer Science 61B or equivalent,
+linear algebra; Computer Science 184 recommended.
+Graduate survey of solid modeling research.
+Representations and algorithms for 3-D solid geometry.
+Applications in design, analysis, planning, and
+manufacturing of mechanical parts, including
+CAD/CAM, reverse engineering, meshing, feature
+recognition, mold-making, and rapid prototyping. (SP)
+McMains
+290G. Laser Processing and Diagnostics. (3) Three
+hours of lecture per week. Prerequisites: Graduate
+standing. Fundamentals of optical energy coupling
+with materials. Lasers and beam delivery systems.
+Thermal transport in irradiated targets: conductive
+heat transfer, stress field, melting and solidification,
+surface vaporization, explosive phase-change, plasma
+formation. Ultra-fast (picosecond and femtosecond)
+laser processing. Laser processing of thin films: continuous
+wave laser annealing, pulsed laser annealing.
+Laser-induced surface modification: mass transfer
+in shallow doping, flow redistribution and topography
+generation, miniature modification of glass surfaces.
+Desorption at low-energy densities: time-of-flight spectrometry.
+Dynamics of laser-ablated plumes: computational
+modeling, probe beam deflection, emission
+and laser-induced fluorescence spectroscopy. Processing
+of polymers. Laser interaction with liquids.
+Laser cleaning. Laser interactions with nanoparticles
+and clusters. Advanced microfabrication applications.
+Laser-assisted nano-structuring of surface properties.
+Optical measurement of thermal properties. Laserbased
+sensors and non-contact diagnostics. Offered
+alternate years. (F) Grigoropoulos
+290H. Green Product Development: Design for
+Sustainability. (3) Three hours of lecture per week,
+plus optional discussion section. Prerequisites: Graduate
+standing in Engineering or Information, or consent
+of instructor. The focus of the course is management
+of innovation processes for sustainable products, from
+product definition to sustainable manufacturing and
+financial models. Using a project in which students
+will be asked to design and develop a product or service
+focused on sustainability, we will teach processes
+for collecting customer and user needs data, prioritizing
+that data, developing a product specification,
+sketching and building product prototypes, and interacting
+with the customer/community during product
+development. The course is intended as a very handson
+experience in the “green” product development
+process. The course will be a management of technology
+course offered jointly with the College of Engineering
+and the Haas School of Business. In addition,
+it will also receive credit towards the new Certificate on
+Engineering Sustainability and Environmental Management
+Program. We aim to have half MBA students
+and half engineering students (with a few other students,
+such as from the School of Information) in the
+class. The instructors will facilitate students to form
+mixed disciplinary reams for the development of their
+“green” products. (F,SP) Agogino, Beckmann
+290J. Predictive Control for Linear and Hybrid Systems.
+(3) Three hours of lecture per week. Prerequisites:
+232. Advanced optimization, polyhedra
+manipulation, and multiparametric programming. Invariant
+set theory. Analysis and design of constrained
+predictive controllers for linear systems. Computational
+oriented models of hybrid systems. Analysis
+and design of constrained predictive controllers for
+hybrid systems. (F,SP) Borrelli
+290L. Introduction to Nano-Biology. (3) Three hours
+of lecture and one hour of discussion per week. This
+course introduces graduate students in mechanical
+engineering to the nascent field of nano-biology. The
+course is comprised of both formal lectures and projects.
+Lectures will include an introduction to both
+molecular biology (components of cells, protein structure
+and function, DNA, gene regulation, etc.) and
+nanotechnology (”bottom up” and “top down” nano -
+technologies), an overview of current instrumentation
+in biology, an in-depth description of the recent integration
+of molecular biology with nanotechnology (for
+sensing or labeling purposes, elucidating information
+on cells, etc.), and an introduction to systems biology
+(design principles of biological circuits). Students will
+read and present a variety of current journal papers to
+the class and lead a discussion on the various works.
+(F,SP) Sohn
+290M. Expert Systems in Mechanical Engineering.
+(3) Three hours of lecture per week. Prerequisites:
+102A and 102B or equivalent. Introduction to
+artificial intelligence and decision analysis in mechanical
+engineering. Fundamentals of analytic design,
+probability theory, failure analysis, risk assessment,
+and Bayesian and logical inference. Applications to
+expert systems in probabilistic mechanical engineering
+design and failure diagnostics. Use of automated
+influence diagrams to codify expert knowledge and
+to evaluate optimal design decisions. (SP) Agogino
+35492 B-Cat_AP:B-Cat Template.QXD 5/25/11 2:41 PM Page 366
+290N. System Identification. (3) Three hours of lecture
+per week. Prerequisites: 232, Electrical Engineering
+and Computer Sciences 221A or consent of
+instructor. This course is intended to provide a comprehensive
+treatment of both classical system identification
+and recent work in control-oriented system
+identification. Numerical, practical, and theoretical
+aspects will be covered. Topics treated include time
+and frequency domain methods, generalized parameter
+estimation, identification of structured nonlinear
+systems, modeling uncertainty bounding, and statespace
+methods. (F,SP) Poolla
+290P. New Product Development: Design Theory
+and Methods. (3) Three hours of lecture per week.
+Prerequisites: Graduate standing, consent of instructor.
+This course is aimed at developing the inter -
+disciplinary skills required for successful product
+development in today’s competitive marketplace. We
+expect students to be disciplinary experts in their own
+field (e.g., engineering, business). By bringing together
+multiple perspectives, we will learn how product development
+teams can focus their efforts to quickly create
+cost-effective products that exceed customers’ expectations.
+(F) Agogino
+290Q. Dynamic Control of Robotic Manipulators.
+(3) Three hours of lecture per week for five weeks,
+one hour of lecture per week for 10 weeks, four hours
+of laboratory per week for full term. Prerequisites:
+230, 232, or consent of instructor. Dynamic and kinematic
+analysis of robotic manipulators. Sensors (position,
+velocity, force, and vision). Actuators and power
+transmission lines. Direct drive and indirect drive.
+Point to point control. Straight and curved path following.
+Industrial practice in servo control. Applications
+of optimal linear quadratic control, preview
+control, nonlinear control, and direct/indirect adaptive
+controls. Force control and compliance control. Collision
+avoidance. Utilization of dynamic controls (SP)
+Horowitz, Kazerooni
+290R. Topics in Manufacturing. (3) Course may be
+repeated for credit as topic varies. Three hours of
+ lecture per week. Prerequisites: Consent of instructor.
+Advanced topics in manufacturing research. Topics
+vary from year to year. (F,SP) Dornfeld, Mc Mains,
+Wright
+C290S. Hybrid Systems and Intelligent Control.
+(3) Three hours of lecture per week. Formerly 291E.
+Analysis of hybrid systems formed by the interaction of
+continuous time dynamics and discrete-event controllers.
+Discrete-event systems models and language
+descriptions. Finite-state machines and automata.
+Model verification and control of hybrid systems.
+Signal-to-symbol conversion and logic controllers.
+Adaptive, neural, and fuzzy-control systems. Applications
+to robotics and Intelligent Vehicle and Highway
+Systems (IVHS). Also listed as Electrical Engineering
+C291E. Staff
+290T. Plasmonic Materials. (3) Course may be
+repeated for credit as topic varies. Three hours of lecture
+per week. Prerequisites: Physics 110A or consent
+of instructor. This course deals with fundamental
+aspects of plasmonic materials. The electromagnetic
+responses of those artificially constructed materials
+will be discussed. Physics of surface plasmons and
+dispersion engineering will be introduced. Resonant
+phenomena associated with the negative permittivity
+and permeability and the left-handed propagation will
+be presented. Methods of design, fabrication, and
+characterization of plasmonic materials will be discussed.
+(F,SP) Zhang
+C290X. Advanced Technical Communication: Proposals,
+Patents, and Presentations. (3) Three hours
+of lecture per week. Must be taken on a satisfactory/unsatisfactory
+basis. Prerequisites: Graduate
+standing, and students must have passed their Ph.D.
+qualifying examination. This course will help the
+advanced Ph.D. student further develop critically
+important technical communication traits via a series
+of lectures, interactive workshops, and student projects
+that will address the structure and creation of
+effective research papers, technical reports, patents,
+proposals, business plans, and oral presentations.
+One key concept will be the emphasis on focus and
+clarity—achieved through critical thinking regarding
+objectives and context. Examples will be drawn primarily
+from health care and bioengineering multidisciplinary
+applications. Also listed as Bioengineering
+C290D. (SP) Keaveny, Pruitt
+290Z. Topics in Control, Modeling, and Optimization.
+(3) Three hours of lecture per week. Prerequisites:
+232 and 233. Advanced topics in control,
+modeling and optimization research with extensive
+illustrative applications to diverse areas in mechanical
+engineering systems and mechatronics. Topics will
+vary from year to year and will be announced at the
+beginning of each semester that the course is offered.
+Theoretical issues covered in the course include topics
+such as iterative learning control, control over networks,
+and modeling for controls. The illustrative
+applications will be drawn from such topics as mechatronics
+for improving the quality of life among others.
+(F,SP) Staff
+298. Group Studies, Seminars, or Group Research.
+(1-8) Course may be repeated for credit. Sections 1-49
+to be graded on a satisfactory/unsatisfactory basis.
+Sections 50 and above to be graded on a letter-grade
+basis. Advanced studies in various subjects through
+special seminars on topics to be selected each year.
+Informal group studies of special problems, group participation
+in comprehensive design problems, or group
+research on complete problems for analysis and experimentation.
+(F,SP) Staff
+C298A. Topics in Fluid Mechanics. (1,2) Course
+may be repeated for credit. One hour of seminar per
+week. Must be taken on a satisfactory/unsatisfactory
+basis. Prerequisites: Consent of instructor. Lectures on
+special topics will be announced at the beginning of
+each semester that the course is offered. Topics may
+include transport and mixing, geophysical fluid dynamics,
+biofluid dynamics, oceanography, free surface
+flows, non-Newtonian fluid mechanics, among other
+possibilities. Also listed as Environ Sci, Policy, and
+Management C291, Physics C290I, Mathematics
+C290C, Chemical Engineering C295M, Civil and Environmental
+Engineering C290K, and Bioengineering
+C290C. (F,SP) Staff
+299. Individual Study or Research. (1-12) Course
+may be repeated for credit. Must be taken on a satisfactory/unsatisfactory
+basis. Prerequisites: Graduate
+standing in engineering, physics, or mathematics.
+Investigations of advanced problems in mechanical
+engineering. (F,SP) Staff
+602. Individual Study for Doctoral Students. (1-8)
+Course may be repeated for credit. Course does not
+satisfy unit or residence requirements for doctoral
+degree. Must be taken on a satisfactory/unsatisfactory
+basis. Prerequisites: Graduate standing. Individual
+study in consultation with the major field adviser,
+intended to provide an opportunity for qualified students
+to prepare themselves for the various examinations
+required of candidates for the Ph.D. (and other
+doctoral degrees). (F,SP) Staff
+Professional Courses
+301. Teaching of Mechanical Engineering at the
+University Level. (1-6) Course may be repeated for
+credit. One hour of seminar per week. Must be taken
+on a satisfactory/unsatisfactory basis. Weekly seminars
+and discussions on effective teaching methods. Educational
+objectives. Theories of learning. The lecture
+and alternative approaches. Use of media resources.
+Student evaluation. Laboratory instruction. Curricula in
+mechanical engineering. Practice teaching. This
+course is open to teaching assistants of mechanical
+engineering. (SP) Staff

@@ -1,0 +1,580 @@
+Job ID: JR0078579
+Job Category: Engineering
+Primary Location: Santa Clara, CA US
+Other Locations: US, Oregon, Hillsboro
+Job Type: College Grad
+Autonomous Driving SW Architect
+Job Description
+Core & Visual Computing Group is looking for a software engineer to become part of a team that builds tools, libraries and solutions for Autonomous Driving. This person will be responsible for creation of new prototypes, samples or tools to aid and explore new capabilities, integration points or use cases. Software Engineers conduct or participate in multidisciplinary research and collaborate with design, or hardware engineers in the design, development, and utilization of productivity enhancement. Determines user needs, advises hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements, designs and develops utility programs, Responds to customer/client requests or events as they occur. Develops solutions to problems utilizing formal education, judgement and formal software process.
+
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum Qualifications:
+
+Candidate must have a Master or PhD in Computer Science, Computer Engineering or related field.
+6 + months experience or equivalent coursework in the following areas:
+Programming using multiple languages and frameworks
+Linux
+Scripting languages
+Preferred Qualifications:
+
+-Autonomous driving technology
+- computer vision
+- machine learning
+ 
+
+ 
+
+Inside this Business Group
+The Core and Visual Computing Group (CVCG) is responsible for the architecture, design and development of the CPU core and visual technology IPs that are central to Intel's system-on-a-chip (SoC) products and key to our datacenter, client and Internet-of-Things (IOT) platforms. CVCG strives to lead the industry through continuous innovation and world class engineering.
+
+
+
+Other Locations
+
+US, Oregon, Hillsboro
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0081634
+Job Category: Engineering
+Primary Location: Hillsboro, OR US
+Other Locations:
+Job Type: College Grad
+SOC Design Engineer
+Job Description
+This is an entry level position and will be paid accordingly.
+
+Come join Intel's Silicon Engineering Group organization as a System on a Chip (SOC) Design Engineer. In this role you will be responsible for researching, designing, developing, and testing leading Intel designs.
+
+Your responsibilities may include but not be limited to:
+* Developing next-generation SoC designs, including micro-architecture, RTL development and integration, circuit design, and back-end integration
+* Validating design and micro-architectural implementation and assumptions
+* Developing solutions to problems utilizing formal education and judgment
+* Automating design tasks in order to complete the design in the most efficient fashion possible.
+
+The ideal candidate should exhibit the following behavioral traits:
+* Problem-solving skills
+* Ability to multitask
+* Strong written and verbal communication skills
+* Ability to work in a dynamic and team oriented environment
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum Qualifications:
+Candidate must have a BS, MS, or PhD in Electrical Engineering, Computer Engineering, or Electrical & Computer Engineering.
+
+At BS level this U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+
+Minimum 6 months of experience with design principles and techniques in at least two of the following areas:
+- Computer architecture
+- RTL design
+- Digital logic and optimizations
+- SOC design and integration
+- Very Large Scale Integration (VLSI) Complementary MOS (CMOS) circuits and timing
+
+ 
+
+Inside this Business Group
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0083956
+Job Category: Engineering
+Primary Location: Folsom, CA US
+Other Locations:
+Job Type: College Grad
+Graphics Software Development Engineer
+Job Description
+Are you passionate about computer graphics and disrupt the industry with your innovation? Working with leading Engineers on Intel's latest GPU architecture? Do you love collaborating with a diverse teams to help achieve Best–In-Class visual experiences that enable users to immerse themselves in a new visual future? Then our Visual and Parallel Computing Group (VPG) has opportunities for you. In VPG we deliver Intel's 3D graphics, media, display GPU, and Parallel Computing Technology.  We are looking for a Graphics Security Researcher to join our team; who is ready to make significant impact in the graphics and visual computing industry.
+As a Graphics Security Researcher, you will work with experienced software security validation engineers to identify security flows on the Intel Graphics driver in Windows and Linux operating systems spanning across automotive, cloud and client market segments. Demonstrate the ability and experience to develop team capabilities to anticipate graphics, media, display and compute industry threats and incorporate feedback to improve secure architecture and design of the graphics driver and graphics hardware.
+
+
+You will help us with the following responsibilities:
+
+Defining and implementing strategy for ensuring platform level security vulnerabilities are mitigated across Software/Silicon/Board level attacks.
+Performing architectural reviews on new features and defining test strategy for various penetration attacks.
+Influence the architecture and design of Intel graphics driver to meet secure development life-cycle best practices
+Planning and scheduling daily tasks, and using judgment on a variety of problems requiring deviation from standard practices
+Define and track team key indicators of success and link to the Intel graphics driver secure development best practices
+Behavioral traits that we are looking for:
+
+Handle multiple tasks simultaneously
+High attention to detail
+Excellent communication skills
+Solid presentation skills to internal and external audiences
+Good cross-functional teamwork
+Excellent problem solving skills
+What we offer you:
+
+We give you opportunities to transform technology and build a better future, by delivering products that touch the lives of every person on earth.
+As the 7th largest global company in innovation and new technology, we champion a collaborative, supportive and boredom-free environment, where the brightest minds in the world come together to achieve extraordinary results.
+We offer a competitive salary and financial benefits such as bonuses, opportunities to buy Intel stock at a discounted rate, or Intel stock awards (eligibility at the discretion of Intel Corp.).
+We provide unique benefits that cater to your needs: flexible work hours, private medical plan, travel medical care, life and disability insurance.
+We encourage working hard, but also playing hard! Intel employees are eligible for creative perks such as special recreation activities, discounts on various products and services, and much more.
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum Qualifications:
+
+Candidate must have a BS or MS Degree in Computer Science, Computer Engineering, Electrical Engineering or related discipline.
+Bachelor's applicants must be U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+6+ months experience or equivalent coursework in the following areas:
+Graphics Pipeline, board level security.
+Software security analysis industry best practices
+Threat modeling and security validation techniques, including and not limited to secure code reviews, fuzzing and penetration testing.
+Desired experience that will make you stand out:
+
+Experience with software engineering skills and programming skills in C, C++ and Assembly
+Experience with and knowledge of open source development, architecture and product/project delivery
+Experience in dealing with program partners in multiple geographical locations
+Knowledge of Operating System architecture and Device Drivers
+Willing to grasp both the technical issues and business opportunities, translate strategy into action
+Wiling to travel
+Knowledge of operating system kernel architecture
+Knowledge of Graphics, Media and Display architecture
+Knowledge of GPU HW and SW architecture
+Understanding of Agile development practices
+Expertise in one of Data Center, Cloud, HPC and Security infrastructure
+Are passionate about this opportunity and ready to help us create the next generation of technologies that will transform the future for decades to come? Then we encourage you to apply and be part of our team.
+
+Inside this Business Group
+The Core and Visual Computing Group (CVCG) is responsible for the architecture, design and development of the CPU core and visual technology IPs that are central to Intel's system-on-a-chip (SoC) products and key to our datacenter, client and Internet-of-Things (IOT) platforms. CVCG strives to lead the industry through continuous innovation and world class engineering.
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0088358
+Job Category: Engineering
+Primary Location: Folsom, CA US
+Other Locations: US, Arizona, Phoenix;US, California, Santa Clara;US, Colorado, Fort Collins;US, Oregon, Hillsboro;US, Texas, Austin
+Job Type: College Grad
+TECH, SYS ARCH & CLIENT GROUP (TSCG) Undergrad Hiring
+Job Description
+Joining the Technology, Systems Architecture and Client Group (TSCG) in Intel is your pathway to play an active role in advancing and shaping the future of technology in the world. TSCG is responsible for aligning technology, engineering, product design and business direction to extend Intel’s strategy and speed execution across the client device and IoT segments — all core to growth in the smart and connected compute era.
+
+TSCG has 3 major engineering groups:
+
+Core & Visual Computing Group (CVCG) – responsible for the architecture, design and development of the CPU core and visual technology IPSs that are central to Intel’s SoC products and key to datacenter, client and IoT platforms.  CVCG is made up of 4 major groups
+Infrastructure & Platform Solutions Group (IPSG) - builds the silicon and platform infrastructure for Intel’s design teams.  IPSG is comprised of a reusable pool of infrastructure IP blocks, design enabling services such as tools and automation and best in class post silicon ecosystem that ramps quickly to high volume manufacturing and validation.  IPSG is made up of 7 major groups
+Silicon Engineering Group (SEG) - worldwide group that develops and integrates SoCs, Cores and critical IPs that power Intel’s leadership products.  SEG is made up of 6 major groups
+Hiring for:
+
+Analog Engineers
+Component Design Engineers
+Digital / Physical Design Engineers
+Pre-Silicon Validation Engineers
+SoC Engineers
+Client Design Engineers
+Silicon Architects
+Software Engineers
+Embedded Firmware  Developers
+Power & Performance Modeling & Analysis Engineers
+Power Delivery & Thermal Analysis Engineer
+Power Management Engineers
+SoC Full Chip Architects
+Benchmark & Work Load Architects
+Software Architects
+Tool Developers
+Hiring In:  Phoenix, AZ; Folsom, CA; Santa Clara, CA: Fort Collins, CO; Hillsboro, OR, Austin, TX
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.   
+
+Minimum Qualifications: 
+
+Candidate must have a BS  in Electrical Engineering, Electrical Computing Engineering, Computer Science, Computer Engineering or related field
+This U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+
+Skills hiring for:
+
+High Performance Computing
+Artificial Intelligence (IA)
+Logic/RTL Design
+Pre-Silicon Functional Validation & Emulation
+Emulation, DV
+VLSI Circuit Design
+RLS Synthesis and Physical Flows
+DFT and Test Technology
+SoC Integration, Power, Thermal, Binsplit and Technology
+Component Design
+SoC Integration
+Analog Design
+Digital Circuit Design
+IP Architecture
+SoC Architecture
+Micro-Architecture Design
+Full Chip Validation & Integration
+Structural Design
+System Level Emulation
+FPGA
+Inside this Business Group
+
+
+Other Locations
+
+US, Arizona, Phoenix;US, California, Santa Clara;US, Colorado, Fort Collins;US, Oregon, Hillsboro;US, Texas, Austin
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+3DXP Product Development Engineer
+Job Description
+Come join Memory Component Development (MCD) organization within Intel's Non-Volatile Memory Solutions Group (NSG) as Product Development Engineer on 3D cross point memory technology. In this role, you will be expected to be a part of and participate in global PDE team responsible for all aspects of product development engineering in a start-up like environment, to enable Intel's product roadmap in data center and client product segments.
+
+*** THIS IS AN ENTRY LEVEL POSITION ***
+
+Responsible for ensuring the testability and manufacturability of integrated circuits from the component feasibility stage through production ramp. Make significant contributions to design, development and validation of testability circuits. Evaluation, development and debug of complex test methods. Develops and debugs complex software programs to convert design validation vectors and drive complex test equipment. Creates and tests validation and production test hardware solutions. Tests, validates, modifies and redesigns circuits to guarantee component margin to specification. Analyzes and evaluates component specification versus performance to ensure optimal match of component requirements with production equipment capability with specific emphasis on yield analysis and bin split capability. Analyzes early customer returns with emphasis on driving test hole closure activities. Creates and applies concepts for optimizing component production relative to both quality and cost constraints. Autonomously plans and schedules own daily tasks, develops solutions to problems utilizing formal education and judgment.
+
+The ideal candidate should exhibit the following behavioral traits:
+
+Problem solving with sound logical thinking and analysis
+Communication and articulation skills, both verbal and written
+Team player, yet capable of independently executing to assigned tasks
+Keen attention to detail
+
+Qualifications
+
+
+You must possess the minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Relevant experience can be obtained through school work, classes and project work, internships, military training, and/ or work experience. This is an entry level position and will be compensated accordingly.
+
+Minimum Requirements:
+
+The candidate must possess a BS degree in Electrical Engineering/Computer Engineering
+This U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+Minimum 6 months experience in the following:
+
+Software background & programming skills C++, Perl, Python, any scripting language
+Semiconductor device physics, fundamentals of testing, digital electronics principles, microprocessor basics, memory hierarchy and physical structure of memory devices, basics of VLSI design, assembly language programming, computer architecture, data structures, and statistical data analysis.
+Inside this Business Group
+Non-Volatile Solutions Memory Group:  The Non-Volatile Memory Solutions Group is a worldwide organization that delivers NAND flash memory products for use in Solid State Drives (SSDs), portable memory storage devices, digital camera memory cards, and other devices.  The group is responsible for NVM technology design and development, complete Solid State Drive (SSD) system hardware and firmware development, as well as wafer and SSD manufacturing.
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0086361
+Job Category: Engineering
+Primary Location: Austin, TX US
+Other Locations:
+Job Type: College Grad
+CPU Validation/Verification Engineer
+Job Description
+This is an entry level position and will be paid accordingly.
+
+Component Design Engineers are responsible for the design and development of electronic components. Responsibilities may include: the design of chip layout circuit design, circuit checking, device evaluation and characterization, documentation of specifications, prototype construction and checkout, modification and evaluation of semiconductor devices and components, performing developmental and/or test work, reviewing product requirements and logic diagrams, planning and organizing design projects or phases of design projects. Responds to customer/client requests or events as they occur. Develops solutions to problems utilizing formal education and judgment.
+
+Your responsibilities may include, but are not limited to, the following:
+Technical responsibility of pre-silicon validation, architectural or micro-architectural aspects of CPU validation.
+Understanding micro-architecture specification, defining validation strategy, identifying test cases, documenting test plans and regression debug.
+Developing validation content like tools, test generators to match the complexity of the CPU core and be reused in pre-silicon and post-silicon.
+Collaborating and communicating with architecture, design, pre-silicon and post-silicon validation, and other teams across Intel to achieve project goals.
+
+The ideal candidate should exhibit the following behavioral traits:
+
+Strong communication and collaboration skills.
+Strong problem solving skills and debugging skills along with ability to deal with ambiguity.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.   
+
+In this position, you will be a member of the CPU verification team and responsible for defining and implementing pre-silicon verification and post-silicon validation strategies to exhaustively validate the architecture and micro-architecture changes.
+
+Minimum Qualifications:
+Candidate must have a M.S. in Computer Engineering or Electrical Engineering or B.S. in Computer Engineering or Electrical Engineering with 1+yrs of experience in the following areas:
+
+At BS level this U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+
+Minimum 6 months of experience in:
+
+Advanced concepts of computer architecture and digital system design.
+Logic design with a hardware modeling language, such as Verilog, VHDL, or System Verilog.
+Verification concepts and test environment languages like Specman, System Verilog UVM/OVM.
+Logic simulation tools, such as the Synopsys, Cadence, or Mentor Graphics toolchains.
+Programming experience in at least one language: C/C++, Perl, Python, Ruby, Java, TCL, etc.
+
+Preferred Qualifications:
+
+Knowledge of X86 assembly language.
+Experience in pre-silicon verification/validation work through internship or course work.
+Inside this Business Group
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job Type: College Grad
+Design Automation Engineer
+Job Description
+The Atom CPU development team is looking for talented and ambitious individuals to join the Atom CPU Physical design automation (DA/CAD) team. The candidate for this position will engage with the project design teams to develop and support various digital custom design CAD tools and flows for various physical design and verification for next generation design methodology and automation needs.
+
+Some of the job responsibilities include, but not limited to:
+
+Develops and applies computer aided design (CAD) software engineering methods, theories and research techniques in the investigation and solution of technical problems.
+Assessing architecture and hardware limitations, plans technical projects in the design and development of CAD software.
+Defines and selects new approaches and implementation of CAD software engineering applications and design specifications and parameters.
+Develops routines and utility programs.
+Prepares design specifications, analysis and recommendations for presentation and approval.
+May specify materials, equipment and supplies required for completion of projects and may evaluate vendor capabilities to provide required products or services.
+The ideal candidate should exhibit behavioral traits:
+
+Excellent written and spoken communications skills.
+Ability to interact with a diverse range of individuals.
+Strong data analysis and problem solving skills.
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum requirements
+
+Must have a Bachelor's or Master's degree in Electrical Engineering, Computer Engineering or related field.
+2+ years of experience with:
+Very Large System Integration (VLSI) circuit and logic design
+ 
+1+ years of experience with:
+Scripting/programming languages (Perl/tcl/Python) and UNIX*, including Shell programming
+ 
+At the Bachelor's level, this U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+Preferred qualifications:
+
+Experience with industry custom design tools such as Virtuoso Layout or Schematic Editor, ADE and circuit simulators.
+Inside this Business Group
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0086631
+Job Category: Engineering
+Primary Location: Folsom, CA US
+Other Locations:
+Job Type: College Grad
+Logic Design Engineer
+Job Description
+
+Job Description
+Are you passionate in computer graphics? Working with leading graphics hardware engineers on Intel's latest GPU/CPU architecture? Do you love collaborating with a diverse teams to help achieve Best -In- Class visual experiences that enable uses to immerse themselves in a new visual future? Then our Visual and Parallel Computing Group (VPG) has opportunities for you. VPG delivers Intel's 3D graphics, media, display GPU, and Parallel Computing Technology. The Hardware team is within VPG and we design and validate the future Processor Graphics engines for mobile, desktop and server platforms that will lead the graphics market in power and performance.
+
+Intel's integrated graphic solutions are already used by millions of people every day, changing the way the world sees is unprecedented ways. And we're just getting started. We're looking for a Logic Design Engineers to join our team and who is ready to make significant impact in the graphics and visual computing. This position is at the forefront of Intel's next generation media development. In this position, you will utilize all your talents to work on the micro architecture/ logic design of the latest best Intel media quick sync technology and design.
+
+Your responsibilities will include, but not be limited to one or more of the following aspects of the design flow which encompasses all aspects of logic design methodology:
+
+Responsible for digital design of a wide variety of logic functions, with emphasis on media encoder/decoder logic implementation
+Responsible for Register Transfer Level (RTL) HDL design modeling, implementation, and debug
+Responsible for extensive simulation testing and/or characterization of designs
+Responsible for pre and post-layout static timing analysis
+
+The ideal candidate should exhibit the following behavioral traits:
+
+- Excellent communication, interpersonal and problem solving skills
+- Motivated, self-directed and able to work effectively both independently and in a highly dynamic team
+
+This is an entry level position and will be compensated accordingly
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Relevant experience can be obtained through school work, classes and project work, internships, military training, and/or work experience.
+
+Minimum Requirements:
+
+You must possess a Bachelor's degree with 2+ years of experience or a Master's degree in Electrical Engineering, Computer Engineering or in a related discipline
+Bachelor's applicants must be U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+1+ years of experience or equivalent coursework in the following areas:
+- Computer system architecture
+
+- Digital electronics and logic design
+
+- Verilog, System Verilog
+
+- Logic validation, synthesis, and timing analysis tools
+
+Inside this Business Group
+The Core and Visual Computing Group (CVCG) is responsible for the architecture, design and development of the CPU core and visual technology IPs that are central to Intel's system-on-a-chip (SoC) products and key to our datacenter, client and Internet-of-Things (IOT) platforms. CVCG strives to lead the industry through continuous innovation and world class engineering.
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0077030
+Job Category: Engineering
+Primary Location: Folsom, CA US
+Other Locations:
+Job Type: College Grad
+Software Engineer
+Job Description
+Are you passionate about computer graphics and working with leading graphics and automation engineers on Intel's latest GPU/CPU architecture and automated validation methodologies? Then our Visual and Parallel Computing Group VPG has opportunities for you. In VPG, we deliver Intel's 3D graphics, media, display, GPU, and Parallel Computing Technology. The Graphics Software Automation Engineering team is within VPG's Software Engineering organization, and we work to develop automation software and infrastructure to validate Intel's latest GPU/CPU Architecture to release the highest quality product to the market. You will partner with graphics driver engineering and automation engineering teams to implement software automation solutions, which will improve time to market for cutting edge products and impact the day-to-day lives of nearly 2,000 engineers. This position requires a diverse set of skills and will give you the opportunity to work with graphics software engineering teams from all over the world.
+
+You will help us with the following responsibilities but not limited to:
+
+Work alongside software and hardware development teams to analyze and debug issues.
+Develop tools to design and to define new methods for graphics driver software testing.
+Drive process improvements such as automating manual processes and data reporting.
+Use, and be comfortable with, agile software development methodologies in the software development life cycle.
+Maintain high quality graphics driver health through Continuous Integration validation methods.
+Working in a high volume machine automation environment
+Maintain system hardware at motherboard levels and operating in high volumes
+Drive processes that automate system uptime and cycle throughput time
+Develop and use software that monitors the daily activities of the automation environment
+Coordinate activities pertaining to high volume automated graphics validation efforts working closely with internal and 3rd party resources
+We are looking for someone that is a self-starter and ready to learn new languages, technologies, processes, software methodologies, and enjoys working with a diverse set of people to create a collaborative community of software development.  You will be stepping into a fast-moving, exciting environment with team members that are open to change, interested in learning, and anxious to help improve the lives of the engineering community at Intel.  If you are excited about this opportunity, then we encourage you to apply
+
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum Qualifications:
+
+Candidate must have a Bachelor's or Master's Degree in Computer Engineering, Computer Science, Software Engineering or other related field.
+This U.S. position is open to U.S. Workers Only. A U.S. Worker is someone who is either a U.S. Citizen, U.S. National, U.S. Lawful Permanent Resident, or a person granted Refugee or Asylum status by the U.S. Government. Intel will not sponsor a foreign national for this position.
+1+ year experience or equivalent coursework in the following areas:
+Development, validation, and debug of software and/or hardware.
+Developing software using C/C++ programming language, or Python/similar scripting language.
+Preferred Qualifications:
+
+Software testing automation methods
+Software testing and test methodology functional, integration, regression, performance, quality, continuous integration, continuous delivery.
+Computer hardware and software architecture
+Development and/or validation of graphics drivers for Windows, Linux or Android operating systems
+ High volume test automation environment
+Continuous Integration process flows and execution
+Inside this Business Group
+The Core and Visual Computing Group (CVCG) is responsible for the architecture, design and development of the CPU core and visual technology IPs that are central to Intel's system-on-a-chip (SoC) products and key to our datacenter, client and Internet-of-Things (IOT) platforms. CVCG strives to lead the industry through continuous innovation and world class engineering.
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0081931
+Job Category: Engineering
+Primary Location: Hillsboro, OR US
+Other Locations:
+Job Type: College Grad
+Software Engineer
+Job Description
+This position provides a challenging technical opportunity in enabling software and firmware solutions for high volume manufacturing (HVM) chipset and CPU testers with a primary focus on systems test. Responsibilities include working with customers to define software functionality requirements, documenting and implementing software solutions at all layers of the software stack while meeting performance and stability requirements necessary to ensure HVM success. Software stack includes user interface applications, test program APIs, middleware, services, drivers, firmware and unit tests. In addition, the candidate will be expected to debug software issues seen in factories and labs across the globe, which may include travel at times. A large portion of the software development includes interfacing directly with hardware components, so a good understanding of basic electronics and ability to read schematics and data sheets is a plus.
+
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.
+
+Minimum Qualifications:
+
+Posses an MS degree in Computer Science or Engineering Degree
+Experience Object oriented programming (OOP)
+Familiar with Visual Studio and software repositories such as Git, Mercurial, Subversion etc.
+Preferred Qualifications:
+
+Knowledge or experience in the the following areas:
+- SOLID programming principles.
+
+- Agile/SCRUM.
+
+- Oscilloscope, DVM.
+
+- C#/C++/Python.
+
+Familiar with unit test frameworks
+Experience with collaborative software development
+Able to comprehend hardware schematics and spec sheets
+Inside this Business Group
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+Job ID: JR0083462
+Job Category: Engineering
+Primary Location: Phoenix, AZ US
+Other Locations:
+Job Type: College Grad
+Analog Engineer
+Job Description
+Analog Engineer in Assembly and Test Technology Development organization drives high speed IO (signal integrity) and power delivery related technology development and design of packages and interconnects for future products on Intel's roadmap. The main responsibility is to develop necessary methodology and metrology core competencies in modeling and lab work to support the aforementioned efforts. Defines overall electrical performance specification and realizes technology certification through extensive design, analysis and validation activities. Conducts and supports research through internal and external programs on fundamental areas pertinent to circuits, packages, and interconnects. Collaborates with other engineers in the team and helps establish a team atmosphere promoting growth of core competency areas.
+
+This is an entry level position and will be compensated accordingly.
+
+
+Qualifications
+
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.?
+
+Minimum Qualifications:
+
+Posses a Ph.D. Degree focused on the areas of computational electromagnetics, RF, microwave engineering or photonics in Electrical and Computer Engineering, Computer Engineering, Electrical Engineering or related discipline.
+
+Preferred Qualifications:
+
+Demonstrate experience in packaging, interconnects, applied electromagnetics, RF design, and high speed circuit design.
+Demonstrate experience in circuit analysis and signal & power integrity tools such as SPICE, HFSS and ADS.
+Demonstrate a solid understanding of circuit theory, computational electromagnetics, transmission line fundamentals, microwave engineering, optical devices/interconnect and signal processing.
+Demonstrate familiarity with computer architecture and fundamental scripting skills with tool such as Matlab.
+Demonstrate familiarity with lab equipment as PNA, TDR, spectrum analyzer, etc.
+Familiarity with analog circuit design, package/silicon layout design ?and VLSI will be a plus.
+Inside this Business Group
+As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth
+
+
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.

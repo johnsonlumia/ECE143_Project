@@ -1,0 +1,357 @@
+Software Engineer Software Engineer Software Engineer
+
+DESCRIPTION
+Alexa is the groundbreaking cloud-based voice service that powers Echo and other devices designed around your voice. Our mission is to push the envelope in Natural Language Understanding (NLU), Machine Learning (ML), Automatic Speech Recognition (ASR), and Speaker Recognition, in order to provide the best-possible experience for our customers. We’re looking for a Software Development Engineer to help build industry-leading speaker recognition technologies and machine learning systems that customers love.
+As a Senior Software Development Engineer for the Alexa Engine team focused on Speaker Recognition, you will be responsible for the design, development, testing, and deployment of scalable distributed services with high level of operational excellence . In addition, you will build automated machine learning workflows with configurability, traceability, recoverability to enable faster experimentation. You will also partner with scientists and other engineers to help invent, implement, and connect sophisticated algorithms to our cloud based runtime engines. You will bring software best practices rigor to the machine learning domain by enabling continuous integration, continuous deployment of software artifacts. Prior domain knowledge including ML, ASR, and NLU is a preferred, though not required. However, strong motivation to learn ML, ASR and NLU is critical for successful candidates. Candidates should also be very agile in developing flexible software with respect to scientific, experimentation methods and usage patterns. Additional responsibilities include:
+· Designing, developing and maintaining core system features, services and engines
+· Helping define product features, drive the system architecture, and spearhead the best practices that enable a quality product
+· Working with scientists and other engineers to investigate design approaches, prototype new technology, and evaluate technical feasibility
+· Operating in an Agile/Scrum environment to deliver high quality software against aggressive schedules
+
+BASIC QUALIFICATIONS
+· Bachelor's degree in Computer Science, Electrical Engineering, or related technical field
+· 10+ years experience developing software with languages such as Java, C/C++, Python, Go and open-source technologies (Apache Hadoop, Spark)
+· 3+ years experience with OO analysis and design
+· Knowledge of data structures, algorithm design, problem solving, and complexity analysis
+· Experience developing cloud software services and an understanding of design for scalability, performance and reliability
+
+PREFERRED QUALIFICATIONS
+· Graduate degree (MS or PhD) in Electrical Engineering, Computer Sciences, Mathematics, or related technical field
+· Experience developing applications on embedded devices in C/C++ with memory constraints.
+· Experience defining system architectures and exploring technical feasibility trade-offs
+· Experience optimizing for short term execution while planning for long term technical capabilities
+· Ability to prototype and evaluate applications and interaction methodologies
+· Ability to produce code that is fault-tolerant, efficient, and maintainable
+· Academic and/or industry experience with standard ML techniques, training pipelines, Neural Net frameworks
+· Experience working effectively with science, data processing, and software engineering teams
+· Ability and willingness to multi-task and learn new technologies quickly
+· Written and verbal technical communication skills with an ability to present complex technical information in a clear and concise manner to a variety of audiences
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+DESCRIPTION
+Are you passionate about innovative technologies like speech and IoT? Are you interested in Amazon Alexa, the brain behind Amazon Echo? Are you interested to learn how Alexa powers AWS LEX? Are you entrepreneurial and interested in learning the dynamics of both Alexa and AWS? Here is a unique opportunity to be part of both worlds AWS and Alexa.
+The Amazon Alexa team is looking for a Software Dev Engineers to help build the Speech recognition, Natural language understanding(NLU) and entity resolution services to cater to AWS LEX. We are looking for a candidate with a passion for new products and IoT, enthusiasm for our mission, and a talent for managing building great products. We’re working hard, having fun, and making history.
+The Software Dev Engineer role requires working with AWS development team, science teams to understand how AWS LEX user experience translate into speech recognition, NLU and Entity Resolution(ER) design and evolution. An opportunity to understand technical solutions end to end, building scalable services to cater to the growing needs to AWS LEX, building the solutions that work future Alexa customers. This position involves getting a deeper understanding of the technology stack that caters to AWS LEX and building solutions from design to delivery.
+Key Responsibilities:
+
+· 
+· Own and manage how AWS LEX needs translate into Alexa platform requirements in speech recognition, Natural language understanding and Entity Resolution.
+· 
+· Responsible for the architecting & developing cutting edge solutions
+· 
+· Investigate design, prototype and evaluate technical feasibility.
+· 
+· Work in an Agile/Scrum environment to deliver high quality software against aggressive schedules.
+· 
+· Collaborate effectively with peer teams and key partner services to deliver robust engineering product
+· 
+· spearhead the best practices that enable a quality product.
+· 
+· Influence overall strategy by helping define these product features, drive the system architecture by working with Sr Engineers and Principal Engineers.
+· 
+If you have an entrepreneurial spirit, know how to deliver, are deeply technical, highly innovative and long for the opportunity to build pioneering solutions to challenging problems, we want to talk to you.
+
+
+BASIC QUALIFICATIONS
+· 3+ years industry experience building successful production software systems
+· 
+· B.S. (or higher) degree in Computer Science or Electrical Engineering
+· 
+· Experience converting high-level technical requirements into successful products through solid engineering design and implementation.
+· 
+· Experience in modern programming languages (C/C++, Java, Python), open-source technologies and multiple operating systems (Linux, Android etc.)
+· 
+· Experience building scalable infrastructure software or distributed systems for commercial online services.
+
+
+PREFERRED QUALIFICATIONS
+· Experience developing cloud software services and an understanding of design for scalability, performance and reliability.
+· 
+· Excellence in technical communication with peers and non-technical cohorts.
+· 
+· Sharp analytical abilities and proven design skills.
+· 
+· Strong sense of ownership, urgency, and drive.
+· 
+· Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment.
+· 
+· Experience in Machine Learning.
+Amazon is an Equal Opportunity-Affirmative Action Employer - Female/Minority/Disability/Veteran/Gender Identity/Sexual Orientation
+
+Tags: Amazon Alexa, Alexa, Amazon Echo, Echo, C++, object oriented, Java, Linux, machine learning, ML, large scale distributed systems, distributed file systems, virtualization, virtualization, high availability, speech and language understanding, NLU, ASR, Seattle, Amazon Software Development Engineer, Amazon Seattle Software Development Engineer careers, Cloud
+
+DESCRIPTION
+We are building a new team under Alexa Speech Organization. We own the end to end model building platform and services for Speech recognition, one of the three pillars of Alexa. As we scale Alexa to newer usecases that has never been thought before, we need to continuously evolve our systems to enable us innovate faster on behalf of our scientist Organization. We are embarking on a journey to rapidly grow the capabilities of Speech recognition to make it one of the most competent solution in the industry, including enterprises and developer community. if you are entrepreneurial and interested in disruptive thinking and leadership, here is a unique opportunity to steer the direction for one of the core pillars of Alexa Speech.
+
+The Amazon Alexa Speech team is looking for a Software Engineer-II to build the next generation Speech model building services to power the rapidly growing Alexa customer base. We handle millions of requests from our modeling services and we need to continuously evolve and make our systems much faster (build low latency, high through put systems). We are looking for a candidate with a passion for new products, build and manage large-scale services, enthusiasm for our mission, and a talent for managing building great products that are world class distributed systems and resilient systems. We’re working hard, having fun, and making history.
+
+As software dev engineer on the team you will be working with Alexa Speech modeling & domain teams and Alexa cloud teams. You will be re-architecting and building the next generation Speech models. You will own technical solutions end to end, focus on continuous accuracy improvement with continued impact to Alexa core businesses. You will be involved in design through delivery, working with Sr Engineers/ Principal Engineers from peer teams in Alexa Org.
+
+Key Responsibilities:
+· Own end to end design for Speech Model builder system. Identify opportunities for unification of model builders.
+· Define metrics to measure success and catch failures. Insist on high standards to deliver quality results.
+· Investigate design, prototype and evaluate technical feasibility.
+· Work in Agile/Kanban/Scrum environment to deliver high quality software against aggressive schedules.
+· Provide technical excellence and mentor team members.
+· Collaborate effectively with peer teams and key partner services to deliver robust engineering product.
+· Deliver results for Alexa.
+If you have an entrepreneurial spirit, know how to deliver, are deeply technical, highly innovative and long for the opportunity to build pioneering solutions to challenging problems, we want to talk to you.
+
+
+BASIC QUALIFICATIONS
+· Bachelor's degree in Computer Science or Electrical Engineering
+· 4+ years of industry experience building production software systems
+· Experience building scalable infrastructure software or distributed systems for commercial online services.
+· Experience in modern programming languages (C/C++, Java, Python), open-source technologies and multiple operating systems (Linux, Android etc.)
+
+PREFERRED QUALIFICATIONS
+· Master's degree in Computer Science or Electrical Engineering
+· Experience developing cloud software services for scalability, performance and reliability.
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+· Excellence in technical communication with peers and non-technical cohorts.
+· Strong sense of ownership, urgency, and drive.
+· Demonstrated leadership abilities in an engineering environment in driving operational excellence and best practices.
+· Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environments
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Tags: Amazon Alexa, Alexa, Amazon Echo, Echo, C++, C++, object oriented, Java, Java, Java, Linux, Linux, machine learning, machine learning, ML, Deep Learning, deep learning, DNN, large scale distributed systems, distributed file systems, virtualization, virtualization, high availability, speech and language understanding, NLU, ASR, Cambridge, Amazon Boston Software Development Manager careers, Cloud, Kendall Square, Kendall Square, Boston, Massachusetts 02142
+
+DESCRIPTION
+Fulfillment by Amazon (FBA) is an Amazon service for our third-party Sellers. The FBA team partners with Sellers and our Amazon Fulfillment Centers to create a seamless experience for Sellers to leverage our world-class facilities. 71% of our FBA Sellers report more than a 20% increase in unit sales after joining FBA. In a very real way, we are changing lives with the work we do. Our FBA employees wake up every day thinking about how to enable our Sellers to be successful on our platform. Enabling Seller success allows us to provide Amazon customers with unparalleled selection and pricing. FBA is a win for Sellers and a win for customers. Want to learn more about FBA?
+
+· Seller’s success stories: SellerSuccess
+· A free book of stories from small businesses/sellers, authors, and innovators that are thriving on Amazon: Transformations-ebook
+
+
+BASIC QUALIFICATIONS
+· Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline
+· 5+ years of relevant engineering experience
+· Experience with OOD and object oriented languages
+· Experience designing new systems for scale and flexibility from the ground up
+· Computer Science fundamentals in data structures, algorithm design, and problem solving
+· Proficiency in developing objected-oriented software with deep experience in one or more modern programming language (Java, C++, or Python)
+
+
+
+PREFERRED QUALIFICATIONS
+· Experience taking a leading role in building complex software systems that have been successfully delivered to customers
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+· Experience with distributed systems development
+· Demonstrated ability to reach stretch goals in a highly innovative and fast paced environment
+· Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy
+· Experience mentoring junior software engineers to improve their skills, and make them more effective, product software engineers
+· Experience influencing software engineers best practices within your team
+· Hands-on expertise in many disparate technologies, typically ranging from front-end user interfaces through to back-end systems and all points in between
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+DESCRIPTION
+Interested in Amazon Alexa? Come work on it. We’re building the speech and language solutions behind Amazon Echo and other Amazon products and services. We’re working hard, having fun, making history; come join us!
+We are looking for an individual with a passion for making development teams more efficient and productive. An individual that has the wisdom and know how to create infrastructure that supports a truly world-class product development team. This is an opportunity to build developer productivity infrastructure of your dreams while learning invaluable AWS technologies.
+Responsibilities:
+· Build and maintain frameworks that empower Alexa developers and testers to validate their products
+· Evaluate product functionality and create tools/infrastructure that work at Amazon scale.
+· Integrate with deployment infrastructure to establish a continuous build and test cycle.
+
+BASIC QUALIFICATIONS
+
+· Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field.
+· At least 5 years of experience in the job offered or as a Software Engineer, Software Developer, or a related occupation.
+
+PREFERRED QUALIFICATIONS
+· Experience in designing and developing large-scale, distributed software applications, tools, systems and services.
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+· 
+· Experience in Object Oriented Design and Programming with a modern language such as Java or C#
+· 
+· Experience in communicating with users, other technical teams, and management to collect requirements, evaluate alternatives and develop processes and tools as needed to support the organization.
+· 
+· Experience working with AWS technologies such as S3, DynamoDB, Aurora and AWS Lambda
+· 
+· Experience with evaluating and integrating open source and in house developed tool sets
+· 
+· Comfortable working in a fast paced, highly collaborative, dynamic work environment
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+DESCRIPTION
+
+Do you want to change the world? Alexa and Echo are literally shaping the future of voice recognition and cloud-based content/services. Alexa is the name of the Amazon cloud service and the brain that powers Echo, the award-winning and groundbreaking new Amazon device designed around your voice. Echo connects to Alexa, to provide information, answer questions, play music, read the news, check sports scores or the weather, and more—instantly. It's hands-free, and always on. All you have to do is ask.
+
+To achieve this, we blend of a variety of disciplines (such as NLP, data mining, machine learning, big data, semantic web, graph stores, cloud computing) in an effort to understand our customers and the things they're excited about. To complement our complex algorithms and extensive data analyses, we create elevated and inspirational mobile and web features across the entire Echo system. We use artificial intelligence, data mining and usability studies to develop new features, and we test them through hundreds of R & D experiments a year. We want to make it easy for you to search for your favorite products, discover new brands you’d like, play your favorite songs or even replenish your fridge - and much, much more!! We are also incredibly intent on solving some of the most complex computing problems to be found in industry and academia, and we get to test our solutions in the real world every day. And most importantly, we relentlessly ask: "What haven't we though of yet?"
+
+As a member of the Alexa OS team, you will be responsible for leading the development and launch of core platform features. You will have significant influence on our overall strategy by helping define these features, drive the system architecture, and spearhead the best practices that enable a quality product.
+
+The ideal candidate has a demonstrable track record of technical leadership and success in delivering new features and products. A commitment to teamwork, hustle, and strong communication skills (to both business and technical partners) are absolute requirements. Creating reliable, scalable, and high performance products requires exceptional technical expertise, a sound understanding of the fundamentals of Computer Science, and practical experience building large-scale distributed systems. This person has thrived and succeeded in delivering high quality technology products/services in a hyper-growth environment where priorities shift quickly.
+
+Responsibilities:
+· Develop and maintain key system features.
+· Work with other team members to investigate design approaches, prototype new technology and evaluate technical feasibility.
+· Work with stakeholders to define and execute on the technical strategy for your team.
+· Work in an Agile/Scrum environment to deliver high quality software against aggressive schedules.
+
+BASIC QUALIFICATIONS
+
+· BS in Computer Science or equivalent.
+· 5+ years of industry experience.
+· Programming experience in one or more object-oriented languages like Java/Python/C#/Ruby/Objective C/C++
+· Experience building scalable infrastructure software or distributed systems.
+
+PREFERRED QUALIFICATIONS
+
+· MS in Computer Science
+· Analytical abilities and proven design skills
+· Mastery of the tools of the trade, including a variety of modern programming languages (Java, JavaScript, C/C++, Objective C, Python, Ruby, C)
+· Experience developing cloud software services and an understanding of design for scalability, performance and reliability.
+· Development experience defining, developing and maintaining REST based interfaces.
+· Excellence in technical communication with peers and non-technical cohorts.
+· Strong sense of ownership, urgency, and drive.
+· Demonstrated leadership abilities in an engineering environment in driving operational excellence and best practices.
+· Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment.
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+DESCRIPTION
+Interested in Amazon Echo? Come work on it. We’re building the core services that run Amazon Echo and other Amazon products. We’re working hard, having fun, making history; come join us!
+You will be responsible for design, development, delivery and support of large-scale, multi-tiered, distributed software applications and tools.
+
+
+BASIC QUALIFICATIONS
+· Bachelor in Computer Science/Engineering or related field.
+· 5+ years of software development experience
+· 3+ years of experience programming in at least one modern programming language such as C, C++, C# or Java
+· Experience with object-oriented design and programming
+· Experience building and operating mission critical, highly available (24x7) systems
+· Experience in taking systems from design to production
+· Experience applying best practices for the design and implementation of systems
+
+PREFERRED QUALIFICATIONS
+· MS or PhD in Computer Science or related field
+· Thorough understanding of Internet protocols such as HTTP, DNS, TCP, and UDP.
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+· Ability to take a project from scoping requirements through actual launch of the project.
+· Distributed systems, networking, web services design and implementation experience.
+· Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment
+· Strong customer focus, ownership, urgency and drive.
+· Excellent problem solving ability
+· Excellent written and verbal communication
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Senior Hardware System Engineer
+Job ID: 710044 | Amazon.com Services, Inc.
+DESCRIPTION
+Amazon is looking for a Senior Hardware System Engineer to join an exciting new project team working to build a completely new best in class consumer product. We are an innovative, cross-platform, customer-obsessed team, working on big-bets in an innovative environment. Our organization rewards intellectual curiosity while maintaining the direct to market product focus. Our mission is to invent and simplify large-scale solutions and bring the future to Amazon customers.
+
+As a founding member of the team, you will work alongside with product management, research, design, and engineering (EE/ME) to define and build this new product. This position requires deep customer focus, the ability to dive deep and invent, and the ability to make hard decisions fast.
+
+As a Senior System Engineer, you will be a key member of the HW team owning overall system validation for a consumer hardware product. In this role you will be working with a team of HW, SW and firmware engineers to define and implement a device level tests, and provide feedback to the product teams. You must be responsive, flexible and able to succeed within an open collaborative peer environment. In this role, you will:
+· Own overall system validation for a consumer hardware product.
+· Implement strategy to stress overall system.
+· Develop testing methodologies to drive product tradeoffs.
+· Identify co-existence issues in the system in terms of Bandwidth, Power, Performance.
+· Be able to design and debug test FW, SW and HW.
+· Identify Risks and develop plans to reduce or eliminate their impact
+· Work with operations and JDM to develop test methodologies to ensure product meets specifications
+
+
+
+BASIC QUALIFICATIONS
+· Bachelor’s degree in Mechanical, Electrical Engineering, Computer Science or Computer Engineering
+· 7+ years of relevant experience
+· Experience designing complex systems, and hardware/software integration
+· Experience with FMEA/FMECA, FMET, FTA and reliability analyses
+· Strong Mathematical/Statistical fundamentals
+· Excellent written and verbal communication; ability to explain complex concepts and designs to colleagues across disciplines
+· Experience with consumer electronics, mobile and personal consumer electronics devices
+· Experience working on system validation at all levels ranging from SoC to complex optical or electromechanical systems
+· Experience with programming and scripting skills for Test automation
+
+PREFERRED QUALIFICATIONS
+· Master’s or PhD in Engineering or related field
+· Experience as a technical lead and ability to mentor and guide junior engineers
+· Experience working with oversees suppliers, JDMs and ODMs
+· In-depth understanding of Digital interfaces and embedded systems for High speed interfaces like Memory (DDR/LPDDR4), Display, Camera
+· SoC firmware programming and debugging skills
+· Able to work in lab environment with test equipment like oscilloscope, Logic analyzers
+· Experience interfacing/partnering with a multidisciplinary engineering team
+· Experience communicating with end users, management, technical and business teams to collect requirements, describe product features and refine technical designs
+· Experience with optical systems.
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Senior Hardware Development Engineer
+Job ID: 746678 | Amazon.com Services, Inc.
+DESCRIPTION
+Amazon Web Services (AWS) Hardware Engineering team creates compute and storage server designs for Amazon’s innovative web services. Our designs are industry-leading in performance, frugality and operational excellence, and are critical to the success of the AWS business and the more than one million customers who use AWS today. Our Hardware Engineers solve challenging technology problems, and build architecturally sound, high-quality server platforms and components to enable AWS to realize critical business strategies. We are seeking experienced Hardware Design Engineers to build the next generation of our cloud platforms. Our success depends on our world-class server infrastructure; we’re handling massive scale and rapid integration of emergent technologies.
+
+What you will do: As a member of the Server Hardware Engineering team, you’ll be responsible for the design of our server platforms and AWS specific hardware components. You will interact with engineers across the company, and work with an interdisciplinary team to execute product designs from concept to production including design, development, validation, and the successful implementation of your work at large scale. You’ll provide leadership in the application of new technologies to large scale server deployments in a continuous effort to deliver a world-class customer experience. This is a fast-paced, intellectually challenging position, and you’ll work with thought leaders in multiple technology areas. You’ll have relentlessly high standards for yourself and everyone you work with, and you’ll be constantly looking for ways to improve your products performance, quality and cost. We’re changing an industry, and we want individuals who are ready for this challenge and want to reach beyond what is possible today.
+
+Why it matters: Public cloud IT services represent the majority of growth in the overall IT services market and will continue to do so for several years to come. The scale of AWS, combined with an understanding of how our hardware is used, creates a unique opportunity for hardware customizations that will directly benefit AWS customers.
+
+
+Why you will love it: You will work directly with engineers across the company to build next-generation hardware. You will have a direct impact on our bottom line and the ability to deliver improvements for our customers. You will be part of a growing, fast paced, and fun team. You will have ownership for the implementation of your work.
+
+AWS Hardware Engineering team is seeking experienced hardware design engineers to design and build next-generation server platforms, and AWS specific hardware component.
+
+BASIC QUALIFICATIONS
+· BS Electrical/Computer Engineering (or equivalent experience)
+· 7+ years of experience in system level design, board design and component designs.
+· Experience in collaborating with the ECAD/physical board designer and able to review PCB designs with Allegro, CAM350, or equivalent.
+· Experience in developing functional specifications, design verification plans and functional test procedures
+· Experience in board, server issue root cause experience
+
+
+PREFERRED QUALIFICATIONS
+· Master’s degree in Electrical Engineering, Computer Engineering, or related field
+· Commitment to rigorous testing practices and design process flows
+· Customer focused
+· Strong organizational and planning skill
+· Desire to work in a fast-paced environment
+· Ability to resolve complex issues in creative, efficient, and effective ways
+· Excellent written (white papers) and oral communication skills
+· Strong expertise in motherboard design, PCB design including schematic capture, stackup and circuit board layout.
+· Expertise in server technologies such as, thermal, mechanical, power, and signal integrity.
+· Experience in component selection and understanding of component reliability.
+· Experience in compute and storage server architecture and design for large scale applications.
+· Experience working with interdisciplinary teams to execute product design from concept to production.
+· Experience with the project management of technical projects a plus.
+· Meets/exceeds Amazon’s leadership principles requirements for this role
+· Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Deep Learning Engineer
+Job ID: 722709 | Amazon.com Services, Inc.
+DESCRIPTION
+Alexa is the groundbreaking cloud-based intelligent agent that powers Echo and other devices designed around your voice. Our mission is to push the envelope in Deep Learning (DL) and Machine Learning (ML) for Automatic Speech Recognition (ASR), in order to provide the best-possible experience for our customers. We’re looking for a Software Development Engineer to help build industry-leading conversational technologies and machine learning systems that customers love.
+
+As a Software Development Engineer for the Alexa team, you will be responsible for translating business and functional requirements into concrete deliverables with the design, development, testing, and deployment of highly scalable distributed services. You will also partner with scientists and other engineers to help invent, implement, and connect sophisticated algorithms to our cloud based engines. Prior domain knowledge including DL and ML is a preferred, though not required. However, strong motivation to learn DL and ML is critical for successful candidates. Candidates should also be very agile in developing flexible software with respect to scientific, experimentation methods and usage patterns. Additional responsibilities include:
+· Designing, developing and maintaining core system features, services and engines
+· Helping define product features, drive the system architecture, and spearhead the best practices that enable a quality product
+· Working with scientists and other engineers to investigate design approaches, prototype new technology, and evaluate technical feasibility
+· Operating in an Agile/Scrum environment to deliver high quality software against aggressive schedules
+
+
+BASIC QUALIFICATIONS
+· Bachelor's degree in Electrical Engineering, Computer Science, Mathematics, or related technical field
+· 1+ years experience in programming languages such as C/C++, Java, Perl or Python.
+· Experience with OO design and common design pattern
+· 1+ years experience in algorithm design, data structures, problem solving, and complexity analysis
+
+PREFERRED QUALIFICATIONS
+· Graduate degree (MS or PhD) in Electrical Engineering, Computer Sciences, Mathematics, or related technical field
+· 1+ years experience in programming languages such as C/C++, Java, Perl or Python and open-source technologies (Apache, Hadoop)
+· 1+ years experience in algorithm design, data structures, problem solving, and complexity analysis
+· Experience developing cloud software services and an understanding of design for scalability, performance and reliability
+· Experience defining system architectures and exploring technical feasibility trade-offs
+· Experience optimizing for short term execution while planning for long term technical capabilities
+· Ability to prototype and evaluate applications and interaction methodologies
+· Ability to produce code that is fault-tolerant, efficient, and maintainable
+· Academic and/or industry experience with standard AI and ML techniques, NLU and scientific thinking
+· Experience working effectively with science, data processing, and software engineering teams
+· Ability and willingness to multi-task and learn new technologies quickly
+· Written and verbal technical communication skills with an ability to present complex technical information in a clear and concise manner to a variety of audiences
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation
+
+

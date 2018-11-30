@@ -1,0 +1,1056 @@
+Electrical Engineering
+Lower Division Courses
+1. EECS: The First Course. (2) One hour of lecture
+and two hours of laboratory per week. Introduction to
+engineering concepts and techniques in general, and
+to forefront topics in electrical engineering and computer
+sciences in particular, involving hands-on experimentation,
+lectures, demonstrations, readings, and
+practice with written and oral communication. Course
+intended for first-year undergraduates. (F,SP) White
+20N. Structure and Interpretation of Systems and
+Signals. (4) Three hours of lecture and three hours of
+laboratory per week. Prerequisites: Mathematics 1B.
+Mathematical modeling of signals and systems. Continous
+and discrete signals, with applications to audio,
+images, video, communications, and control. Statebased
+models, beginning with automata and evolving
+to LTI systems. Frequency domain models for signals
+and frequency response for systems, and sampling of
+continuous-time signals. A Matlab-based laboratory is
+an integral part of the course. (F,SP) Lee
+24. Freshman Seminar. (1) One hour of seminar per
+week. Sections 1-2 to be graded on a letter-grade basis.
+Sections 3-4 to be graded on a passed/not passed
+basis. The Freshman Seminar Program has been designed
+to provide new students with the opportunity to
+explore an intellectual topic with a faculty member in a
+small seminar setting. Freshman seminars are offered
+in all campus departments, and topics may vary from
+department to department and semester to semester.
+(F,SP)
+40. Introduction to Microelectronic Circuits. (4) Students
+will receive no credit for 40 after taking 100.
+Three hours of lecture, three hours of laboratory, and
+one hour of discussion per week. Prerequisites: Mathematics
+1B and Physics 7B. Fundamental circuit concepts
+and analysis techniques in the context of digital
+electronic circuits. Transient analysis of CMOS logic
+gates; basic integrated-circuit technology and layout.
+(F,SP) Staff
+42. Introduction to Digital Electronics. (3) Two
+hours of lecture and one hour of discussion per week.
+Prerequisites: Mathematics 1B. Electronic circuit elements,
+theory, digital circuits applications. Digital signals,
+logic gates, switching. Kirchoff’s laws, nodal analysis.
+Graphical methods for nonlinear circuits.
+Thevenin, Norton equivalents, transients. Dependent
+source, amplifiers. Operational amplifiers and comparators.
+MOS transistors as switches, MOS I-V models
+for logic circuit analysis. Transfer curves. Symmetry
+of PMOS and NMOS devices and CMOS circuits. Resistance
+and capacitance models for stage delay.
+(F,SP) Staff
+43. Introductory Electronics Laboratory. (1) Two
+hours of laboratory/discussion per week. Must be
+taken on a passed/not passed basis. Prerequisites: 42
+(may be taken concurrently) or equivalent or consent
+of instructor. Using and understanding electronics laboratory
+equipment such as oscilloscope, power supplies,
+function generator, multimeter, curve-tracer, and
+RLC-meter. Includes a term project of constructing and
+testing a robot or other appropriate electromechanical
+device. (F,SP) Staff
+84. Sophomore Seminar. (1,2) Course may be repeated
+for credit as topic varies. One hour of seminar
+per week per unit for fifteen weeks. One and one half
+hours of seminar per week per unit for 10 weeks. Two
+hours of seminar per week per unit for eight weeks.
+Three hours of seminar per week per unit for five
+weeks. Sections 1-2 to be graded on a passed/not
+passed basis. Sections 3-4 to be graded on a lettergrade
+basis. Prerequisites: At discretion of instructor.
+Sophomore seminars are small interactive courses offered
+by faculty members in departments all across the
+campus. Sophomore seminars offer opportunity for
+close, regular intellectual contact between faculty
+members and students in the crucial second year. The
+topics vary from department to department and
+semester to semester. Enrollment limited to 15 sophomores.
+(F,SP)
+Upper Division Courses
+100. Electronic Techniques for Engineering. (4)
+Three hours of lecture and three hours of laboratory
+per week. Prerequisites: Mathematics 1B, Physics 7B.
+Analysis of passive circuits, sinusoidal steady-state response,
+transient response, operational amplifiers, digital
+building blocks, digital systems, microprocessor
+control, power systems and machines. This course is
+not for students majoring in Electrical Engineering.
+(F,SP)
+105. Microelectronic Devices and Circuits. (4) Three
+hours of lecture, one hour of discussion, and three
+hours of laboratory per week. Prerequisites: 40. This
+course covers the fundamental circuit and device concepts
+needed to understand analog integrated circuits.
+After an overview of the basic properties of semiconductors,
+the p-n junction and MOS capacitors are described
+and the MOSFET is modeled as a large-signal
+device. Two port small-signal amplifiers and their realization
+using single stage and multistage CMOS
+building blocks are discussed. Sinusoidal steady-state
+Electrical Engineering and Computer Sciences / 227
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American cultures
+requirement
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+228 / Electrical Engineering and Computer Sciences
+signals are introduced and the techniques of phasor
+analysis are developed, including impedance and the
+magnitude and phase response of linear circuits. The
+frequency responses of single and multi-stage amplifiers
+are analyzed. Differential amplifiers are introduced.
+(F,SP) Howe, Spanos
+113. Power Electronics. (4) Three hours of lecture
+and three hours of laboratory per week. Prerequisites:
+105 or consent of instructor. Power conversion circuits
+and techniques. Characterization and design of magnetic
+devices including transformers, reactors, and
+electromagnetic machinery. Characteristics of bipolar
+and MOS power semiconductor devices. Applications
+to motor control, switching power supplies, lighting,
+power systems, and other areas as appropriate. (SP)
+Staff
+117. Electromagnetic Fields and Waves. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 40, Mathematics 53, 54, knowledge of
+phasor analysis (e.g. as taught in 105). Formerly 117A117B.
+Review of static electric and magnetic fields and
+applications; Maxwell’s equations; transmission lines;
+propagation and reflection of plane waves; introduction
+to guided waves, microwave networks, and radiation
+and antennas. Minilabs on statics, transmission lines,
+and waves. (F,SP) Staff
+118. Introduction to Optical Communication Systems
+and Networks. (3) Three hours of lecture per
+week. Prerequisites: 20 and 40. Basic principles of digital
+and analog optical communications and optical networks.
+Emphasis is on principles of optical links, including
+channel capacity, basic limitations due to noise
+processes, and bit error rate requirements. Optical amplification,
+the detector-receiver, optical fiber and freespace
+propagation, the transmitter, and modulation
+schemes. Coherent and incoherent communications
+and network systems. Basic optical Fourier transform
+signal processing techniques. (F) Gustafson
+119. Introduction to Optical Engineering. (3) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Physics 7C. Fundamental principles of
+optical systems. Geometrical optics and aberration theory.
+Stops and apertures, prisms, and mirrors. Diffraction
+and interference. Optical materials and coatings.
+Radiometry and photometry. Basic optical devices and
+the human eye. The design of optical systems. Lasers,
+fiber optics, and holography. (SP) Bokor
+120. Signals and Systems. (4) Four hours of lecture
+and one hour of recitation per week. Prerequisites:
+20N, Mathematics 53, 54. Continuous and discretetime
+transform analysis techniques with illustrative applications.
+Linear and time-invariant systems, transfer
+functions. Fourier series, Fourier transform, Laplace
+and Z-transforms. Sampling and reconstruction. Solution
+of differential and difference equations using
+transforms. Frequency response, Bode plots, stability
+analysis. Illustrated by analysis of communication systems
+and feedback control systems. (F,SP) Fearing,
+Kahn
+120L. Signals and Systems Laboratory. (1) Three
+hours of laboratory every other week. Prerequisites:
+May be taken concurrently with 120. Hands-on experiments
+designed to provide physical examples for
+the theoretical concepts of 120. Time-and frequencydomain
+examination of the response of linear systems
+to periodic and transient signals, modulation and demodulation,
+sampling, reconstruction and aliasing.
+Representative applications include active filters, AM,
+PM, feedback control, and digitized speech. (F,SP)
+Fearing, Kahn
+121. Introduction to Digital Communication Systems.
+(4) Three hours of lecture and one hour of discussion
+per week. Prerequisites: 120, 126. Introduction
+to the basic principles of the design and analysis of
+modern digital communication systems. Topics include
+source coding, channel coding, baseband and passband
+modulation techniques, receiver design, and
+channel equalization. Applications to design of digital
+telephone modems, compact disks, and digital wireless
+communication systems. Concepts illustrated by a sequence
+of MATLAB exercises. (SP) Tse
+122. Introduction to Communication Networks. (4)
+Three hours of lecture, one hour of discussion, and
+one hour of laboratory per week. Prerequisites: Computer
+Science 61B, Mathematics 53 or 54. This course
+is an introduction to the design and implementation of
+computer networks. We will focus on the concepts and
+fundamental design principles that have contributed to
+the Internet’s scalability and robustness and survey the
+underlying technologies—e.g., Ethernet, 802.11, DSL,
+optical links—that have led to the Internet’s phenomenal
+success. Topics include layering, congestion/flow/error
+control, routing, addressing, multicast,
+packet scheduling, switching, internetworking, network
+security, and networking/programming interfaces.
+(F,SP) Stoica, Walrand
+123. Digital Signal Processing. (4) Three hours of
+lecture, one hour of discussion, and one hour of laboratory
+per week. Prerequisites: 120. Discrete time signals
+and systems: Fourier and Z transforms, DFT, 2-
+dimensional versions. Digital signal processing topics:
+flow graphs, realizations, FFT, chirp-Z algorithms,
+Hilbert transform relations, quantization effects, linear
+prediction. Digital filter design methods: windowing, frequency
+sampling, S-to-Z methods, frequency-transformation
+methods, optimization methods, 2-dimensional
+filter design. (SP) Staff
+C125. Introduction to Robotics. (4) Three hours of
+lecture and one hour of discussion per week. Prerequisites:
+120 or equivalent, consent of instructor. An introduction
+to the kinematics, dynamics, and control of
+robot manipulators, robotic vision, sensing, and the
+programming of robots. The course will cover forward,
+inverse kinematics of serial chain manipulators. The
+manipulator Jacobian, force relations, dynamics and
+control-position, and force control. Trajectory generation,
+collision avoidance, automatic planning of fine
+and gross motion strategies, robot programming languages.
+Proximity, tactile, and force sensing. Network
+modeling, stability, and fidelity in teleoperation. Biological
+analogies and medical applications of robotics.
+Also listed as Bioengineering C125. (F,SP) Sastry,
+Tendick
+126. Probability and Random Processes. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 20. This course covers the fundamentals
+of probability and random processes useful in
+fields such as networks, communication, signal processing,
+and control. Sample space, events, probability
+law. Conditional probability. Independence. Random
+variables. Distribution, density functions. Random vectors.
+Law of large numbers. Central limit theorem. Estimation
+and detection. Markov chains. (F,SP) Tse
+128. Feedback Control. (4) Three hours of lecture
+and three hours of laboratory per week. Prerequisites:
+120. Analysis and synthesis of continuous and sampled-data
+linear feedback control systems. Advantages
+of feedback. Design by root locus, frequency response,
+and state space methods, with a comparison of techniques.
+Case studies. (F) Sanders
+129. Neural and Nonlinear Information Processing.
+(3) Three hours of lecture per week. Prerequisites: 120
+or consent of instructor. Principles of massively parallel
+real-time computation, optimization, and information
+processing via nonlinear dynamics and analog VLSI
+neural networks, applications selected from image processing,
+pattern recognition, feature extraction, motion
+detection, data compression, secure communication,
+bionic eye, auto waves, and Turing patterns. (SP)
+Chua
+130. Integrated-Circuit Devices. (4) Three hours of
+lecture and one hour of discussion per week. Prerequisites:
+40 or 100. Overview of electronic properties of
+semiconductor. Metal-semiconductor contacts, pn junctions,
+bipolar transistors, and MOS field-effect transistors.
+Properties that are significant to device operation
+for integrated circuits. Silicon device fabrication
+technology. (F,SP) Bokor, King
+131. Semiconductor Electronics. (3) Three hours of
+lecture per week plus several one hour mini-laboratories.
+Prerequisites: 130 (which may be taken concurrently).
+Physics of solid-state electronics. Review of
+quantum-mechanical principles, crystal structure, lattice
+vibrations, band theory, electrons and holes, diffusion
+and drift, recombination, high-field phenomena,
+optical effects, device applications. Several one-hour
+minilabs done in pairs with the aid of a Teaching Assistant.
+(F) Gustafson
+C133. Microfabrication Equipment Laboratory. (2)
+One hour of lecture and three hours of laboratory per
+week. Prerequisites: 40 or 100, Mathematics 53 and
+54, Physics 7B; an upper division course on microfabrication
+technology or manufacturing is recommended
+but not required (e.g., Chemical Engineering
+179, Electrical Engineering 143, Mechanical Engineering
+101, 122, Materials Science 111, 123, 125. Experiments
+and simulations illustrating the fundamental
+principles of equipment and measurement technology
+for microelectronic and microelectromechanical fabrication
+and manufacturing. The experiments involve investigation
+and measurements of high vacuum systems,
+plasma-assisted etching and film deposition,
+high temperature silicon oxidation, photolithography,
+spin coating, chemical-mechanical polishing, and electroplating.
+Also listed as Mechanical Engineering C123
+and Materials Science and Engineering C133. (SP)
+Staff
+140. Linear Integrated Circuits. (4) Three hours of
+lecture and one hour of laboratory per week. Prerequisites:
+105. Single and multiple stage transistor amplifiers.
+Operational amplifiers. Feedback amplifiers, 2-
+port formulation, source, load, and feedback network
+loading. Frequency response of cascaded amplifiers,
+gain-bandwidth exchange, compensation, dominant
+pole techniques, root locus. Supply and temperature
+independent biasing and references. Selected applications
+of analog circuits such as analog-to-digital converters,
+switched capacitor filters, and comparators.
+The laboratory builds on the concepts presented in the
+lectures and provides hands-on design experience and
+help with the use of computer aided design tools such
+as SPICE. (F,SP) Broderson
+141. Introduction to Digital Integrated Circuits. (4)
+Three hours of lecture, one hour of discussion, and
+three hours of laboratory per week. Prerequisites: 40;
+105 and 150 recommended. CMOS devices and deep
+sub-micron manufacturing technology. CMOS inverters
+and complex gates. Modeling of interconnect wires.
+Optimization of designs with respect to a number of
+metrics: cost, reliability, performance, and power dissipation.
+Sequential circuits, timing considerations, and
+clocking approaches. Design of large system blocks,
+including arithmetic, interconnect, memories, and programmable
+logic arrays. Introduction to design methodologies,
+including hands-on experience. (F,SP) Rabaey
+142. Integrated Circuits for Communications. (4)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: 120 and 140. Analysis and design
+of electronic circuits for communication systems, with
+an emphasis on integrated circuits for wireless communication
+systems. Analysis of distortion in amplifiers
+with application to radio receiver design. Power amplifier
+design with application to wireless radio transmitters.
+Class A, Class B, and Class C power
+amplifiers. Radio-frequency mixers, oscillators, phaselocked
+loops, modulators, and demodulators. (F)
+Meyer
+143. Microfabrication Technology. (4) Three hours
+of lecture and three hours of laboratory per week. Prerequisites:
+40 and Physics 7B. Integrated circuit device
+fabrication and surface micromachining technology.
+Thermal oxidation, ion implantation, impurity diffusion,
+film deposition, expitaxy, lithography, etching, contacts
+and interconnections, and process integration issues.
+Device design and mask layout, relation between
+physical structure and electrical/mechanical performance.
+MOS transistors and poly-Si surface microstructures
+will be fabricated in the laboratory and
+evaluated. (F,SP) Cheung, King
+C145B. Image Processing and Reconstruction Tomography.
+(4) Three hours of lecture and one hour of
+discussion per week. Prerequisites: 120; basic programming
+ability in C or FORTRAN. Linear systems
+and Fourier transforms in two and three dimensions.
+Basic image processing. Theory and algorithms for image
+reconstruction from projections. Physics of imag-
+ing systems including magnetic resonance, X-ray tomography,
+positron emission tomography, ultrasound,
+and biomagnetic imaging. Data analysis including hypothesis
+testing, parameter estimation by least
+squares, and compartmental kinetic modelling. Field
+trips to medical imaging laboratories. Also listed as Bioengineering
+C165. (SP) Budinger
+145L. Introductory Electronic Transducer Laboratory.
+(3) Two hours of lecture and three hours of laboratory
+per week. Prerequisites: 40. Laboratory exercises
+exploring a variety of electronic transducers for
+measuring physical quantities such as temperature,
+force, displacement, sound, light, ionic potential; the
+use of circuits for low-level differential amplification and
+analog signal processing; and the use of microcomputers
+for digital sampling and display. Lectures cover
+principles explored in the laboratory exercises; construction,
+response and signal to noise of electronic
+transducers and actuators; and design of circuits for
+sensing and controlling physical quantities. (F)
+Derenzo
+C145L. Introductory Electronic Transducers Laboratory.
+(3) Two hours of lecture and three hours of
+laboratory per week. Prerequisites: 40. Laboratory exercises
+exploring a variety of electronic transducers for
+measuring physical quantities such as temperature,
+force, displacement, sound, light, ionic potential; the
+use of circuits for low-level differential amplification and
+analog signal processing; and the use of microcomputers
+for digital sampling and display. Lectures cover
+principles explored in the laboratory exercises; construction,
+response and signal to noise of electronic
+transducers and actuators; and design of circuits for
+sensing and controlling physical quantities. Also listed
+as Bioengineering C145L. (F) Derenzo
+145M. Introductory Microcomputer Interfacing Laboratory.
+(3) Two hours of lecture and three hours of
+laboratory per week. Prerequisites: 40 and 60B. Laboratory
+exercises constructing basic interfacing circuits
+and writing 20-100 line C programs for data acquisition,
+storage, analysis, display, and control. Use of the
+IBM PC with microprogrammable digital counter/timer,
+parallel I/O port, and analog I/O port. Circuit components
+include anti-aliasing filters, the S/H amplifier, A/D
+and D/A converters. Exercises include effects of aliasing
+in periodic sampling, fast Fourier transforms of basic
+waveforms, the use of the Hanning filter for leakage
+reduction, Fourier analysis of the human voice, digital
+filters, and control using Fourier deconvolution. Lectures
+cover principles explored in the laboratory exercises
+and design of microcomputer-based systems
+for data acquisition, analysis, and control. (SP)
+Derenzo
+C145M. Introductory Microcomputer Interfacing
+Laboratory. (3) Two hours of lecture and three hours
+of laboratory per week. Prerequisites: 40, Computer
+Science 61B or a working knowledge of ANSI C programming
+or consent of instructor. Laboratory exercises
+constructing basic interfacing circuits and writing
+20-100 line C programs for data acquisition, storage,
+analysis, display, and control. Use of the IBM PC with
+microprogrammable digital counter/timer, parallel I/O
+port. Circuit components include anti-aliasing filters, the
+S/H amplifier, A/D and D/A converters. Exercises include
+effects of aliasing in periodic sampling, fast
+Fourier transforms of basic waveforms, the use of the
+Hanning filter for leakage reduction, Fourier analysis of
+the human voice, digital filters, and control using
+Fourier deconvolution. Lectures cover principles explored
+in the lab exercises and design of microcomputer-based
+systems for data acquisitions, analysis
+and control. Also listed as Bioengineering C145M. (F)
+Derenzo
+192. Mechatronic Design Laboratory. (4) One and
+one-half hours of lecture and ten hours of laboratory
+per week. Prerequisites: 120, Computer Science 61B
+or 61C, 150 or equivalent. Design project course,
+focusing on application of theoretical principles in
+electrical engineering to control of a small-scale system,
+such as a mobile robot. Small teams of students
+will design and construct a mechatronic system incorporating
+sensors, actuators, and intelligence. (SP)
+Fearing
+198. Directed Group Study for Advanced Undergraduates.
+(1-4) Course may be repeated for credit.
+To vary with section. Must be taken on a passed/not
+passed basis. Prerequisites: 2.0 GPA or better; 60
+units completed. Group study of selected topics in
+electrical engineering, usually relating to new developments.
+(F,SP) Staff
+199. Supervised Independent Study. (1-4) Enrollment
+is restricted; see the Introduction to Courses and
+Curricula section of this catalog. Individual conferences.
+Must be taken on a passed/not passed basis.
+Prerequisites: Consent of instructor and major adviser.
+Supervised independent study. Enrollment restrications
+apply. (F,SP) Staff
+Graduate Courses
+C201. Strategic Computing and Communications
+Technology. (3) Three hours of lecture per week. Prerequisites:
+Graduate standing in engineering, business
+administration, information management and systems,
+or consent of instructor. Factors strongly impacting the
+success of new computing and communications products
+and services (based on underlying technologies
+such as electronics and software) in commercial applications.
+Technology trends and limits, economics,
+standardization, intellectual property, government policy,
+and industrial organization. Strategies to manage
+the design and marketing of successful products and
+services. Also listed as Information Systems C224.
+(F,SP) Messerschmitt, Varian
+210. Applied Electromagnetic Theory. (3) Three
+hours of lecture per week. Prerequisites: 117, or
+Physics 110A, 110B. Formerly 210A-210B. Advanced
+treatment of classical electromagnetic theory with engineering
+applications. Boundary value problems in
+electrostatics. Applications of Maxwell’s Equations to
+the study of waveguides, resonant cavities, optical fiber
+guides, Gaussian optics, diffraction, scattering, and antennas.
+(F) Welch
+C213. Soft X-rays and Extreme Ultraviolet Radiation.
+(3) Three hours of lecture per week. Prerequisites:
+Physics 110, 137, and Mathematics 53, 54 or
+equivalent. Formerly El Engineering 290G. This course
+will explore modern developments in the physics and
+applications of soft x-rays. It begins with a review of
+electromagnetic radiation at short wavelengths including
+dipole radiation, scattering and refractive index,
+using a semi-classical atomic model. Subject matter
+will include the generation of x-rays with laboratory
+tubes, synchrotron radiation, laser-plasma sources, xray
+lasers, and black body radiation. Concepts of spatial
+and temporal coherence will be discussed. Also
+listed as Applied Science and Technology C210. (SP)
+Attwood
+216. Antennas and Propagation. (3) Three hours of
+lecture per week. Prerequisites: 210 or consent of instructor.
+Application of Maxwell’s Equations to the
+study of antennas and the propagation of electromagnetic
+waves. Basic concepts of antennas as devices
+in communication systems. Analysis of wire antennas,
+arrays of elements, horns, reflector and lens
+systems, frequency independent antennas. The propagation
+of waves over the earth and in inhomogeneous
+and random media. Offered alternate years.
+(SP) Staff
+217. Microwave Circuits. (3) Three hours of lecture
+per week. Prerequisites: 117 and 140 or equivalent.
+Techniques of analog circuit technology in the high-frequency
+regime above 1 GHz. Transmission lines and
+distributed circuit elements; S-parameter design of
+high-frequency active circuits; computer-aided analysis
+and design. Emphasis on design of planar high-frequency
+integrated circuits employing CMOS and SiGe
+technology. Circuit building blocks for broadband wired
+and wireless communication will be emphasized including
+oscillators, low-noise amplifiers, and power amplifiers.
+Offered alternate years. (SP) Niknejad
+219A. Computer-Aided Verification of Electronic
+Circuits and Systems. (3) Three hours of lecture per
+week. Prerequisites: Consent of instructor; a course in
+linear algebra and on circuits is very useful. Formerly
+219. This course describes the computer algorithms,
+techniques, and theory used in the simulation of electrical
+circuits and systems. This course is concerned
+with techniques for the verification of correct behavior
+of complex electronic circuits and systems including
+detailed simulation of integrated circuits at the transistor
+level in the time and frequency domain, discreteevent
+logic simulation, cycle-based logic simulation,
+RTL and behavorial simulation, equivalence checking,
+timing analysis, power estimation. (F) Sangiovanni-Vincentelli
+219B. Logic Synthesis for Hardware Systems. (4)
+Three hours of lecture and one hour of discussion per
+week. Prerequisites: Consent of instructor. The course
+is concerned with the efficient representation and manipulation
+of logic functions in the computer and how
+this is applied to the analysis and synthesis of both
+combinational and sequential logic. Brayton
+219C. Computer-Aided Verification. (3) Three hours
+of lecture per week. Prerequisites: 219B and Computer
+Science 172 or consent of instructor. Introduction to
+the theory and practice of formal methods for the design
+and analysis of concurrent and embedded systems.
+Focus on algorithmic techniques for checking
+logical and timing properties of circuits and communication
+protocols. Topics include the semantics of reactive
+systems, temporal logic model checking, the
+theory of omega automata, state space reduction techniques,
+compositional and hierarchical reasoning, real
+time. Offered alternate years. (F,SP) Henzinger
+220. Nonlinear Circuits. (3) Three hours of lecture per
+week. Prerequisites: 104. Algebraic and dynamic nports.
+Potential and state functions. Volterra series.
+Frequency-power formulas. Qualitative properties:
+equilibrium states, stability, oscillations, subharmonic,
+almost-periodic, and chaotic phenomenon. Frequency
+entrainment. Harmonic balance, describing function
+and bifurcation. Applications to oscillators, multivibrators,
+mixers, modulators and harmonic generators.
+Offered alternate years. (SP) Chua
+221A. Linear System Theory. (4) Three hours of lecture
+and two hours of recitation per week. Prerequisites:
+120; Mathematics 110 recommended. Basic system
+concepts; state-space and I/O representation.
+Properties of linear systems. Controllability, observability,
+minimality, state and output-feedback. Stability.
+Observers. Characteristic polynomial. Nyquist test.
+(F,SP) Staff
+222. Nonlinear Systems—Analysis, Stability and
+Control. (3) Three hours of lecture per week. Prerequisites:
+221A (may be taken concurrently). Basic
+graduate course in non-linear systems. Second Order
+systems. Numerical solution methods, the describing
+function method, linearization. Stability-direct and indirect
+methods of Lyapunov. Applications to the Lure
+problem-Popov, circle criterion. Input-Output stability.
+Additional topics include: bifurcations of dynamical systems,
+introduction to the “geometric” theory of control
+for nonlinear systems, passivity concepts and dissipative
+dynamical systems. (SP) Sastry
+223. Stochastic Systems: Estimation and Control.
+(3) Three hours of lecture per week. Prerequisites:
+226A (which students are encouraged to take concurrently).
+Parameter and state estimation. System
+identification. Nonlinear filtering. Stochastic control.
+Adaptive control. (SP) Staff
+224A. Digital Communication. (3) Three hours of lecture
+per week. Prerequisites: 121 and 226A, or equivalent.
+Formerly 224. Design of baseband and passband
+digital communication systems. Characteristics
+of channels. Modulation techniques, including PAM,
+QAM, PSK, FSK, and spread spectrum. Optimal demodulation
+techniques and their performance. Information-theoretic
+concepts of entropy and channel capacity.
+Block, convolutional, and trellis coding
+techniques. Intersymbol interference and equalization
+techniques. (SP) Staff
+224B. Fundamentals of Wireless Communication.
+(3) Three hours of lecture per week. Prerequisites:
+121, 226A, or equivalent. Introduction of the fundamentals
+of wireless communication. Modeling of the
+wireless multipath fading channel and its basic physical
+parameters. Coherent and noncoherent reception.
+Diversity techniques over time, frequency, and space.
+Electrical Engineering and Computer Sciences / 229
+R prefix=course satisfies R&C requirement
+AC suffix=course satisfies American cultures
+requirement
+*Professor of the Graduate School
+†Recipient of Distinguished Teaching Award
+B prefix=language course for business majors
+C prefix=cross-listed course
+H prefix=honors course
+230 / Electrical Engineering and Computer Sciences
+Spread spectrum communication. Multiple access and
+interference management in wireless networks. Frequency
+re-use, sectorization. Multiple access techniques:
+TDMA, CDMA, OFDM. Capacity of wireless
+channels. Opportunistic communication. Multiple antenna
+systems: spatial multiplexing, space-time codes.
+Examples from existing wireless standards. (SP) Tse
+225A. Digital Signal Processing. (3) Three hours of
+lecture per week. Prerequisites: 123 and 126 or solid
+background in stochastic processes. Advanced techniques
+in signal processing. Stochastic signal processing,
+parametric statistical signal models, and adaptive
+filterings. Application to spectral estimation, speech
+and audio coding, adaptive equalization, noise cancellation,
+echo cancellation, and linear prediction. (SP)
+Ramchandran
+225B. Digital Image Processing. (3) Three hours of
+lecture per week. Prerequisites: 123. 2-D sequences
+and systems, separable systems, projection slice thm,
+reconstruction from projections and partial Fourier information,
+Z transform, different equations, recursive
+computability, 2D DFT and FFT, 2D FIR filter design;
+human eye, perception, psychophysical vision properties,
+photometry and colorimetry, optics and image
+systems; image enhancement, image restoration, geometrical
+image modification, morphological image
+processing, halftoning, edge detection, image compression:
+scalar quantization, lossless coding, huffman
+coding, arithmetic coding dictionary techniques, waveform
+and transform coding DCT, KLT, Hadammard,
+multiresolution coding pyramid, subband coding, Fractal
+coding, vector quantization, motion estimation and
+compensation, standards: JPEG, MPEG, H.xxx, preand
+post-processing, scalable image and video coding,
+image and video communication over noisy channels.
+(F,SP) Zakhor
+225C. VLSI Signal Processing. (3) Three hours of
+lecture per week. Prerequisites: 141, 123. Formerly
+290M. Design of signal processing systems. Building
+blocks and design styles. Simulation and specification.
+Architectural trade-offs. Synthesis techniques. (SP)
+Broderson, Rabaey
+225D. Audio Signal Processing in Humans and Machines.
+(3) Three hours of lecture per week. Prerequisites:
+123 or equivalent; Statistics 200A or equivalent;
+or graduate standing and consent of instructor. Introduction
+to relevant signal processing and basics of pattern
+recognition. Introduction to coding, synthesis, and
+recognition. Models of speech and music production
+and perception. Signal processing for speech analysis.
+Pitch perception and auditory spectral analysis with
+applications to speech and music. Vocoders and music
+synthesizers. Statistical speech recognition, including
+introduction to Hidden Markov Model and Neural
+Network approaches. (SP) Broderson, Morgan
+226A. Random Processes in Systems. (4) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: 120 and Statistics 200A or equivalent.
+Formerly 226. Probability, random variables and their
+convergence, random processes. Filtering of wide
+sense stationary processes, spectral density, Wiener
+and Kalman filters. Markov processes and Markov
+chains. Gaussian, birth and death, poisson and shot
+noise processes. Elementary queueing analysis. Detection
+of signals in Gaussian and shot noise, elementary
+parameter estimation. (F) Anantharam,
+Varaiya
+227A. Introduction to Convex Optimization. (3)
+Three hours of lecture per week. Convex optimization
+is a class of nonlinear optimization problems where the
+objective to be minimized, and the constraints, are both
+convex. Contrarily to the more classical linear programming
+framework, convex programs often go unrecognized,
+and this is a pity since a large class of
+convex optimization problems can now be efficiently
+solved. In addition, it is possible to address hard, nonconvex
+problems (such as “combinatorial optimization”
+problems) using convex approximations that are more
+efficient than classical linear ones. The 3-unit course
+covers some convex optimization theory and algorithms,
+and describes various applications arising in
+engineering design, modelling and estimation, finance,
+and operations resesrch. (F) El-Ghaoui
+227B. Convex Optimization and Approximation. (3)
+Three hours of lecture per week. Prerequisites: 227A
+or consent of instructor. Convex optimization as a systematic
+approximation tool for hard decision problems.
+Approximations of combinatorial optimization problems,
+of stochastic programming problems, of robust optimization
+problems (i.e., with optimization problems with
+unknown but bounded data), of optimal control problems.
+Quality estimates of the resulting approximation.
+Applications in robust engineering design, statistics,
+control, finance, data mining, operations research. (F)
+El-Ghaoui
+228A. High Speed Communications Networks. (3)
+Three hours of lecture per week. Prerequisites: 122,
+226A (may be taken concurrently). Descriptions, models,
+and approaches to the design and management of
+networks. Optical transmission and switching technologies
+are described and analyzed using deterministic,
+stochastic, and simulation models. FDDI, DQDB,
+SMDS, Frame Relay, ATM, networks, and SONET.
+Applications demanding high-speed communication.
+(F) Varaiya, Walrand
+228B. Communication Networks. (2) Two hours of
+lecture per week. Prerequisites: 122 and 226A, or
+equivalent. Formerly 228. Principles of design and
+analysis of communications networks. Circuit, packet,
+and hybrid switching approaches. Protocols, including
+setup, routing, flow control error recovery. M/M/1 and
+M/G/1 queuing theory and its application to analysis of
+networks, including delay and blocking. (SP) Varaiya,
+Walrand
+229. Information Theory and Coding. (3) Three
+hours of lecture per week. Prerequisites: 226 recommended,
+Statistics 200A or equivalent. Formerly EECS
+229B Fundamental bounds of Shannon theory and
+their application. Source and channel coding theorems.
+Galois field theory, algebraic error-correction codes.
+Private and public-key cryptographic systems. Offered
+alternate years. (SP) Anantharam
+229A. Information Theory and Coding. (3) Three
+hours of lecture per week. Prerequisites: 226 recommended,
+Statistics 200A or equivalent. Formerly 229.
+Fundamental bounds of Shannon theory and their application.
+Source and channel coding theorems. Galois
+field theory, algebraic error-correction codes. Private
+and public-key cryptographic systems. Offered alternate
+years. (SP) Anantharam
+229B. Error Control Coding. (3) Three hours of lecture
+per week. Prerequisites: 126 or equivalent (some
+familiarity with basic probability). Prior exposure to information
+theory not necessary. Error control codes are
+an integral part of most communication and recording
+systems where they are primarily used to provide resiliency
+to noise. In this course, we will cover the basics
+of error control coding for reliable digital transmission
+and storage. We will discuss the major classes
+of codes that are important in practice, including Reed
+Muller codes, cyclic codes, Reed Solomon codes, convolutional
+codes, concatenated codes, turbo codes,
+and low density parity check codes. The relevant background
+material from finite field and polynomial algebra
+will be developed as part of the course. Overview
+of topics: binary linear block codes; Reed Muller codes;
+Galois fields; linear block codes over a finite field;
+cyclic codes; BCH and Reed Solomon codes; convolutional
+codes and trellis based decoding, message
+passing decoding algorithms; trellis based soft decision
+decoding of block codes; turbo codes; low density parity
+check codes. (SP) Anatharam
+230. Solid State Electronics. (3) Three hours of lecture
+per week. Prerequisites: 131; Physics 137B. Crystal
+structure and symmetries. Energy-band theory. Cyclotron
+resonance. Tensor effective mass. Statistics of
+electronic state population. Recombination theory. Carrier
+transport theory. Interface properties. Optical processes
+and properties. (F) Bokor
+231. Solid State Devices. (4) Three hours of lecture
+and one hour of discussion per week. Prerequisites:
+130 or equivalent. Physical principles and operational
+characteristics of semiconductor devices. Emphasis is
+on MOS field-effect transistors and their behaviors dictated
+by present and probable future technologies.
+Metal-oxide-semiconductor systems, short-channel
+and high field effects, device modeling, and impact on
+analog, digital circuits. (SP) King, Subramanian
+232. Lightwave Devices. (3) Three hours of lecture
+per week. Prerequisites: 136 or equivalent; background
+in semiconductor physics. Principle of semiconductor
+lasers. Modulation dynamics. Single frequency lasers.
+Fundamental AM and FM noise properties, linewidth.
+Tunable semiconductor lasers. Quantum well lasers.
+Electrooptic modulators and switches. Detectors. Integrated
+optoelectronic circuits. Optical amplifiers-semiconductor
+and Erbium fiber. Low coherence sourcessuperluminescent
+diodes. Tunable optical filters. (F)
+Lau, Smith
+233. Lightwave Systems. (3) Three hours of lecture
+per week. Prerequisites: 120 and 121 or equivalent;
+136 recommended. Transmission properties of optical
+fibers-dispersion, attenuation, nonlinear effects (solitons).
+Direct-detection systems: analog and digital
+modulation, transmitter design, receiver design, noise
+properties of single and multimode fiber links, dependence
+on source coherence, subcarrier and multichannel
+CATV analog transmission issues the role of
+optical fiber amplifiers. Coherent communication: FM
+noise and modulation properties of laser diodes, quantum
+limited detection, homodyne and heterodyne detection
+of various formats, laser linewidth requirements,
+diversity issues. Lightwave networks-WDMA, FDMA,
+subcarrier, TDMA, and CDMA, relative merits. Topological
+issues-multihop (sore-and-forward) and hotpotato
+routing, the role of optical switching. Optical network
+access protocols. Optical interconnection in high
+speed circuit modules and computers. (SP) Kahn, Lau
+236A. Quantum and Optical Electronics. (3) Three
+hours of lecture per week. Prerequisites: 117A,
+Physics 137A or equivalent. Interaction of radiation
+with atomic and semiconductor systems, density matrix
+treatment, semiclassical laser theory (Lamb’s),
+laser resonators, specific laser systems, laser dynamics,
+Q-switching and mode-locking, noise in lasers
+and optical amplifiers. Nonlinear optics, phase-conjugation,
+electrooptics, acoustooptics and magnetooptics,
+coherent optics, stimulated Raman and Brillouin
+scattering. Offered alternate years. (F,SP) Gustafson
+238. Superconductive Devices and Circuits. (3)
+Three hours of lecture per week. Prerequisites:
+117A,131; Physics 137A. Introduction to superconductivity.
+Electron pairing. BCS and Ginzburg-Landau
+theories. Single-particle and Josephson tunneling.
+Electrodynamics of superconductors and Josephson
+junctions. Proximity effect. Mixed state in type II superconductors.
+Thin films. Applications in analog and
+digital circuits. Fabrication technology. Van Duzer
+C239. Partially Ionized Plasmas. (3) Three hours of
+lecture per week. Prerequisites: Upper division course
+in electromagnetics or fluid dynamics. Formerly 239.
+Introduction to partially ionized, chemically reactive
+plasmas, including collisional processes, diffusion,
+sources, sheaths, boundaries, and diagnostics. DC,
+RF, and microwave discharges. Applications to
+plasma-assisted materials processing and to plasma
+wall interactions. Also listed as Applied Science and
+Technology C239. Offered alternate years. (SP)
+Lieberman, Neureuther
+240. Advanced Analog Integrated Circuits. (3)
+Three hours of lecture per week. Prerequisites: 140.
+Analysis and optimized design of monolithic operational
+amplifiers and wide-band amplifiers; methods of
+achieving wide-band amplification, gain-bandwidth
+considerations; analysis of noise in integrated circuits
+and low noise design. Precision passive elements,
+analog switches, amplifiers and comparators, voltage
+reference in NMOS and CMOS circuits, Serial, successive-approximation,
+and parallel analog-to-digital
+converters. Switched-capacitor and CCD filters. Applications
+to codecs, modems. (F,SP) Boser
+241. Advanced Digital Integrated Circuits. (3) Three
+hours of lecture per week. Prerequisites: 141. Analysis
+and design of MOS and bipolar large-scale integrated
+circuits at the circuit level. Fabrication processes,
+device characteristics, parasitic effects static
+and dynamic digital circuits for logic and memory func-
+tions. Calculation of speed and power consumption
+from layout and fabrication parameters. ROM, RAM,
+EEPROM circuit design. Use of SPICE and other computer
+aids. (SP) Nikolic, Rabaey
+242. Advanced Integrated Circuits for Communications.
+(3) Three hours of lecture per week. Prerequisites:
+142, 240. Analysis, evaluation and design
+of present-day integrated circuits for communications
+application, particularly those for which nonlinear response
+must be included. MOS, bipolar and BICMOS
+circuits, audio and video power amplifiers, optimum
+performance of near-sinusoidal oscillators and frequency-translation
+circuits. Phase-locked loop ICs,
+analog multipliers and voltage-controlled oscillators;
+advanced components for telecommunication circuits.
+Use of new CAD tools and systems. (F) Meyer, Niknejad
+243. Advanced IC Processing and Layout. (3) Three
+hours of lecture per week. Prerequisites: 143 and either
+140 or 141. The key processes for the fabrication
+of integrated circuits. Optical, X-ray, and e-beam lithography,
+ion implantation, oxidation and diffusion. Thin
+film deposition. Wet and dry etching and ion milling. Effect
+of phase and defect equilibria on process control.
+(SP) Staff
+244. Computer-Aided Design of Integrated Circuits.
+(3) Three hours of lecture per week. Prerequisites: 140
+or 141. This course will cover a wide variety of topics
+relating to the development of computer aids for integrated
+circuit design. The course will emphasize stateof-the-art
+techniques and both the theoretical basis for
+the methods as well as the application of results to
+practical problems, including details of implementation.
+Topics to be covered include simulation, layout techniques,
+synthesis, verification, testing, and integrated
+design systems. (F) Keutzer
+C245. Introduction to MEMS Design. (3) Three
+hours of lecture and one hour of discussion per week.
+Prerequisites: Graduate standing in engineering or science;
+undergraduates with consent of instructor.
+Physics, fabrication, and design of micro-electromechanical
+systems (MEMS). Micro-and nano-fabrication
+processes, including silicon surface and bulk micromachining
+and non-silicon micromachining. Integration
+strategies and assembly processes. Microsensor and
+microactuator devices: electrostatic, piezoresistive,
+piezoelectric, thermal, magnetic transduction. Electronic
+position-sensing circuits and electrical and mechanical
+noise. CAD for MEMS. Design project is required.
+Also listed as Mechanical Engineering C218.
+(F,SP) Staff
+C246. Microelectromechanical Systems (MEMS).
+(3) Three hours of lecture per week. Prerequisites:
+Graduate standing or consent of instructor. This course
+is aimed to provide basic understanding of integrated
+circuit (IC) processes and microelectromechanical system
+(MEMS). Technologies including analyses, design,
+and manufacturing processes of MEMS will be introduced.
+The first part of the course emphasizes IC processes
+including thin film deposition, lithography, and
+etching. The second part of the course deals with micromachining
+processes including surface-, bulk-micromachining,
+LIGA and other processes. Also listed
+as Mechanical Engineering C219. (SP) Pisano
+247. Analysis and Design of VLSI Analog-Digital Interface
+Integrated Circuits. (3) Three hours of lecture
+per week. Prerequisites: 240. Architectural and circuit
+level design and analysis of integrated analog-to-digital
+and digital-to-analog interfaces in CMOS and BiCMOS
+VLSI technology. Analog-digital converters, digital-analog
+converters, sample/hold amplifiers,
+continuous and switched-capacitor filters. RF integrated
+electronics including synthesizers, LNA’s, and
+baseband processing. Low power mixed signal design.
+Data communications functions including clock recovery.
+CAD tools for analog design including simulation
+and synthesis. Boser
+249. Embedded System Design: Models, Validation,
+and Synthesis. (4) Four hours of lecture and two
+hours of laboratory/discussion per week. Prerequisites:
+Background in SoC design, operating systems and
+compilers, or consent of instructor. Principles of embedded
+system design. Focus on design methodologies
+and foundations. Platform-based design and communication-based
+design and their relationship with design
+time, re-use, and performance. Models of
+computation and their use in design capture, manipulation,
+verification, and synthesis. Mapping into architecture
+and system platforms. Performance estimation.
+Scheduling and real-time requirements.
+Synchronous languages and time-triggered protocols
+to simplify the design process. Simulation techniques
+for highly programmable platforms. Synthesis and successive
+refinement: meta-model of computation. Use
+of design tools and analysis of their capabilities and
+limitations: Ptolemy, POLIS, Metropolis, VCC, Coware.
+(F) Sangiovanni-Vincentelli
+290. Advanced Topics in Electrical Engineering.
+Course may be repeated for credit. One to three hours
+of lecture per week. Prerequisites: Consent of instructor.
+The 290 courses cover current topics of research
+interest in electrical engineering. The course
+content may vary from semester to semester.
+290A. Advanced Topics in Computer-Aided Design. (1-
+3)
+290B. Advanced Topics in Solid State Devices. (1-3)
+290C. Advanced Topics in Circuit Design. (1-3)
+290D. Advanced Topics in Semiconductor Technology.
+(1-3)
+290E. Advanced Topics in Electromagnetics and Plasmas.
+(1-3)
+290F. Advanced Topics in Photonics. (1-3)
+290G. Advanced Topics in Mems, Microsensors, and
+Microactuators. (1-3)
+290H. Advanced Topics in Semiconductor Manufacturing.
+(1-3)
+290K. Advanced Topics in Optimization. (1-3)
+290N. Advanced Topics in System Theory. (1-3)
+290O. Advanced Topics in Control. (1-3)
+290Q. Advanced Topics in Communication Networks.
+(1-3)
+290S. Advanced Topics in Communications and Information
+Theory. (1-3)
+290T. Advanced Topics in Signal Processing. (1-3)
+290Y. Organic Materials in Electronics. (3) Prerequisites:
+130; undergraduate general chemistry. Organic
+materials are seeing increasing application in electronics
+applications. This course will provide an
+overview of the properties of the major classes of organic
+materials with relevance to electronics. Students
+will study the technology, physics, and chemistry of
+their use in the three most rapidly growing major applications—energy
+conversion/generation devices (fuel
+cells and photovoltaics), organic light-emitting diodes,
+and organic transistors. (F,SP) Subramanian
+C291E. Hybrid Systems and Intelligent Control. (3)
+Three hours of lecture per week. Formerly 291E. Analysis
+of hybrid systems formed by the interaction of continuous
+time dynamics and discrete-event controllers.
+Discrete-event systems models and language descriptions.
+Finite-state machines and automata. Model
+verification and control of hybrid systems. Signal-tosymbol
+conversion and logic controllers. Adaptive, neural,
+and fuzzy-control systems. Applications to robotics
+and Intelligent Vehicle and Highway Systems (IVHS).
+Also listed as Mechanical Engineering C290S. Hedrick
+297. Field Studies in Electrical Engineering. (1-12)
+Course may be repeated for credit. Individual conferences.
+Must be taken on a satisfactory/unsatisfactory
+basis. Supervised experience in off-campus companies
+relevant to specific aspects and applications of
+electrical engineering. Written report required at the
+end of the semester. (F,SP) Pister
+298. Group Studies, Seminars, or Group Research.
+(1-4) Course may be repeated for credit. One to four
+hours of lectures per unit. Section 1-40 to be graded
+on a satisfactory/unsatisfactory basis. Sections 41-49
+to be graded on a letter-grade basis. Advanced study
+in various subjects through special seminars on topics
+to be selected each year, informal group studies of
+special problems, group participation in comprehensive
+design problems, or group research on complete problems
+for analysis and experimentation. (F,SP) Staff
+299. Individual Research. (1-12) Course may be repeated
+for credit. Independent, individual study or investigation.
+Investigation of problems in electrical engineering.
+(F,SP) Staff
+602. Individual Study for Doctoral Students. (1-8)
+Course may be repeated for credit. Course does not
+satisfy unit or residence requirements for doctoral degree.
+Independent study, in consultation with faculty
+member. Must be taken on a satisfactory/unsatisfactory
+basis. Individual study in consultation with the major
+field adviser, intended to provide an opportunity for
+qualified students to prepare themselves for the various
+examinations required of candidates for the Ph.D.
+(and other doctoral degrees). (F,SP) Staff
+Professional Courses
+301. Teaching Techniques for Electrical Engineering.
+(1) One hour of seminar per week. Must be
+taken on a satisfactory/unsatisfactory basis. Prerequisites:
+Graduate standing. Weekly seminars and discussions
+of effective teaching techniques. Use of educational
+objectives, alternative forms of instruction,
+and special techniques for teaching key concepts and
+techniques in electrical engineering. Student and selfevaluation.
+Course is intended to orient new graduate
+student instructors to teaching in the Electrical Engineering
+department at Berkeley. (F) Staff
+302. Designing Computer Science Education. (2)
+Two hours of lecture per week. Prerequisites: Computer
+Science 301 or two semesters of GSI experience.
+Discussion, practice, and review of research
+concerning issues relevant to the teaching of computer
+science: curriculum and topic organization, presentation,
+technology, grading, staff management. (SP)
+Clancy

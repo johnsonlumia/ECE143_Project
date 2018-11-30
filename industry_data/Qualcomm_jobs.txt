@@ -1,0 +1,406 @@
+1) Software Engineer - Top Secret Clearance Preferred (San Diego CA)
+SAVE
+
+
+Job Overview
+
+QUALCOMM's Cyber Security Solutions (QCSS) division develops special products based on its wireless terrestrial and satellite communication technologies for the military, federal, local, and foreign governments. QCSS also does specialized work for the US government based on QUALCOMM's core technologies. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Must be a U.S. citizen and eligible for a U.S. Government security clearance. QCSS is looking for a software engineer with a proven track record of working on platforms such as AMSS or Android. The individual will work on a variety of projects crossing multiple disciplines from across the company to deliver timely results to Customers. The individual needs to know how to utilize off-target development and debugging platforms in-addition to on target development.
+
+Ideal/Preferred candidate has an active Secret/Top Secret clearance with a current Single Scope Background Investigation (SSBI). Previous Security Clearance also highly considered.
+
+The individual will design and develop embedded and application-level software primarily on AMSS, iOS and Android platforms. Low-level debug skills will be utilized to resolve firmware and software issues with JTAG based debug tools. The individual will utilize scripting language development to support rapid prototype and unit test development.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+5+ years Software Engineering or related work experience.
+2+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+Preferred Qualifications
+• Candidate has an active Secret/Top Secret clearance with a current Single Scope Background Investigation (SSBI). Previous Security Clearance also highly considered.
+• Experience with other RTOSs such as VxWorks, Nucleus, ThreadX, Embedded Linux.
+• Familiarity with wireless systems and protocols including CDMA/UMTS/LTE.
+• Embedded software development.
+• Industry experience with low-level programming of embedded systems.
+• Assembly-level programming skills in ARM, QDSP or similar instruction sets.
+• Ability to come up to speed quickly on complex systems, perform technical research and thoroughly document findings.
+• Familiarity with CPU architectures such as the ARM7, QDSP or similar.
+• JTAG debuggers.
+• IDA Pro or similar tools.
+• AMSS/Android/IOS software development.
+• DSP or SDR experience.
+• Software design/development of communication protocols.
+• Software design/development of sensor related drivers and algorithms.
+• C#, .NET, or Perl .
+• Self-starter who likes to be challenged and solve tough technical issues.
+• Proven ability to work in a dynamic team environment.
+• Mature interpersonal skills with an ability to collaboratively work with varied teams and resolve problems spanning multiple disciplines.
+• Excellent written and verbal communication skills.
+
+Education Requirements
+
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+
+Keywords
+
+Top Secret Clearance, Embedded Software, C programming, Wireless, AMSS, Android
+
+You will need to
+login
+into your profile to apply for this job.
+
+2)Job Title Software Engineer - LTE/5G
+
+Post Date 11/19/2018
+
+Company - Division Qualcomm Technologies, Inc. - CDMA Technology
+
+Job Area Engineering - Software
+
+Location California - San Diego
+
+Job Overview Qualcomm Technologies (QCT) is the largest provider of chipset and software technology in the world, with chipsets powering the majority of all 3G/4G devices commercially available. QCT partners with nearly 100+ network operators around the globe and has the largest modem engineering team in the industry. QCT provides complete chipset solutions and integrated applications from the Launchpad suite of advanced technologies. Our integrated solutions offer device manufacturers reduced bill-of-materials costs, time-to-market, and development time. As a member of the 4G/5G technology software team, responsibilities will include modem air interface technologies software/tool/drivers development, software/firmware integration and test, and working closely with our partners and customers for commercialization & launch support of the various devices. This position gives the opportunity to develop & leverage strong expertise in software real time systems and cutting edge cellular technologies that not only power the smart phones and computing markets but also the strong adjacent segments like automotive, healthcare & IoE.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 1+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+Preferred Qualifications
+• C or C++ programming
+• Basic real-time/ programming concepts
+• Debugging with programming
+• Telecommunications, specifically protocols
+• Software design
+
+Education Requirements Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+
+Keywords
+
+3)Software engineer developer tools
+Job Overview
+
+Job Overview:
+Qualcomm is seeking an experienced Software Engineer to bring insights, ideas, and experience to our Developer Tools team, specifically working on our products including Snapdragon Profiler, Heterogeneous Compute SDK, Power Optimization SDK, Adreno SDK, and more to help developers, customers, and partners maximize their performance on Qualcomms chipsets, which today power over 2 billion consumer devices worldwide.
+The ideal candidate is a creative, self-motivated problem-solver with a passion for creating great products who has end-to-end ownership of development activities. You will interface with a wide array of teams, customers, and developers across the Snapdragon ecosystem.
+Responsibilities
+Design, develop, and maintain key profiling and performance optimization SDK efforts with the goal to deliver high quality software products
+Actively participate in defining strategy, roadmaps, and architecture for the teams products
+Work with other team members to investigate best design approaches, prototype new technology and concepts, and evaluate technical feasibility
+Mentor junior engineers and demonstrate best development practices
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 5+ years Software Engineering or related work experience.
+• 2+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+Preferred Qualifications
+
+8+ years experience in developing realtime software applications, games, development tools, or middleware
+Strong programming skills in C/C++
+Experience in optimizing, profiling, and tuning realtime software applications or games on PC, console, or mobile hardware
+Understanding of agile/lean software development practices
+Knowledge of continuous integration, build, and deployment best practices
+Excellent written and oral communication skills
+Experience as project or subsystem lead
+Demonstrated knowledge of graphics and/or GPU compute programming with the Vulkan, OpenGL, OpenGL ES, OpenCL, or DirectX APIs
+Knowledge of computer systems architecture and optimization, including experience developing or working with Linux-based operating systems
+Experience presenting product training and/or conference speakerships
+Sharp analytics abilities and proven design skills
+Demonstrated leadership abilities in an engineering environment in driving operational excellence and best practices
+
+Education Requirements
+
+BS, MS, or PhD in Computer Science, Computer Engineering, or related engineering field
+
+Keywords
+
+You will need to
+login
+into your profile to apply for this job.
+
+If you are a
+new user, click here
+to create a profile
+
+4)Software engineer Camera
+Job Overview
+
+The camera software team is looking for talented software engineers experienced in development of software for mobile and devices. The camera software team is responsible for delivering the camera drivers, HAL and post processing features for Snapdragon chipsets, providing best in class performance, power and image quality. This role will involve working at all layers of the camera software stack, from Android Camera HAL and/or Windows AVS/KMD/MFT Camera implementation to low level hardware control. Responsibilities will include the design and development of new features, support for new hardware, debugging of issues within the software, optimizing software for performance and power, development of unit tests and working with our partners and OEMs. The successful candidate will be exposed to 3A (auto exposure, auto focus and auto white balance), image signal processors, camera sensors, as well as integration with other technologies including motion sensors, video encoders, DSPs, GPU and display.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+• Software development for mobile or platforms
+• Programming skills in C and C++
+• Object Oriented Programming
+• Multi-threaded programming experience
+
+Preferred Qualifications
+• History of development of Android HAL and/or Windows components
+• Linux and/or Windows kernel and user space development experience
+• Working experience in board bring up and analyzing crash dumps.
+• Working experience in Windows and Android debuggers ( KD, WinDBG, GDB) and other performance tools
+• Working knowledge of processor architecture & micro-architecture, including familiarity with caches, MMUs & interrupt handling (ARM preferred)
+• Familiarity with JTAG and ETM based debug environments (Lauterbach/Trace-32)
+• Knowledge on Windows and/or Android OS Internals & Driver Framework Familiarity with ARM architecture, ARM assembly, emulators/JTAG-debuggers
+• Experienced in development of driver and frameworks for multimedia systems including camera, audio, video, display and graphics
+• Interest and experience with camera components such as 3A, ISP and camera sensors
+• Interest in photography and image processing
+• Demonstrated self-driven engineer willing to take initiative and operate with minimum guidance
+• Demonstrated abilities to design extensible software to support evolving requirements
+• Ability to learn quickly, work hard and have fun.
+
+Education Requirements
+• Required: Bachelor's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+• Preferred: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+
+Keywords
+
+You will need to
+login
+into your profile to apply for this job.
+
+If you are a
+new user, click here
+to create a profile
+
+5)Job Id
+
+E1968094
+Job Title Software Engineer - Windows Products on Snapdragon
+
+Post Date 11/15/2018
+
+Company
+• Division
+
+Qualcomm Technologies, Inc.
+• CDMA Technology
+
+Job Area Engineering - Software
+
+Location California - San Diego
+
+Job Overview QUALCOMM Technologies Inc., the maker of the industry-leading Snapdragon SoCs, is the largest provider of complete chipset solutions for Windows Phone, tablets, and other Microsoft Windows-based ARM products.
+
+The engineer will act as a key member of an Agile Scrum Team and play a pivotal rule in the end-to-end lifecycle of all Windows-on-Snapdragon product lines. Collaborating with teams at both Qualcomm and Microsoft, the Scrum Team will plan, bring up, support, triage and unblock issues affecting the development and commercialization of Windows-on-Snapdragon product lines.
+
+" id="hdnJobOverview">
+
+QUALCOMM Technologies Inc., the maker of the industry-leading Snapdragon SoCs, is the largest provider of complete chipset solutions for Windows Phone, tablets, and other Microsoft Windows-based ARM products.
+
+The engineer will act as a key member of an Agile Scrum Team and play a pivotal rule in the end-to-end lifecycle of all Windows-on-Snapdragon product lines. Collaborating with teams at both Qualcomm and Microsoft, the Scrum Team will plan, bring up, support, triage and unblock issues affecting the development and commercialization of Windows-on-Snapdragon product lines.
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+Minimum Qualifications Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 1+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+" id="hdnMinimumQualifications">
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 1+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+Preferred Qualifications Embedded software development
+• Experience programming with C/C++
+• Software debugging or testing experience
+• Exposure to the Agile Development Methodology
+• Scripting experience with languages such as Python, Perl or Bash
+• Experience with Windows Driver Development (WDM/WDF).
+• Experience programming with assembly language
+• Familiarity with various debug tools including emulators/JTAG-debuggers, Windbg, etc.
+• Knowledge of device and system-level architecture, especially ARM-based embedded systems and devices.
+• Knowledge on OS kernel internals, device drivers, memory management, timers, interrupt architecture, DMA, clock controllers, etc.
+• Highly motivated, enthusiastic with Qualcomm and Microsoft technologies, and team player with strong communication and interpersonal skills." id="hdnPreferredQualifications">
+• Embedded software development
+• Experience programming with C/C++
+• Software debugging or testing experience
+• Exposure to the Agile Development Methodology
+• Scripting experience with languages such as Python, Perl or Bash
+• Experience with Windows Driver Development (WDM/WDF).
+• Experience programming with assembly language
+• Familiarity with various debug tools including emulators/JTAG-debuggers, Windbg, etc.
+• Knowledge of device and system-level architecture, especially ARM-based embedded systems and devices.
+• Knowledge on OS kernel internals, device drivers, memory management, timers, interrupt architecture, DMA, clock controllers, etc.
+• Highly motivated, enthusiastic with Qualcomm and Microsoft technologies, and team player with strong communication and interpersonal skills.
+
+Education Requirements Preferred: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+• LI-SRC" id="hdnEducationalRequirements">Required: Bachelor's degree in Engineering, Information Systems, Computer Science, or related field
+
+Preferred: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+• LI-SRC
+
+6)Job Title Graphics Systems Engineer (Qualcomm San Diego or Santa Clara, CA)
+
+Post Date 11/09/2018
+
+Company - Division Qualcomm Technologies, Inc. - CDMA Technology
+
+Job Area Engineering - Graphics
+
+Location California - San Diego
+
+Job Overview Qualcomm is the largest fabless design company in the world. Qualcomm provides hardware, software and related services to nearly every mobile device maker and operator in the global wireless marketplace. Our chipsets power a variety of products; tablets, smartphones, e-readers and other devices, and our digital design team is at the core of all of them. Depending on your technical area, you will be responsible for becoming a subject matter expert and go-to person for other members of your team. The environment is fast-paced and requires cross-functional interaction on a daily basis so good communication, planning and execution skills are a must. Qualcomm's Graphics System Team is responsible for the development of end to end and system on chip (SOC) architectural solutions for next generation of graphics processing units (GPUs) and compute devices. Position Overview:
+• Develop innovative and cost effective architectures for next generation of GPUs and compute devices
+• Develop advanced graphics algorithms (compression, HSR, Anti-aliasing etc.) Do precision analysis and image quality analysis
+• Develop performance & power models and perform deep analysis on to proposed architecture & algorithms against widely selected benchmarks & games
+• Prototype driver on new features & architectural models, and also support pre-silicon verifications
+• Explore new use cases and application programming interfaces (APIs) to enable new functions and future user experiences
+• Develop compiler & solutions for graphics shader programs and compute kernels
+• Develop bitwise accurate functional models (C-model) (by using C/C++ etc) to simulate our new architectures and solutions
+• Develop solid test suites and perform functional & performance verification & validation with the C-Model and RTL simulation
+• Develop / maintain powerful regression system and auto tools to improve delivery quality and efficiency
+• Support production: Fix bugs, Optimize / fine tune SOC solutions on real silicons or devices from driver, compilers, GPUs and DRAM structures etc
+• Engage with key customers and promote / enable our technology / solutions in customers devices.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 2+ years Systems Engineering or related work experience.
+
+Preferred Qualifications 5+yrs years of industry experience required in one or more of the following areas:
+• Programming experience in either: C, C++, C#, Perl, Python, Java/Web
+• OS experience: Unix/Linux, Windows
+• Graphics Programming experience: OpenGL, DirectX, OpenCL
+• Computer architecture experience: pipelines, caches, latency, throughput
+• PHD Degree preferred
+• Communication skills: presenting with confidence with upper management, synthesizing message succinctly with clarity
+
+Education Requirements Preferred: Doctorate, Computer Engineering and/or Computer Science and/or Electrical Engineering or equivalent experience
+Required: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+
+Keywords ASIC, Architecture, Graphics, GPU, Cache, Shader, Texture, Vertices, Triangles, Draw calls, Compute, Modeling, Simulation, Simulator, Test writing, Graphics Benchmarks, Validation
+
+7)Customer Engineering
+
+Job Overview
+
+Qualcomm is a leader in mobile wireless communications & computing chipsets. We are working with leading OEMs and partners to define user-experience with next generation mobile devices Smartphones, Tablets, Netbooks and other entertainment & computing devices.
+
+QCT applications engineers support customers with understanding, integrating, customization, building, and bring-up of Qualcomm software, enabling debugging features, providing training to customer. We offer a wide range of tools, design and deployment services to support the device development process and develop new technologies based on the needs and demands of the wireless market.
+
+This position is part of the CE(Customer Engineering) organization that deals with the platform software and is focused on the applications processor and covers the OS (Linux/Android or Windows on Snapdragon), crash debugging, memory (heap stack) management, system performance, and overall system stability. It exposes the candidate to the cutting edge technology, key players in the wireless industry worldwide working on leading edge ultra-low-power, smartphone /tablet computing devices. This role not only enables you to develop strong expertise in the QCT chipset integrated solutions, but also exposes you to be part of the early engagements, latest system software and solutions. Some travel to customer sites for onsite support and to Qualcomm offices in U.S. and abroad for training and meetings may be required.
+
+Qualcomm Innovation Center values collaboration with its customers and partners and works closely with them to enable their success. Candidate in this role will support a wide range of customer/partner activities from product design, SW engineering to commercialization. This includes training, documentation, assisting customers in debugging, optimizing and integrating software.
+
+This is a very challenging position that requires the candidate to continually interface with QCT chipset customers and internal teams.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company. Minimum Qualifications
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+
+Preferred Qualifications
+• C/C++ programming
+• Device driver programming and debugging with JTAG/other tools
+• Knowledge of ARM processor architecture and cache subsystem
+• Knowledge of Embedded Linux, Windows Mobile or other OS (Kernel configuration, device trees, kernel crash debugging)
+• Debugging skills on low level OS (kernel and application level crash debugging)
+• Detailed knowledge of OS memory management
+• Experience developing or debugging software for multi-core or SMP systems highly desirable
+• Android platform, Windows Mobile and/or SDK knowledge and experience highly desired
+• Knowledge of OS/system performance profiling and optimization techniques a plus
+• Team player
+• Communication, written & interpersonal skills, high motivation, the ability to learn quickly.
+• Self-starter *LI-SRC
+
+Education Requirements
+Required: Bachelor's degree in Engineering, Information Systems, Computer Science, or related field
+Preferred: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+
+E1967822
+
+8)
+Job Id
+
+Job Title Functional Verification Engineer (San Diego & Santa Clara, CA)
+
+Post Date 11/14/2018
+
+Company - Division Qualcomm Technologies, Inc. - CDMA Technology
+
+Job Area Engineering - Hardware
+
+Location California - San Diego
+California - Santa Clara
+
+Job Overview As a Functional Verification Engineer, you will be responsible for understanding the expected functionality of designs, developing corresponding testplans, designing and developing components of our verification environment, and applying these to verify complex designs until coverage goals are achieved in order to ensure the continued commercial success of our high-quality products. These designs are high performance low power Snapdragon SOCs and Machine Learning (AI/ML) SOCs targeted for a variety of consumer and industry markets.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications
+• Bachelor's degree in Science, Engineering, or related field.
+• 2+ years ASIC design, verification, or related work experience.
+
+Preferred Qualifications
+• Design verification experience (developing test plan, test bench, tests, assertions, functional & code coverage, debugging tests and designs)
+• General knowledge in ASIC design process, digital design concepts, design verification tools and techniques, computer architecture, etc.
+• Familiar with the design, verification, and assertion languages: Verilog, System Verilog, C, System Verilog Assertions (SVA), and etc.
+• Knowledge of SOC, ARM processor, AMBA bus, DDR, or peripherals is preferred
+• Scripting and automation skills: Unix/Linux shell programming, Perl/Tcl/Python, Makefile, revision management (e.g. ClearCase) is a plus.
+
+Education Requirements Required: Bachelor's, Computer Engineering and/or Electrical Engineering
+Preferred: Master's, Computer Engineering and/or Electrical Engineering
+
+Keywords
+
+9) Job Id
+
+Job Title Engineer, Modem System Test
+
+Post Date 11/15/2018
+
+Company - Division Qualcomm Technologies, Inc. - CDMA Technology
+
+Job Area Engineering - Test
+
+Location California - San Diego
+
+Job Overview As a member of QCT's Modem System Test group, candidate will be responsible for analysis and validation of physical layer and/or network protocol and performance requirements for complex digital modem products supporting 5GNR, LTE technologies. Will conduct engineering tests and detailed experimental testing to collect design data or assist in research toward improving the quality of QC's wireless products.
+Responsibilities will also developing/executing test strategies and test plans, troubleshooting/analyzing problems and optimizing system performance. Candidate will be involved in building software for automation of log analysis and build advanced data mining techniques including machine learning.
+Candidate will be working with a multi-discipline team (Software Development System Design, Customer Support, RF Circuits and Hardware Design) to validate, automate validation process and commercialize QCT products.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company.
+
+Minimum Qualifications Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+
+Preferred Qualifications Understanding of one or more of the following areas:
+• Digital communications systems, RF propagation, OFDM, Physical/MAC layers and Call Processing concepts.
+• Understanding of wire line and wireless data protocol stacks including: RLP, PPP, IP, TCP, IPV6.
+• Experience in Python, Relational Database programming and usage of advanced Python libraries for Data Mining.
+• Understanding of software design and optimization concepts.
+• Understanding of software development and testing concepts for wireless handsets for various air interface standards.
+• Familiarity with air interface performance analysis, characterization and optimization.
+• Exposure to commercial test simulators and test systems such as: Keysight, R&S, Spirent and Anritsu for wireless telephony product verification.
+• Handset test experience with UMTS/LTE operators or with commercial handset OEMs.
+• Effective team player with communication skills and able to work independently.
+
+Education Requirements Required: Bachelor's degree in Engineering, Information Systems, Computer Science, or related field
+Preferred: Master's, Computer Engineering and/or Electrical Engineering
+
+Keywords
+
+10)
+Job Overview
+Artificial Intelligence is changing the world for the benefit of human beings and societies. QUALCOMM, as the world's leading mobile computing platform provider, is committed to enable the wide deployment of intelligent solutions on all possible devices. Be a part of our Deep Learning research project in Corporate R&D, where you will be involved and participate in building best-in-class solutions and tools needed to enable state-of-the-art technologies to run on next generation mobile/embedded machine learning platforms. You will work as part of a multi-disciplinary team of researchers and software developers working to make Machine Learning applications/models run optimally on Qualcomms platforms for smart phones, autonomous vehicles, robotics and IOT devices. In this role, you will work in a dynamic research environment, collaborate with internal teams, work with popular neural network frameworks, and understand the architecture of Qualcomms SOC compute. You will design, develop & test leading-edge machine learning software for making machine learning models smaller and efficient to run on users smartphones/devices, by creating state-of-the-art model compression and quantization techniques. The successful applicant should have a strong software background, and passion to work on neural network frameworks/libraries.
+
+All Qualcomm employees are expected to actively support diversity on their teams, and in the Company. Minimum Qualifications
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+• 2+ years Software Engineering or related work experience.
+• 2+ years experience with Programming Language such as C, C++, Java, Python, etc.
+
+Preferred Qualifications
+• Strong object-oriented design and analysis skills
+• Familiarity with machine learning models
+• Hands-on experience on any ML framework, such as TensorFlow or PyTorch
+• Experience in machine learning algorithms and architectures, including CNNs, RNN/LSTMs
+• Previous experience working on machine learning data pipelines and data management back end or front end applications.
+• Previous experience working in an Agile process, and collaborating with multi-disciplinary teams in a dynamic research environment
+
+Education Requirements
+Required: Bachelor's, Computer Engineering and/or Computer Science
+Preferred: Master's, Computer Engineering and/or Computer Science
+
+E1967958

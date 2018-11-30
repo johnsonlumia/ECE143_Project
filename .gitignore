@@ -25,6 +25,8 @@
 *.log
 *.sql
 *.sqlite
+*.db
+*.db*
 
 # OS generated files #
 ######################
@@ -154,3 +156,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# excel sheets
+
+*.xls*

@@ -1,0 +1,1664 @@
+Computer Science
+COMPSCI 3L Introduction to Symbolic Programming 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 1 hour of lecture and 6 hours of laboratory per week and approximately 5 hours of self-scheduled programming laboratory. 2 hours of lecture and 12 hours of laboratory per week for 8weeks and approximately 10 hours of self-scheduled programming laboratory.
+
+Prerequisites: High school algebra.
+
+Introduction to computer programming, emphasizing symbolic computation and functional programming style. Students will write a project of at least 200 lines of code in Scheme (a dialect of the LISP programming language). 
+Students may remove a deficiency in 3 by taking 3L. Instructor: Clancy
+
+COMPSCI 3S Introduction to Symbolic Programming (Self-Paced) 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 1 to 4 hours of discussion and 3 to 9 hours of laboratory per week.
+
+Prerequisites: High school algebra.
+
+The same material as 3 but in a self-paced format; introduction to computer programming, emphasizing symbolic computation and functional programming style, using the Scheme programming language. Units assigned depend on amount of work completed. The first two units must be taken together. 
+Course may be repeated for a maximum of 4 units. Refer to computer science service course restrictions. Course may be repeated up to 4 units. Instructor: Garcia
+
+COMPSCI 9A Matlab for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience equivalent to that gained in Computer Science 10; familiarity with applications of matrix processing.
+
+Introduction to the constructs in the Matlab programming language, aimed at students who already know how to program. Array and matrix operations, functions and function handles, control flow, plotting and image manipulation, cell arrays and structures, and the Symbolic Mathematics toolbox. 
+Course may be repeated for a maximum of 4 units. Refer to computer science service course restrictions. Instructor: Garcia
+
+COMPSCI 9C C for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience with pointers (or addresses in assembly language) and linked data structures equivalent to that gained in Computer Science 9B or 61A, or Engineering 7.
+
+Self-paced course in the C programming language for students who already know how to program. Computation, input and output, flow of control, functions, arrays, and pointers, linked structures, use of dynamic storage, and implementation of abstract data types. 
+Refer to computer science service course restrictions. Instructor: Garcia
+
+COMPSCI 9D Scheme and Functional Programming for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience similar to that gained in Computer Science 10 or Engineering 7.
+
+Self-paced course in functional programming, using the Scheme programming language, for students who already know how to program. Recursion; higher-order functions; list processing; implementation of rule-based querying. 
+Refer to computer science service course restrictions. Instructor: Garcia
+
+COMPSCI 9E Productive Use of the UNIX Environment 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience similar to that gained in Computer Science 61A or Engineering 7; DOS or UNIX experience.
+
+Use of UNIX utilities and scripting facilities for customizing the programming environment, organizing files (possibly in more than one computer account), implementing a personal database, reformatting text, and searching for online resources. 
+Refer to computer science service course restrictions. Instructor: Garcia
+
+COMPSCI 9F C++ for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience equivalent to that gained in Computer Science 9B or 61A, or Engineering 7.
+
+Self-paced introduction to the constructs provided in the C++ programming language for procedural and object-oriented programming, aimed at students who already know how to program. 
+Refer to computer science service course restrictions in the <General Catalog>. Instructor: Garcia
+
+COMPSCI 9G JAVA for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: 9C or 9F or 61A plus experience with object-oriented programming or C-based language.
+
+Self-paced course in Java for students who already know how to program. Applets; variables and computation; events and flow of control; classes and objects; inheritance; GUI elements; applications; arrays, strings, files, and linked structures; exceptions; threads. 
+Instructor: Garcia
+
+COMPSCI 9H Python for Programmers 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Self-paced.
+
+Prerequisites: Programming experience equivalent to that gained in Computer Science 10.
+
+Introduction to the constructs provided in the Python programming language, aimed at students who already know how to program. Flow of control; strings, tuples, lists, and dictionaries; CGI programming; file input and output; object-oriented programming; GUI elements. 
+Refer to computer science service course restrictions. Instructor: Garcia
+
+COMPSCI 10 The Beauty and Joy of Computing 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 2 hours of Lecture, 4 hours of Laboratory, and 1 hour of Discussion per week for 15 weeks. 4 hours of Lecture, 8 hours of Laboratory, and 2 hours of Discussion per week for 8 weeks.
+
+An introduction to the beauty and joy of computing. The history, social implications, great principles, and future of computing. Beautiful applications that have changed the world. How computing empowers discovery and progress in other fields. Relevance of computing to the student and society will be emphasized. Students will learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests. 
+Instructors: Garcia, Harvey
+
+COMPSCI W10 The Beauty and Joy of Computing 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 2 hours of web-based lecture, 4 hours of web-based laboratory, and 1 hour of web-based discussion per week. 4 hours of web-based lecture, 8 hours of web-based laboratory, and 2 hours of web-based discussion per week for 8 weeks. This is an online course.
+
+This course meets the programming prerequisite for 61A. An introduction to the beauty and joy of computing. The history, social implications, great principles, and future of computing. Beautiful applications that have changed the world. How computing empowers discovery and progress in other fields. Relevance of computing to the student and society will be emphasized. Students will learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests. 
+Students will receive no credit for W10 after taking 10. A deficient grade in 10 may be removed by taking W10. Instructors: Garcia, Harvey
+
+COMPSCI 39J Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39K Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39M Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39N Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39P Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39Q Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 39R Freshman/Sophomore Seminar 1.5 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 hour of seminar per week per unit.
+
+Prerequisites: Priority given to freshmen and sophomores.
+
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. 
+Course may be repeated for credit when topic changes.
+
+COMPSCI 47A Completion of Work in Computer Science 61A 1 Unit
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: Self-paced.
+
+Prerequisites: 61B or equivalent, 9D, and consent of instructor.
+
+Implementation of generic operations. Streams and iterators. Implementation techniques for supporting functional, object-oriented, and constraint-based programming in the Scheme programming language. Together with 9D, 47A constitutes an abbreviated, self-paced version of 61A for students who have already taken a course equivalent to 61B. 
+Students will receive no credit for 47A after taking 61A. Instructor: Garcia
+
+COMPSCI 47B Completion of Work in Computer Science 61B 1 Unit
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: Self-paced.
+
+Prerequisites: A course in data structures, 9G or equivalent, and consent of instructor.
+
+Iterators. Hashing, applied to strings and multi-dimensional structures. Heaps. Storage management. Design and implementation of a program containing hundreds of lines of code. Students with sufficient partial credit in 61B may, with consent of instructor, complete the credit in this self-paced course. 
+Students will receive no credit for 47B after taking 61B. Instructor: Garcia
+
+COMPSCI 47C Completion of Work in Computer Science 61C 1 Unit
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: Self-paced.
+
+Prerequisites: Experience with assembly language including writing an interrupt handler, 9C or equivalent, and consent of instructor.
+
+MIPS instruction set simulation. The assembly and linking process. Caches and virtual memory. Pipelined computer organization. Students with sufficient partial credit in 61C may, with consent of instructor, complete the credit in this self-paced course. 
+Students will receive no credit for 47C after taking 61C. Instructor: Garcia
+
+COMPSCI 61A The Structure and Interpretation of Computer Programs 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 1.5 hours of laboratory and 1.5 hours of discussion per week. 6 hours of lecture and 3 hours of laboratory and 3 hours of discussion per week for 8 weeks.
+
+Prerequisites: Mathematics 1A (may be taken concurrently); programming experience equivalent to that gained in 3 or the Advanced Placement Computer Science A course.
+
+Introduction to programming and computer science. This course exposes students to techniques of abstraction at several levels: (a) within a programming language, using higher-order functions, manifest types, data-directed programming, and message-passing; (b) between programming languages, using functional and rule-based languages as examples. It also relates these techniques to the practical problems of implementation of languages and algorithms on a von Neumann machine. There are several significant programming projects. 
+Students will receive no credit for 61A after taking 47A. Instructors: Garcia, Hilfinger
+
+COMPSCI 61AS The Structure and Interpretation of Computer Programs (Self-Paced) 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 6 hours of Laboratory per week for 15 weeks. 11 hours of Laboratory per week for 8 weeks. 15 hours of Laboratory per week for 6 weeks.
+
+Prerequisites: Mathematics 1A (may be taken concurrently). Programming experience equivalent to that gained in 10 or the Advanced Placement Computer Science A course is recommended, but is not essential; students without this experience will begin at an earlier point in the online course.
+
+Introductory programming and computer science. Abstraction as means to control program complexity. Programming paradigms: functional, object-oriented, client/server, and declarative (logic). Control abstraction: recursion and higher order functions. Introduction to asymptotic analysis of algorithms. Data abstraction: abstract data types, type-tagged data, first class data types, sequences implemented as lists and as arrays, generic operators implemented with data-directed programming and with message passing. Implementation of object-oriented programming with closures over dispatch procedures. Introduction to interpreters and compilers. There are several significant programming projects. Course may be completed in one or two semesters. Students must complete a mimimum of two units during their first semester of 61AS. 
+Course may be repeated for a maximum of 4 units.Course may be repeated for a maximum of 4 units. Students will receive no credit for Computer Science 61AS after taking 47A, 61A. A deficiency in Computer Science 61A may be removed by taking 61AS. Instructors: Garcia, Harvey, Hilfinger
+
+COMPSCI 61B Data Structures 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture, 1 hour of Discussion, and 2 hours of Laboratory per week for 15 weeks. 6 hours of Lecture, 2 hours of Discussion, and 4 hours of Laboratory per week for 8 weeks.
+
+Prerequisites: 61A or Engineering 7.
+
+Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language. 
+Students will receive no credit for 61B after taking 47B or 61BL. Deficiency in 61BL may be removed by taking 61B. Instructors: Hilfinger, Shewchuk
+
+COMPSCI 61BL Data Structures and Programming Methodology 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 1 hour of Lecture and 6 hours of Laboratory per week for 15 weeks. 2 hours of Lecture and 12 hours of Laboratory per week for 8 weeks.
+
+Prerequisites: 61A or Engineering 7.
+
+The same material as in 61B, but in a laboratory-based format. 
+Students will receive no credit for 61BL after taking 47B or 61B. Deficiency in 61B may be removed by taking 61BL. Instructor: Hilfinger
+
+COMPSCI 61C Machine Structures 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 2 hours of lecture, 1 hour of discussion, and an average of 6 hours of self-scheduled programming laboratory per week.
+
+Prerequisites: 61A, along with either 61B or 61BL, or programming experience equivalent to that gained in 9C, 9F, or 9G.
+
+The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions. 
+Students will receive no credit for 61C after taking 47C or 61CL. Deficiency in 61C may be removed by taking 61CL. Instructors: Garcia, Franklin, Katz, Patterson
+
+COMPSCI 61CL Machine Structures (Lab-Centric) 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 2 hours of lecture, 1 hour of discussion, and an average of 6 hours of self-scheduled programming laboratory per week.
+
+Prerequisites: 61A, along with 61B or 61BL, or programming experience equivalent to that gained in 9C, 9F, or 9G .
+
+The same material as in 61C but in a lab-centric format. 
+Students will receive no credit for 61CL after taking 47C or 61C. Deficiency in 61C may be removed by taking 61CL. Instructors: Garcia, Patterson
+
+COMPSCI 70 Discrete Mathematics and Probability Theory 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture per week, or 3 hours of lecture and 2 hours of discussion per week.
+
+Prerequisites: Sophomore mathematical maturity, and programming experience equivalent to that gained in 3 or the Advanced Placement Computer Science A course.
+
+Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing, existence arguments, Bayesian inference. 
+Students will receive no credit for 70 after taking Mathematics 55. Instructors: Papadimitriou, Rao, Sinclair, Trevisan, Vazirani, Wagner
+
+COMPSCI C79/POL SCI C79/STAT C79 Societal Risks and the Law 3 Units
+
+Department: Computer Science; Political Science; Statistics
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Defining, perceiving, quantifying and measuring risk; identifying risks and estimating their importance; determining whether laws and regulations can protect us from these risks; examining how well existing laws work and how they could be improved; evaluting costs and benefits. Applications may vary by term. This course cannot be used to complete engineering unit or technical elective requirements for students in the College of Engineering. 
+COMPSCI 97 Field Study 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: 1 to 4 hour of Fieldwork per week for 15 weeks. 2 to 7.5 hours of Fieldwork per week for 8 weeks. 2.5 to 10 hours of Fieldwork per week for 6 weeks.
+
+Prerequisites: Consent of instructor (see department adviser).
+
+Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 98 Directed Group Study 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: 1 hour of lecture per week per unit.
+
+Prerequisites: Consent of instructor.
+
+Seminars for group study of selected topics, which will vary from year to year. Intended for students in the lower division. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 99 Individual Study and Research for Undergraduates 1 - 2 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Zero hours of Independent study per week for 15 weeks. 1 to 4 hour of Independent study per week for 8 weeks. 1 to 5 hour of Independent study per week for 6 weeks.
+
+Prerequisites: GPA of 3.4 or better.
+
+A course for lower division students in good standing who wish to undertake a program of individual inquiry initiated jointly by the student and a professor. There are no other formal prerequisites, but the supervising professor must be convinced that the student is able to profit by the program. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI C149/EL ENG C149 Introduction to Embedded Systems 4 Units
+
+Department: Computer Science; Electrical Engineering
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 3 hours of Laboratory per week for 15 weeks.
+
+Prerequisites: 20N; Computer Science 61C; Computer Science 70 or Math 55.
+
+This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. 
+Students will receive no credit for Electrical Engineering C149/Computer Science C149 after<BR/>taking Electrical Engineering C249M/Computer Science C249M. Students may remove a deficient grade in Electrical Engineering C149/Computer Science C149 after taking Electrical Engineering 124.<BR/> Instructors: Lee, Seshia
+
+COMPSCI 150 Components and Design Techniques for Digital Systems 5 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture, 1 hour of Discussion, and 3 hours of Laboratory per week for 15 weeks.
+
+Prerequisites: Computer Science 61C, Electrical Engineering 40.
+
+Basic building blocks and design methods to contruct synchronous digital systems, such as general purpose processors, hardware accelerators, and application specific processors. Representations and design methodologies for digital systems. Logic design using combinatorial and sequential circuits. Digital system implementation considering hardware descriptions languages, computer-aided design tools, field-programmable gate array architectures, and CMOS logic gates and state elements. Interfaces between peripherals, processor hardware, and software. Formal hardware laboratories and substantial design project. 
+Instructors: Katz, Pister, Wawrzynek
+
+COMPSCI 152 Computer Architecture and Engineering 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 2 hours of discussion per week.
+
+Prerequisites: 61C.
+
+Instruction set architecture, microcoding, pipelining (simple and complex). Memory hierarchies and virtual memory. Processor parallelism: VLIW, vectors, multithreading. Multiprocessors. 
+Instructors: Asanovic, Culler, Kubiatowicz, Wawrzynek
+
+COMPSCI 160 User Interface Design and Development 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture, 1 hour of discussion, and 4 hours of self-scheduled programming laboratory per week.
+
+Prerequisites: Computer Science 61B or 61BL.
+
+The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and tools. Students will develop a user interface for a specific task and target user group in teams. 
+Students will receive no credit for Computer Science 160 after taking Computer Science 260A. Instructors: Agrawala, Canny, Hartmann
+
+COMPSCI 161 Computer Security 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 1 hour of discussion per week.
+
+Prerequisites: 61C (Machine Structures), plus either 70 (Discrete Mathematics) or Mathematics 55.
+
+Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems. 
+Instructors: Paxson, Song, Tygar, Wagner
+
+COMPSCI 162 Operating Systems and System Programming 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture, 1 hour of discussion, and 4 hours of programming laboratory per week.
+
+Prerequisites: Computer Science 61B, 61C, and 70.
+
+Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy. 
+Instructors: Joseph, Kubiatowicz
+
+COMPSCI 164 Programming Languages and Compilers 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 61B and 61C.
+
+Survey of programming languages. The design of modern programming languages. Principles and techniques of scanning, parsing, semantic analysis, and code generation. Implementation of compilers, interpreters, and assemblers. Overview of run-time organization and error handling. 
+Instructors: Bodik, Hilfinger, Necula
+
+COMPSCI 169 Software Engineering 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 61B and 61C, and either Computer Science 70 or Mathematics 113.
+
+Ideas and techniques for designing, developing, and modifying large software systems. Function-oriented and object-oriented modular design techniques, designing for re-use and maintainability. Specification and documentation. Verification and validation. Cost and quality metrics and estimation. Project team organization and management. Students will work in teams on a substantial programming project. 
+Instructors: Brewer, Fox, Necula, Sen
+
+COMPSCI 170 Efficient Algorithms and Intractable Problems 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 61B and 70.
+
+Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems. 
+Instructors: Demmel, Papadimitriou, Rao, Wagner, Vazirani
+
+COMPSCI 172 Computability and Complexity 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 170.
+
+Finite automata, Turing machines and RAMs. Undecidable, exponential, and polynomial-time problems. Polynomial-time equivalence of all reasonable models of computation. Nondeterministic Turing machines. Theory of NP-completeness: Cook's theorem, NP-completeness of basic problems. Selected topics in language theory, complexity and randomness. 
+Instructors: Papadimitriou, Seshia, Sinclair, Vazirani
+
+COMPSCI 174 Combinatorics and Discrete Probability 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 170.
+
+Permutations, combinations, principle of inclusion and exclusion, generating functions, Ramsey theory. Expectation and variance, Chebychev's inequality, Chernov bounds. Birthday paradox, coupon collector's problem, Markov chains and entropy computations, universal hashing, random number generation, random graphs and probabilistic existence bounds. 
+Instructors: Bartlett, Papadimitriou, Sinclair, Vazirani
+
+COMPSCI 176 Algorithms for Computational Biology 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 70 and 170. Experience programming in a language such as C, C++, Java, or Python.
+
+Algorithms and probabilistic models that arise in various computational biology applications: suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, genome rearrangements, hidden Markov models, gene finding, motif finding, stochastic context free grammars, RNA secondary structure. There are no biology prerequisites for this course, but a strong quantitative background will be essential. 
+Instructor: Song
+
+COMPSCI 184 Foundations of Computer Graphics 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 61B or 61BL; programming skills in C, C++, or Java; linear algebra and calculus.
+
+Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation, and their matrix representations. Homogeneous coordinates, projective and perspective transformations. Algorithms for clipping, hidden surface removal, rasterization, and anti-aliasing. Scan-line based and ray-based rendering algorithms. Lighting models for reflection, refraction, transparency. 
+Students will receive no credit for Comp Sci 184 after taking Comp Sci 284A. Instructors: O'Brien, Sequin, Barsky, Ramamoorthi, Agrawala
+
+COMPSCI 186 Introduction to Database Systems 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 61B and 61C.
+
+Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction to transaction processing. Database system implementation to be done as term project. 
+Students will receive no credit for Comp Sci 186 after taking Comp Sci 286A. Instructors: Franklin, Hellerstein
+
+COMPSCI 188 Introduction to Artificial Intelligence 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 1 hour of discussion per week.
+
+Prerequisites: Computer Science 61A or 61B and consent of instructor; Computer Science 70.
+
+Basic ideas and techniques underlying the design of intelligent computer systems. Topics include heuristic search, problem solving, game playing, knowledge representation, logical inference, planning, reasoning under uncertainty, expert systems, learning, perception, language understanding. 
+Instructors: Klein, Malik
+
+COMPSCI 189 Introduction to Machine Learning 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Mathematics 53 and 54; Computer Science 70; Computer Science 188 or consent of instructor.
+
+Theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; Bayesian parametric learning; density estimation and clustering; Bayesian networks; time series models; dimensionality reduction; programming projects covering a variety of real-world applications. 
+Students will receive no credit for Comp Sci 189 after taking Comp Sci 289A. Instructors: Abbeel, Bartlett, Darrell, El Ghaoui, Jordan, Klein, Malik, Russell
+
+COMPSCI C191/CHEM C191/PHYSICS C191 Quantum Information Science and Technology 3 Units
+
+Department: Computer Science; Chemistry; Physics
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture/discussion per week.
+
+This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical realizations from nanoscale science and engineering. 
+Instructors: Crommie, Vazirani, Whaley
+
+COMPSCI 194 Special Topics 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 1 to 4s hours of lecture/discussion per week.
+
+Prerequisites: Consent of instructor.
+
+Topics will vary semester to semester. See the Computer Science Division announcements. 
+Course may be repeated for credit as topic varies. Course may be repeated for credit when topic changes.
+
+COMPSCI 195 Social Implications of Computer Technology 1 Unit
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: 3 hours of lecture/discussion per week.
+
+Topics include electronic community; the changing nature of work; technological risks; the information economy; intellectual property; privacy; artificial intelligence and the sense of self; pornography and censorship; professional ethics. Students will lead discussions on additional topics. 
+Students will receive no credit for 195 after taking C195/Interdisciplinary Field Study C155 or H195. Instructor: Harvey
+
+COMPSCI H195 Honors Social Implications of Computer Technology 3 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: 1.5 hours of Lecture and 1.5 hours of Discussion per week for 15 weeks.
+
+Topics include electronic community; the changing nature of work; technological risks; the information economy; intellectual property; privacy; artificial intelligence and the sense of self; pornography and censorship; professional ethics. Students may lead discussions on additional topics. 
+Student will receive no credit for H195 after taking 195 or C195. Instructor: Harvey
+
+COMPSCI H196A Senior Honors Thesis Research 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: Individual research.
+
+Prerequisites: Open only to students in the computer science honors program.
+
+Thesis work under the supervision of a faculty member. To obtain credit the student must, at the end of two semesters, submit a satisfactory thesis to the Electrical Engineering and Computer Science department archive. A total of four units must be taken. The units many be distributed between one or two semesters in any way. H196A-H196B count as graded technical elective units, but may not be used to satisfy the requirement for 27 upper division technical units in the College of Letters and Science with a major in Computer Science. 
+COMPSCI H196B Senior Honors Thesis Research 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: Individual research.
+
+Prerequisites: Open only to students in the computer science honors program.
+
+Thesis work under the supervision of a faculty member. To obtain credit the student must, at the end of two semesters, submit a satisfactory thesis to the Electrical Engineering and Computer Science department archive. A total of four units must be taken. The units many be distributed between one or two semesters in any way. H196A-H196B count as graded technical elective units, but may not be used to satisfy the requirement for 27 upper division technical units in the College of Letters and Science with a major in Computer Science. 
+COMPSCI 197 Field Study 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: 1 to 4 hour of Fieldwork per week for 15 weeks. 2 to 7.5 hours of Fieldwork per week for 8 weeks. 2.5 to 10 hours of Fieldwork per week for 6 weeks.
+
+Prerequisites: Consent of instructor (see department adviser).
+
+Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 198 Directed Group Studies for Advanced Undergraduates 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Course format varies with section.
+
+Prerequisites: 2.0 GPA or better; 60 units completed.
+
+Group study of selected topics in Computer Sciences, usually relating to new developments. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 199 Supervised Independent Study 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Undergraduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for pass/not pass grade only.
+
+Hours and format: Individual conferences.
+
+Prerequisites: Consent of instructor and major adviser.
+
+Supervised independent study. Enrollment restrictions apply. 
+Course may be repeated for credit when topic changes. Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.
+
+COMPSCI C219D/EL ENG C219D Concurrent Models of Computation 3 Units
+
+Department: Computer Science; Electrical Engineering
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Theory and practice of concurrent models of computation (MoCs) with applications to software systems, embedded systems, and cyber-physical systems. Analysis for boundedness, deadlock, and determinacy; formal semantics (fixed point semantics and metric-space models); composition; heterogeneity; and model-based design. MoCs covered may include process networks, threads, message passing, synchronous/reactive, dataflow, rendezvous, time-triggered, discrete events, and continuous time. 
+Course may be repeated for credit with consent of instructor. Course may be repeated for credit when topic changes. Instructor: Lee
+
+COMPSCI C249A/EL ENG C249A Introduction to Embedded Systems 4 Units
+
+Department: Computer Science; Electrical Engineering
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 3 hours of Laboratory per week for 15 weeks.
+
+This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. 
+Students will receive no credit for El Eng/Comp Sci C249A after taking El Eng/Comp Sci C149. Formerly known as Electrical Engineering C249M/Computer Science C249M. Instructors: Lee, Seshia
+
+COMPSCI 250 VLSI Systems Design 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Term course may be offered: Fall
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 4 hours design laboratory per week.
+
+Prerequisites: 150.
+
+Unified top-down and bottom-up design of integrated circuits and systems concentrating on architectural and topological issues. VLSI architectures, systolic arrays, self-timed systems. Trends in VLSI development. Physical limits. Tradeoffs in custom-design, standard cells, gate arrays. VLSI design tools. 
+Instructor: Wawrzynek
+
+COMPSCI 252 Graduate Computer Architecture 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 152.
+
+Graduate survey of contemporary computer organizations covering: early systems, CPU design, instruction sets, control, processors, busses, ALU, memory, I/O interfaces, connection networks, virtual memory, pipelined computers, multiprocessors, and case studies. Term paper or project is required. 
+Instructors: Culler, Kubiatowicz, Patterson
+
+COMPSCI 260A User Interface Design and Development 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 61B, 61BL, or consent of instructor.
+
+The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and tools. Students will develop a user interface for a specific task and target user group in teams. 
+Students will receive no credit for Computer Science 260A after taking Computer Science 160. Instructors: Agrawala, Canny, Hartmann
+
+COMPSCI 260B Human-Computer Interaction Research 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Computer Science 160 recommended, or consent of instructor.
+
+This course is a broad introduction to conducting research in Human-Computer Interaction. Students will become familiar with seminal and recent literature; learn to review and critique research papers; re-implement and evaluate important existing systems; and gain experience in conducting research. Topics include input devices, computer-supported cooperative work, crowdsourcing, design tools, evaluation methods, search and mobile interfaces, usable security, help and tutorial systems. 
+Instructor: Hartmann
+
+COMPSCI 261 Security in Computer Systems 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Term course may be offered: Spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 162.
+
+Graduate survey of modern topics in computer security, including protection, access control, distributed access security, firewalls, secure coding practices, safe languages, mobile code, and case studies from real-world systems. May also cover cryptographic protocols, privacy and anonymity, and/or other topics as time permits. 
+Instructors: D. Song, Wagner
+
+COMPSCI 261N Internet and Network Security 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Electrical Engineering 122 or equivalent; Computer Science 161 or familiarity with basic security concepts.
+
+Develops a thorough grounding in Internet and network security suitable for those interested in conducting research in the area or those more broadly interested in security or networking. Potential topics include denial-of-service; capabilities; network intrusion detection/prevention; worms; forensics; scanning; traffic analysis; legal issues; web attacks; anonymity; wireless and networked devices; honeypots; botnets; scams; underground economy; attacker infrastructure; research pitfalls. 
+Instructor: Paxson
+
+COMPSCI 262A Advanced Topics in Computer Systems 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 162 and entrance exam.
+
+Graduate survey of systems for managing computation and information, covering a breadth of topics: early systems; volatile memory management, including virtual memory and buffer management; persistent memory systems, including both file systems and transactional storage managers; storage metadata, physical vs. logical naming, schemas, process scheduling, threading and concurrency control; system support for networking, including remote procedure calls, transactional RPC, TCP, and active messages; security infrastructure; extensible systems and APIs; performance analysis and engineering of large software systems. Homework assignments, exam, and term paper or project required. 
+Formerly known as 262. Instructors: Brewer, Hellerstein
+
+COMPSCI 262B Advanced Topics in Computer Systems 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 262A.
+
+Continued graduate survey of large-scale systems for managing information and computation. Topics include basic performance measurement; extensibility, with attention to protection, security, and management of abstract data types; index structures, including support for concurrency and recovery; parallelism, including parallel architectures, query processing and scheduling; distributed data management, including distributed and mobile file systems and databases; distributed caching; large-scale data analysis and search. Homework assignments, exam, and term paper or project required. 
+Instructors: Brewer, Culler, Hellerstein, Joseph
+
+COMPSCI 263 Design of Programming Languages 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 164.
+
+Selected topics from: analysis, comparison, and design of programming languages, formal description of syntax and semantics, advanced programming techniques, structured programming, debugging, verification of programs and compilers, and proofs of correctness. 
+Instructor: Necula
+
+COMPSCI 264 Implementation of Programming Languages 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture, 1 hour of discussion, and 6 hours programing laboratory per week.
+
+Prerequisites: 164, 263 recommended.
+
+Compiler construction. Lexical analysis, syntax analysis. Semantic analysis code generation and optimization. Storage management. Run-time organization. 
+Instructor: Bodik
+
+COMPSCI 265 Compiler Optimization and Code Generation 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 164.
+
+Table-driven and retargetable code generators. Register management. Flow analysis and global optimization methods. Code optimization for advanced languages and architectures. Local code improvement. Optimization by program transformation. Selected additional topics. A term paper or project is required. 
+Instructor: Sen
+
+COMPSCI 266 Introduction to System Performance Analysis 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 162 and Statistics 5.
+
+Performance indices. Evaluation techniques. Measurement: instrumentation, design of experiments, interpretation of results. Simulation modeling: simulator design, model calibration, statistical analysis of output data. Introduction to analytic modeling. Workload characterization. Tuning, procurement, and capacity planning application. Program performance evaluation. File and I/O system optimization. CPU Scheduling and architecture performance analysis. 
+Formerly known as 267 and 268.
+
+COMPSCI C267/ENGIN C233 Applications of Parallel Computers 3 Units
+
+Department: Computer Science; Engineering
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Laboratory per week for 15 weeks.
+
+Models for parallel programming. Fundamental algorithms for linear algebra, sorting, FFT, etc. Survey of parallel machines and machine structures. Exiting parallel programming languages, vectorizing compilers, environments, libraries and toolboxes. Data partitioning techniques. Techniques for synchronization and load balancing. Detailed study and algorithm/program development of medium sized applications. 
+Course may be repeated for credit when topic changes. Instructors: Demmel, Yelick
+
+COMPSCI 268 Computer Networks 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 162.
+
+Distributed systems, their notivations, applications, and organization. The network component. Network architectures. Local and long-haul networks, technologies, and topologies. Data link, network, and transport protocols. Point-to-point and broadcast networks. Routing and congestion control. Higher-level protocols. Naming. Internetworking. Examples and case studies. 
+Formerly known as 292V. Instructors: Joseph, Katz, Stoica
+
+COMPSCI 270 Combinatorial Algorithms and Data Structures 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: 170.
+
+Design and analysis of efficient algorithms for combinatorial problems. Network flow theory, matching theory, matroid theory; augmenting-path algorithms; branch-and-bound algorithms; data structure techniques for efficient implementation of combinatorial algorithms; analysis of data structures; applications of data structure techniques to sorting, searching, and geometric problems. 
+Instructors: Papadimitriou, Rao, Sinclair, Vazirani
+
+COMPSCI 271 Randomness and Computation 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 170 and at least one course numbered 270-279.
+
+Computational applications of randomness and computational theories of randomness. Approximate counting and uniform generation of combinatorial objects, rapid convergence of random walks on expander graphs, explicit construction of expander graphs, randomized reductions, Kolmogorov complexity, pseudo-random number generation, semi-random sources. 
+Instructor: Sinclair
+
+COMPSCI 273 Foundations of Parallel Computation 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 170, or consent of instructor.
+
+. Fundamental theoretical issues in designing parallel algorithms and architectures. Shared memory models of parallel computation. Parallel algorithms for linear algegra, sorting, Fourier Transform, recurrence evaluation, and graph problems. Interconnection network based models. Algorithm design techniques for networks like hypercubes, shuffle-exchanges, threes, meshes and butterfly networks. Systolic arrays and techniques for generating them. Message routing. 
+Instructor: Rao
+
+COMPSCI 274 Computational Geometry 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 170 or equivalent.
+
+. Constructive problems in computational geometry: convex hulls, triangulations, Voronoi diagrams, arrangements of hyperplanes; relationships among these problems. Search problems: advanced data structures; subdivision search; various kinds of range searches. Models of computation; lower bounds. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes. Instructor: Shewchuk
+
+COMPSCI 276 Cryptography 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 170.
+
+Graduate survey of modern topics on theory, foundations, and applications of modern cryptography. One-way functions; pseudorandomness; encryption; authentication; public-key cryptosystems; notions of security. May also cover zero-knowledge proofs, multi-party cryptographic protocols, practical applications, and/or other topics, as time permits. 
+Instructors: Trevisan, Wagner
+
+COMPSCI C280/VIS SCI C280 Computer Vision 3 Units
+
+Department: Computer Science; Vision Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Knowledge of linear algebra and calculus. Mathematics 1A-1B, 53, 54 or equivalent.
+
+Paradigms for computational vision. Relation to human visual perception. Mathematical techniques for representing and reasoning, with curves, surfaces and volumes. Illumination and reflectance models. Color perception. Image segmentation and aggregation. Methods for bottom-up three dimensional shape recovery: Line drawing analysis, stereo, shading, motion, texture. Use of object models for prediction and recognition. 
+Instructor: Malik
+
+COMPSCI C281A/STAT C241A Statistical Learning Theory 3 Units
+
+Department: Computer Science; Statistics
+
+Course level: Graduate
+
+Term course may be offered: Fall
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Classification regression, clustering, dimensionality, reduction, and density estimation. Mixture models, hierarchical models, factorial models, hidden Markov, and state space models, Markov properties, and recursive algorithms for general probabilistic inference nonparametric methods including decision trees, kernal methods, neural networks, and wavelets. Ensemble methods. 
+Instructors: Bartlett, Jordan, Wainwright
+
+COMPSCI C281B/STAT C241B Advanced Topics in Learning and Decision Making 3 Units
+
+Department: Computer Science; Statistics
+
+Course level: Graduate
+
+Term course may be offered: Spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Recent topics include: Graphical models and approximate inference algorithms. Markov chain Monte Carlo, mean field and probability propagation methods. Model selection and stochastic realization. Bayesian information theoretic and structural risk minimization approaches. Markov decision processes and partially observable Markov decision processes. Reinforcement learning. 
+Instructors: Bartlett, Jordan, Wainwright
+
+COMPSCI 283B Computer-Aided Geometric Design and Modeling 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Mathematical skill in calculus and linear algebra.
+
+Mathematical techniques for curve and surface representation, including: Hermite interpolation, interpolatory splines, tensed splines, Bezier curves and surfaces, B-splines, Beta-splines, Coons patches, tensor product forms, as well as subdivision end/bounding conditions, and computational considerations. 
+Formerly known as Computer Science 284. Instructors: Barsky, Sequin
+
+COMPSCI 284A Foundations of Computer Graphics 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Computer Science 61B or 61BL; programming skills in C, C++, or Java; linear algebra and calculus; or consent of instructor.
+
+Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation, and their matrix representations. Homogeneous coordinates, projective and perspective transformations. 
+Students will receive no credit for Computer Science 284A after taking 184. Instructors: Agrawala, Barsky, O'Brien, Ramamoorthi, Sequin
+
+COMPSCI 284B Advanced Computer Graphics Algorithms and Techniques 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 184 or equivalent.
+
+This course provides a graduate-level introduction to advanced computer graphics algorithms and techniques. Students should already be familiar with basic concepts such as transformations, scan-conversion, scene graphs, shading, and light transport. Topics covered in this course include global illumination, mesh processing, subdivision surfaces, basic differential geometry, physically based animation, inverse kinematics, imaging and computational photography, and precomputed light transport. 
+Formerly known as Computer Science 283. Instructors: O'Brien, Ramamoorthi
+
+COMPSCI 285 Solid Free-Form Modeling and Fabrication 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: 184.
+
+From shape design to computer-based descriptions suitable for manufacturing or rapid prototyping. Solid modeling techniques and procedural shape generation. Effective data structures and unambiguous part description formats. Algorithms for dealing with Boolean operations and for machine tool path planning. Problems of finite-precision geometry and machining tolerances. Introduction to some rapid prototyping techniques based on Solid Free-Form Fabrication and NC machining. Other advanced topics and recent developments in the field. 
+Instructor: Sequin
+
+COMPSCI 286A Introduction to Database Systems 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture and 1 hour of discussion per week.
+
+Prerequisites: Computer Science 61B and 61C.
+
+Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction to transaction processing. Database system implementation to be done as term project. 
+Students will receive no credit for CS 286A after taking CS 186. Instructors: Franklin, Hellerstein
+
+COMPSCI 286B Implementation of Data Base Systems 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture per week.
+
+Prerequisites: Computer Science 162 and 186 or 286A .
+
+Implementation of data base systems on modern hardware systems. Considerations concerning operating system design, including buffering, page size, prefetching, etc. Query processing algorithms, design of crash recovery and concurrency control systems. Implementation of distributed data bases and data base machines. 
+Instructors: Franklin, Hellerstein
+
+COMPSCI 287 Advanced Robotics 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Electrical Engineering 125.
+
+Advanced topics related to current research in robotics. Planning and control issues for realistic robot systems, taking into account: dynamic constraints, control and sensing uncertainty, and non-holonomic motion constraints. Analysis of friction for assembly and grasping tasks. Sensing systems for hands including tactile and force sensing. Environmental perception from sparse sensors for dextrous hands. Grasp planning and manipulation. 
+Instructor: Abbeel
+
+COMPSCI 288 Artificial Intelligence Approach to Natural Language Processing 3 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture per week plus programming assignment.
+
+Prerequisites: 164.
+
+Representation of conceptual structures, language analysis and production, models of inference and memory, high-level text structures, question answering and conversation, machine translation. 
+Instructor: Klein
+
+COMPSCI 289A Introduction to Machine Learning 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of Lecture and 1 hour of Discussion per week for 15 weeks.
+
+Prerequisites: Mathematics 53, 54; Computer Science 70; Computer Science 188 or consent of instructor.
+
+This course provides an introduction to theoretical foundations, algorithms, and methodologies for machine learning, emphasizing the role of probability and optimization and exploring a variety of real-world applications. Students are expected to have a solid foundation in calculus and linear algebra as well as exposure to the basic tools of logic and probability, and should be familiar with at least one modern, high-level programming language. 
+Students will receive no credit for Comp Sci 289A after taking Comp Sci 189. Instructors: Abbeel, Bartlett, Darrell, El Ghaoui, Jordan, Klein, Malik, Russell
+
+COMPSCI 294 Special Topics 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 1 to 3 hours of lecture per week for standard offering. In some instances, condensed special topics classes running from 2-10 weeks may also be offered usually to accommodate guest instructors. Total works hours will remain the same but more work in a given week will be required.
+
+Topics will vary from semester to semester. See Computer Science Division announcements. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI C294P/MEC ENG C290U Interactive Device Design 3 Units
+
+Department: Computer Science; Mechanical Engineering
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: Letter grade.
+
+Hours and format: 3 hours of lecture per week.
+
+Prerequisites: Instructor consent.
+
+This course teaches concepts and skills required to design, prototype, and fabricate interactive devices -- that is, physical objects that intelligently respond to user input and enable new types of interactions. 
+Course Objectives: To educate students in the hybrid design skills needed for today's electronic products. These combine mechanical devices, electronics, software, sensors, wireless communication and connections to the cloud. Students also learn scale up procedures for volume manufacturing.
+
+Student Learning Outcomes: 3D printed prototypes, learned software, programming and design skills
+
+Instructors: Hartmann, Wright
+
+COMPSCI 297 Field Studies in Computer Science 1 - 12 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: Independent study. Independent study.
+
+Supervised experience in off-campus companies relevant to specific aspects and applications of electrical engineering and/or computer science. Written report required at the end of the semester. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 298 Group Studies Seminars, or Group Research 1 - 4 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall and spring
+
+Grading: The grading option will be decided by the instructor when the class is offered.
+
+Hours and format: 1 to 4 hours per unit.
+
+Advanced study in various subjects through seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 299 Individual Research 1 - 12 Units
+
+Department: Computer Science
+
+Course level: Graduate
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: Independent study. Forty-5 hours of work per unit per term.
+
+Investigations of problems in computer science. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 300 Teaching Practice 1 - 6 Units
+
+Department: Computer Science
+
+Course level: Professional course for teachers or prospective teachers
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: 3 to 20 hours of discussion and consulting per week.
+
+Supervised teaching practice, in either a one-on-one tutorial or classroom discussion setting. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 302 Designing Computer Science Education 3 Units
+
+Department: Computer Science
+
+Course level: Professional course for teachers or prospective teachers
+
+Term course may be offered: Spring
+
+Grading: Letter grade.
+
+Hours and format: 2 hours of Lecture per week for 15 weeks.
+
+Prerequisites: Computer Science 301 and two semesters of GSI experience.
+
+Discussion and review of research and practice relating to the teaching of computer science: knowledge organization and misconceptions, curriculum and topic organization, evaluation, collaborative learning, technology use, and administrative issues. As part of a semester-long project to design a computer science course, participants invent and refine a variety of homework and exam activities, and evaluate alternatives for textbooks, grading and other administrative policies, and innovative uses of technology. 
+Instructor: Garcia
+
+COMPSCI 375 Teaching Techniques for Computer Science 2 Units
+
+Department: Computer Science
+
+Course level: Professional course for teachers or prospective teachers
+
+Terms course may be offered: Fall and spring
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: 3 hours of discussion per week for 10 weeks. 4 hours of discussion per week for 8 weeks.
+
+Prerequisites: Consent of instructor.
+
+Discussion and practice of techniques for effective teaching, focusing on issues most relevant to teaching assistants in computer science courses. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes. Instructors: Barsky, Garcia, Harvey
+
+COMPSCI 399 Professional Preparation: Supervised Teaching of Computer Science 1 or 2 Units
+
+Department: Computer Science
+
+Course level: Professional course for teachers or prospective teachers
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: 1 hour of meeting with instructor plus 10 hours (1 unit) or 20 hours(2 units) of teaching per week. 1 hour of meeting with instructor plus 20 hours (1 unit) or 40 hours (2 units) of teaching per week.
+
+Prerequisites: Appointment as graduate student instructor.
+
+Discussion, problem review and development, guidance of computer science laboratory sections, course development, supervised practice teaching. 
+Course may be repeated for credit. Course may be repeated for credit when topic changes.
+
+COMPSCI 602 Individual Study for Doctoral Students 1 - 8 Units
+
+Department: Computer Science
+
+Course level: Graduate examination preparation
+
+Terms course may be offered: Fall, spring and summer
+
+Grading: Offered for satisfactory/unsatisfactory grade only.
+
+Hours and format: Forty-5 hours of work per unit per term. Independent study, consultation with faculty member.
+
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. (and other doctoral degrees). 
+Course may be repeated for credit. Course may be repeated for credit when topic changes. Course does not satisfy unit or residence requirements for doctoral degree.
