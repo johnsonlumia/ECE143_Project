@@ -75,8 +75,9 @@ Root
 |    Plot_radar_chart.py
 |    Plot_ucsd_cse.py
 |    Plot_ucsd_ece.py
+|    Plot_department.py
 |    merge_industry.py
-|    database.db
+|    Notebook_for_overview.ipynb
 ```
 
 ## Instructions on running the code
