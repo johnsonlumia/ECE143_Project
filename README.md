@@ -1,7 +1,7 @@
 # Engineering Course Analysis (Group 6)
 
 ## Team Members
-- Renjie Zhu (@johnsonlumia)
+- Renjie Zhu (@renjiezhu)
 - Fernando Lopez Garcia (@Fernando-LopezGarcia)
 - Daoyu Li (@Nwoodle)
 - Ambareesh Sreekumaran Nair Jayakumari (@ambareeshsrja16)
